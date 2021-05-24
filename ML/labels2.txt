@@ -1,0 +1,1 @@
+{0: 'Cracked', 1: 'Non Cracked'}
