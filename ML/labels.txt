@@ -1,2 +1,2 @@
-Rusak_Berat
-Rusak_Sedang
+Cracked
+Non Cracked
