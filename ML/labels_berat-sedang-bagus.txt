@@ -1,0 +1,3 @@
+Rumah_Bagus
+Rusak_Berat
+Rusak_Sedang
