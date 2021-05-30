@@ -1,16 +1,16 @@
 import time, json
 import prediction as pred
-import mysql.connector
+#import mysql.connector
 
 from flask import Flask, render_template, request, Response
 from werkzeug.utils import secure_filename
 from werkzeug.datastructures import FileStorage
 from datetime import datetime
 
-timestamp = int(time.time())
+timestamp = int(time.time()) + (3600 * 7)
 
 
-mydb = mysql.connector.connect(host="localhost", user="root", password="", database="bangunan")
+#mydb = mysql.connector.connect(host="localhost", user="root", password="gadfrey56", database="bangunan")
 
 # extract file name to multi segment
 # seg 1 : get original name
@@ -34,15 +34,16 @@ def filter_extention(extname):
 app = Flask(__name__)
 
 # scan building
-@app.route('/scan-building', methods = ['POST'])
+@app.route('/service_scan_building', methods = ['POST'])
 def scan_building():
 	# if request.method == 'POST':
 	postfile = request.files['file']
-	fullname = str(request.form['fullname'])
+	#fullname = str(request.form['fullname'])
 	email = str(request.form['email'])
-	geocordinate = str(request.form['geocordinate'])
-	buildtype = str(request.form['buildtype'])
-	address = str(request.form['address'])
+	#geocordinate = str(request.form['geocordinate'])
+	#buildtype = str(request.form['buildtype'])
+	#address = str(request.form['address'])
+
 	datereport = str(datetime.fromtimestamp(timestamp))
 
 	extention = extract_file_name(postfile.filename)
@@ -52,7 +53,7 @@ def scan_building():
 	if check_ext == True: 
 
 		set_new_name = []
-		set_new_name.append(fullname.lower().replace(' ','-'))
+		set_new_name.append(email.lower().replace(' ','-'))
 		set_new_name.append('-'+str(timestamp))
 		set_new_name.append('.'+extention)
 		set_new_name = ''.join(set_new_name)
@@ -72,24 +73,22 @@ def scan_building():
 		result_set = {
 			'response' : True,
 			'message' : 'Image has been predict',
-			'email' : email,
-			'fullname' : fullname,
+			#'email' : email,
+			#'fullname' : fullname,
 			'urlimage' : 'http://34.101.207.154/'+path,
-			'buildtype' : buildtype,
-			'address' : address,
-			'geocordinate' : address,
+			#'buildtype' : buildtype,
+			#'address' : address,
+			#'geocordinate' : geocordinate,
 			'damagelevel' : damagelevel,
 			'datetime' : datereport,
 			'timestamp' : timestamp,
 		}
 
-		mycursor = mydb.cursor()
-
-		sql = "INSERT INTO data_process (email, urlimage, buildtype, address, geocordinate, damage_lvl, datetime, timestamp) VALUES (%s, %s, %s, %s, %s, %s, %s, %s)"
-		val = (email, path, buildtype, address, geocordinate, damagelevel, datereport, timestamp)
-		mycursor.execute(sql, val)
-
-		mydb.commit()
+		#mycursor = mydb.cursor()
+		#sql = "INSERT INTO data_process (email, urlimage, buildtype, address, geocordinate, damage_lvl, datetime, timestamp) VALUES (%s, %s, %s, %s, %s, %s, %s, %s)"
+		#val = (email, path, buildtype, address, geocordinate, damagelevel, datereport, timestamp)
+		#mycursor.execute(sql, val)
+		#mydb.commit()
 
 		return Response(json.dumps(result_set), mimetype='application/json')
 	else :
@@ -102,15 +101,16 @@ def scan_building():
 
 
 # upload service route path
-@app.route('/scan-road', methods = ['POST'])
+@app.route('/service_scan_road', methods = ['POST'])
 def scan_road():
 	# if request.method == 'POST':
 	postfile = request.files['file']
-	fullname = str(request.form['fullname'])
+	#fullname = str(request.form['fullname'])
 	email = str(request.form['email'])
-	geocordinate = str(request.form['geocordinate'])
-	buildtype = str(request.form['buildtype'])
-	address = str(request.form['address'])
+	#geocordinate = str(request.form['geocordinate'])
+	#buildtype = str(request.form['buildtype'])
+	#address = str(request.form['address'])
+
 	datereport = str(datetime.fromtimestamp(timestamp))
 
 	extention = extract_file_name(postfile.filename)
@@ -120,7 +120,7 @@ def scan_road():
 	if check_ext == True: 
 
 		set_new_name = []
-		set_new_name.append(fullname.lower().replace(' ','-'))
+		set_new_name.append(email.lower().replace(' ','-'))
 		set_new_name.append('-'+str(timestamp))
 		set_new_name.append('.'+extention)
 		set_new_name = ''.join(set_new_name)
@@ -138,24 +138,24 @@ def scan_road():
 		result_set = {
 			'response' : True,
 			'message' : 'Image has been predict',
-			'email' : email,
-			'fullname' : fullname,
+			#'email' : email,
+			#'fullname' : fullname,
 			'urlimage' : 'http://34.101.207.154/'+path,
-			'buildtype' : buildtype,
-			'address' : address,
-			'geocordinate' : address,
+			#'buildtype' : buildtype,
+			#'address' : address,
+			#'geocordinate' : geocordinate,
 			'damagelevel' : damagelevel,
 			'datetime' : datereport,
 			'timestamp' : timestamp,
 		}
 
-		mycursor = mydb.cursor()
+		#mycursor = mydb.cursor()
 
-		sql = "INSERT INTO data_process (email, urlimage, buildtype, address, geocordinate, damage_lvl, datetime, timestamp) VALUES (%s, %s, %s, %s, %s, %s, %s, %s)"
-		val = (email, path, buildtype, address, geocordinate, damagelevel, datereport, timestamp)
-		mycursor.execute(sql, val)
+		#sql = "INSERT INTO data_process (email, urlimage, buildtype, address, geocordinate, damage_lvl, datetime, timestamp) VALUES (%s, %s, %s, %s, %s, %s, %s, %s)"
+		#val = (email, path, buildtype, address, geocordinate, damagelevel, datereport, timestamp)
+		#mycursor.execute(sql, val)
 
-		mydb.commit()
+		#mydb.commit()
 
 		return Response(json.dumps(result_set), mimetype='application/json')
 	else :

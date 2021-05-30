@@ -9,6 +9,9 @@
             $json["response"] = false;
             $json["message"] = "Access Danied";
 
+	echo $this->get(
+");
+
             echo json_encode($json);
         }
     }

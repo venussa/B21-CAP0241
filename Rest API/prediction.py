@@ -15,7 +15,7 @@ import cv2
 
 import matplotlib.image as mpimg
 import matplotlib.pyplot as plt
-import seaborn as sns
+#import seaborn as sns
 
 
 def building_prediction(path):

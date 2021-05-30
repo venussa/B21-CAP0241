@@ -8,7 +8,13 @@
 
 			$keyword = clean_xss_string($this->get("q"));
 
-			$query = $this->db_select("data_process",[
+			$page = (int) $this->get("page");
+                        $limit = (int) $this->get("limit");
+
+                        $page = ($page < 1) ? 1 : $page;
+                        $limit = ($limit < 1) ? 1 : $limit;
+
+			$query = $this->db_select("data_process?page=$page&limit=$limit",[
 				"%email" => $keyword,
 				"%buildtype" => $keyword,
 				"%address" => $keyword,
@@ -16,7 +22,24 @@
 				"%datetime" => $keyword,
 			]);
 
-			echo json_encode($query);
+		        $build["response"] = true;
+                        
+                        if ($query->total_data > 0)
+                        {
+                                foreach ($query as $key => $value)
+                                {
+                                        if (is_numeric($key))
+                                        {
+                                                $build["data"][] = $value;
+                                        }
+                                }
+                        }
+                        else
+                        {
+                                $build["response"] = false;
+                        }
+
+                        echo json_encode($build);
 
 		}
 	}
