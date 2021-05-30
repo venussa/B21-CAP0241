@@ -1,0 +1,617 @@
+[ {
+  "kecamatan" : "Tanah Sepenggal",
+  "kelurahan" : "Tenam",
+  "kodepos" : "37263"
+}, {
+  "kecamatan" : "Tanah Sepenggal",
+  "kelurahan" : "Telentam",
+  "kodepos" : "37263"
+}, {
+  "kecamatan" : "Tanah Sepenggal",
+  "kelurahan" : "Teluk Pandak",
+  "kodepos" : "37263"
+}, {
+  "kecamatan" : "Tanah Sepenggal Lintas",
+  "kelurahan" : "Tebing Tinggi",
+  "kodepos" : "37263"
+}, {
+  "kecamatan" : "Tanah Sepenggal",
+  "kelurahan" : "Tanjung",
+  "kodepos" : "37263"
+}, {
+  "kecamatan" : "Tanah Sepenggal Lintas",
+  "kelurahan" : "Tanah Periuk",
+  "kodepos" : "37263"
+}, {
+  "kecamatan" : "Tanah Sepenggal Lintas",
+  "kelurahan" : "Sungai Tembang",
+  "kodepos" : "37263"
+}, {
+  "kecamatan" : "Tanah Sepenggal",
+  "kelurahan" : "Tanah Bekali",
+  "kodepos" : "37263"
+}, {
+  "kecamatan" : "Tanah Sepenggal Lintas",
+  "kelurahan" : "Sungai Puri",
+  "kodepos" : "37263"
+}, {
+  "kecamatan" : "Tanah Sepenggal Lintas",
+  "kelurahan" : "Sungai Puri",
+  "kodepos" : "37263"
+}, {
+  "kecamatan" : "Tanah Sepenggal Lintas",
+  "kelurahan" : "Sungai Lilin",
+  "kodepos" : "37263"
+}, {
+  "kecamatan" : "Tanah Sepenggal",
+  "kelurahan" : "Sungai Gambir",
+  "kodepos" : "37263"
+}, {
+  "kecamatan" : "Tanah Sepenggal Lintas",
+  "kelurahan" : "Rantau Embacang",
+  "kodepos" : "37263"
+}, {
+  "kecamatan" : "Tanah Sepenggal Lintas",
+  "kelurahan" : "Rantau Makmur",
+  "kodepos" : "37263"
+}, {
+  "kecamatan" : "Tanah Sepenggal Lintas",
+  "kelurahan" : "Pematang Panjang",
+  "kodepos" : "37263"
+}, {
+  "kecamatan" : "Tanah Sepenggal",
+  "kelurahan" : "Pasar Lubuk Landai",
+  "kodepos" : "37263"
+}, {
+  "kecamatan" : "Tanah Sepenggal",
+  "kelurahan" : "Pasar Rantau Embacang",
+  "kodepos" : "37263"
+}, {
+  "kecamatan" : "Tanah Sepenggal Lintas",
+  "kelurahan" : "Paku Aji",
+  "kodepos" : "37263"
+}, {
+  "kecamatan" : "Tanah Sepenggal Lintas",
+  "kelurahan" : "Lubuk Landai",
+  "kodepos" : "37263"
+}, {
+  "kecamatan" : "Tanah Sepenggal Lintas",
+  "kelurahan" : "Embacang Gedang",
+  "kodepos" : "37263"
+}, {
+  "kecamatan" : "Tanah Sepenggal",
+  "kelurahan" : "Empelu",
+  "kodepos" : "37263"
+}, {
+  "kecamatan" : "Tanah Sepenggal",
+  "kelurahan" : "Candi",
+  "kodepos" : "37263"
+}, {
+  "kecamatan" : "Pelepat",
+  "kelurahan" : "Sungai Beringin",
+  "kodepos" : "37262"
+}, {
+  "kecamatan" : "Pelepat",
+  "kelurahan" : "Sungai Gurun",
+  "kodepos" : "37262"
+}, {
+  "kecamatan" : "Pelepat",
+  "kelurahan" : "Sekampil",
+  "kodepos" : "37262"
+}, {
+  "kecamatan" : "Pelepat",
+  "kelurahan" : "Senamat",
+  "kodepos" : "37262"
+}, {
+  "kecamatan" : "Pelepat",
+  "kelurahan" : "Rantel",
+  "kodepos" : "37262"
+}, {
+  "kecamatan" : "Pelepat",
+  "kelurahan" : "Mulya Jaya",
+  "kodepos" : "37262"
+}, {
+  "kecamatan" : "Pelepat",
+  "kelurahan" : "Rantau Keloyang",
+  "kodepos" : "37262"
+}, {
+  "kecamatan" : "Pelepat",
+  "kelurahan" : "Mulya Bakti",
+  "kodepos" : "37262"
+}, {
+  "kecamatan" : "Pelepat",
+  "kelurahan" : "Gapura Suci",
+  "kodepos" : "37262"
+}, {
+  "kecamatan" : "Pelepat",
+  "kelurahan" : "Cilodang",
+  "kodepos" : "37262"
+}, {
+  "kecamatan" : "Pelepat",
+  "kelurahan" : "Dwi Karya Bakti",
+  "kodepos" : "37262"
+}, {
+  "kecamatan" : "Pelepat",
+  "kelurahan" : "Baru Pelepat",
+  "kodepos" : "37262"
+}, {
+  "kecamatan" : "Pelepat",
+  "kelurahan" : "Batu Kerbau",
+  "kodepos" : "37262"
+}, {
+  "kecamatan" : "Pelepat",
+  "kelurahan" : "Bukit Telago",
+  "kodepos" : "37262"
+}, {
+  "kecamatan" : "Bathin III Ulu",
+  "kelurahan" : "Timbolasi",
+  "kodepos" : "37261"
+}, {
+  "kecamatan" : "Pelepat",
+  "kelurahan" : "Balai Jaya",
+  "kodepos" : "37262"
+}, {
+  "kecamatan" : "Rantau Pandan",
+  "kelurahan" : "Talang Sungai Bungo",
+  "kodepos" : "37261"
+}, {
+  "kecamatan" : "Bathin III Ulu",
+  "kelurahan" : "Senamat Ulu",
+  "kodepos" : "37261"
+}, {
+  "kecamatan" : "Bathin III Ulu",
+  "kelurahan" : "Sungai Telang",
+  "kodepos" : "37261"
+}, {
+  "kecamatan" : "Rantau Pandan",
+  "kelurahan" : "Rantau Duku",
+  "kodepos" : "37261"
+}, {
+  "kecamatan" : "Rantau Pandan",
+  "kelurahan" : "Rantau Pandan",
+  "kodepos" : "37261"
+}, {
+  "kecamatan" : "Rantau Pandan",
+  "kelurahan" : "Lubuk Mayan",
+  "kodepos" : "37261"
+}, {
+  "kecamatan" : "Bathin III Ulu",
+  "kelurahan" : "Muara Buat",
+  "kodepos" : "37261"
+}, {
+  "kecamatan" : "Rantau Pandan",
+  "kelurahan" : "Leban",
+  "kodepos" : "37261"
+}, {
+  "kecamatan" : "Rantau Pandan",
+  "kelurahan" : "Lubuk Kayu Aro",
+  "kodepos" : "37261"
+}, {
+  "kecamatan" : "Bathin III Ulu",
+  "kelurahan" : "Lubuk Beringin",
+  "kodepos" : "37261"
+}, {
+  "kecamatan" : "Bathin III Ulu",
+  "kelurahan" : "Laman Panjang",
+  "kodepos" : "37261"
+}, {
+  "kecamatan" : "Bathin III Ulu",
+  "kelurahan" : "Buat",
+  "kodepos" : "37261"
+}, {
+  "kecamatan" : "Bathin III Ulu",
+  "kelurahan" : "Karak Apung",
+  "kodepos" : "37261"
+}, {
+  "kecamatan" : "Bathin III Ulu",
+  "kelurahan" : "Aur Cino",
+  "kodepos" : "37261"
+}, {
+  "kecamatan" : "Jujuhan",
+  "kelurahan" : "Ujung Tanjung",
+  "kodepos" : "37257"
+}, {
+  "kecamatan" : "Jujuhan Ilir",
+  "kelurahan" : "Tepian Danto",
+  "kodepos" : "37257"
+}, {
+  "kecamatan" : "Jujuhan",
+  "kelurahan" : "Talang Pemesun (Pamesun)",
+  "kodepos" : "37257"
+}, {
+  "kecamatan" : "Jujuhan",
+  "kelurahan" : "Tanjung Belit",
+  "kodepos" : "37257"
+}, {
+  "kecamatan" : "Jujuhan",
+  "kelurahan" : "Sirih Sekapur Perkembangan",
+  "kodepos" : "37257"
+}, {
+  "kecamatan" : "Jujuhan",
+  "kelurahan" : "Sirih Sekapur",
+  "kodepos" : "37257"
+}, {
+  "kecamatan" : "Jujuhan Ilir",
+  "kelurahan" : "Sari Mulya",
+  "kodepos" : "37257"
+}, {
+  "kecamatan" : "Jujuhan",
+  "kelurahan" : "Pulau Jelmu",
+  "kodepos" : "37257"
+}, {
+  "kecamatan" : "Jujuhan",
+  "kelurahan" : "Rantau Ikil",
+  "kodepos" : "37257"
+}, {
+  "kecamatan" : "Jujuhan",
+  "kelurahan" : "Rantau Panjang",
+  "kodepos" : "37257"
+}, {
+  "kecamatan" : "Jujuhan Ilir",
+  "kelurahan" : "Pulau Batu",
+  "kodepos" : "37257"
+}, {
+  "kecamatan" : "Jujuhan Ilir",
+  "kelurahan" : "Lubuk Tenam",
+  "kodepos" : "37257"
+}, {
+  "kecamatan" : "Jujuhan",
+  "kelurahan" : "Jumbak",
+  "kodepos" : "37257"
+}, {
+  "kecamatan" : "Jujuhan Ilir",
+  "kelurahan" : "Kuamang",
+  "kodepos" : "37257"
+}, {
+  "kecamatan" : "Jujuhan",
+  "kelurahan" : "Baru Balai Panjang",
+  "kodepos" : "37257"
+}, {
+  "kecamatan" : "Jujuhan Ilir",
+  "kelurahan" : "Bukit Sari",
+  "kodepos" : "37257"
+}, {
+  "kecamatan" : "Jujuhan Ilir",
+  "kelurahan" : "Aur Gading",
+  "kodepos" : "37257"
+}, {
+  "kecamatan" : "Tanah Tumbuh",
+  "kelurahan" : "Teluk Kecimbung",
+  "kodepos" : "37255"
+}, {
+  "kecamatan" : "Tanah Tumbuh",
+  "kelurahan" : "Tebing Tinggi Uleh",
+  "kodepos" : "37255"
+}, {
+  "kecamatan" : "Tanah Tumbuh",
+  "kelurahan" : "Tanah Tumbuh",
+  "kodepos" : "37255"
+}, {
+  "kecamatan" : "Bathin II Pelayang",
+  "kelurahan" : "Seberang Jaya",
+  "kodepos" : "37255"
+}, {
+  "kecamatan" : "Bathin II Pelayang",
+  "kelurahan" : "Talang Silungko",
+  "kodepos" : "37255"
+}, {
+  "kecamatan" : "Tanah Tumbuh",
+  "kelurahan" : "Rambah",
+  "kodepos" : "37255"
+}, {
+  "kecamatan" : "Tanah Tumbuh",
+  "kelurahan" : "Renah Jelmu",
+  "kodepos" : "37255"
+}, {
+  "kecamatan" : "Bathin II Pelayang",
+  "kelurahan" : "Pulau Kerakap",
+  "kodepos" : "37255"
+}, {
+  "kecamatan" : "Tanah Tumbuh",
+  "kelurahan" : "Perenti Lueh/Luweh",
+  "kodepos" : "37255"
+}, {
+  "kecamatan" : "Bathin II Pelayang",
+  "kelurahan" : "Pelayang",
+  "kodepos" : "37255"
+}, {
+  "kecamatan" : "Bathin II Pelayang",
+  "kelurahan" : "Peninjau",
+  "kodepos" : "37255"
+}, {
+  "kecamatan" : "Tanah Tumbuh",
+  "kelurahan" : "Pedukun",
+  "kodepos" : "37255"
+}, {
+  "kecamatan" : "Tanah Tumbuh",
+  "kelurahan" : "Lubuk Niur",
+  "kodepos" : "37255"
+}, {
+  "kecamatan" : "Tanah Tumbuh",
+  "kelurahan" : "Panjang",
+  "kodepos" : "37255"
+}, {
+  "kecamatan" : "Tanah Tumbuh",
+  "kelurahan" : "Bukit Kemang Baru",
+  "kodepos" : "37255"
+}, {
+  "kecamatan" : "Tanah Tumbuh",
+  "kelurahan" : "Koto Jayo",
+  "kodepos" : "37255"
+}, {
+  "kecamatan" : "Pelepat Ilir",
+  "kelurahan" : "Sumber Mulya",
+  "kodepos" : "37252"
+}, {
+  "kecamatan" : "Pelepat Ilir",
+  "kelurahan" : "Tirta Mulya",
+  "kodepos" : "37252"
+}, {
+  "kecamatan" : "Pelepat Ilir",
+  "kelurahan" : "Purwasari",
+  "kodepos" : "37252"
+}, {
+  "kecamatan" : "Pelepat Ilir",
+  "kelurahan" : "Sumber Harapan",
+  "kodepos" : "37252"
+}, {
+  "kecamatan" : "Pelepat Ilir",
+  "kelurahan" : "Padang Palangeh",
+  "kodepos" : "37252"
+}, {
+  "kecamatan" : "Pelepat Ilir",
+  "kelurahan" : "Muara Kuamang",
+  "kodepos" : "37252"
+}, {
+  "kecamatan" : "Pelepat Ilir",
+  "kelurahan" : "Lubuk",
+  "kodepos" : "37252"
+}, {
+  "kecamatan" : "Pelepat Ilir",
+  "kelurahan" : "Maju Jaya",
+  "kodepos" : "37252"
+}, {
+  "kecamatan" : "Pelepat Ilir",
+  "kelurahan" : "Lingga Kuamang",
+  "kodepos" : "37252"
+}, {
+  "kecamatan" : "Pelepat Ilir",
+  "kelurahan" : "Lembah Kuamang",
+  "kodepos" : "37252"
+}, {
+  "kecamatan" : "Pelepat Ilir",
+  "kelurahan" : "Kuamang Jaya",
+  "kodepos" : "37252"
+}, {
+  "kecamatan" : "Pelepat Ilir",
+  "kelurahan" : "Kuning Gading",
+  "kodepos" : "37252"
+}, {
+  "kecamatan" : "Pelepat Ilir",
+  "kelurahan" : "Karya Harapan Mukti",
+  "kodepos" : "37252"
+}, {
+  "kecamatan" : "Pelepat Ilir",
+  "kelurahan" : "Koto Jayo",
+  "kodepos" : "37252"
+}, {
+  "kecamatan" : "Pelepat Ilir",
+  "kelurahan" : "Danau",
+  "kodepos" : "37252"
+}, {
+  "kecamatan" : "Pelepat Ilir",
+  "kelurahan" : "Daya Murni",
+  "kodepos" : "37252"
+}, {
+  "kecamatan" : "Muko-Muko Batin VII",
+  "kelurahan" : "Tebing Tinggi",
+  "kodepos" : "37216"
+}, {
+  "kecamatan" : "Pelepat Ilir",
+  "kelurahan" : "Bangun Harjo/Harja",
+  "kodepos" : "37252"
+}, {
+  "kecamatan" : "Muko-Muko Batin VII",
+  "kelurahan" : "Tebat",
+  "kodepos" : "37216"
+}, {
+  "kecamatan" : "Muko-Muko Batin VII",
+  "kelurahan" : "Pekan Jum&#8217;at",
+  "kodepos" : "37216"
+}, {
+  "kecamatan" : "Muko-Muko Batin VII",
+  "kelurahan" : "Suka Jaya",
+  "kodepos" : "37216"
+}, {
+  "kecamatan" : "Muko-Muko Batin VII",
+  "kelurahan" : "Tanjung Agung",
+  "kodepos" : "37216"
+}, {
+  "kecamatan" : "Muko-Muko Batin VII",
+  "kelurahan" : "Mangun Jayo",
+  "kodepos" : "37216"
+}, {
+  "kecamatan" : "Muko-Muko Batin VII",
+  "kelurahan" : "Datar",
+  "kodepos" : "37216"
+}, {
+  "kecamatan" : "Muko-Muko Batin VII",
+  "kelurahan" : "Bedaro",
+  "kodepos" : "37216"
+}, {
+  "kecamatan" : "Muko-Muko Batin VII",
+  "kelurahan" : "Baru Pusat Jalo",
+  "kodepos" : "37216"
+}, {
+  "kecamatan" : "Bathin II Babeko",
+  "kelurahan" : "Tuo Sepunggur",
+  "kodepos" : "37211"
+}, {
+  "kecamatan" : "Limbur Lubuk Mengkuang",
+  "kelurahan" : "Tuo Lubuk Mengkuang",
+  "kodepos" : "37211"
+}, {
+  "kecamatan" : "Bathin III",
+  "kelurahan" : "Teluk Panjang",
+  "kodepos" : "37211"
+}, {
+  "kecamatan" : "Limbur Lubuk Mengkuang",
+  "kelurahan" : "Tebo Jaya",
+  "kodepos" : "37211"
+}, {
+  "kecamatan" : "Limbur Lubuk Mengkuang",
+  "kelurahan" : "Tuo Limbur",
+  "kodepos" : "37211"
+}, {
+  "kecamatan" : "Bathin II Babeko",
+  "kelurahan" : "Tanjung Menanti",
+  "kodepos" : "37211"
+}, {
+  "kecamatan" : "Pasar Muara Bungo",
+  "kelurahan" : "Tanjung Gedang",
+  "kodepos" : "37211"
+}, {
+  "kecamatan" : "Limbur Lubuk Mengkuang",
+  "kelurahan" : "Tanjung Bungo",
+  "kodepos" : "37211"
+}, {
+  "kecamatan" : "Rimbo Tengah",
+  "kelurahan" : "Sungai Mengkuang",
+  "kodepos" : "37211"
+}, {
+  "kecamatan" : "Bungo Dani",
+  "kelurahan" : "Sungai Pinang",
+  "kodepos" : "37211"
+}, {
+  "kecamatan" : "Bungo Dani",
+  "kelurahan" : "Talang Pantai",
+  "kodepos" : "37211"
+}, {
+  "kecamatan" : "Bungo Dani",
+  "kelurahan" : "Sungai Kerjan",
+  "kodepos" : "37211"
+}, {
+  "kecamatan" : "Rimbo Tengah",
+  "kelurahan" : "Sungai Buluh",
+  "kodepos" : "37211"
+}, {
+  "kecamatan" : "Bathin III",
+  "kelurahan" : "Sungai Binjai",
+  "kodepos" : "37211"
+}, {
+  "kecamatan" : "Bungo Dani",
+  "kelurahan" : "Sungai Arang",
+  "kodepos" : "37211"
+}, {
+  "kecamatan" : "Bathin II Babeko",
+  "kelurahan" : "Suka Makmur",
+  "kodepos" : "37211"
+}, {
+  "kecamatan" : "Bathin II Babeko",
+  "kelurahan" : "Sepunggur",
+  "kodepos" : "37211"
+}, {
+  "kecamatan" : "Bathin II Babeko",
+  "kelurahan" : "Simpang Babeko",
+  "kodepos" : "37211"
+}, {
+  "kecamatan" : "Bathin III",
+  "kelurahan" : "Sarana Jaya",
+  "kodepos" : "37211"
+}, {
+  "kecamatan" : "Limbur Lubuk Mengkuang",
+  "kelurahan" : "Renah Sungai Ipuh",
+  "kodepos" : "37211"
+}, {
+  "kecamatan" : "Limbur Lubuk Mengkuang",
+  "kelurahan" : "Sekar Mengkuang",
+  "kodepos" : "37211"
+}, {
+  "kecamatan" : "Limbur Lubuk Mengkuang",
+  "kelurahan" : "Renah Sungai Besar",
+  "kodepos" : "37211"
+}, {
+  "kecamatan" : "Bungo Dani",
+  "kelurahan" : "Pulau Pekan",
+  "kodepos" : "37211"
+}, {
+  "kecamatan" : "Bathin III",
+  "kelurahan" : "Purwo Bakti",
+  "kodepos" : "37211"
+}, {
+  "kecamatan" : "Limbur Lubuk Mengkuang",
+  "kelurahan" : "Rantau Tipu",
+  "kodepos" : "37211"
+}, {
+  "kecamatan" : "Limbur Lubuk Mengkuang",
+  "kelurahan" : "Pemunyian",
+  "kodepos" : "37211"
+}, {
+  "kecamatan" : "Limbur Lubuk Mengkuang",
+  "kelurahan" : "Pauh Agung",
+  "kodepos" : "37211"
+}, {
+  "kecamatan" : "Limbur Lubuk Mengkuang",
+  "kelurahan" : "Muara/Muaro Tebo Pandak",
+  "kodepos" : "37211"
+}, {
+  "kecamatan" : "Rimbo Tengah",
+  "kelurahan" : "Pasir Putih",
+  "kodepos" : "37211"
+}, {
+  "kecamatan" : "Limbur Lubuk Mengkuang",
+  "kelurahan" : "Lubuk Tanah Terban",
+  "kodepos" : "37211"
+}, {
+  "kecamatan" : "Bathin III",
+  "kelurahan" : "Manggis",
+  "kodepos" : "37211"
+}, {
+  "kecamatan" : "Limbur Lubuk Mengkuang",
+  "kelurahan" : "Limbur Baru",
+  "kodepos" : "37211"
+}, {
+  "kecamatan" : "Bathin III",
+  "kelurahan" : "Lubuk Benteng",
+  "kodepos" : "37211"
+}, {
+  "kecamatan" : "Pasar Muara Bungo",
+  "kelurahan" : "Jaya Setia",
+  "kodepos" : "37211"
+}, {
+  "kecamatan" : "Rimbo Tengah",
+  "kelurahan" : "Candika",
+  "kodepos" : "37211"
+}, {
+  "kecamatan" : "Pasar Muara Bungo",
+  "kelurahan" : "Bungo Timur",
+  "kodepos" : "37211"
+}, {
+  "kecamatan" : "Bathin III",
+  "kelurahan" : "Bungo Taman Agung",
+  "kodepos" : "37211"
+}, {
+  "kecamatan" : "Pasar Muara Bungo",
+  "kelurahan" : "Batang Bungo",
+  "kodepos" : "37211"
+}, {
+  "kecamatan" : "Pasar Muara Bungo",
+  "kelurahan" : "Bungo Barat",
+  "kodepos" : "37211"
+}, {
+  "kecamatan" : "Pasar Muara Bungo",
+  "kelurahan" : "Baru Teluk Panjang",
+  "kodepos" : "37211"
+}, {
+  "kecamatan" : "Limbur Lubuk Mengkuang",
+  "kelurahan" : "Baru Lubuk Mengkuang",
+  "kodepos" : "37211"
+}, {
+  "kecamatan" : "Bathin II Babeko",
+  "kelurahan" : "Babeko",
+  "kodepos" : "37211"
+}, {
+  "kecamatan" : "Bathin II Babeko",
+  "kelurahan" : "Babeko",
+  "kodepos" : "37211"
+} ]

@@ -1,0 +1,669 @@
+[ {
+  "kecamatan" : "Nguter",
+  "kelurahan" : "Serut",
+  "kodepos" : "57571"
+}, {
+  "kecamatan" : "Nguter",
+  "kelurahan" : "Tanjung",
+  "kodepos" : "57571"
+}, {
+  "kecamatan" : "Nguter",
+  "kelurahan" : "Tanjungrejo",
+  "kodepos" : "57571"
+}, {
+  "kecamatan" : "Nguter",
+  "kelurahan" : "Pondok",
+  "kodepos" : "57571"
+}, {
+  "kecamatan" : "Nguter",
+  "kelurahan" : "Pengkol",
+  "kodepos" : "57571"
+}, {
+  "kecamatan" : "Nguter",
+  "kelurahan" : "Plesan",
+  "kodepos" : "57571"
+}, {
+  "kecamatan" : "Nguter",
+  "kelurahan" : "Lawu",
+  "kodepos" : "57571"
+}, {
+  "kecamatan" : "Nguter",
+  "kelurahan" : "Nguter",
+  "kodepos" : "57571"
+}, {
+  "kecamatan" : "Nguter",
+  "kelurahan" : "Kepuh",
+  "kodepos" : "57571"
+}, {
+  "kecamatan" : "Nguter",
+  "kelurahan" : "Juron",
+  "kodepos" : "57571"
+}, {
+  "kecamatan" : "Nguter",
+  "kelurahan" : "Kedungwinong",
+  "kodepos" : "57571"
+}, {
+  "kecamatan" : "Nguter",
+  "kelurahan" : "Daleman",
+  "kodepos" : "57571"
+}, {
+  "kecamatan" : "Nguter",
+  "kelurahan" : "Gupit",
+  "kodepos" : "57571"
+}, {
+  "kecamatan" : "Nguter",
+  "kelurahan" : "Jangglengan",
+  "kodepos" : "57571"
+}, {
+  "kecamatan" : "Nguter",
+  "kelurahan" : "Baran",
+  "kodepos" : "57571"
+}, {
+  "kecamatan" : "Nguter",
+  "kelurahan" : "Celep",
+  "kodepos" : "57571"
+}, {
+  "kecamatan" : "Bulu",
+  "kelurahan" : "Sanggang",
+  "kodepos" : "57563"
+}, {
+  "kecamatan" : "Bulu",
+  "kelurahan" : "Tiyaran",
+  "kodepos" : "57563"
+}, {
+  "kecamatan" : "Bulu",
+  "kelurahan" : "Ngasinan",
+  "kodepos" : "57563"
+}, {
+  "kecamatan" : "Bulu",
+  "kelurahan" : "Puron",
+  "kodepos" : "57563"
+}, {
+  "kecamatan" : "Bulu",
+  "kelurahan" : "Lengking",
+  "kodepos" : "57563"
+}, {
+  "kecamatan" : "Bulu",
+  "kelurahan" : "Malangan",
+  "kodepos" : "57563"
+}, {
+  "kecamatan" : "Bulu",
+  "kelurahan" : "Kedungsono",
+  "kodepos" : "57563"
+}, {
+  "kecamatan" : "Bulu",
+  "kelurahan" : "Kunden",
+  "kodepos" : "57563"
+}, {
+  "kecamatan" : "Bulu",
+  "kelurahan" : "Karangasem",
+  "kodepos" : "57563"
+}, {
+  "kecamatan" : "Bulu",
+  "kelurahan" : "Gentan",
+  "kodepos" : "57563"
+}, {
+  "kecamatan" : "Bulu",
+  "kelurahan" : "Kamal",
+  "kodepos" : "57563"
+}, {
+  "kecamatan" : "Bulu",
+  "kelurahan" : "Bulu",
+  "kodepos" : "57563"
+}, {
+  "kecamatan" : "Weru",
+  "kelurahan" : "Tegalsari",
+  "kodepos" : "57562"
+}, {
+  "kecamatan" : "Weru",
+  "kelurahan" : "Weru",
+  "kodepos" : "57562"
+}, {
+  "kecamatan" : "Weru",
+  "kelurahan" : "Ngreco",
+  "kodepos" : "57562"
+}, {
+  "kecamatan" : "Weru",
+  "kelurahan" : "Tawang",
+  "kodepos" : "57562"
+}, {
+  "kecamatan" : "Weru",
+  "kelurahan" : "Karangtengah",
+  "kodepos" : "57562"
+}, {
+  "kecamatan" : "Weru",
+  "kelurahan" : "Karangwuni",
+  "kodepos" : "57562"
+}, {
+  "kecamatan" : "Weru",
+  "kelurahan" : "Krajan",
+  "kodepos" : "57562"
+}, {
+  "kecamatan" : "Weru",
+  "kelurahan" : "Karanganyar",
+  "kodepos" : "57562"
+}, {
+  "kecamatan" : "Weru",
+  "kelurahan" : "Karangmojo",
+  "kodepos" : "57562"
+}, {
+  "kecamatan" : "Weru",
+  "kelurahan" : "Jatingarang",
+  "kodepos" : "57562"
+}, {
+  "kecamatan" : "Weru",
+  "kelurahan" : "Karakan",
+  "kodepos" : "57562"
+}, {
+  "kecamatan" : "Weru",
+  "kelurahan" : "Alasombo",
+  "kodepos" : "57562"
+}, {
+  "kecamatan" : "Weru",
+  "kelurahan" : "Grogol",
+  "kodepos" : "57562"
+}, {
+  "kecamatan" : "Tawangsari",
+  "kelurahan" : "Tangkisan",
+  "kodepos" : "57561"
+}, {
+  "kecamatan" : "Tawangsari",
+  "kelurahan" : "Watubonang",
+  "kodepos" : "57561"
+}, {
+  "kecamatan" : "Tawangsari",
+  "kelurahan" : "Ponowaren",
+  "kodepos" : "57561"
+}, {
+  "kecamatan" : "Tawangsari",
+  "kelurahan" : "Pundungrejo",
+  "kodepos" : "57561"
+}, {
+  "kecamatan" : "Tawangsari",
+  "kelurahan" : "Tambakboyo",
+  "kodepos" : "57561"
+}, {
+  "kecamatan" : "Tawangsari",
+  "kelurahan" : "Majasto",
+  "kodepos" : "57561"
+}, {
+  "kecamatan" : "Tawangsari",
+  "kelurahan" : "Pojok",
+  "kodepos" : "57561"
+}, {
+  "kecamatan" : "Tawangsari",
+  "kelurahan" : "Lorog",
+  "kodepos" : "57561"
+}, {
+  "kecamatan" : "Tawangsari",
+  "kelurahan" : "Grajegan",
+  "kodepos" : "57561"
+}, {
+  "kecamatan" : "Tawangsari",
+  "kelurahan" : "Kedungjambal",
+  "kodepos" : "57561"
+}, {
+  "kecamatan" : "Tawangsari",
+  "kelurahan" : "Keteguhan",
+  "kodepos" : "57561"
+}, {
+  "kecamatan" : "Gatak",
+  "kelurahan" : "Wironanggan",
+  "kodepos" : "57557"
+}, {
+  "kecamatan" : "Tawangsari",
+  "kelurahan" : "Dalangan",
+  "kodepos" : "57561"
+}, {
+  "kecamatan" : "Gatak",
+  "kelurahan" : "Trangsan",
+  "kodepos" : "57557"
+}, {
+  "kecamatan" : "Gatak",
+  "kelurahan" : "Trosemi",
+  "kodepos" : "57557"
+}, {
+  "kecamatan" : "Gatak",
+  "kelurahan" : "Tempel",
+  "kodepos" : "57557"
+}, {
+  "kecamatan" : "Gatak",
+  "kelurahan" : "Sraten",
+  "kodepos" : "57557"
+}, {
+  "kecamatan" : "Gatak",
+  "kelurahan" : "Mayang",
+  "kodepos" : "57557"
+}, {
+  "kecamatan" : "Gatak",
+  "kelurahan" : "Sanggung",
+  "kodepos" : "57557"
+}, {
+  "kecamatan" : "Gatak",
+  "kelurahan" : "Krajan",
+  "kodepos" : "57557"
+}, {
+  "kecamatan" : "Gatak",
+  "kelurahan" : "Luwang",
+  "kodepos" : "57557"
+}, {
+  "kecamatan" : "Gatak",
+  "kelurahan" : "Jati",
+  "kodepos" : "57557"
+}, {
+  "kecamatan" : "Gatak",
+  "kelurahan" : "Kagokan",
+  "kodepos" : "57557"
+}, {
+  "kecamatan" : "Gatak",
+  "kelurahan" : "Klaseman",
+  "kodepos" : "57557"
+}, {
+  "kecamatan" : "Gatak",
+  "kelurahan" : "Blimbing",
+  "kodepos" : "57557"
+}, {
+  "kecamatan" : "Gatak",
+  "kelurahan" : "Geneng",
+  "kodepos" : "57557"
+}, {
+  "kecamatan" : "Baki",
+  "kelurahan" : "Siwal",
+  "kodepos" : "57556"
+}, {
+  "kecamatan" : "Baki",
+  "kelurahan" : "Waru",
+  "kodepos" : "57556"
+}, {
+  "kecamatan" : "Baki",
+  "kelurahan" : "Ngrombo",
+  "kodepos" : "57556"
+}, {
+  "kecamatan" : "Baki",
+  "kelurahan" : "Purbayan",
+  "kodepos" : "57556"
+}, {
+  "kecamatan" : "Baki",
+  "kelurahan" : "Mancasan",
+  "kodepos" : "57556"
+}, {
+  "kecamatan" : "Baki",
+  "kelurahan" : "Menuran",
+  "kodepos" : "57556"
+}, {
+  "kecamatan" : "Baki",
+  "kelurahan" : "Jetis",
+  "kodepos" : "57556"
+}, {
+  "kecamatan" : "Baki",
+  "kelurahan" : "Kadilangu",
+  "kodepos" : "57556"
+}, {
+  "kecamatan" : "Baki",
+  "kelurahan" : "Kudu",
+  "kodepos" : "57556"
+}, {
+  "kecamatan" : "Baki",
+  "kelurahan" : "Gedongan",
+  "kodepos" : "57556"
+}, {
+  "kecamatan" : "Baki",
+  "kelurahan" : "Gentan",
+  "kodepos" : "57556"
+}, {
+  "kecamatan" : "Baki",
+  "kelurahan" : "Bentakan",
+  "kodepos" : "57556"
+}, {
+  "kecamatan" : "Baki",
+  "kelurahan" : "Duwet",
+  "kodepos" : "57556"
+}, {
+  "kecamatan" : "Baki",
+  "kelurahan" : "Bakipandeyan",
+  "kodepos" : "57556"
+}, {
+  "kecamatan" : "Polokarto",
+  "kelurahan" : "Tepisari",
+  "kodepos" : "57555"
+}, {
+  "kecamatan" : "Polokarto",
+  "kelurahan" : "Wonorejo",
+  "kodepos" : "57555"
+}, {
+  "kecamatan" : "Polokarto",
+  "kelurahan" : "Polokarto",
+  "kodepos" : "57555"
+}, {
+  "kecamatan" : "Polokarto",
+  "kelurahan" : "Pranan",
+  "kodepos" : "57555"
+}, {
+  "kecamatan" : "Polokarto",
+  "kelurahan" : "Rejosari",
+  "kodepos" : "57555"
+}, {
+  "kecamatan" : "Polokarto",
+  "kelurahan" : "Kenokorejo",
+  "kodepos" : "57555"
+}, {
+  "kecamatan" : "Polokarto",
+  "kelurahan" : "Ngombakan",
+  "kodepos" : "57555"
+}, {
+  "kecamatan" : "Polokarto",
+  "kelurahan" : "Kemasan",
+  "kodepos" : "57555"
+}, {
+  "kecamatan" : "Polokarto",
+  "kelurahan" : "Kajuapak",
+  "kodepos" : "57555"
+}, {
+  "kecamatan" : "Polokarto",
+  "kelurahan" : "Karangwuni",
+  "kodepos" : "57555"
+}, {
+  "kecamatan" : "Polokarto",
+  "kelurahan" : "Genengsari",
+  "kodepos" : "57555"
+}, {
+  "kecamatan" : "Polokarto",
+  "kelurahan" : "Godog",
+  "kodepos" : "57555"
+}, {
+  "kecamatan" : "Polokarto",
+  "kelurahan" : "Jatisobo",
+  "kodepos" : "57555"
+}, {
+  "kecamatan" : "Polokarto",
+  "kelurahan" : "Bugel",
+  "kodepos" : "57555"
+}, {
+  "kecamatan" : "Polokarto",
+  "kelurahan" : "Bulu",
+  "kodepos" : "57555"
+}, {
+  "kecamatan" : "Mojolaban",
+  "kelurahan" : "Triyagan",
+  "kodepos" : "57554"
+}, {
+  "kecamatan" : "Mojolaban",
+  "kelurahan" : "Wirun",
+  "kodepos" : "57554"
+}, {
+  "kecamatan" : "Polokarto",
+  "kelurahan" : "Bakalan",
+  "kodepos" : "57555"
+}, {
+  "kecamatan" : "Mojolaban",
+  "kelurahan" : "Tegalmade",
+  "kodepos" : "57554"
+}, {
+  "kecamatan" : "Mojolaban",
+  "kelurahan" : "Sapen",
+  "kodepos" : "57554"
+}, {
+  "kecamatan" : "Mojolaban",
+  "kelurahan" : "Palur",
+  "kodepos" : "57554"
+}, {
+  "kecamatan" : "Mojolaban",
+  "kelurahan" : "Plumbon",
+  "kodepos" : "57554"
+}, {
+  "kecamatan" : "Mojolaban",
+  "kelurahan" : "Klumprit",
+  "kodepos" : "57554"
+}, {
+  "kecamatan" : "Mojolaban",
+  "kelurahan" : "Kragilan",
+  "kodepos" : "57554"
+}, {
+  "kecamatan" : "Mojolaban",
+  "kelurahan" : "Laban",
+  "kodepos" : "57554"
+}, {
+  "kecamatan" : "Mojolaban",
+  "kelurahan" : "Gadingan",
+  "kodepos" : "57554"
+}, {
+  "kecamatan" : "Mojolaban",
+  "kelurahan" : "Joho",
+  "kodepos" : "57554"
+}, {
+  "kecamatan" : "Mojolaban",
+  "kelurahan" : "Demakan",
+  "kodepos" : "57554"
+}, {
+  "kecamatan" : "Mojolaban",
+  "kelurahan" : "Dukuh",
+  "kodepos" : "57554"
+}, {
+  "kecamatan" : "Mojolaban",
+  "kelurahan" : "Bekonang",
+  "kodepos" : "57554"
+}, {
+  "kecamatan" : "Mojolaban",
+  "kelurahan" : "Cangkol",
+  "kodepos" : "57554"
+}, {
+  "kecamatan" : "Grogol",
+  "kelurahan" : "Sanggrahan",
+  "kodepos" : "57552"
+}, {
+  "kecamatan" : "Grogol",
+  "kelurahan" : "Telukan",
+  "kodepos" : "57552"
+}, {
+  "kecamatan" : "Grogol",
+  "kelurahan" : "Pandeyan",
+  "kodepos" : "57552"
+}, {
+  "kecamatan" : "Grogol",
+  "kelurahan" : "Parangjoro",
+  "kodepos" : "57552"
+}, {
+  "kecamatan" : "Grogol",
+  "kelurahan" : "Pondok",
+  "kodepos" : "57552"
+}, {
+  "kecamatan" : "Grogol",
+  "kelurahan" : "Madegondo",
+  "kodepos" : "57552"
+}, {
+  "kecamatan" : "Grogol",
+  "kelurahan" : "Manang",
+  "kodepos" : "57552"
+}, {
+  "kecamatan" : "Grogol",
+  "kelurahan" : "Kadokan",
+  "kodepos" : "57552"
+}, {
+  "kecamatan" : "Grogol",
+  "kelurahan" : "Kwarasan",
+  "kodepos" : "57552"
+}, {
+  "kecamatan" : "Grogol",
+  "kelurahan" : "Langenharjo",
+  "kodepos" : "57552"
+}, {
+  "kecamatan" : "Grogol",
+  "kelurahan" : "Cemani",
+  "kodepos" : "57552"
+}, {
+  "kecamatan" : "Grogol",
+  "kelurahan" : "Gedangan",
+  "kodepos" : "57552"
+}, {
+  "kecamatan" : "Grogol",
+  "kelurahan" : "Grogol",
+  "kodepos" : "57552"
+}, {
+  "kecamatan" : "Sukoharjo",
+  "kelurahan" : "Sonorejo",
+  "kodepos" : "57551"
+}, {
+  "kecamatan" : "Grogol",
+  "kelurahan" : "Banaran",
+  "kodepos" : "57552"
+}, {
+  "kecamatan" : "Sukoharjo",
+  "kelurahan" : "Bulakrejo",
+  "kodepos" : "57551"
+}, {
+  "kecamatan" : "Sukoharjo",
+  "kelurahan" : "Kenep",
+  "kodepos" : "57551"
+}, {
+  "kecamatan" : "Sukoharjo",
+  "kelurahan" : "Kriwen",
+  "kodepos" : "57551"
+}, {
+  "kecamatan" : "Sukoharjo",
+  "kelurahan" : "Begajah",
+  "kodepos" : "57551"
+}, {
+  "kecamatan" : "Sukoharjo",
+  "kelurahan" : "Bulakan",
+  "kodepos" : "57551"
+}, {
+  "kecamatan" : "Sukoharjo",
+  "kelurahan" : "Banmati",
+  "kodepos" : "57551"
+}, {
+  "kecamatan" : "Bendosari",
+  "kelurahan" : "Sugihan",
+  "kodepos" : "57528"
+}, {
+  "kecamatan" : "Bendosari",
+  "kelurahan" : "Toriyo",
+  "kodepos" : "57528"
+}, {
+  "kecamatan" : "Bendosari",
+  "kelurahan" : "Mulur",
+  "kodepos" : "57528"
+}, {
+  "kecamatan" : "Bendosari",
+  "kelurahan" : "Paluhombo",
+  "kodepos" : "57528"
+}, {
+  "kecamatan" : "Bendosari",
+  "kelurahan" : "Puhgogor",
+  "kodepos" : "57528"
+}, {
+  "kecamatan" : "Bendosari",
+  "kelurahan" : "Mojorejo",
+  "kodepos" : "57528"
+}, {
+  "kecamatan" : "Bendosari",
+  "kelurahan" : "Mertan",
+  "kodepos" : "57528"
+}, {
+  "kecamatan" : "Bendosari",
+  "kelurahan" : "Gentan",
+  "kodepos" : "57528"
+}, {
+  "kecamatan" : "Bendosari",
+  "kelurahan" : "Jagan",
+  "kodepos" : "57528"
+}, {
+  "kecamatan" : "Bendosari",
+  "kelurahan" : "Manisharjo",
+  "kodepos" : "57528"
+}, {
+  "kecamatan" : "Bendosari",
+  "kelurahan" : "Bendosari",
+  "kodepos" : "57528"
+}, {
+  "kecamatan" : "Bendosari",
+  "kelurahan" : "Cabeyan",
+  "kodepos" : "57528"
+}, {
+  "kecamatan" : "Bendosari",
+  "kelurahan" : "Sidorejo",
+  "kodepos" : "57527"
+}, {
+  "kecamatan" : "Sukoharjo",
+  "kelurahan" : "Dukuh",
+  "kodepos" : "57524"
+}, {
+  "kecamatan" : "Bendosari",
+  "kelurahan" : "Jombor",
+  "kodepos" : "57521"
+}, {
+  "kecamatan" : "Sukoharjo",
+  "kelurahan" : "Combongan",
+  "kodepos" : "57519"
+}, {
+  "kecamatan" : "Sukoharjo",
+  "kelurahan" : "Gayam",
+  "kodepos" : "57514"
+}, {
+  "kecamatan" : "Sukoharjo",
+  "kelurahan" : "Mandan",
+  "kodepos" : "57516"
+}, {
+  "kecamatan" : "Polokarto",
+  "kelurahan" : "Mranggen",
+  "kodepos" : "57513"
+}, {
+  "kecamatan" : "Sukoharjo",
+  "kelurahan" : "Joho",
+  "kodepos" : "57513"
+}, {
+  "kecamatan" : "Sukoharjo",
+  "kelurahan" : "Jetis",
+  "kodepos" : "57511"
+}, {
+  "kecamatan" : "Sukoharjo",
+  "kelurahan" : "Sukoharjo",
+  "kodepos" : "57512"
+}, {
+  "kecamatan" : "Kartasura",
+  "kelurahan" : "Ngemplak",
+  "kodepos" : "57169"
+}, {
+  "kecamatan" : "Kartasura",
+  "kelurahan" : "Pabelan",
+  "kodepos" : "57169"
+}, {
+  "kecamatan" : "Kartasura",
+  "kelurahan" : "Gumpang",
+  "kodepos" : "57169"
+}, {
+  "kecamatan" : "Kartasura",
+  "kelurahan" : "Kartasura",
+  "kodepos" : "57169"
+}, {
+  "kecamatan" : "Kartasura",
+  "kelurahan" : "Gonilan",
+  "kodepos" : "57169"
+}, {
+  "kecamatan" : "Kartasura",
+  "kelurahan" : "Wirogunan",
+  "kodepos" : "57166"
+}, {
+  "kecamatan" : "Kartasura",
+  "kelurahan" : "Pucangan",
+  "kodepos" : "57168"
+}, {
+  "kecamatan" : "Kartasura",
+  "kelurahan" : "Ngabeyan",
+  "kodepos" : "57165"
+}, {
+  "kecamatan" : "Kartasura",
+  "kelurahan" : "Kertonatan",
+  "kodepos" : "57166"
+}, {
+  "kecamatan" : "Kartasura",
+  "kelurahan" : "Ngadirejo",
+  "kodepos" : "57163"
+}, {
+  "kecamatan" : "Kartasura",
+  "kelurahan" : "Singopuran",
+  "kodepos" : "57164"
+}, {
+  "kecamatan" : "Kartasura",
+  "kelurahan" : "Makamhaji",
+  "kodepos" : "57161"
+} ]

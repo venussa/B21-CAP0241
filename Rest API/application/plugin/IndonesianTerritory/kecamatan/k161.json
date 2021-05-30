@@ -1,0 +1,677 @@
+[ {
+  "kecamatan" : "Batang Alai Utara",
+  "kelurahan" : "Telang",
+  "kodepos" : "71391"
+}, {
+  "kecamatan" : "Limpasu",
+  "kelurahan" : "Tapuk",
+  "kodepos" : "71391"
+}, {
+  "kecamatan" : "Batang Alai Utara",
+  "kelurahan" : "Sumanggi",
+  "kodepos" : "71391"
+}, {
+  "kecamatan" : "Batang Alai Utara",
+  "kelurahan" : "Sumanggi Semerang / Seberang",
+  "kodepos" : "71391"
+}, {
+  "kecamatan" : "Limpasu",
+  "kelurahan" : "Pauh",
+  "kodepos" : "71391"
+}, {
+  "kecamatan" : "Batang Alai Utara",
+  "kelurahan" : "Maringgit",
+  "kodepos" : "71391"
+}, {
+  "kecamatan" : "Batang Alai Utara",
+  "kelurahan" : "Muara Rintis",
+  "kodepos" : "71391"
+}, {
+  "kecamatan" : "Batang Alai Utara",
+  "kelurahan" : "Labunganak",
+  "kodepos" : "71391"
+}, {
+  "kecamatan" : "Limpasu",
+  "kelurahan" : "Limpasu",
+  "kodepos" : "71391"
+}, {
+  "kecamatan" : "Limpasu",
+  "kelurahan" : "Karau",
+  "kodepos" : "71391"
+}, {
+  "kecamatan" : "Limpasu",
+  "kelurahan" : "Kabang",
+  "kodepos" : "71391"
+}, {
+  "kecamatan" : "Limpasu",
+  "kelurahan" : "Karatungan",
+  "kodepos" : "71391"
+}, {
+  "kecamatan" : "Batang Alai Utara",
+  "kelurahan" : "Ilung Pasar Lama",
+  "kodepos" : "71391"
+}, {
+  "kecamatan" : "Batang Alai Utara",
+  "kelurahan" : "Ilung Tengah",
+  "kodepos" : "71391"
+}, {
+  "kecamatan" : "Batang Alai Utara",
+  "kelurahan" : "Ilung",
+  "kodepos" : "71391"
+}, {
+  "kecamatan" : "Limpasu",
+  "kelurahan" : "Hawang",
+  "kodepos" : "71391"
+}, {
+  "kecamatan" : "Batang Alai Utara",
+  "kelurahan" : "Haur Gading",
+  "kodepos" : "71391"
+}, {
+  "kecamatan" : "Batang Alai Utara",
+  "kelurahan" : "Dangu",
+  "kodepos" : "71391"
+}, {
+  "kecamatan" : "Batang Alai Utara",
+  "kelurahan" : "Hapingin",
+  "kodepos" : "71391"
+}, {
+  "kecamatan" : "Batang Alai Utara",
+  "kelurahan" : "Awang",
+  "kodepos" : "71391"
+}, {
+  "kecamatan" : "Batang Alai Utara",
+  "kelurahan" : "Awang Baru",
+  "kodepos" : "71391"
+}, {
+  "kecamatan" : "Limpasu",
+  "kelurahan" : "Abung",
+  "kodepos" : "71391"
+}, {
+  "kecamatan" : "Limpasu",
+  "kelurahan" : "Abung Surapati",
+  "kodepos" : "71391"
+}, {
+  "kecamatan" : "Batang Alai Timur",
+  "kelurahan" : "Tandilang",
+  "kodepos" : "71382"
+}, {
+  "kecamatan" : "Batang Alai Timur",
+  "kelurahan" : "Nateh",
+  "kodepos" : "71382"
+}, {
+  "kecamatan" : "Batang Alai Timur",
+  "kelurahan" : "Pembakulan",
+  "kodepos" : "71382"
+}, {
+  "kecamatan" : "Batang Alai Timur",
+  "kelurahan" : "Hinas Kiri",
+  "kodepos" : "71382"
+}, {
+  "kecamatan" : "Batang Alai Timur",
+  "kelurahan" : "Juhu",
+  "kodepos" : "71382"
+}, {
+  "kecamatan" : "Batang Alai Timur",
+  "kelurahan" : "Muara Hungi",
+  "kodepos" : "71382"
+}, {
+  "kecamatan" : "Batang Alai Timur",
+  "kelurahan" : "Batu Tangga",
+  "kodepos" : "71382"
+}, {
+  "kecamatan" : "Batang Alai Timur",
+  "kelurahan" : "Datar Batung",
+  "kodepos" : "71382"
+}, {
+  "kecamatan" : "Batang Alai Timur",
+  "kelurahan" : "Batu Perahu",
+  "kodepos" : "71382"
+}, {
+  "kecamatan" : "Batang Alai Timur",
+  "kelurahan" : "Atiran",
+  "kodepos" : "71382"
+}, {
+  "kecamatan" : "Batang Alai Timur",
+  "kelurahan" : "Aing Bantai",
+  "kodepos" : "71382"
+}, {
+  "kecamatan" : "Batang Alai Selatan",
+  "kelurahan" : "Wawai Gardu",
+  "kodepos" : "71381"
+}, {
+  "kecamatan" : "Batang Alai Selatan",
+  "kelurahan" : "Tembuk Bahalang",
+  "kodepos" : "71381"
+}, {
+  "kecamatan" : "Batang Alai Selatan",
+  "kelurahan" : "Wawai",
+  "kodepos" : "71381"
+}, {
+  "kecamatan" : "Batang Alai Selatan",
+  "kelurahan" : "Rangas",
+  "kodepos" : "71381"
+}, {
+  "kecamatan" : "Batang Alai Selatan",
+  "kelurahan" : "Tanah Habang",
+  "kodepos" : "71381"
+}, {
+  "kecamatan" : "Batang Alai Selatan",
+  "kelurahan" : "Lunjuk",
+  "kodepos" : "71381"
+}, {
+  "kecamatan" : "Batang Alai Selatan",
+  "kelurahan" : "Mahela",
+  "kodepos" : "71381"
+}, {
+  "kecamatan" : "Batang Alai Selatan",
+  "kelurahan" : "Paya",
+  "kodepos" : "71381"
+}, {
+  "kecamatan" : "Batang Alai Selatan",
+  "kelurahan" : "Limbar",
+  "kodepos" : "71381"
+}, {
+  "kecamatan" : "Batang Alai Selatan",
+  "kelurahan" : "Lok Besar",
+  "kodepos" : "71381"
+}, {
+  "kecamatan" : "Batang Alai Selatan",
+  "kelurahan" : "Kias",
+  "kodepos" : "71381"
+}, {
+  "kecamatan" : "Batang Alai Selatan",
+  "kelurahan" : "Labuhan",
+  "kodepos" : "71381"
+}, {
+  "kecamatan" : "Batang Alai Selatan",
+  "kelurahan" : "Cukan Lipai",
+  "kodepos" : "71381"
+}, {
+  "kecamatan" : "Batang Alai Selatan",
+  "kelurahan" : "Kapar",
+  "kodepos" : "71381"
+}, {
+  "kecamatan" : "Batang Alai Selatan",
+  "kelurahan" : "Birayang Surapati",
+  "kodepos" : "71381"
+}, {
+  "kecamatan" : "Batang Alai Selatan",
+  "kelurahan" : "Birayang Timur",
+  "kodepos" : "71381"
+}, {
+  "kecamatan" : "Batang Alai Selatan",
+  "kelurahan" : "Banua Rantau",
+  "kodepos" : "71381"
+}, {
+  "kecamatan" : "Batang Alai Selatan",
+  "kelurahan" : "Birayang",
+  "kodepos" : "71381"
+}, {
+  "kecamatan" : "Hantakan",
+  "kelurahan" : "Tilahan",
+  "kodepos" : "71372"
+}, {
+  "kecamatan" : "Batang Alai Selatan",
+  "kelurahan" : "Anduhum",
+  "kodepos" : "71381"
+}, {
+  "kecamatan" : "Hantakan",
+  "kelurahan" : "Pasting",
+  "kodepos" : "71372"
+}, {
+  "kecamatan" : "Hantakan",
+  "kelurahan" : "Patikalain",
+  "kodepos" : "71372"
+}, {
+  "kecamatan" : "Hantakan",
+  "kelurahan" : "Hinas Kanan",
+  "kodepos" : "71372"
+}, {
+  "kecamatan" : "Hantakan",
+  "kelurahan" : "Kindingan",
+  "kodepos" : "71372"
+}, {
+  "kecamatan" : "Hantakan",
+  "kelurahan" : "Murung B",
+  "kodepos" : "71372"
+}, {
+  "kecamatan" : "Hantakan",
+  "kelurahan" : "Hantakan",
+  "kodepos" : "71372"
+}, {
+  "kecamatan" : "Hantakan",
+  "kelurahan" : "Haruyan Dayak",
+  "kodepos" : "71372"
+}, {
+  "kecamatan" : "Hantakan",
+  "kelurahan" : "Bulayak",
+  "kodepos" : "71372"
+}, {
+  "kecamatan" : "Hantakan",
+  "kelurahan" : "Datar Ajab",
+  "kodepos" : "71372"
+}, {
+  "kecamatan" : "Hantakan",
+  "kelurahan" : "Batu Tunggal",
+  "kodepos" : "71372"
+}, {
+  "kecamatan" : "Hantakan",
+  "kelurahan" : "Alat",
+  "kodepos" : "71372"
+}, {
+  "kecamatan" : "Batu Benawa",
+  "kelurahan" : "Pagat",
+  "kodepos" : "71371"
+}, {
+  "kecamatan" : "Batu Benawa",
+  "kelurahan" : "Pantai Batung",
+  "kodepos" : "71371"
+}, {
+  "kecamatan" : "Batu Benawa",
+  "kelurahan" : "Paya Besar",
+  "kodepos" : "71371"
+}, {
+  "kecamatan" : "Batu Benawa",
+  "kelurahan" : "Kali Baru",
+  "kodepos" : "71371"
+}, {
+  "kecamatan" : "Batu Benawa",
+  "kelurahan" : "Layuh",
+  "kodepos" : "71371"
+}, {
+  "kecamatan" : "Batu Benawa",
+  "kelurahan" : "Murung A",
+  "kodepos" : "71371"
+}, {
+  "kecamatan" : "Batu Benawa",
+  "kelurahan" : "Haliau",
+  "kodepos" : "71371"
+}, {
+  "kecamatan" : "Batu Benawa",
+  "kelurahan" : "Kahakan",
+  "kodepos" : "71371"
+}, {
+  "kecamatan" : "Batu Benawa",
+  "kelurahan" : "Bakti",
+  "kodepos" : "71371"
+}, {
+  "kecamatan" : "Batu Benawa",
+  "kelurahan" : "Baru",
+  "kodepos" : "71371"
+}, {
+  "kecamatan" : "Batu Benawa",
+  "kelurahan" : "Aluan Sumur",
+  "kodepos" : "71371"
+}, {
+  "kecamatan" : "Batu Benawa",
+  "kelurahan" : "Aluan",
+  "kodepos" : "71371"
+}, {
+  "kecamatan" : "Batu Benawa",
+  "kelurahan" : "Aluan Besar",
+  "kodepos" : "71371"
+}, {
+  "kecamatan" : "Batu Benawa",
+  "kelurahan" : "Aluan Mati",
+  "kodepos" : "71371"
+}, {
+  "kecamatan" : "Haruyan",
+  "kelurahan" : "Teluk Mesjid",
+  "kodepos" : "71363"
+}, {
+  "kecamatan" : "Haruyan",
+  "kelurahan" : "Tabat Padang",
+  "kodepos" : "71363"
+}, {
+  "kecamatan" : "Haruyan",
+  "kelurahan" : "Pengambau Hulu",
+  "kodepos" : "71363"
+}, {
+  "kecamatan" : "Haruyan",
+  "kelurahan" : "Sei/Sungai Harang",
+  "kodepos" : "71363"
+}, {
+  "kecamatan" : "Haruyan",
+  "kelurahan" : "Pangambau Hilir Luar",
+  "kodepos" : "71363"
+}, {
+  "kecamatan" : "Haruyan",
+  "kelurahan" : "Panggung",
+  "kodepos" : "71363"
+}, {
+  "kecamatan" : "Haruyan",
+  "kelurahan" : "Pengambau Hilir Dalam",
+  "kodepos" : "71363"
+}, {
+  "kecamatan" : "Haruyan",
+  "kelurahan" : "Mangunang Seberang",
+  "kodepos" : "71363"
+}, {
+  "kecamatan" : "Haruyan",
+  "kelurahan" : "Pandanu",
+  "kodepos" : "71363"
+}, {
+  "kecamatan" : "Haruyan",
+  "kelurahan" : "Lokbuntar",
+  "kodepos" : "71363"
+}, {
+  "kecamatan" : "Haruyan",
+  "kelurahan" : "Mangunang",
+  "kodepos" : "71363"
+}, {
+  "kecamatan" : "Haruyan",
+  "kelurahan" : "Haruyan",
+  "kodepos" : "71363"
+}, {
+  "kecamatan" : "Haruyan",
+  "kelurahan" : "Haruyan Seberang",
+  "kodepos" : "71363"
+}, {
+  "kecamatan" : "Haruyan",
+  "kelurahan" : "Batu Panggung",
+  "kodepos" : "71363"
+}, {
+  "kecamatan" : "Haruyan",
+  "kelurahan" : "Hapulang",
+  "kodepos" : "71363"
+}, {
+  "kecamatan" : "Haruyan",
+  "kelurahan" : "Andang",
+  "kodepos" : "71363"
+}, {
+  "kecamatan" : "Haruyan",
+  "kelurahan" : "Barikin",
+  "kodepos" : "71363"
+}, {
+  "kecamatan" : "Labuan Amas Utara",
+  "kelurahan" : "Tabat",
+  "kodepos" : "71362"
+}, {
+  "kecamatan" : "Labuan Amas Utara",
+  "kelurahan" : "Tungkup",
+  "kodepos" : "71362"
+}, {
+  "kecamatan" : "Labuan Amas Utara",
+  "kelurahan" : "Sei/Sungai Buluh",
+  "kodepos" : "71362"
+}, {
+  "kecamatan" : "Labuan Amas Utara",
+  "kelurahan" : "Rantau Bujur",
+  "kodepos" : "71362"
+}, {
+  "kecamatan" : "Labuan Amas Utara",
+  "kelurahan" : "Pemangkih Seberang",
+  "kodepos" : "71362"
+}, {
+  "kecamatan" : "Labuan Amas Utara",
+  "kelurahan" : "Ranatu Kaminting (Rantau Keminting)",
+  "kodepos" : "71362"
+}, {
+  "kecamatan" : "Labuan Amas Utara",
+  "kelurahan" : "Pahalatan",
+  "kodepos" : "71362"
+}, {
+  "kecamatan" : "Labuan Amas Utara",
+  "kelurahan" : "Parumahan (Perumahan)",
+  "kodepos" : "71362"
+}, {
+  "kecamatan" : "Labuan Amas Utara",
+  "kelurahan" : "Pemangkih",
+  "kodepos" : "71362"
+}, {
+  "kecamatan" : "Labuan Amas Utara",
+  "kelurahan" : "Kupang Samhurang",
+  "kodepos" : "71362"
+}, {
+  "kecamatan" : "Labuan Amas Utara",
+  "kelurahan" : "Mantaas",
+  "kodepos" : "71362"
+}, {
+  "kecamatan" : "Labuan Amas Utara",
+  "kelurahan" : "Binjai Pirua",
+  "kodepos" : "71362"
+}, {
+  "kecamatan" : "Labuan Amas Utara",
+  "kelurahan" : "Kadundung",
+  "kodepos" : "71362"
+}, {
+  "kecamatan" : "Labuan Amas Utara",
+  "kelurahan" : "Kasarangan",
+  "kodepos" : "71362"
+}, {
+  "kecamatan" : "Labuan Amas Utara",
+  "kelurahan" : "Banua Kupang",
+  "kodepos" : "71362"
+}, {
+  "kecamatan" : "Labuan Amas Utara",
+  "kelurahan" : "Binjai Pemangkih",
+  "kodepos" : "71362"
+}, {
+  "kecamatan" : "Labuan Amas Selatan",
+  "kelurahan" : "Tabudarat Hulu",
+  "kodepos" : "71361"
+}, {
+  "kecamatan" : "Labuan Amas Selatan",
+  "kelurahan" : "Taras Padang",
+  "kodepos" : "71361"
+}, {
+  "kecamatan" : "Labuan Amas Selatan",
+  "kelurahan" : "Taal",
+  "kodepos" : "71361"
+}, {
+  "kecamatan" : "Labuan Amas Selatan",
+  "kelurahan" : "Tabudarat Hilir",
+  "kodepos" : "71361"
+}, {
+  "kecamatan" : "Labuan Amas Selatan",
+  "kelurahan" : "Sei/Sungai Jaranih",
+  "kodepos" : "71361"
+}, {
+  "kecamatan" : "Labuan Amas Selatan",
+  "kelurahan" : "Sei/Sungai Rangas",
+  "kodepos" : "71361"
+}, {
+  "kecamatan" : "Labuan Amas Selatan",
+  "kelurahan" : "Pantai Hambawang Barat",
+  "kodepos" : "71361"
+}, {
+  "kecamatan" : "Labuan Amas Selatan",
+  "kelurahan" : "Pantai Hambawang Timur",
+  "kodepos" : "71361"
+}, {
+  "kecamatan" : "Labuan Amas Selatan",
+  "kelurahan" : "Murung Taal",
+  "kodepos" : "71361"
+}, {
+  "kecamatan" : "Labuan Amas Selatan",
+  "kelurahan" : "Panggang Marak",
+  "kodepos" : "71361"
+}, {
+  "kecamatan" : "Labuan Amas Selatan",
+  "kelurahan" : "Mahang Baru",
+  "kodepos" : "71361"
+}, {
+  "kecamatan" : "Labuan Amas Selatan",
+  "kelurahan" : "Mundar",
+  "kodepos" : "71361"
+}, {
+  "kecamatan" : "Labuan Amas Selatan",
+  "kelurahan" : "Guha",
+  "kodepos" : "71361"
+}, {
+  "kecamatan" : "Labuan Amas Selatan",
+  "kelurahan" : "Jamil",
+  "kodepos" : "71361"
+}, {
+  "kecamatan" : "Labuan Amas Selatan",
+  "kelurahan" : "Durian Gantang",
+  "kodepos" : "71361"
+}, {
+  "kecamatan" : "Labuan Amas Selatan",
+  "kelurahan" : "Batang Bahalang",
+  "kodepos" : "71361"
+}, {
+  "kecamatan" : "Labuan Amas Selatan",
+  "kelurahan" : "Benua Kepayang",
+  "kodepos" : "71361"
+}, {
+  "kecamatan" : "Pandawan",
+  "kelurahan" : "Walatung",
+  "kodepos" : "71352"
+}, {
+  "kecamatan" : "Labuan Amas Selatan",
+  "kelurahan" : "Bangkal",
+  "kodepos" : "71361"
+}, {
+  "kecamatan" : "Pandawan",
+  "kelurahan" : "Pandawan",
+  "kodepos" : "71352"
+}, {
+  "kecamatan" : "Pandawan",
+  "kelurahan" : "Setiap",
+  "kodepos" : "71352"
+}, {
+  "kecamatan" : "Pandawan",
+  "kelurahan" : "Matang Ginalun",
+  "kodepos" : "71352"
+}, {
+  "kecamatan" : "Pandawan",
+  "kelurahan" : "Palajau",
+  "kodepos" : "71352"
+}, {
+  "kecamatan" : "Pandawan",
+  "kelurahan" : "Mahang Sei/Sungai Hanyar",
+  "kodepos" : "71352"
+}, {
+  "kecamatan" : "Pandawan",
+  "kelurahan" : "Masiraan",
+  "kodepos" : "71352"
+}, {
+  "kecamatan" : "Pandawan",
+  "kelurahan" : "Mahang Putat",
+  "kodepos" : "71352"
+}, {
+  "kecamatan" : "Pandawan",
+  "kelurahan" : "Kayu Rabah",
+  "kodepos" : "71352"
+}, {
+  "kecamatan" : "Pandawan",
+  "kelurahan" : "Mahang Matang Landung",
+  "kodepos" : "71352"
+}, {
+  "kecamatan" : "Pandawan",
+  "kelurahan" : "Kambat Selatan",
+  "kodepos" : "71352"
+}, {
+  "kecamatan" : "Pandawan",
+  "kelurahan" : "Kambat Utara",
+  "kodepos" : "71352"
+}, {
+  "kecamatan" : "Pandawan",
+  "kelurahan" : "Hulu Rasau",
+  "kodepos" : "71352"
+}, {
+  "kecamatan" : "Pandawan",
+  "kelurahan" : "Jaranih",
+  "kodepos" : "71352"
+}, {
+  "kecamatan" : "Pandawan",
+  "kelurahan" : "Jatuh",
+  "kodepos" : "71352"
+}, {
+  "kecamatan" : "Pandawan",
+  "kelurahan" : "Buluan",
+  "kodepos" : "71352"
+}, {
+  "kecamatan" : "Pandawan",
+  "kelurahan" : "Hilir Banua",
+  "kodepos" : "71352"
+}, {
+  "kecamatan" : "Pandawan",
+  "kelurahan" : "Banua Batung",
+  "kodepos" : "71352"
+}, {
+  "kecamatan" : "Pandawan",
+  "kelurahan" : "Banua Hanyar",
+  "kodepos" : "71352"
+}, {
+  "kecamatan" : "Pandawan",
+  "kelurahan" : "Banua Supanggal",
+  "kodepos" : "71352"
+}, {
+  "kecamatan" : "Pandawan",
+  "kelurahan" : "Banua Asam",
+  "kodepos" : "71352"
+}, {
+  "kecamatan" : "Barabai",
+  "kelurahan" : "Mandingin",
+  "kodepos" : "71315"
+}, {
+  "kecamatan" : "Barabai",
+  "kelurahan" : "Pajukungan",
+  "kodepos" : "71315"
+}, {
+  "kecamatan" : "Barabai",
+  "kelurahan" : "Bukat",
+  "kodepos" : "71315"
+}, {
+  "kecamatan" : "Barabai",
+  "kelurahan" : "Gambah",
+  "kodepos" : "71315"
+}, {
+  "kecamatan" : "Barabai",
+  "kelurahan" : "Kayu Bawang",
+  "kodepos" : "71315"
+}, {
+  "kecamatan" : "Barabai",
+  "kelurahan" : "Barabai Darat",
+  "kodepos" : "71315"
+}, {
+  "kecamatan" : "Barabai",
+  "kelurahan" : "Benawa Tengah",
+  "kodepos" : "71315"
+}, {
+  "kecamatan" : "Barabai",
+  "kelurahan" : "Banua Budi",
+  "kodepos" : "71315"
+}, {
+  "kecamatan" : "Barabai",
+  "kelurahan" : "Banua Jingah",
+  "kodepos" : "71315"
+}, {
+  "kecamatan" : "Barabai",
+  "kelurahan" : "Banua Binjai",
+  "kodepos" : "71315"
+}, {
+  "kecamatan" : "Barabai",
+  "kelurahan" : "Babai",
+  "kodepos" : "71315"
+}, {
+  "kecamatan" : "Barabai",
+  "kelurahan" : "Bakapas",
+  "kodepos" : "71315"
+}, {
+  "kecamatan" : "Barabai",
+  "kelurahan" : "Ayuang",
+  "kodepos" : "71315"
+}, {
+  "kecamatan" : "Barabai",
+  "kelurahan" : "Barabai Barat",
+  "kodepos" : "71314"
+}, {
+  "kecamatan" : "Barabai",
+  "kelurahan" : "Awang Besar",
+  "kodepos" : "71315"
+}, {
+  "kecamatan" : "Barabai",
+  "kelurahan" : "Barabai Timur",
+  "kodepos" : "71312"
+}, {
+  "kecamatan" : "Barabai",
+  "kelurahan" : "Barabai Utara",
+  "kodepos" : "71313"
+}, {
+  "kecamatan" : "Barabai",
+  "kelurahan" : "Barabai Selatan",
+  "kodepos" : "71311"
+} ]

@@ -1,0 +1,629 @@
+[ {
+  "kecamatan" : "Lubuk Batang",
+  "kelurahan" : "Tanjung Dalam",
+  "kodepos" : "32192"
+}, {
+  "kecamatan" : "Lubuk Batang",
+  "kelurahan" : "Tanjung Manggus",
+  "kodepos" : "32192"
+}, {
+  "kecamatan" : "Lubuk Batang",
+  "kelurahan" : "Markisa",
+  "kodepos" : "32192"
+}, {
+  "kecamatan" : "Lubuk Batang",
+  "kelurahan" : "Merbau",
+  "kodepos" : "32192"
+}, {
+  "kecamatan" : "Lubuk Batang",
+  "kelurahan" : "Lunggaian",
+  "kodepos" : "32192"
+}, {
+  "kecamatan" : "Lubuk Batang",
+  "kelurahan" : "Lubuk Batang Lama",
+  "kodepos" : "32192"
+}, {
+  "kecamatan" : "Lubuk Batang",
+  "kelurahan" : "Lubuk Banjar",
+  "kodepos" : "32192"
+}, {
+  "kecamatan" : "Lubuk Batang",
+  "kelurahan" : "Lubuk Batang Baru",
+  "kodepos" : "32192"
+}, {
+  "kecamatan" : "Lubuk Batang",
+  "kelurahan" : "Gunung Meraksa",
+  "kodepos" : "32192"
+}, {
+  "kecamatan" : "Lubuk Batang",
+  "kelurahan" : "Karta Mulia",
+  "kodepos" : "32192"
+}, {
+  "kecamatan" : "Lubuk Batang",
+  "kelurahan" : "Kurup",
+  "kodepos" : "32192"
+}, {
+  "kecamatan" : "Lubuk Batang",
+  "kelurahan" : "Banu Ayu",
+  "kodepos" : "32192"
+}, {
+  "kecamatan" : "Lubuk Batang",
+  "kelurahan" : "Belatung",
+  "kodepos" : "32192"
+}, {
+  "kecamatan" : "Lubuk Batang",
+  "kelurahan" : "Air Wall",
+  "kodepos" : "32192"
+}, {
+  "kecamatan" : "Lubuk Batang",
+  "kelurahan" : "Bandar Agung",
+  "kodepos" : "32192"
+}, {
+  "kecamatan" : "Peninjauan",
+  "kelurahan" : "Sinar Kedaton",
+  "kodepos" : "32191"
+}, {
+  "kecamatan" : "Peninjauan",
+  "kelurahan" : "Sp Tiga",
+  "kodepos" : "32191"
+}, {
+  "kecamatan" : "Peninjauan",
+  "kelurahan" : "Suka Pindah",
+  "kodepos" : "32191"
+}, {
+  "kecamatan" : "Peninjauan",
+  "kelurahan" : "Rantau Panjang",
+  "kodepos" : "32191"
+}, {
+  "kecamatan" : "Peninjauan",
+  "kelurahan" : "Saung Naga",
+  "kodepos" : "32191"
+}, {
+  "kecamatan" : "Peninjauan",
+  "kelurahan" : "Peninjauan",
+  "kodepos" : "32191"
+}, {
+  "kecamatan" : "Peninjauan",
+  "kelurahan" : "Panti Jaya",
+  "kodepos" : "32191"
+}, {
+  "kecamatan" : "Peninjauan",
+  "kelurahan" : "Penilikan/Mitra Ogan",
+  "kodepos" : "32191"
+}, {
+  "kecamatan" : "Peninjauan",
+  "kelurahan" : "Mendala",
+  "kodepos" : "32191"
+}, {
+  "kecamatan" : "Peninjauan",
+  "kelurahan" : "Mitra Kencana",
+  "kodepos" : "32191"
+}, {
+  "kecamatan" : "Peninjauan",
+  "kelurahan" : "Lubuk Rukam",
+  "kodepos" : "32191"
+}, {
+  "kecamatan" : "Peninjauan",
+  "kelurahan" : "Makarti Jaya",
+  "kodepos" : "32191"
+}, {
+  "kecamatan" : "Peninjauan",
+  "kelurahan" : "Makarti Tama",
+  "kodepos" : "32191"
+}, {
+  "kecamatan" : "Peninjauan",
+  "kelurahan" : "Kepayang",
+  "kodepos" : "32191"
+}, {
+  "kecamatan" : "Peninjauan",
+  "kelurahan" : "Lubuk Kemiling",
+  "kodepos" : "32191"
+}, {
+  "kecamatan" : "Peninjauan",
+  "kelurahan" : "Kedaton Timur",
+  "kodepos" : "32191"
+}, {
+  "kecamatan" : "Peninjauan",
+  "kelurahan" : "Kedondong",
+  "kodepos" : "32191"
+}, {
+  "kecamatan" : "Peninjauan",
+  "kelurahan" : "Kampai",
+  "kodepos" : "32191"
+}, {
+  "kecamatan" : "Peninjauan",
+  "kelurahan" : "Karang Dapo",
+  "kodepos" : "32191"
+}, {
+  "kecamatan" : "Peninjauan",
+  "kelurahan" : "Kedaton",
+  "kodepos" : "32191"
+}, {
+  "kecamatan" : "Peninjauan",
+  "kelurahan" : "Durian",
+  "kodepos" : "32191"
+}, {
+  "kecamatan" : "Peninjauan",
+  "kelurahan" : "Bunglai",
+  "kodepos" : "32191"
+}, {
+  "kecamatan" : "Peninjauan",
+  "kelurahan" : "Belimbing",
+  "kodepos" : "32191"
+}, {
+  "kecamatan" : "Peninjauan",
+  "kelurahan" : "Bindu",
+  "kodepos" : "32191"
+}, {
+  "kecamatan" : "Sinar Peninjauan",
+  "kelurahan" : "Marga Mulya",
+  "kodepos" : "32159"
+}, {
+  "kecamatan" : "Sinar Peninjauan",
+  "kelurahan" : "Sri Mulya",
+  "kodepos" : "32159"
+}, {
+  "kecamatan" : "Sinar Peninjauan",
+  "kelurahan" : "Tanjung Makmur",
+  "kodepos" : "32159"
+}, {
+  "kecamatan" : "Sinar Peninjauan",
+  "kelurahan" : "Karya Mukti",
+  "kodepos" : "32159"
+}, {
+  "kecamatan" : "Sinar Peninjauan",
+  "kelurahan" : "Marga Bakti",
+  "kodepos" : "32159"
+}, {
+  "kecamatan" : "Sinar Peninjauan",
+  "kelurahan" : "Karya Jaya",
+  "kodepos" : "32159"
+}, {
+  "kecamatan" : "Lengkiti",
+  "kelurahan" : "Umpan",
+  "kodepos" : "32158"
+}, {
+  "kecamatan" : "Lengkiti",
+  "kelurahan" : "Way Heling",
+  "kodepos" : "32158"
+}, {
+  "kecamatan" : "Lengkiti",
+  "kelurahan" : "Tihang",
+  "kodepos" : "32158"
+}, {
+  "kecamatan" : "Lengkiti",
+  "kelurahan" : "Tualang",
+  "kodepos" : "32158"
+}, {
+  "kecamatan" : "Lengkiti",
+  "kelurahan" : "Tanjung Agung",
+  "kodepos" : "32158"
+}, {
+  "kecamatan" : "Lengkiti",
+  "kelurahan" : "Tanjung Lengkayap",
+  "kodepos" : "32158"
+}, {
+  "kecamatan" : "Lengkiti",
+  "kelurahan" : "Sukaraja",
+  "kodepos" : "32158"
+}, {
+  "kecamatan" : "Lengkiti",
+  "kelurahan" : "Sundan",
+  "kodepos" : "32158"
+}, {
+  "kecamatan" : "Lengkiti",
+  "kelurahan" : "Simpang Empat",
+  "kodepos" : "32158"
+}, {
+  "kecamatan" : "Lengkiti",
+  "kelurahan" : "Pajar Bulan",
+  "kodepos" : "32158"
+}, {
+  "kecamatan" : "Lengkiti",
+  "kelurahan" : "Segara Kembang",
+  "kodepos" : "32158"
+}, {
+  "kecamatan" : "Lengkiti",
+  "kelurahan" : "Pagar Dewa",
+  "kodepos" : "32158"
+}, {
+  "kecamatan" : "Lengkiti",
+  "kelurahan" : "Negeri Agung",
+  "kodepos" : "32158"
+}, {
+  "kecamatan" : "Lengkiti",
+  "kelurahan" : "Negeri Ratu",
+  "kodepos" : "32158"
+}, {
+  "kecamatan" : "Lengkiti",
+  "kelurahan" : "Lubuk Dalam",
+  "kodepos" : "32158"
+}, {
+  "kecamatan" : "Lengkiti",
+  "kelurahan" : "Lubuk Hara",
+  "kodepos" : "32158"
+}, {
+  "kecamatan" : "Lengkiti",
+  "kelurahan" : "Gedung Pakuan/Pekuon",
+  "kodepos" : "32158"
+}, {
+  "kecamatan" : "Lengkiti",
+  "kelurahan" : "Karang Endah",
+  "kodepos" : "32158"
+}, {
+  "kecamatan" : "Lengkiti",
+  "kelurahan" : "Bunga Tanjung",
+  "kodepos" : "32158"
+}, {
+  "kecamatan" : "Lengkiti",
+  "kelurahan" : "Fajar Jaya",
+  "kodepos" : "32158"
+}, {
+  "kecamatan" : "Lengkiti",
+  "kelurahan" : "Bandar Jaya",
+  "kodepos" : "32158"
+}, {
+  "kecamatan" : "Lengkiti",
+  "kelurahan" : "Bumi Kawa",
+  "kodepos" : "32158"
+}, {
+  "kecamatan" : "Ulu Ogan",
+  "kelurahan" : "Sukajadi",
+  "kodepos" : "32157"
+}, {
+  "kecamatan" : "Ulu Ogan",
+  "kelurahan" : "Ulak Lebar",
+  "kodepos" : "32157"
+}, {
+  "kecamatan" : "Ulu Ogan",
+  "kelurahan" : "Mendingin",
+  "kodepos" : "32157"
+}, {
+  "kecamatan" : "Ulu Ogan",
+  "kelurahan" : "Pedataran",
+  "kodepos" : "32157"
+}, {
+  "kecamatan" : "Ulu Ogan",
+  "kelurahan" : "Kelumpang",
+  "kodepos" : "32157"
+}, {
+  "kecamatan" : "Ulu Ogan",
+  "kelurahan" : "Gunung Tiga",
+  "kodepos" : "32157"
+}, {
+  "kecamatan" : "Ulu Ogan",
+  "kelurahan" : "Belandang",
+  "kodepos" : "32157"
+}, {
+  "kecamatan" : "Semidang Aji",
+  "kelurahan" : "Tubohan",
+  "kodepos" : "32156"
+}, {
+  "kecamatan" : "Semidang Aji",
+  "kelurahan" : "Ulak Pandan",
+  "kodepos" : "32156"
+}, {
+  "kecamatan" : "Semidang Aji",
+  "kelurahan" : "Tanjung Kurung",
+  "kodepos" : "32156"
+}, {
+  "kecamatan" : "Semidang Aji",
+  "kelurahan" : "Tebing Kampung",
+  "kodepos" : "32156"
+}, {
+  "kecamatan" : "Semidang Aji",
+  "kelurahan" : "Singapura",
+  "kodepos" : "32156"
+}, {
+  "kecamatan" : "Semidang Aji",
+  "kelurahan" : "Suka Merindu",
+  "kodepos" : "32156"
+}, {
+  "kecamatan" : "Semidang Aji",
+  "kelurahan" : "Sukarami",
+  "kodepos" : "32156"
+}, {
+  "kecamatan" : "Semidang Aji",
+  "kelurahan" : "Raksa Jiwa",
+  "kodepos" : "32156"
+}, {
+  "kecamatan" : "Semidang Aji",
+  "kelurahan" : "Seleman",
+  "kodepos" : "32156"
+}, {
+  "kecamatan" : "Semidang Aji",
+  "kelurahan" : "Panggal Panggal",
+  "kodepos" : "32156"
+}, {
+  "kecamatan" : "Semidang Aji",
+  "kelurahan" : "Pengaringan",
+  "kodepos" : "32156"
+}, {
+  "kecamatan" : "Semidang Aji",
+  "kelurahan" : "Pandan Dulang",
+  "kodepos" : "32156"
+}, {
+  "kecamatan" : "Semidang Aji",
+  "kelurahan" : "Panai Makmur",
+  "kodepos" : "32156"
+}, {
+  "kecamatan" : "Semidang Aji",
+  "kelurahan" : "Padang Bindu",
+  "kodepos" : "32156"
+}, {
+  "kecamatan" : "Semidang Aji",
+  "kelurahan" : "Nyiur Sayak",
+  "kodepos" : "32156"
+}, {
+  "kecamatan" : "Semidang Aji",
+  "kelurahan" : "Kebun Jati",
+  "kodepos" : "32156"
+}, {
+  "kecamatan" : "Semidang Aji",
+  "kelurahan" : "Kebon Agung",
+  "kodepos" : "32156"
+}, {
+  "kecamatan" : "Semidang Aji",
+  "kelurahan" : "Batang Hari",
+  "kodepos" : "32156"
+}, {
+  "kecamatan" : "Semidang Aji",
+  "kelurahan" : "Bedegung",
+  "kodepos" : "32156"
+}, {
+  "kecamatan" : "Semidang Aji",
+  "kelurahan" : "Guna Makmur",
+  "kodepos" : "32156"
+}, {
+  "kecamatan" : "Pengandonan",
+  "kelurahan" : "Ujan Mas",
+  "kodepos" : "32155"
+}, {
+  "kecamatan" : "Semidang Aji",
+  "kelurahan" : "Banjar Sari",
+  "kodepos" : "32156"
+}, {
+  "kecamatan" : "Pengandonan",
+  "kelurahan" : "Tanjung Pura",
+  "kodepos" : "32155"
+}, {
+  "kecamatan" : "Pengandonan",
+  "kelurahan" : "Tanjung Sari",
+  "kodepos" : "32155"
+}, {
+  "kecamatan" : "Pengandonan",
+  "kelurahan" : "Tanjungan",
+  "kodepos" : "32155"
+}, {
+  "kecamatan" : "Muara Jaya",
+  "kelurahan" : "Surau",
+  "kodepos" : "32155"
+}, {
+  "kecamatan" : "Pengandonan",
+  "kelurahan" : "Semanding",
+  "kodepos" : "32155"
+}, {
+  "kecamatan" : "Pengandonan",
+  "kelurahan" : "Tangsi Lontar",
+  "kodepos" : "32155"
+}, {
+  "kecamatan" : "Muara Jaya",
+  "kelurahan" : "Muara Saeh",
+  "kodepos" : "32155"
+}, {
+  "kecamatan" : "Pengandonan",
+  "kelurahan" : "Pengandonan",
+  "kodepos" : "32155"
+}, {
+  "kecamatan" : "Muara Jaya",
+  "kelurahan" : "Lontar",
+  "kodepos" : "32155"
+}, {
+  "kecamatan" : "Muara Jaya",
+  "kelurahan" : "Lontar",
+  "kodepos" : "32155"
+}, {
+  "kecamatan" : "Muara Jaya",
+  "kelurahan" : "Lubuk Tupak",
+  "kodepos" : "32155"
+}, {
+  "kecamatan" : "Muara Jaya",
+  "kelurahan" : "Karang Lantang",
+  "kodepos" : "32155"
+}, {
+  "kecamatan" : "Muara Jaya",
+  "kelurahan" : "Kemala Jaya",
+  "kodepos" : "32155"
+}, {
+  "kecamatan" : "Pengandonan",
+  "kelurahan" : "Gunung Meraksa",
+  "kodepos" : "32155"
+}, {
+  "kecamatan" : "Pengandonan",
+  "kelurahan" : "Gunung Kuripan",
+  "kodepos" : "32155"
+}, {
+  "kecamatan" : "Pengandonan",
+  "kelurahan" : "Gunung Liwat",
+  "kodepos" : "32155"
+}, {
+  "kecamatan" : "Muara Jaya",
+  "kelurahan" : "Beringin",
+  "kodepos" : "32155"
+}, {
+  "kecamatan" : "Pengandonan",
+  "kelurahan" : "Belambangan",
+  "kodepos" : "32155"
+}, {
+  "kecamatan" : "Lubuk Raja",
+  "kelurahan" : "Lubuk Banjar",
+  "kodepos" : "32152"
+}, {
+  "kecamatan" : "Lubuk Raja",
+  "kelurahan" : "Marta Jaya",
+  "kodepos" : "32152"
+}, {
+  "kecamatan" : "Lubuk Raja",
+  "kelurahan" : "Batumarta I",
+  "kodepos" : "32152"
+}, {
+  "kecamatan" : "Lubuk Raja",
+  "kelurahan" : "Batumarta II",
+  "kodepos" : "32152"
+}, {
+  "kecamatan" : "Lubuk Raja",
+  "kelurahan" : "Lekis Rejo",
+  "kodepos" : "32152"
+}, {
+  "kecamatan" : "Lubuk Raja",
+  "kelurahan" : "Battu Winangun",
+  "kodepos" : "32152"
+}, {
+  "kecamatan" : "Lubuk Raja",
+  "kelurahan" : "Batu Raden",
+  "kodepos" : "32152"
+}, {
+  "kecamatan" : "Sosoh Buay Rayap",
+  "kelurahan" : "Rantau Kumpai",
+  "kodepos" : "32151"
+}, {
+  "kecamatan" : "Sosoh Buay Rayap",
+  "kelurahan" : "Tungku Jaya",
+  "kodepos" : "32151"
+}, {
+  "kecamatan" : "Sosoh Buay Rayap",
+  "kelurahan" : "Negeri Sindang",
+  "kodepos" : "32151"
+}, {
+  "kecamatan" : "Sosoh Buay Rayap",
+  "kelurahan" : "Penantian",
+  "kodepos" : "32151"
+}, {
+  "kecamatan" : "Sosoh Buay Rayap",
+  "kelurahan" : "Penyandingan",
+  "kodepos" : "32151"
+}, {
+  "kecamatan" : "Sosoh Buay Rayap",
+  "kelurahan" : "Lubuk Leban",
+  "kodepos" : "32151"
+}, {
+  "kecamatan" : "Sosoh Buay Rayap",
+  "kelurahan" : "Mekar Jaya",
+  "kodepos" : "32151"
+}, {
+  "kecamatan" : "Sosoh Buay Rayap",
+  "kelurahan" : "Mekar Sari",
+  "kodepos" : "32151"
+}, {
+  "kecamatan" : "Sosoh Buay Rayap",
+  "kelurahan" : "Kungkilan",
+  "kodepos" : "32151"
+}, {
+  "kecamatan" : "Sosoh Buay Rayap",
+  "kelurahan" : "Lubuk Baru",
+  "kodepos" : "32151"
+}, {
+  "kecamatan" : "Baturaja Barat",
+  "kelurahan" : "Pusar",
+  "kodepos" : "32126"
+}, {
+  "kecamatan" : "Sosoh Buay Rayap",
+  "kelurahan" : "Bandar",
+  "kodepos" : "32151"
+}, {
+  "kecamatan" : "Baturaja Barat",
+  "kelurahan" : "Sukamaju",
+  "kodepos" : "32124"
+}, {
+  "kecamatan" : "Baturaja Barat",
+  "kelurahan" : "Laya",
+  "kodepos" : "32125"
+}, {
+  "kecamatan" : "Baturaja Barat",
+  "kelurahan" : "Saung Naga",
+  "kodepos" : "32124"
+}, {
+  "kecamatan" : "Baturaja Barat",
+  "kelurahan" : "Talang Jawa",
+  "kodepos" : "32122"
+}, {
+  "kecamatan" : "Baturaja Barat",
+  "kelurahan" : "Tanjung Agung",
+  "kodepos" : "32123"
+}, {
+  "kecamatan" : "Baturaja Barat",
+  "kelurahan" : "Karang Endah",
+  "kodepos" : "32121"
+}, {
+  "kecamatan" : "Baturaja Barat",
+  "kelurahan" : "Tanjung Karang",
+  "kodepos" : "32121"
+}, {
+  "kecamatan" : "Baturaja Barat",
+  "kelurahan" : "Batu Putih",
+  "kodepos" : "32121"
+}, {
+  "kecamatan" : "Baturaja Barat",
+  "kelurahan" : "Karang Agung",
+  "kodepos" : "32121"
+}, {
+  "kecamatan" : "Baturaja Barat",
+  "kelurahan" : "Air Gading",
+  "kodepos" : "32121"
+}, {
+  "kecamatan" : "Baturaja Barat",
+  "kelurahan" : "Batu Kuning",
+  "kodepos" : "32121"
+}, {
+  "kecamatan" : "Baturaja Timur",
+  "kelurahan" : "Sukajadi",
+  "kodepos" : "32117"
+}, {
+  "kecamatan" : "Baturaja Timur",
+  "kelurahan" : "Pasar Lama",
+  "kodepos" : "32115"
+}, {
+  "kecamatan" : "Baturaja Timur",
+  "kelurahan" : "Pasar Baru",
+  "kodepos" : "32116"
+}, {
+  "kecamatan" : "Baturaja Timur",
+  "kelurahan" : "Sukaraya",
+  "kodepos" : "32112"
+}, {
+  "kecamatan" : "Baturaja Timur",
+  "kelurahan" : "Tanjung Baru",
+  "kodepos" : "32113"
+}, {
+  "kecamatan" : "Baturaja Timur",
+  "kelurahan" : "Baturaja Lama",
+  "kodepos" : "32114"
+}, {
+  "kecamatan" : "Baturaja Timur",
+  "kelurahan" : "Tanjung Kemala",
+  "kodepos" : "32111"
+}, {
+  "kecamatan" : "Baturaja Timur",
+  "kelurahan" : "Terusan",
+  "kodepos" : "32111"
+}, {
+  "kecamatan" : "Baturaja Timur",
+  "kelurahan" : "Kemelak Bindung Langit",
+  "kodepos" : "32111"
+}, {
+  "kecamatan" : "Baturaja Timur",
+  "kelurahan" : "Sepancar Lawang Kulon",
+  "kodepos" : "32111"
+}, {
+  "kecamatan" : "Baturaja Timur",
+  "kelurahan" : "Baturaja Permai",
+  "kodepos" : "32111"
+}, {
+  "kecamatan" : "Baturaja Timur",
+  "kelurahan" : "Kemala Raja",
+  "kodepos" : "32111"
+}, {
+  "kecamatan" : "Baturaja Timur",
+  "kelurahan" : "Air Paoh/Pauh",
+  "kodepos" : "32111"
+} ]

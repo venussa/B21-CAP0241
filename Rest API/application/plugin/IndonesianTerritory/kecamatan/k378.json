@@ -1,0 +1,365 @@
+[ {
+  "kecamatan" : "Tolitoli Utara",
+  "kelurahan" : "Timbolo",
+  "kodepos" : "94562"
+}, {
+  "kecamatan" : "Tolitoli Utara",
+  "kelurahan" : "Teluk Jaya",
+  "kodepos" : "94562"
+}, {
+  "kecamatan" : "Tolitoli Utara",
+  "kelurahan" : "Santigi",
+  "kodepos" : "94562"
+}, {
+  "kecamatan" : "Tolitoli Utara",
+  "kelurahan" : "Pinjan",
+  "kodepos" : "94562"
+}, {
+  "kecamatan" : "Tolitoli Utara",
+  "kelurahan" : "Salumpaga",
+  "kodepos" : "94562"
+}, {
+  "kecamatan" : "Dako Pamean",
+  "kelurahan" : "Lingadan",
+  "kodepos" : "94562"
+}, {
+  "kecamatan" : "Tolitoli Utara",
+  "kelurahan" : "Lakuan Toli Toli",
+  "kodepos" : "94562"
+}, {
+  "kecamatan" : "Tolitoli Utara",
+  "kelurahan" : "Laulalang",
+  "kodepos" : "94562"
+}, {
+  "kecamatan" : "Dako Pamean",
+  "kelurahan" : "Galumpang",
+  "kodepos" : "94562"
+}, {
+  "kecamatan" : "Dako Pamean",
+  "kelurahan" : "Kapas",
+  "kodepos" : "94562"
+}, {
+  "kecamatan" : "Dako Pamean",
+  "kelurahan" : "Dungingis",
+  "kodepos" : "94562"
+}, {
+  "kecamatan" : "Tolitoli Utara",
+  "kelurahan" : "Binontoan",
+  "kodepos" : "94562"
+}, {
+  "kecamatan" : "Tolitoli Utara",
+  "kelurahan" : "Diule",
+  "kodepos" : "94562"
+}, {
+  "kecamatan" : "Galang",
+  "kelurahan" : "Tinigi",
+  "kodepos" : "94561"
+}, {
+  "kecamatan" : "Galang",
+  "kelurahan" : "Sandana",
+  "kodepos" : "94561"
+}, {
+  "kecamatan" : "Galang",
+  "kelurahan" : "Tende",
+  "kodepos" : "94561"
+}, {
+  "kecamatan" : "Galang",
+  "kelurahan" : "Ogomuli (Ogomoli)",
+  "kodepos" : "94561"
+}, {
+  "kecamatan" : "Galang",
+  "kelurahan" : "Sabang",
+  "kodepos" : "94561"
+}, {
+  "kecamatan" : "Galang",
+  "kelurahan" : "Lantapan",
+  "kodepos" : "94561"
+}, {
+  "kecamatan" : "Galang",
+  "kelurahan" : "Lalos",
+  "kodepos" : "94561"
+}, {
+  "kecamatan" : "Galang",
+  "kelurahan" : "Kalangkangan",
+  "kodepos" : "94561"
+}, {
+  "kecamatan" : "Galang",
+  "kelurahan" : "Lakatan",
+  "kodepos" : "94561"
+}, {
+  "kecamatan" : "Galang",
+  "kelurahan" : "Ginunggung",
+  "kodepos" : "94561"
+}, {
+  "kecamatan" : "Galang",
+  "kelurahan" : "Bajugan",
+  "kodepos" : "94561"
+}, {
+  "kecamatan" : "Dampal Selatan",
+  "kelurahan" : "Soni",
+  "kodepos" : "94554"
+}, {
+  "kecamatan" : "Dampal Selatan",
+  "kelurahan" : "Tampiala",
+  "kodepos" : "94554"
+}, {
+  "kecamatan" : "Dampal Selatan",
+  "kelurahan" : "Mimbala",
+  "kodepos" : "94554"
+}, {
+  "kecamatan" : "Dampal Selatan",
+  "kelurahan" : "Paddumpu",
+  "kodepos" : "94554"
+}, {
+  "kecamatan" : "Dampal Selatan",
+  "kelurahan" : "Kombo",
+  "kodepos" : "94554"
+}, {
+  "kecamatan" : "Dampal Selatan",
+  "kelurahan" : "Lempe",
+  "kodepos" : "94554"
+}, {
+  "kecamatan" : "Dampal Selatan",
+  "kelurahan" : "Bangkir",
+  "kodepos" : "94554"
+}, {
+  "kecamatan" : "Dampal Selatan",
+  "kelurahan" : "Dongko",
+  "kodepos" : "94554"
+}, {
+  "kecamatan" : "Dampal Selatan",
+  "kelurahan" : "Abbajareng",
+  "kodepos" : "94554"
+}, {
+  "kecamatan" : "Dampal Utara",
+  "kelurahan" : "Simatang Utara",
+  "kodepos" : "94553"
+}, {
+  "kecamatan" : "Dampal Utara",
+  "kelurahan" : "Tompoh",
+  "kodepos" : "94553"
+}, {
+  "kecamatan" : "Dampal Utara",
+  "kelurahan" : "Sese",
+  "kodepos" : "94553"
+}, {
+  "kecamatan" : "Dampal Utara",
+  "kelurahan" : "Simatang Tanjung",
+  "kodepos" : "94553"
+}, {
+  "kecamatan" : "Dampal Utara",
+  "kelurahan" : "Ogotua",
+  "kodepos" : "94553"
+}, {
+  "kecamatan" : "Dampal Utara",
+  "kelurahan" : "Malambigu",
+  "kodepos" : "94553"
+}, {
+  "kecamatan" : "Dampal Utara",
+  "kelurahan" : "Banagan",
+  "kodepos" : "94553"
+}, {
+  "kecamatan" : "Dampal Utara",
+  "kelurahan" : "Kabinuang",
+  "kodepos" : "94553"
+}, {
+  "kecamatan" : "Dondo",
+  "kelurahan" : "Tinabogan",
+  "kodepos" : "94552"
+}, {
+  "kecamatan" : "Dampal Utara",
+  "kelurahan" : "Bambapula",
+  "kodepos" : "94553"
+}, {
+  "kecamatan" : "Basidondo",
+  "kelurahan" : "Sibaluton",
+  "kodepos" : "94552"
+}, {
+  "kecamatan" : "Basidondo",
+  "kelurahan" : "Silondou",
+  "kodepos" : "94552"
+}, {
+  "kecamatan" : "Dondo",
+  "kelurahan" : "Ogowele",
+  "kodepos" : "94552"
+}, {
+  "kecamatan" : "Dondo",
+  "kelurahan" : "Salumbia",
+  "kodepos" : "94552"
+}, {
+  "kecamatan" : "Basidondo",
+  "kelurahan" : "Ogosipat",
+  "kodepos" : "94552"
+}, {
+  "kecamatan" : "Dondo",
+  "kelurahan" : "Ogogili",
+  "kodepos" : "94552"
+}, {
+  "kecamatan" : "Dondo",
+  "kelurahan" : "Malulu",
+  "kodepos" : "94552"
+}, {
+  "kecamatan" : "Dondo",
+  "kelurahan" : "Ogogasang",
+  "kodepos" : "94552"
+}, {
+  "kecamatan" : "Dondo",
+  "kelurahan" : "Malala",
+  "kodepos" : "94552"
+}, {
+  "kecamatan" : "Dondo",
+  "kelurahan" : "Malomba",
+  "kodepos" : "94552"
+}, {
+  "kecamatan" : "Dondo",
+  "kelurahan" : "Lais",
+  "kodepos" : "94552"
+}, {
+  "kecamatan" : "Dondo",
+  "kelurahan" : "Luok Manipi",
+  "kodepos" : "94552"
+}, {
+  "kecamatan" : "Basidondo",
+  "kelurahan" : "Kongkomos",
+  "kodepos" : "94552"
+}, {
+  "kecamatan" : "Basidondo",
+  "kelurahan" : "Labonu",
+  "kodepos" : "94552"
+}, {
+  "kecamatan" : "Basidondo",
+  "kelurahan" : "Kayu Lompa",
+  "kodepos" : "94552"
+}, {
+  "kecamatan" : "Basidondo",
+  "kelurahan" : "Kinapasan",
+  "kodepos" : "94552"
+}, {
+  "kecamatan" : "Basidondo",
+  "kelurahan" : "Galandau",
+  "kodepos" : "94552"
+}, {
+  "kecamatan" : "Dondo",
+  "kelurahan" : "Anggasan",
+  "kodepos" : "94552"
+}, {
+  "kecamatan" : "Dondo",
+  "kelurahan" : "Bambapun",
+  "kodepos" : "94552"
+}, {
+  "kecamatan" : "Lampasio",
+  "kelurahan" : "Sibea",
+  "kodepos" : "94518"
+}, {
+  "kecamatan" : "Lampasio",
+  "kelurahan" : "Salugan",
+  "kodepos" : "94518"
+}, {
+  "kecamatan" : "Lampasio",
+  "kelurahan" : "Mulyasari (Mulia Sari)",
+  "kodepos" : "94518"
+}, {
+  "kecamatan" : "Lampasio",
+  "kelurahan" : "Oyom",
+  "kodepos" : "94518"
+}, {
+  "kecamatan" : "Lampasio",
+  "kelurahan" : "Tinading",
+  "kodepos" : "94517"
+}, {
+  "kecamatan" : "Lampasio",
+  "kelurahan" : "Janja",
+  "kodepos" : "94518"
+}, {
+  "kecamatan" : "Lampasio",
+  "kelurahan" : "Maibua",
+  "kodepos" : "94518"
+}, {
+  "kecamatan" : "Lampasio",
+  "kelurahan" : "Ogomatanang",
+  "kodepos" : "94517"
+}, {
+  "kecamatan" : "Lampasio",
+  "kelurahan" : "Lampasio",
+  "kodepos" : "94517"
+}, {
+  "kecamatan" : "Baolan",
+  "kelurahan" : "Dadakitan",
+  "kodepos" : "94517"
+}, {
+  "kecamatan" : "Baolan",
+  "kelurahan" : "Buntuna",
+  "kodepos" : "94517"
+}, {
+  "kecamatan" : "Ogo Deide",
+  "kelurahan" : "Pulias",
+  "kodepos" : "94516"
+}, {
+  "kecamatan" : "Ogo Deide",
+  "kelurahan" : "Sambujan",
+  "kodepos" : "94516"
+}, {
+  "kecamatan" : "Baolan",
+  "kelurahan" : "Tambun",
+  "kodepos" : "94516"
+}, {
+  "kecamatan" : "Ogo Deide",
+  "kelurahan" : "Muara Besar",
+  "kodepos" : "94516"
+}, {
+  "kecamatan" : "Ogo Deide",
+  "kelurahan" : "Pagaitan",
+  "kodepos" : "94516"
+}, {
+  "kecamatan" : "Ogo Deide",
+  "kelurahan" : "Kamalu",
+  "kodepos" : "94516"
+}, {
+  "kecamatan" : "Ogo Deide",
+  "kelurahan" : "Labuan Lobo",
+  "kodepos" : "94516"
+}, {
+  "kecamatan" : "Ogo Deide",
+  "kelurahan" : "Buga",
+  "kodepos" : "94516"
+}, {
+  "kecamatan" : "Ogo Deide",
+  "kelurahan" : "Kabetan",
+  "kodepos" : "94516"
+}, {
+  "kecamatan" : "Ogo Deide",
+  "kelurahan" : "Batuilo",
+  "kodepos" : "94516"
+}, {
+  "kecamatan" : "Ogo Deide",
+  "kelurahan" : "Bilo",
+  "kodepos" : "94516"
+}, {
+  "kecamatan" : "Ogo Deide",
+  "kelurahan" : "Bambalaga",
+  "kodepos" : "94516"
+}, {
+  "kecamatan" : "Baolan",
+  "kelurahan" : "Lelean Nono",
+  "kodepos" : "94515"
+}, {
+  "kecamatan" : "Baolan",
+  "kelurahan" : "Tuweley",
+  "kodepos" : "94515"
+}, {
+  "kecamatan" : "Baolan",
+  "kelurahan" : "Nalu",
+  "kodepos" : "94513"
+}, {
+  "kecamatan" : "Baolan",
+  "kelurahan" : "Baru",
+  "kodepos" : "94514"
+}, {
+  "kecamatan" : "Baolan",
+  "kelurahan" : "Panasakan",
+  "kodepos" : "94511"
+}, {
+  "kecamatan" : "Baolan",
+  "kelurahan" : "Sidoarjo",
+  "kodepos" : "94512"
+} ]

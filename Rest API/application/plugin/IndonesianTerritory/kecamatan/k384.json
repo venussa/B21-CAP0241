@@ -1,0 +1,853 @@
+[ {
+  "kecamatan" : "Samaturu",
+  "kelurahan" : "Wowa Tamboli",
+  "kodepos" : "93915"
+}, {
+  "kecamatan" : "Samaturu",
+  "kelurahan" : "Tosiba",
+  "kodepos" : "93915"
+}, {
+  "kecamatan" : "Samaturu",
+  "kelurahan" : "Ulu Konaweha",
+  "kodepos" : "93915"
+}, {
+  "kecamatan" : "Samaturu",
+  "kelurahan" : "Tamboli",
+  "kodepos" : "93915"
+}, {
+  "kecamatan" : "Samaturu",
+  "kelurahan" : "Tonganapo",
+  "kodepos" : "93915"
+}, {
+  "kecamatan" : "Samaturu",
+  "kelurahan" : "Puu Tamboli",
+  "kodepos" : "93915"
+}, {
+  "kecamatan" : "Samaturu",
+  "kelurahan" : "Sani Sani",
+  "kodepos" : "93915"
+}, {
+  "kecamatan" : "Samaturu",
+  "kelurahan" : "Lawulo",
+  "kodepos" : "93915"
+}, {
+  "kecamatan" : "Samaturu",
+  "kelurahan" : "Malaha",
+  "kodepos" : "93915"
+}, {
+  "kecamatan" : "Samaturu",
+  "kelurahan" : "Lambolemo",
+  "kodepos" : "93915"
+}, {
+  "kecamatan" : "Samaturu",
+  "kelurahan" : "Latuo",
+  "kodepos" : "93915"
+}, {
+  "kecamatan" : "Samaturu",
+  "kelurahan" : "Kaloloa",
+  "kodepos" : "93915"
+}, {
+  "kecamatan" : "Samaturu",
+  "kelurahan" : "Konaweha",
+  "kodepos" : "93915"
+}, {
+  "kecamatan" : "Samaturu",
+  "kelurahan" : "Amomutu",
+  "kodepos" : "93915"
+}, {
+  "kecamatan" : "Samaturu",
+  "kelurahan" : "Awa",
+  "kodepos" : "93915"
+}, {
+  "kecamatan" : "Uluiwoi",
+  "kelurahan" : "Uete",
+  "kodepos" : "93575"
+}, {
+  "kecamatan" : "Uluiwoi",
+  "kelurahan" : "Undolo",
+  "kodepos" : "93575"
+}, {
+  "kecamatan" : "Uluiwoi",
+  "kelurahan" : "Wesinggote",
+  "kodepos" : "93575"
+}, {
+  "kecamatan" : "Uluiwoi",
+  "kelurahan" : "Tongauna",
+  "kodepos" : "93575"
+}, {
+  "kecamatan" : "Uluiwoi",
+  "kelurahan" : "Ueesi",
+  "kodepos" : "93575"
+}, {
+  "kecamatan" : "Uluiwoi",
+  "kelurahan" : "Tawanga",
+  "kodepos" : "93575"
+}, {
+  "kecamatan" : "Uluiwoi",
+  "kelurahan" : "Tondowatu",
+  "kodepos" : "93575"
+}, {
+  "kecamatan" : "Uluiwoi",
+  "kelurahan" : "Sanggona",
+  "kodepos" : "93575"
+}, {
+  "kecamatan" : "Uluiwoi",
+  "kelurahan" : "Pehanggo",
+  "kodepos" : "93575"
+}, {
+  "kecamatan" : "Uluiwoi",
+  "kelurahan" : "Pora Bua",
+  "kodepos" : "93575"
+}, {
+  "kecamatan" : "Uluiwoi",
+  "kelurahan" : "Alaaha",
+  "kodepos" : "93575"
+}, {
+  "kecamatan" : "Uluiwoi",
+  "kelurahan" : "Liku Walanapo",
+  "kodepos" : "93575"
+}, {
+  "kecamatan" : "Uluiwoi",
+  "kelurahan" : "Ahilulu",
+  "kodepos" : "93575"
+}, {
+  "kecamatan" : "Lambandia (Lambadia)",
+  "kelurahan" : "Wonuambuteo",
+  "kodepos" : "93573"
+}, {
+  "kecamatan" : "Ladongi",
+  "kelurahan" : "Wunggoloko/Wunggololeo",
+  "kodepos" : "93573"
+}, {
+  "kecamatan" : "Ladongi",
+  "kelurahan" : "Welala",
+  "kodepos" : "93573"
+}, {
+  "kecamatan" : "Poli Polia",
+  "kelurahan" : "Wia-Wia",
+  "kodepos" : "93573"
+}, {
+  "kecamatan" : "Ladongi",
+  "kelurahan" : "Wande",
+  "kodepos" : "93573"
+}, {
+  "kecamatan" : "Poli Polia",
+  "kelurahan" : "Tokai",
+  "kodepos" : "93573"
+}, {
+  "kecamatan" : "Lambandia (Lambadia)",
+  "kelurahan" : "Tinete",
+  "kodepos" : "93573"
+}, {
+  "kecamatan" : "Poli Polia",
+  "kelurahan" : "Taosu",
+  "kodepos" : "93573"
+}, {
+  "kecamatan" : "Ladongi",
+  "kelurahan" : "Raraa",
+  "kodepos" : "93573"
+}, {
+  "kecamatan" : "Lambandia (Lambadia)",
+  "kelurahan" : "Taore",
+  "kodepos" : "93573"
+}, {
+  "kecamatan" : "Ladongi",
+  "kelurahan" : "Putemata",
+  "kodepos" : "93573"
+}, {
+  "kecamatan" : "Lambandia (Lambadia)",
+  "kelurahan" : "Pomburea",
+  "kodepos" : "93573"
+}, {
+  "kecamatan" : "Ladongi",
+  "kelurahan" : "Pombeyoha",
+  "kodepos" : "93573"
+}, {
+  "kecamatan" : "Poli Polia",
+  "kelurahan" : "Polenga Jaya",
+  "kodepos" : "93573"
+}, {
+  "kecamatan" : "Poli Polia",
+  "kelurahan" : "Poli Polia",
+  "kodepos" : "93573"
+}, {
+  "kecamatan" : "Poli Polia",
+  "kelurahan" : "Polemaju Jaya",
+  "kodepos" : "93573"
+}, {
+  "kecamatan" : "Lambandia (Lambadia)",
+  "kelurahan" : "Penanggo Jaya",
+  "kodepos" : "93573"
+}, {
+  "kecamatan" : "Lambandia (Lambadia)",
+  "kelurahan" : "Penanggoosi",
+  "kodepos" : "93573"
+}, {
+  "kecamatan" : "Poli Polia",
+  "kelurahan" : "Pangi-Pangi",
+  "kodepos" : "93573"
+}, {
+  "kecamatan" : "Lambandia (Lambadia)",
+  "kelurahan" : "Pekorea",
+  "kodepos" : "93573"
+}, {
+  "kecamatan" : "Lambandia (Lambadia)",
+  "kelurahan" : "Lowa",
+  "kodepos" : "93573"
+}, {
+  "kecamatan" : "Lambandia (Lambadia)",
+  "kelurahan" : "Mokupa",
+  "kodepos" : "93573"
+}, {
+  "kecamatan" : "Ladongi",
+  "kelurahan" : "Lembah Subur",
+  "kodepos" : "93573"
+}, {
+  "kecamatan" : "Lambandia (Lambadia)",
+  "kelurahan" : "Lambandia",
+  "kodepos" : "93573"
+}, {
+  "kecamatan" : "Lambandia (Lambadia)",
+  "kelurahan" : "Lere Jaya",
+  "kodepos" : "93573"
+}, {
+  "kecamatan" : "Ladongi",
+  "kelurahan" : "Lalowosula/Lalowosuka",
+  "kodepos" : "93573"
+}, {
+  "kecamatan" : "Lambandia (Lambadia)",
+  "kelurahan" : "Lalolere",
+  "kodepos" : "93573"
+}, {
+  "kecamatan" : "Ladongi",
+  "kelurahan" : "Ladongi (Jaya)",
+  "kodepos" : "93573"
+}, {
+  "kecamatan" : "Lambandia (Lambadia)",
+  "kelurahan" : "Iwoimenggura",
+  "kodepos" : "93573"
+}, {
+  "kecamatan" : "Lambandia (Lambadia)",
+  "kelurahan" : "Inotu",
+  "kodepos" : "93573"
+}, {
+  "kecamatan" : "Lambandia (Lambadia)",
+  "kelurahan" : "Iwoimea Jaya",
+  "kodepos" : "93573"
+}, {
+  "kecamatan" : "Ladongi",
+  "kelurahan" : "Gunung Jaya",
+  "kodepos" : "93573"
+}, {
+  "kecamatan" : "Lambandia (Lambadia)",
+  "kelurahan" : "Bou",
+  "kodepos" : "93573"
+}, {
+  "kecamatan" : "Ladongi",
+  "kelurahan" : "Dangia",
+  "kodepos" : "93573"
+}, {
+  "kecamatan" : "Lambandia (Lambadia)",
+  "kelurahan" : "Atolanu",
+  "kodepos" : "93573"
+}, {
+  "kecamatan" : "Lambandia (Lambadia)",
+  "kelurahan" : "Awiu",
+  "kodepos" : "93573"
+}, {
+  "kecamatan" : "Ladongi",
+  "kelurahan" : "Anggaloosi",
+  "kodepos" : "93573"
+}, {
+  "kecamatan" : "Ladongi",
+  "kelurahan" : "Atula",
+  "kodepos" : "93573"
+}, {
+  "kecamatan" : "Poli Polia",
+  "kelurahan" : "Andowengga",
+  "kodepos" : "93573"
+}, {
+  "kecamatan" : "Lambandia (Lambadia)",
+  "kelurahan" : "Aere",
+  "kodepos" : "93573"
+}, {
+  "kecamatan" : "Lambandia (Lambadia)",
+  "kelurahan" : "Aladadio",
+  "kodepos" : "93573"
+}, {
+  "kecamatan" : "Tirawuta",
+  "kelurahan" : "Woiha",
+  "kodepos" : "93572"
+}, {
+  "kecamatan" : "Lalolae",
+  "kelurahan" : "Wesalo",
+  "kodepos" : "93572"
+}, {
+  "kecamatan" : "Tirawuta",
+  "kelurahan" : "Tumbudadio",
+  "kodepos" : "93572"
+}, {
+  "kecamatan" : "Loea",
+  "kelurahan" : "Teposua",
+  "kodepos" : "93572"
+}, {
+  "kecamatan" : "Tirawuta",
+  "kelurahan" : "Tirawuta",
+  "kodepos" : "93572"
+}, {
+  "kecamatan" : "Tirawuta",
+  "kelurahan" : "Tasaeha/Tasahea",
+  "kodepos" : "93572"
+}, {
+  "kecamatan" : "Tirawuta",
+  "kelurahan" : "Tawainalu",
+  "kodepos" : "93572"
+}, {
+  "kecamatan" : "Lalolae",
+  "kelurahan" : "Talodo",
+  "kodepos" : "93572"
+}, {
+  "kecamatan" : "Tirawuta",
+  "kelurahan" : "Simbune",
+  "kodepos" : "93572"
+}, {
+  "kecamatan" : "Loea",
+  "kelurahan" : "Simbalai/Simbalae",
+  "kodepos" : "93572"
+}, {
+  "kecamatan" : "Tirawuta",
+  "kelurahan" : "Rate-Rate",
+  "kodepos" : "93572"
+}, {
+  "kecamatan" : "Tirawuta",
+  "kelurahan" : "Roko Roko",
+  "kodepos" : "93572"
+}, {
+  "kecamatan" : "Loea",
+  "kelurahan" : "Loea",
+  "kodepos" : "93572"
+}, {
+  "kecamatan" : "Tirawuta",
+  "kelurahan" : "Poni Poniki",
+  "kodepos" : "93572"
+}, {
+  "kecamatan" : "Tirawuta",
+  "kelurahan" : "Lara",
+  "kodepos" : "93572"
+}, {
+  "kecamatan" : "Loea",
+  "kelurahan" : "Peatoa",
+  "kodepos" : "93572"
+}, {
+  "kecamatan" : "Loea",
+  "kelurahan" : "Lalowura",
+  "kodepos" : "93572"
+}, {
+  "kecamatan" : "Tirawuta",
+  "kelurahan" : "Orawa",
+  "kodepos" : "93572"
+}, {
+  "kecamatan" : "Loea",
+  "kelurahan" : "Lamoare",
+  "kodepos" : "93572"
+}, {
+  "kecamatan" : "Loea",
+  "kelurahan" : "Mataiwoi",
+  "kodepos" : "93572"
+}, {
+  "kecamatan" : "Lalolae",
+  "kelurahan" : "Lalolae",
+  "kodepos" : "93572"
+}, {
+  "kecamatan" : "Tirawuta",
+  "kelurahan" : "Loka",
+  "kodepos" : "93572"
+}, {
+  "kecamatan" : "Lalolae",
+  "kelurahan" : "Lalosingi",
+  "kodepos" : "93572"
+}, {
+  "kecamatan" : "Tirawuta",
+  "kelurahan" : "Lalingato",
+  "kodepos" : "93572"
+}, {
+  "kecamatan" : "Loea",
+  "kelurahan" : "Iwoikondo",
+  "kodepos" : "93572"
+}, {
+  "kecamatan" : "Lalolae",
+  "kelurahan" : "Keisio",
+  "kodepos" : "93572"
+}, {
+  "kecamatan" : "Mowewe",
+  "kelurahan" : "Woitombo",
+  "kodepos" : "93571"
+}, {
+  "kecamatan" : "Mowewe",
+  "kelurahan" : "Watupute",
+  "kodepos" : "93571"
+}, {
+  "kecamatan" : "Tinondo",
+  "kelurahan" : "Weamo",
+  "kodepos" : "93571"
+}, {
+  "kecamatan" : "Mowewe",
+  "kelurahan" : "Ulu Mowewe",
+  "kodepos" : "93571"
+}, {
+  "kecamatan" : "Tinondo",
+  "kelurahan" : "Tinondo",
+  "kodepos" : "93571"
+}, {
+  "kecamatan" : "Tinondo",
+  "kelurahan" : "Solewatu",
+  "kodepos" : "93571"
+}, {
+  "kecamatan" : "Tinondo",
+  "kelurahan" : "Talata",
+  "kodepos" : "93571"
+}, {
+  "kecamatan" : "Tinondo",
+  "kelurahan" : "Tawarombadaka",
+  "kodepos" : "93571"
+}, {
+  "kecamatan" : "Mowewe",
+  "kelurahan" : "Nelombu",
+  "kodepos" : "93571"
+}, {
+  "kecamatan" : "Mowewe",
+  "kelurahan" : "Puosu",
+  "kodepos" : "93571"
+}, {
+  "kecamatan" : "Tinondo",
+  "kelurahan" : "Lamunde",
+  "kodepos" : "93571"
+}, {
+  "kecamatan" : "Mowewe",
+  "kelurahan" : "Lapangisi",
+  "kodepos" : "93571"
+}, {
+  "kecamatan" : "Mowewe",
+  "kelurahan" : "Horodopi",
+  "kodepos" : "93571"
+}, {
+  "kecamatan" : "Mowewe",
+  "kelurahan" : "Inebenggi",
+  "kodepos" : "93571"
+}, {
+  "kecamatan" : "Tinondo",
+  "kelurahan" : "Ameroro",
+  "kodepos" : "93571"
+}, {
+  "kecamatan" : "Polinggona",
+  "kelurahan" : "Wulonggere",
+  "kodepos" : "93563"
+}, {
+  "kecamatan" : "Tinondo",
+  "kelurahan" : "Ambapa",
+  "kodepos" : "93571"
+}, {
+  "kecamatan" : "Toari",
+  "kelurahan" : "Wowoli",
+  "kodepos" : "93563"
+}, {
+  "kecamatan" : "Watumbangga (Watubanggo)",
+  "kelurahan" : "Wolulu",
+  "kodepos" : "93563"
+}, {
+  "kecamatan" : "Tanggetada",
+  "kelurahan" : "Tondowolio",
+  "kodepos" : "93563"
+}, {
+  "kecamatan" : "Watumbangga (Watubanggo)",
+  "kelurahan" : "Watubanggo",
+  "kodepos" : "93563"
+}, {
+  "kecamatan" : "Toari",
+  "kelurahan" : "Toari",
+  "kodepos" : "93563"
+}, {
+  "kecamatan" : "Tanggetada",
+  "kelurahan" : "Tanggetada",
+  "kodepos" : "93563"
+}, {
+  "kecamatan" : "Polinggona",
+  "kelurahan" : "Tanggeau",
+  "kodepos" : "93563"
+}, {
+  "kecamatan" : "Watumbangga (Watubanggo)",
+  "kelurahan" : "Sumber Rezeki",
+  "kodepos" : "93563"
+}, {
+  "kecamatan" : "Watumbangga (Watubanggo)",
+  "kelurahan" : "Tandebura (Tandai Bura)",
+  "kodepos" : "93563"
+}, {
+  "kecamatan" : "Toari",
+  "kelurahan" : "Rano jaya",
+  "kodepos" : "93563"
+}, {
+  "kecamatan" : "Toari",
+  "kelurahan" : "Ranomentaa",
+  "kodepos" : "93563"
+}, {
+  "kecamatan" : "Tanggetada",
+  "kelurahan" : "Puundaipa",
+  "kodepos" : "93563"
+}, {
+  "kecamatan" : "Tanggetada",
+  "kelurahan" : "Rahanggada",
+  "kodepos" : "93563"
+}, {
+  "kecamatan" : "Polinggona",
+  "kelurahan" : "Puudongi",
+  "kodepos" : "93563"
+}, {
+  "kecamatan" : "Tanggetada",
+  "kelurahan" : "Powisoa Jaya (Pewisoa Jaya)",
+  "kodepos" : "93563"
+}, {
+  "kecamatan" : "Polinggona",
+  "kelurahan" : "Pondouwae",
+  "kodepos" : "93563"
+}, {
+  "kecamatan" : "Tanggetada",
+  "kelurahan" : "Popalia",
+  "kodepos" : "93563"
+}, {
+  "kecamatan" : "Polinggona",
+  "kelurahan" : "Polinggona",
+  "kodepos" : "93563"
+}, {
+  "kecamatan" : "Watumbangga (Watubanggo)",
+  "kelurahan" : "Polenga (Tirawuta)",
+  "kodepos" : "93563"
+}, {
+  "kecamatan" : "Polinggona",
+  "kelurahan" : "Plasma Jaya",
+  "kodepos" : "93563"
+}, {
+  "kecamatan" : "Tanggetada",
+  "kelurahan" : "Petudua",
+  "kodepos" : "93563"
+}, {
+  "kecamatan" : "Watumbangga (Watubanggo)",
+  "kelurahan" : "Peoho",
+  "kodepos" : "93563"
+}, {
+  "kecamatan" : "Tanggetada",
+  "kelurahan" : "Palewai",
+  "kodepos" : "93563"
+}, {
+  "kecamatan" : "Tanggetada",
+  "kelurahan" : "Oneeha",
+  "kodepos" : "93563"
+}, {
+  "kecamatan" : "Watumbangga (Watubanggo)",
+  "kelurahan" : "Mata Osu",
+  "kodepos" : "93563"
+}, {
+  "kecamatan" : "Watumbangga (Watubanggo)",
+  "kelurahan" : "Lamunde",
+  "kodepos" : "93563"
+}, {
+  "kecamatan" : "Watumbangga (Watubanggo)",
+  "kelurahan" : "Longgosipi",
+  "kodepos" : "93563"
+}, {
+  "kecamatan" : "Tanggetada",
+  "kelurahan" : "Lalonggolosua",
+  "kodepos" : "93563"
+}, {
+  "kecamatan" : "Tanggetada",
+  "kelurahan" : "Lamedai",
+  "kodepos" : "93563"
+}, {
+  "kecamatan" : "Toari",
+  "kelurahan" : "Anawua",
+  "kodepos" : "93563"
+}, {
+  "kecamatan" : "Tanggetada",
+  "kelurahan" : "Lamoiko",
+  "kodepos" : "93563"
+}, {
+  "kecamatan" : "Tanggetada",
+  "kelurahan" : "Anaiwoi",
+  "kodepos" : "93563"
+}, {
+  "kecamatan" : "Toari",
+  "kelurahan" : "Lakito",
+  "kodepos" : "93563"
+}, {
+  "kecamatan" : "Pomalaa",
+  "kelurahan" : "Tambea",
+  "kodepos" : "93562"
+}, {
+  "kecamatan" : "Watumbangga (Watubanggo)",
+  "kelurahan" : "Kukutio",
+  "kodepos" : "93563"
+}, {
+  "kecamatan" : "Pomalaa",
+  "kelurahan" : "Tonggoni",
+  "kodepos" : "93562"
+}, {
+  "kecamatan" : "Watumbangga (Watubanggo)",
+  "kelurahan" : "Gunung Sari",
+  "kodepos" : "93563"
+}, {
+  "kecamatan" : "Pomalaa",
+  "kelurahan" : "Totobo",
+  "kodepos" : "93562"
+}, {
+  "kecamatan" : "Watumbangga (Watubanggo)",
+  "kelurahan" : "Kastura",
+  "kodepos" : "93563"
+}, {
+  "kecamatan" : "Pomalaa",
+  "kelurahan" : "Pomalaa",
+  "kodepos" : "93562"
+}, {
+  "kecamatan" : "Pomalaa",
+  "kelurahan" : "Sopura",
+  "kodepos" : "93562"
+}, {
+  "kecamatan" : "Pomalaa",
+  "kelurahan" : "Pelambua",
+  "kodepos" : "93562"
+}, {
+  "kecamatan" : "Wundulako",
+  "kelurahan" : "Tikonu",
+  "kodepos" : "93561"
+}, {
+  "kecamatan" : "Pomalaa",
+  "kelurahan" : "Pesouha",
+  "kodepos" : "93562"
+}, {
+  "kecamatan" : "Baula",
+  "kelurahan" : "Puundoho",
+  "kodepos" : "93561"
+}, {
+  "kecamatan" : "Pomalaa",
+  "kelurahan" : "Kumoro",
+  "kodepos" : "93562"
+}, {
+  "kecamatan" : "Baula",
+  "kelurahan" : "Puuroda",
+  "kodepos" : "93561"
+}, {
+  "kecamatan" : "Pomalaa",
+  "kelurahan" : "Oko Oko",
+  "kodepos" : "93562"
+}, {
+  "kecamatan" : "Baula",
+  "kelurahan" : "Puulemo",
+  "kodepos" : "93561"
+}, {
+  "kecamatan" : "Pomalaa",
+  "kelurahan" : "Dawi-Dawi",
+  "kodepos" : "93562"
+}, {
+  "kecamatan" : "Baula",
+  "kelurahan" : "Puubenua",
+  "kodepos" : "93561"
+}, {
+  "kecamatan" : "Pomalaa",
+  "kelurahan" : "Hakatutobu",
+  "kodepos" : "93562"
+}, {
+  "kecamatan" : "Baula",
+  "kelurahan" : "Puubunga",
+  "kodepos" : "93561"
+}, {
+  "kecamatan" : "Pomalaa",
+  "kelurahan" : "Huko Huko",
+  "kodepos" : "93562"
+}, {
+  "kecamatan" : "Wundulako",
+  "kelurahan" : "Ngapa",
+  "kodepos" : "93561"
+}, {
+  "kecamatan" : "Wundulako",
+  "kelurahan" : "Wundulako",
+  "kodepos" : "93561"
+}, {
+  "kecamatan" : "Baula",
+  "kelurahan" : "Pewutaa",
+  "kodepos" : "93561"
+}, {
+  "kecamatan" : "Wundulako",
+  "kelurahan" : "Towua I",
+  "kodepos" : "93561"
+}, {
+  "kecamatan" : "Wundulako",
+  "kelurahan" : "Lamekongga",
+  "kodepos" : "93561"
+}, {
+  "kecamatan" : "Wundulako",
+  "kelurahan" : "Una Mendaa",
+  "kodepos" : "93561"
+}, {
+  "kecamatan" : "Baula",
+  "kelurahan" : "Longori / Langori",
+  "kodepos" : "93561"
+}, {
+  "kecamatan" : "Wolo",
+  "kelurahan" : "Tamborasi",
+  "kodepos" : "93552"
+}, {
+  "kecamatan" : "Baula",
+  "kelurahan" : "Watalara",
+  "kodepos" : "93561"
+}, {
+  "kecamatan" : "Wundulako",
+  "kelurahan" : "Bende",
+  "kodepos" : "93561"
+}, {
+  "kecamatan" : "Wolo",
+  "kelurahan" : "Lasiroku",
+  "kodepos" : "93552"
+}, {
+  "kecamatan" : "Wundulako",
+  "kelurahan" : "Tikonu",
+  "kodepos" : "93561"
+}, {
+  "kecamatan" : "Wundulako",
+  "kelurahan" : "Kowioha",
+  "kodepos" : "93561"
+}, {
+  "kecamatan" : "Wolo",
+  "kelurahan" : "Muara Lapao Pao",
+  "kodepos" : "93552"
+}, {
+  "kecamatan" : "Wundulako",
+  "kelurahan" : "Sabiano",
+  "kodepos" : "93561"
+}, {
+  "kecamatan" : "Baula",
+  "kelurahan" : "Baula",
+  "kodepos" : "93561"
+}, {
+  "kecamatan" : "Wolo",
+  "kelurahan" : "Langgomali",
+  "kodepos" : "93552"
+}, {
+  "kecamatan" : "Wundulako",
+  "kelurahan" : "19 Nopember",
+  "kodepos" : "93561"
+}, {
+  "kecamatan" : "Wolo",
+  "kelurahan" : "Lapao-Pao",
+  "kodepos" : "93552"
+}, {
+  "kecamatan" : "Wolo",
+  "kelurahan" : "Ulu Wolo",
+  "kodepos" : "93552"
+}, {
+  "kecamatan" : "Wolo",
+  "kelurahan" : "Lalonggopi",
+  "kodepos" : "93552"
+}, {
+  "kecamatan" : "Wolo",
+  "kelurahan" : "Wolo",
+  "kodepos" : "93552"
+}, {
+  "kecamatan" : "Wolo",
+  "kelurahan" : "Lambopini",
+  "kodepos" : "93552"
+}, {
+  "kecamatan" : "Wolo",
+  "kelurahan" : "Tolowe Pondre",
+  "kodepos" : "93552"
+}, {
+  "kecamatan" : "Wolo",
+  "kelurahan" : "Lana",
+  "kodepos" : "93552"
+}, {
+  "kecamatan" : "Wolo",
+  "kelurahan" : "Ulu Kalo",
+  "kodepos" : "93552"
+}, {
+  "kecamatan" : "Wolo",
+  "kelurahan" : "Ladahai",
+  "kodepos" : "93552"
+}, {
+  "kecamatan" : "Wolo",
+  "kelurahan" : "Ulu Lapao-Pao",
+  "kodepos" : "93552"
+}, {
+  "kecamatan" : "Wolo",
+  "kelurahan" : "Lalonaha",
+  "kodepos" : "93552"
+}, {
+  "kecamatan" : "Wolo",
+  "kelurahan" : "Samaenre",
+  "kodepos" : "93552"
+}, {
+  "kecamatan" : "Wolo",
+  "kelurahan" : "Iwoimenda",
+  "kodepos" : "93552"
+}, {
+  "kecamatan" : "Wolo",
+  "kelurahan" : "Iwoimopuro",
+  "kodepos" : "93552"
+}, {
+  "kecamatan" : "Wolo",
+  "kelurahan" : "Donggala",
+  "kodepos" : "93552"
+}, {
+  "kecamatan" : "Kolaka",
+  "kelurahan" : "Lalombaa",
+  "kodepos" : "93518"
+}, {
+  "kecamatan" : "Kolaka",
+  "kelurahan" : "Sabilambo",
+  "kodepos" : "93519"
+}, {
+  "kecamatan" : "Latambaga",
+  "kelurahan" : "Kolakaasih",
+  "kodepos" : "93512"
+}, {
+  "kecamatan" : "Latambaga",
+  "kelurahan" : "Sea",
+  "kodepos" : "93514"
+}, {
+  "kecamatan" : "Latambaga",
+  "kelurahan" : "Mangolo",
+  "kodepos" : "93512"
+}, {
+  "kecamatan" : "Kolaka",
+  "kelurahan" : "Watuliandu",
+  "kodepos" : "93515"
+}, {
+  "kecamatan" : "Latambaga",
+  "kelurahan" : "Ulunggolaka",
+  "kodepos" : "93512"
+}, {
+  "kecamatan" : "Kolaka",
+  "kelurahan" : "Balandete",
+  "kodepos" : "93517"
+}, {
+  "kecamatan" : "Latambaga",
+  "kelurahan" : "Induha",
+  "kodepos" : "93512"
+}, {
+  "kecamatan" : "Latambaga",
+  "kelurahan" : "Latambaga",
+  "kodepos" : "93514"
+}, {
+  "kecamatan" : "Kolaka",
+  "kelurahan" : "Tahoa",
+  "kodepos" : "93511"
+}, {
+  "kecamatan" : "Latambaga",
+  "kelurahan" : "Sakuli",
+  "kodepos" : "93514"
+}, {
+  "kecamatan" : "Kolaka",
+  "kelurahan" : "Laloeha",
+  "kodepos" : "93511"
+}, {
+  "kecamatan" : "Kolaka",
+  "kelurahan" : "Lamokato",
+  "kodepos" : "93511"
+} ]

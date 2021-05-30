@@ -1,0 +1,705 @@
+[ {
+  "kecamatan" : "Keera",
+  "kelurahan" : "Paojepe",
+  "kodepos" : "90993"
+}, {
+  "kecamatan" : "Keera",
+  "kelurahan" : "Pattirolokka",
+  "kodepos" : "90993"
+}, {
+  "kecamatan" : "Keera",
+  "kelurahan" : "Labawang",
+  "kodepos" : "90993"
+}, {
+  "kecamatan" : "Keera",
+  "kelurahan" : "Lalliseng",
+  "kodepos" : "90993"
+}, {
+  "kecamatan" : "Keera",
+  "kelurahan" : "Ciromanie",
+  "kodepos" : "90993"
+}, {
+  "kecamatan" : "Keera",
+  "kelurahan" : "Inrello",
+  "kodepos" : "90993"
+}, {
+  "kecamatan" : "Keera",
+  "kelurahan" : "Keera",
+  "kodepos" : "90993"
+}, {
+  "kecamatan" : "Keera",
+  "kelurahan" : "Awota",
+  "kodepos" : "90993"
+}, {
+  "kecamatan" : "Keera",
+  "kelurahan" : "Ballaere (Ballere)",
+  "kodepos" : "90993"
+}, {
+  "kecamatan" : "Pitumpanua",
+  "kelurahan" : "Tobarakka",
+  "kodepos" : "90992"
+}, {
+  "kecamatan" : "Keera",
+  "kelurahan" : "Awo",
+  "kodepos" : "90993"
+}, {
+  "kecamatan" : "Pitumpanua",
+  "kelurahan" : "Tangkoro",
+  "kodepos" : "90992"
+}, {
+  "kecamatan" : "Pitumpanua",
+  "kelurahan" : "Tanrongi",
+  "kodepos" : "90992"
+}, {
+  "kecamatan" : "Pitumpanua",
+  "kelurahan" : "Tellesang",
+  "kodepos" : "90992"
+}, {
+  "kecamatan" : "Pitumpanua",
+  "kelurahan" : "Siwa",
+  "kodepos" : "90992"
+}, {
+  "kecamatan" : "Pitumpanua",
+  "kelurahan" : "Marannu",
+  "kodepos" : "90992"
+}, {
+  "kecamatan" : "Pitumpanua",
+  "kelurahan" : "Simpellu",
+  "kodepos" : "90992"
+}, {
+  "kecamatan" : "Pitumpanua",
+  "kelurahan" : "Lauwa",
+  "kodepos" : "90992"
+}, {
+  "kecamatan" : "Pitumpanua",
+  "kelurahan" : "Lompoloang",
+  "kodepos" : "90992"
+}, {
+  "kecamatan" : "Pitumpanua",
+  "kelurahan" : "Benteng",
+  "kodepos" : "90992"
+}, {
+  "kecamatan" : "Pitumpanua",
+  "kelurahan" : "Bulete",
+  "kodepos" : "90992"
+}, {
+  "kecamatan" : "Pitumpanua",
+  "kelurahan" : "Abbanderangnge",
+  "kodepos" : "90992"
+}, {
+  "kecamatan" : "Pitumpanua",
+  "kelurahan" : "Alesilurunge",
+  "kodepos" : "90992"
+}, {
+  "kecamatan" : "Pitumpanua",
+  "kelurahan" : "Batu",
+  "kodepos" : "90992"
+}, {
+  "kecamatan" : "Majauleng",
+  "kelurahan" : "Watan Rumpia",
+  "kodepos" : "90991"
+}, {
+  "kecamatan" : "Majauleng",
+  "kelurahan" : "Tosora",
+  "kodepos" : "90991"
+}, {
+  "kecamatan" : "Majauleng",
+  "kelurahan" : "Tua",
+  "kodepos" : "90991"
+}, {
+  "kecamatan" : "Majauleng",
+  "kelurahan" : "Uraiang",
+  "kodepos" : "90991"
+}, {
+  "kecamatan" : "Majauleng",
+  "kelurahan" : "Tellu Limpoe",
+  "kodepos" : "90991"
+}, {
+  "kecamatan" : "Majauleng",
+  "kelurahan" : "Tengnga",
+  "kodepos" : "90991"
+}, {
+  "kecamatan" : "Majauleng",
+  "kelurahan" : "Rumpia",
+  "kodepos" : "90991"
+}, {
+  "kecamatan" : "Majauleng",
+  "kelurahan" : "Tajo",
+  "kodepos" : "90991"
+}, {
+  "kecamatan" : "Majauleng",
+  "kelurahan" : "Liu",
+  "kodepos" : "90991"
+}, {
+  "kecamatan" : "Majauleng",
+  "kelurahan" : "Macanang",
+  "kodepos" : "90991"
+}, {
+  "kecamatan" : "Majauleng",
+  "kelurahan" : "Paria",
+  "kodepos" : "90991"
+}, {
+  "kecamatan" : "Majauleng",
+  "kelurahan" : "Lamiku",
+  "kodepos" : "90991"
+}, {
+  "kecamatan" : "Majauleng",
+  "kelurahan" : "Limpo Majang",
+  "kodepos" : "90991"
+}, {
+  "kecamatan" : "Majauleng",
+  "kelurahan" : "Laerung",
+  "kodepos" : "90991"
+}, {
+  "kecamatan" : "Majauleng",
+  "kelurahan" : "Cinnong Tabi",
+  "kodepos" : "90991"
+}, {
+  "kecamatan" : "Majauleng",
+  "kelurahan" : "Botto Penno",
+  "kodepos" : "90991"
+}, {
+  "kecamatan" : "Majauleng",
+  "kelurahan" : "Botto Tanre",
+  "kodepos" : "90991"
+}, {
+  "kecamatan" : "Majauleng",
+  "kelurahan" : "Botto Benteng",
+  "kodepos" : "90991"
+}, {
+  "kecamatan" : "Bola",
+  "kelurahan" : "Ujung Tanah",
+  "kodepos" : "90984"
+}, {
+  "kecamatan" : "Bola",
+  "kelurahan" : "Rajamawelang (Rajamawellang)",
+  "kodepos" : "90984"
+}, {
+  "kecamatan" : "Bola",
+  "kelurahan" : "Sanreseng Ade",
+  "kodepos" : "90984"
+}, {
+  "kecamatan" : "Bola",
+  "kelurahan" : "Solo",
+  "kodepos" : "90984"
+}, {
+  "kecamatan" : "Bola",
+  "kelurahan" : "Pasir Putih",
+  "kodepos" : "90984"
+}, {
+  "kecamatan" : "Bola",
+  "kelurahan" : "Pattangngae (Patangae)",
+  "kodepos" : "90984"
+}, {
+  "kecamatan" : "Bola",
+  "kelurahan" : "Lempong",
+  "kodepos" : "90984"
+}, {
+  "kecamatan" : "Bola",
+  "kelurahan" : "Manurung",
+  "kodepos" : "90984"
+}, {
+  "kecamatan" : "Bola",
+  "kelurahan" : "Bola",
+  "kodepos" : "90984"
+}, {
+  "kecamatan" : "Bola",
+  "kelurahan" : "Lattimu",
+  "kodepos" : "90984"
+}, {
+  "kecamatan" : "Penrang",
+  "kelurahan" : "Walanga",
+  "kodepos" : "90983"
+}, {
+  "kecamatan" : "Penrang",
+  "kelurahan" : "Makmur",
+  "kodepos" : "90983"
+}, {
+  "kecamatan" : "Bola",
+  "kelurahan" : "Balielo",
+  "kodepos" : "90984"
+}, {
+  "kecamatan" : "Penrang",
+  "kelurahan" : "Padaelo",
+  "kodepos" : "90983"
+}, {
+  "kecamatan" : "Penrang",
+  "kelurahan" : "Temmabarang",
+  "kodepos" : "90983"
+}, {
+  "kecamatan" : "Penrang",
+  "kelurahan" : "Doping",
+  "kodepos" : "90983"
+}, {
+  "kecamatan" : "Penrang",
+  "kelurahan" : "Penrang",
+  "kodepos" : "90983"
+}, {
+  "kecamatan" : "Penrang",
+  "kelurahan" : "Lawesso",
+  "kodepos" : "90983"
+}, {
+  "kecamatan" : "Penrang",
+  "kelurahan" : "Raddae",
+  "kodepos" : "90983"
+}, {
+  "kecamatan" : "Penrang",
+  "kelurahan" : "Benteng",
+  "kodepos" : "90983"
+}, {
+  "kecamatan" : "Penrang",
+  "kelurahan" : "Tadang Palie",
+  "kodepos" : "90983"
+}, {
+  "kecamatan" : "Sajoanging",
+  "kelurahan" : "Salobulo",
+  "kodepos" : "90982"
+}, {
+  "kecamatan" : "Sajoanging",
+  "kelurahan" : "Towalida",
+  "kodepos" : "90982"
+}, {
+  "kecamatan" : "Sajoanging",
+  "kelurahan" : "Minangae",
+  "kodepos" : "90982"
+}, {
+  "kecamatan" : "Sajoanging",
+  "kelurahan" : "Sakkoli",
+  "kodepos" : "90982"
+}, {
+  "kecamatan" : "Sajoanging",
+  "kelurahan" : "Assorajange",
+  "kodepos" : "90982"
+}, {
+  "kecamatan" : "Sajoanging",
+  "kelurahan" : "Barangmamase",
+  "kodepos" : "90982"
+}, {
+  "kecamatan" : "Sajoanging",
+  "kelurahan" : "Akkotengeng",
+  "kodepos" : "90982"
+}, {
+  "kecamatan" : "Sajoanging",
+  "kelurahan" : "Alewadeng",
+  "kodepos" : "90982"
+}, {
+  "kecamatan" : "Takkalalla",
+  "kelurahan" : "Soro",
+  "kodepos" : "90981"
+}, {
+  "kecamatan" : "Sajoanging",
+  "kelurahan" : "Akkajeng",
+  "kodepos" : "90982"
+}, {
+  "kecamatan" : "Takkalalla",
+  "kelurahan" : "Lagoari",
+  "kodepos" : "90981"
+}, {
+  "kecamatan" : "Takkalalla",
+  "kelurahan" : "Parigi",
+  "kodepos" : "90981"
+}, {
+  "kecamatan" : "Takkalalla",
+  "kelurahan" : "Lamarua",
+  "kodepos" : "90981"
+}, {
+  "kecamatan" : "Takkalalla",
+  "kelurahan" : "Peneki",
+  "kodepos" : "90981"
+}, {
+  "kecamatan" : "Takkalalla",
+  "kelurahan" : "Botto",
+  "kodepos" : "90981"
+}, {
+  "kecamatan" : "Takkalalla",
+  "kelurahan" : "Leweng",
+  "kodepos" : "90981"
+}, {
+  "kecamatan" : "Takkalalla",
+  "kelurahan" : "Ceppaga",
+  "kodepos" : "90981"
+}, {
+  "kecamatan" : "Takkalalla",
+  "kelurahan" : "Manyili",
+  "kodepos" : "90981"
+}, {
+  "kecamatan" : "Takkalalla",
+  "kelurahan" : "Bocco",
+  "kodepos" : "90981"
+}, {
+  "kecamatan" : "Takkalalla",
+  "kelurahan" : "Pantai Timur",
+  "kodepos" : "90981"
+}, {
+  "kecamatan" : "Takkalalla",
+  "kelurahan" : "Aluppang",
+  "kodepos" : "90981"
+}, {
+  "kecamatan" : "Pammana",
+  "kelurahan" : "Wecudai",
+  "kodepos" : "90971"
+}, {
+  "kecamatan" : "Takkalalla",
+  "kelurahan" : "Ajuraja",
+  "kodepos" : "90981"
+}, {
+  "kecamatan" : "Pammana",
+  "kelurahan" : "Tobatang",
+  "kodepos" : "90971"
+}, {
+  "kecamatan" : "Pammana",
+  "kelurahan" : "Watampanua",
+  "kodepos" : "90971"
+}, {
+  "kecamatan" : "Pammana",
+  "kelurahan" : "Simpursia (Simpurusia)",
+  "kodepos" : "90971"
+}, {
+  "kecamatan" : "Pammana",
+  "kelurahan" : "Tadang Palie",
+  "kodepos" : "90971"
+}, {
+  "kecamatan" : "Pammana",
+  "kelurahan" : "Pammana",
+  "kodepos" : "90971"
+}, {
+  "kecamatan" : "Pammana",
+  "kelurahan" : "Patila",
+  "kodepos" : "90971"
+}, {
+  "kecamatan" : "Pammana",
+  "kelurahan" : "Pallawarukka",
+  "kodepos" : "90971"
+}, {
+  "kecamatan" : "Pammana",
+  "kelurahan" : "Lempa",
+  "kodepos" : "90971"
+}, {
+  "kecamatan" : "Pammana",
+  "kelurahan" : "Lampulung",
+  "kodepos" : "90971"
+}, {
+  "kecamatan" : "Pammana",
+  "kelurahan" : "Lapaukke",
+  "kodepos" : "90971"
+}, {
+  "kecamatan" : "Pammana",
+  "kelurahan" : "Kampiri",
+  "kodepos" : "90971"
+}, {
+  "kecamatan" : "Pammana",
+  "kelurahan" : "Lagosi",
+  "kodepos" : "90971"
+}, {
+  "kecamatan" : "Pammana",
+  "kelurahan" : "Abbanuange",
+  "kodepos" : "90971"
+}, {
+  "kecamatan" : "Pammana",
+  "kelurahan" : "Cina",
+  "kodepos" : "90971"
+}, {
+  "kecamatan" : "Sabbang Paru",
+  "kelurahan" : "Walennae (Walenae)",
+  "kodepos" : "90961"
+}, {
+  "kecamatan" : "Sabbang Paru",
+  "kelurahan" : "Worongnge",
+  "kodepos" : "90961"
+}, {
+  "kecamatan" : "Sabbang Paru",
+  "kelurahan" : "Ujungpero",
+  "kodepos" : "90961"
+}, {
+  "kecamatan" : "Sabbang Paru",
+  "kelurahan" : "Wage",
+  "kodepos" : "90961"
+}, {
+  "kecamatan" : "Sabbang Paru",
+  "kelurahan" : "Tolotenreng (Talotenreng)",
+  "kodepos" : "90961"
+}, {
+  "kecamatan" : "Sabbang Paru",
+  "kelurahan" : "Ugi",
+  "kodepos" : "90961"
+}, {
+  "kecamatan" : "Sabbang Paru",
+  "kelurahan" : "Sompe",
+  "kodepos" : "90961"
+}, {
+  "kecamatan" : "Sabbang Paru",
+  "kelurahan" : "Tadangpalie",
+  "kodepos" : "90961"
+}, {
+  "kecamatan" : "Sabbang Paru",
+  "kelurahan" : "Pasaka",
+  "kodepos" : "90961"
+}, {
+  "kecamatan" : "Sabbang Paru",
+  "kelurahan" : "Salotengnga",
+  "kodepos" : "90961"
+}, {
+  "kecamatan" : "Sabbang Paru",
+  "kelurahan" : "Pallimae",
+  "kodepos" : "90961"
+}, {
+  "kecamatan" : "Sabbang Paru",
+  "kelurahan" : "Liu",
+  "kodepos" : "90961"
+}, {
+  "kecamatan" : "Sabbang Paru",
+  "kelurahan" : "Mallusesalo",
+  "kodepos" : "90961"
+}, {
+  "kecamatan" : "Sabbang Paru",
+  "kelurahan" : "Benteng Lompoe",
+  "kodepos" : "90961"
+}, {
+  "kecamatan" : "Sabbang Paru",
+  "kelurahan" : "Bila",
+  "kodepos" : "90961"
+}, {
+  "kecamatan" : "Gilireng",
+  "kelurahan" : "Paselloreng",
+  "kodepos" : "90954"
+}, {
+  "kecamatan" : "Gilireng",
+  "kelurahan" : "Poleonro",
+  "kodepos" : "90954"
+}, {
+  "kecamatan" : "Gilireng",
+  "kelurahan" : "Polewalie",
+  "kodepos" : "90954"
+}, {
+  "kecamatan" : "Gilireng",
+  "kelurahan" : "Mamminasae (Maminasae)",
+  "kodepos" : "90954"
+}, {
+  "kecamatan" : "Gilireng",
+  "kelurahan" : "Gilireng",
+  "kodepos" : "90954"
+}, {
+  "kecamatan" : "Gilireng",
+  "kelurahan" : "Lamata",
+  "kodepos" : "90954"
+}, {
+  "kecamatan" : "Gilireng",
+  "kelurahan" : "Alausalo",
+  "kodepos" : "90954"
+}, {
+  "kecamatan" : "Gilireng",
+  "kelurahan" : "Arajang",
+  "kodepos" : "90954"
+}, {
+  "kecamatan" : "Gilireng",
+  "kelurahan" : "Abbatireng",
+  "kodepos" : "90954"
+}, {
+  "kecamatan" : "Belawa",
+  "kelurahan" : "Wele",
+  "kodepos" : "90953"
+}, {
+  "kecamatan" : "Belawa",
+  "kelurahan" : "Ongkoe",
+  "kodepos" : "90953"
+}, {
+  "kecamatan" : "Belawa",
+  "kelurahan" : "Sappa",
+  "kodepos" : "90953"
+}, {
+  "kecamatan" : "Belawa",
+  "kelurahan" : "Macero",
+  "kodepos" : "90953"
+}, {
+  "kecamatan" : "Belawa",
+  "kelurahan" : "Malangke (Malakke)",
+  "kodepos" : "90953"
+}, {
+  "kecamatan" : "Belawa",
+  "kelurahan" : "Lautang",
+  "kodepos" : "90953"
+}, {
+  "kecamatan" : "Belawa",
+  "kelurahan" : "Limpo Rilau",
+  "kodepos" : "90953"
+}, {
+  "kecamatan" : "Belawa",
+  "kelurahan" : "Belawa",
+  "kodepos" : "90953"
+}, {
+  "kecamatan" : "Maniang Pajo",
+  "kelurahan" : "Tangkoli",
+  "kodepos" : "90952"
+}, {
+  "kecamatan" : "Maniang Pajo",
+  "kelurahan" : "Minanga Tellue",
+  "kodepos" : "90952"
+}, {
+  "kecamatan" : "Maniang Pajo",
+  "kelurahan" : "Sogi",
+  "kodepos" : "90952"
+}, {
+  "kecamatan" : "Maniang Pajo",
+  "kelurahan" : "Kalola",
+  "kodepos" : "90952"
+}, {
+  "kecamatan" : "Maniang Pajo",
+  "kelurahan" : "Mattirowalie",
+  "kodepos" : "90952"
+}, {
+  "kecamatan" : "Maniang Pajo",
+  "kelurahan" : "Anabanua",
+  "kodepos" : "90952"
+}, {
+  "kecamatan" : "Maniang Pajo",
+  "kelurahan" : "Dua Limpoe",
+  "kodepos" : "90952"
+}, {
+  "kecamatan" : "Maniang Pajo",
+  "kelurahan" : "Abbanuange",
+  "kodepos" : "90952"
+}, {
+  "kecamatan" : "Tana Sitolo",
+  "kelurahan" : "Waetuwo",
+  "kodepos" : "90951"
+}, {
+  "kecamatan" : "Tana Sitolo",
+  "kelurahan" : "Wajoriaja",
+  "kodepos" : "90951"
+}, {
+  "kecamatan" : "Tana Sitolo",
+  "kelurahan" : "Wewangrewu",
+  "kodepos" : "90951"
+}, {
+  "kecamatan" : "Tana Sitolo",
+  "kelurahan" : "Ujung Baru",
+  "kodepos" : "90951"
+}, {
+  "kecamatan" : "Tana Sitolo",
+  "kelurahan" : "Ujunge",
+  "kodepos" : "90951"
+}, {
+  "kecamatan" : "Tana Sitolo",
+  "kelurahan" : "Tonralipue",
+  "kodepos" : "90951"
+}, {
+  "kecamatan" : "Tana Sitolo",
+  "kelurahan" : "Tancung",
+  "kodepos" : "90951"
+}, {
+  "kecamatan" : "Tana Sitolo",
+  "kelurahan" : "Pakkanna",
+  "kodepos" : "90951"
+}, {
+  "kecamatan" : "Tana Sitolo",
+  "kelurahan" : "Palippu",
+  "kodepos" : "90951"
+}, {
+  "kecamatan" : "Tana Sitolo",
+  "kelurahan" : "Pincengpute",
+  "kodepos" : "90951"
+}, {
+  "kecamatan" : "Tana Sitolo",
+  "kelurahan" : "Nepo",
+  "kodepos" : "90951"
+}, {
+  "kecamatan" : "Tana Sitolo",
+  "kelurahan" : "Pajalele",
+  "kodepos" : "90951"
+}, {
+  "kecamatan" : "Tana Sitolo",
+  "kelurahan" : "Mappadaelo",
+  "kodepos" : "90951"
+}, {
+  "kecamatan" : "Tana Sitolo",
+  "kelurahan" : "Mario",
+  "kodepos" : "90951"
+}, {
+  "kecamatan" : "Tana Sitolo",
+  "kelurahan" : "Lowa",
+  "kodepos" : "90951"
+}, {
+  "kecamatan" : "Tana Sitolo",
+  "kelurahan" : "Assorajang",
+  "kodepos" : "90951"
+}, {
+  "kecamatan" : "Tana Sitolo",
+  "kelurahan" : "Mannagae",
+  "kodepos" : "90951"
+}, {
+  "kecamatan" : "Tempe",
+  "kelurahan" : "Wiringpalennae",
+  "kodepos" : "90918"
+}, {
+  "kecamatan" : "Tana Sitolo",
+  "kelurahan" : "Baru Tancung",
+  "kodepos" : "90951"
+}, {
+  "kecamatan" : "Tempe",
+  "kelurahan" : "Mattirotappareng",
+  "kodepos" : "90918"
+}, {
+  "kecamatan" : "Tana Sitolo",
+  "kelurahan" : "Inalipue",
+  "kodepos" : "90951"
+}, {
+  "kecamatan" : "Tempe",
+  "kelurahan" : "Laelo",
+  "kodepos" : "90917"
+}, {
+  "kecamatan" : "Tempe",
+  "kelurahan" : "Salomenraleng",
+  "kodepos" : "90917"
+}, {
+  "kecamatan" : "Tempe",
+  "kelurahan" : "Sitampae",
+  "kodepos" : "90916"
+}, {
+  "kecamatan" : "Tempe",
+  "kelurahan" : "Atakkae",
+  "kodepos" : "90915"
+}, {
+  "kecamatan" : "Tempe",
+  "kelurahan" : "Siengkang",
+  "kodepos" : "90914"
+}, {
+  "kecamatan" : "Tempe",
+  "kelurahan" : "Padduppa",
+  "kodepos" : "90914"
+}, {
+  "kecamatan" : "Tempe",
+  "kelurahan" : "Pattirosompe",
+  "kodepos" : "90913"
+}, {
+  "kecamatan" : "Belawa",
+  "kelurahan" : "Leppangeng",
+  "kodepos" : "90913"
+}, {
+  "kecamatan" : "Tempe",
+  "kelurahan" : "Lapongkoda",
+  "kodepos" : "90913"
+}, {
+  "kecamatan" : "Tempe",
+  "kelurahan" : "Teddaopu",
+  "kodepos" : "90912"
+}, {
+  "kecamatan" : "Tempe",
+  "kelurahan" : "Tempe",
+  "kodepos" : "90911"
+}, {
+  "kecamatan" : "Tempe",
+  "kelurahan" : "Watallipue",
+  "kodepos" : "90911"
+}, {
+  "kecamatan" : "Tempe",
+  "kelurahan" : "Maddukkelleng",
+  "kodepos" : "90911"
+}, {
+  "kecamatan" : "Tempe",
+  "kelurahan" : "Cempalagi",
+  "kodepos" : "90911"
+}, {
+  "kecamatan" : "Tempe",
+  "kelurahan" : "Bulupabbulu",
+  "kodepos" : "90911"
+} ]

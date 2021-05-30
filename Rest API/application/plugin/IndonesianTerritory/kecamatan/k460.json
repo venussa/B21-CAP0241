@@ -1,0 +1,569 @@
+[ {
+  "kecamatan" : "Pegagan Hilir",
+  "kelurahan" : "Tanjung Saluksuk",
+  "kodepos" : "22283"
+}, {
+  "kecamatan" : "Pegagan Hilir",
+  "kelurahan" : "Simanduma",
+  "kodepos" : "22283"
+}, {
+  "kecamatan" : "Pegagan Hilir",
+  "kelurahan" : "Lingga Raja",
+  "kodepos" : "22283"
+}, {
+  "kecamatan" : "Pegagan Hilir",
+  "kelurahan" : "Onan Lama",
+  "kodepos" : "22283"
+}, {
+  "kecamatan" : "Pegagan Hilir",
+  "kelurahan" : "Bandar Huta Usang",
+  "kodepos" : "22283"
+}, {
+  "kecamatan" : "Pegagan Hilir",
+  "kelurahan" : "Bukittinggi",
+  "kodepos" : "22283"
+}, {
+  "kecamatan" : "Pegagan Hilir",
+  "kelurahan" : "Laksa",
+  "kodepos" : "22283"
+}, {
+  "kecamatan" : "Parbuluan",
+  "kelurahan" : "Parbuluan V",
+  "kodepos" : "22282"
+}, {
+  "kecamatan" : "Parbuluan",
+  "kelurahan" : "Parbuluan VI",
+  "kodepos" : "22282"
+}, {
+  "kecamatan" : "Parbuluan",
+  "kelurahan" : "Parbuluan II",
+  "kodepos" : "22282"
+}, {
+  "kecamatan" : "Parbuluan",
+  "kelurahan" : "Parbuluan III",
+  "kodepos" : "22282"
+}, {
+  "kecamatan" : "Parbuluan",
+  "kelurahan" : "Parbuluan IV",
+  "kodepos" : "22282"
+}, {
+  "kecamatan" : "Parbuluan",
+  "kelurahan" : "Lae Hole",
+  "kodepos" : "22282"
+}, {
+  "kecamatan" : "Parbuluan",
+  "kelurahan" : "Parbuluan I",
+  "kodepos" : "22282"
+}, {
+  "kecamatan" : "Sumbul",
+  "kelurahan" : "Tanjung Beringin",
+  "kodepos" : "22281"
+}, {
+  "kecamatan" : "Parbuluan",
+  "kelurahan" : "Bangun",
+  "kodepos" : "22282"
+}, {
+  "kecamatan" : "Lae Parira",
+  "kelurahan" : "Sumbul",
+  "kodepos" : "22281"
+}, {
+  "kecamatan" : "Silahi Sabungan",
+  "kelurahan" : "Silalahi II",
+  "kodepos" : "22281"
+}, {
+  "kecamatan" : "Silahi Sabungan",
+  "kelurahan" : "Silalahi III",
+  "kodepos" : "22281"
+}, {
+  "kecamatan" : "Lae Parira",
+  "kelurahan" : "Sempung Polling",
+  "kodepos" : "22281"
+}, {
+  "kecamatan" : "Silahi Sabungan",
+  "kelurahan" : "Silalahi I",
+  "kodepos" : "22281"
+}, {
+  "kecamatan" : "Sumbul",
+  "kelurahan" : "Pegagan Julu X",
+  "kodepos" : "22281"
+}, {
+  "kecamatan" : "Sumbul",
+  "kelurahan" : "Perjuangan",
+  "kodepos" : "22281"
+}, {
+  "kecamatan" : "Sumbul",
+  "kelurahan" : "Pegagan Julu VII",
+  "kodepos" : "22281"
+}, {
+  "kecamatan" : "Sumbul",
+  "kelurahan" : "Pegagan Julu VIII",
+  "kodepos" : "22281"
+}, {
+  "kecamatan" : "Sumbul",
+  "kelurahan" : "Pegagan Julu IX",
+  "kodepos" : "22281"
+}, {
+  "kecamatan" : "Sumbul",
+  "kelurahan" : "Pegagan Julu V",
+  "kodepos" : "22281"
+}, {
+  "kecamatan" : "Sumbul",
+  "kelurahan" : "Pegagan Julu VI",
+  "kodepos" : "22281"
+}, {
+  "kecamatan" : "Sumbul",
+  "kelurahan" : "Pegagan Julu II",
+  "kodepos" : "22281"
+}, {
+  "kecamatan" : "Sumbul",
+  "kelurahan" : "Pegagan Julu III",
+  "kodepos" : "22281"
+}, {
+  "kecamatan" : "Sumbul",
+  "kelurahan" : "Pegagan Julu IV",
+  "kodepos" : "22281"
+}, {
+  "kecamatan" : "Silahi Sabungan",
+  "kelurahan" : "Paropo",
+  "kodepos" : "22281"
+}, {
+  "kecamatan" : "Sumbul",
+  "kelurahan" : "Pegagan Julu I",
+  "kodepos" : "22281"
+}, {
+  "kecamatan" : "Lae Parira",
+  "kelurahan" : "Lumban Toruan",
+  "kodepos" : "22281"
+}, {
+  "kecamatan" : "Lae Parira",
+  "kelurahan" : "Pandiangan",
+  "kodepos" : "22281"
+}, {
+  "kecamatan" : "Lae Parira",
+  "kelurahan" : "Pandiangan",
+  "kodepos" : "22281"
+}, {
+  "kecamatan" : "Sumbul",
+  "kelurahan" : "Kuta Gugung",
+  "kodepos" : "22281"
+}, {
+  "kecamatan" : "Lae Parira",
+  "kelurahan" : "Lae Parira",
+  "kodepos" : "22281"
+}, {
+  "kecamatan" : "Lae Parira",
+  "kelurahan" : "Lumban Sihite",
+  "kodepos" : "22281"
+}, {
+  "kecamatan" : "Sumbul",
+  "kelurahan" : "Dolok Tolong",
+  "kodepos" : "22281"
+}, {
+  "kecamatan" : "Lae Parira",
+  "kelurahan" : "Kentara",
+  "kodepos" : "22281"
+}, {
+  "kecamatan" : "Lae Parira",
+  "kelurahan" : "Bulu Duri",
+  "kodepos" : "22281"
+}, {
+  "kecamatan" : "Siempat Nempu Hilir",
+  "kelurahan" : "Sopobutar",
+  "kodepos" : "22263"
+}, {
+  "kecamatan" : "Siempat Nempu Hilir",
+  "kelurahan" : "Simungun",
+  "kodepos" : "22263"
+}, {
+  "kecamatan" : "Siempat Nempu Hilir",
+  "kelurahan" : "Pardomuan",
+  "kodepos" : "22263"
+}, {
+  "kecamatan" : "Siempat Nempu Hilir",
+  "kelurahan" : "Lae Saring",
+  "kodepos" : "22263"
+}, {
+  "kecamatan" : "Siempat Nempu Hilir",
+  "kelurahan" : "Lae Markelang",
+  "kodepos" : "22263"
+}, {
+  "kecamatan" : "Siempat Nempu Hilir",
+  "kelurahan" : "Lae Itam",
+  "kodepos" : "22263"
+}, {
+  "kecamatan" : "Siempat Nempu Hilir",
+  "kelurahan" : "Lae Luhung",
+  "kodepos" : "22263"
+}, {
+  "kecamatan" : "Siempat Nempu Hilir",
+  "kelurahan" : "Janji",
+  "kodepos" : "22263"
+}, {
+  "kecamatan" : "Siempat Nempu Hilir",
+  "kelurahan" : "Jambur Indonesia",
+  "kodepos" : "22263"
+}, {
+  "kecamatan" : "Silima Pungga-Pungga",
+  "kelurahan" : "Urik Belin",
+  "kodepos" : "22262"
+}, {
+  "kecamatan" : "Silima Pungga-Pungga",
+  "kelurahan" : "Tungtung Batu",
+  "kodepos" : "22262"
+}, {
+  "kecamatan" : "Silima Pungga-Pungga",
+  "kelurahan" : "Sumbari",
+  "kodepos" : "22262"
+}, {
+  "kecamatan" : "Silima Pungga-Pungga",
+  "kelurahan" : "Siratah",
+  "kodepos" : "22262"
+}, {
+  "kecamatan" : "Silima Pungga-Pungga",
+  "kelurahan" : "Siboras",
+  "kodepos" : "22262"
+}, {
+  "kecamatan" : "Silima Pungga-Pungga",
+  "kelurahan" : "Parongil",
+  "kodepos" : "22262"
+}, {
+  "kecamatan" : "Silima Pungga-Pungga",
+  "kelurahan" : "Polling Anak-Anak",
+  "kodepos" : "22262"
+}, {
+  "kecamatan" : "Silima Pungga-Pungga",
+  "kelurahan" : "Palipi",
+  "kodepos" : "22262"
+}, {
+  "kecamatan" : "Silima Pungga-Pungga",
+  "kelurahan" : "Lae Rambong",
+  "kodepos" : "22262"
+}, {
+  "kecamatan" : "Silima Pungga-Pungga",
+  "kelurahan" : "Longkotan",
+  "kodepos" : "22262"
+}, {
+  "kecamatan" : "Silima Pungga-Pungga",
+  "kelurahan" : "Lae Panginuman",
+  "kodepos" : "22262"
+}, {
+  "kecamatan" : "Silima Pungga-Pungga",
+  "kelurahan" : "Bonian",
+  "kodepos" : "22262"
+}, {
+  "kecamatan" : "Silima Pungga-Pungga",
+  "kelurahan" : "Lae Ambat",
+  "kodepos" : "22262"
+}, {
+  "kecamatan" : "Silima Pungga-Pungga",
+  "kelurahan" : "Bongkaras",
+  "kodepos" : "22262"
+}, {
+  "kecamatan" : "Silima Pungga-Pungga",
+  "kelurahan" : "Bakal Gajah",
+  "kodepos" : "22262"
+}, {
+  "kecamatan" : "Siempat Nempu",
+  "kelurahan" : "Soban",
+  "kodepos" : "22261"
+}, {
+  "kecamatan" : "Siempat Nempu",
+  "kelurahan" : "Sosor Lontung",
+  "kodepos" : "22261"
+}, {
+  "kecamatan" : "Siempat Nempu",
+  "kelurahan" : "Sinampang",
+  "kodepos" : "22261"
+}, {
+  "kecamatan" : "Siempat Nempu",
+  "kelurahan" : "Sihorbo",
+  "kodepos" : "22261"
+}, {
+  "kecamatan" : "Siempat Nempu",
+  "kelurahan" : "Jumantuang",
+  "kodepos" : "22261"
+}, {
+  "kecamatan" : "Siempat Nempu",
+  "kelurahan" : "Juma Teguh",
+  "kodepos" : "22261"
+}, {
+  "kecamatan" : "Siempat Nempu",
+  "kelurahan" : "Juma Siulok",
+  "kodepos" : "22261"
+}, {
+  "kecamatan" : "Siempat Nempu",
+  "kelurahan" : "Huta Imbaru",
+  "kodepos" : "22261"
+}, {
+  "kecamatan" : "Siempat Nempu",
+  "kelurahan" : "Gomit",
+  "kodepos" : "22261"
+}, {
+  "kecamatan" : "Siempat Nempu",
+  "kelurahan" : "Bunturaja",
+  "kodepos" : "22261"
+}, {
+  "kecamatan" : "Siempat Nempu Hulu",
+  "kelurahan" : "Tualang",
+  "kodepos" : "22254"
+}, {
+  "kecamatan" : "Siempat Nempu",
+  "kelurahan" : "Adian Nangka",
+  "kodepos" : "22261"
+}, {
+  "kecamatan" : "Siempat Nempu Hulu",
+  "kelurahan" : "Tambahan",
+  "kodepos" : "22254"
+}, {
+  "kecamatan" : "Siempat Nempu Hulu",
+  "kelurahan" : "Sipoltong",
+  "kodepos" : "22254"
+}, {
+  "kecamatan" : "Siempat Nempu Hulu",
+  "kelurahan" : "Sungai Raya",
+  "kodepos" : "22254"
+}, {
+  "kecamatan" : "Siempat Nempu Hulu",
+  "kelurahan" : "Silumboyah",
+  "kodepos" : "22254"
+}, {
+  "kecamatan" : "Siempat Nempu Hulu",
+  "kelurahan" : "Sigambir Gambir",
+  "kodepos" : "22254"
+}, {
+  "kecamatan" : "Siempat Nempu Hulu",
+  "kelurahan" : "Pangaribuan",
+  "kodepos" : "22254"
+}, {
+  "kecamatan" : "Siempat Nempu Hulu",
+  "kelurahan" : "Pandan",
+  "kodepos" : "22254"
+}, {
+  "kecamatan" : "Siempat Nempu Hulu",
+  "kelurahan" : "Gunung Meriah",
+  "kodepos" : "22254"
+}, {
+  "kecamatan" : "Siempat Nempu Hulu",
+  "kelurahan" : "Kuta Tengah",
+  "kodepos" : "22254"
+}, {
+  "kecamatan" : "Siempat Nempu Hulu",
+  "kelurahan" : "Lae Nuaha",
+  "kodepos" : "22254"
+}, {
+  "kecamatan" : "Siempat Nempu Hulu",
+  "kelurahan" : "Bakal Julu",
+  "kodepos" : "22254"
+}, {
+  "kecamatan" : "Tanah Pinem",
+  "kelurahan" : "Tanah Pinem",
+  "kodepos" : "22253"
+}, {
+  "kecamatan" : "Tanah Pinem",
+  "kelurahan" : "Renun",
+  "kodepos" : "22253"
+}, {
+  "kecamatan" : "Tanah Pinem",
+  "kelurahan" : "Suka Dame",
+  "kodepos" : "22253"
+}, {
+  "kecamatan" : "Tanah Pinem",
+  "kelurahan" : "Pasir Tengah",
+  "kodepos" : "22253"
+}, {
+  "kecamatan" : "Tanah Pinem",
+  "kelurahan" : "Lau Tawar",
+  "kodepos" : "22253"
+}, {
+  "kecamatan" : "Tanah Pinem",
+  "kelurahan" : "Pamah",
+  "kodepos" : "22253"
+}, {
+  "kecamatan" : "Tanah Pinem",
+  "kelurahan" : "Kutabuluh",
+  "kodepos" : "22253"
+}, {
+  "kecamatan" : "Tanah Pinem",
+  "kelurahan" : "Lau Primbon",
+  "kodepos" : "22253"
+}, {
+  "kecamatan" : "Tanah Pinem",
+  "kelurahan" : "Kempawa",
+  "kodepos" : "22253"
+}, {
+  "kecamatan" : "Tanah Pinem",
+  "kelurahan" : "Kuta Gambir",
+  "kodepos" : "22253"
+}, {
+  "kecamatan" : "Tanah Pinem",
+  "kelurahan" : "Gunung Tua",
+  "kodepos" : "22253"
+}, {
+  "kecamatan" : "Tanah Pinem",
+  "kelurahan" : "Harapan",
+  "kodepos" : "22253"
+}, {
+  "kecamatan" : "Tiga Lingga",
+  "kelurahan" : "Tiga Lingga",
+  "kodepos" : "22252"
+}, {
+  "kecamatan" : "Tiga Lingga",
+  "kelurahan" : "Ujung Teran",
+  "kodepos" : "22252"
+}, {
+  "kecamatan" : "Tiga Lingga",
+  "kelurahan" : "Sumbul Tengah",
+  "kodepos" : "22252"
+}, {
+  "kecamatan" : "Tiga Lingga",
+  "kelurahan" : "Sukandebi",
+  "kodepos" : "22252"
+}, {
+  "kecamatan" : "Tiga Lingga",
+  "kelurahan" : "Palding/Polding",
+  "kodepos" : "22252"
+}, {
+  "kecamatan" : "Tiga Lingga",
+  "kelurahan" : "Palding/Polding Jaya Sumbul",
+  "kodepos" : "22252"
+}, {
+  "kecamatan" : "Tiga Lingga",
+  "kelurahan" : "Sarintonu",
+  "kodepos" : "22252"
+}, {
+  "kecamatan" : "Tiga Lingga",
+  "kelurahan" : "Lau Pakpak",
+  "kodepos" : "22252"
+}, {
+  "kecamatan" : "Tiga Lingga",
+  "kelurahan" : "Lau Sireme",
+  "kodepos" : "22252"
+}, {
+  "kecamatan" : "Tiga Lingga",
+  "kelurahan" : "Lau Bagot",
+  "kodepos" : "22252"
+}, {
+  "kecamatan" : "Tiga Lingga",
+  "kelurahan" : "Lau Mil",
+  "kodepos" : "22252"
+}, {
+  "kecamatan" : "Tiga Lingga",
+  "kelurahan" : "Lau Molgap",
+  "kodepos" : "22252"
+}, {
+  "kecamatan" : "Tiga Lingga",
+  "kelurahan" : "Bertungen Julu",
+  "kodepos" : "22252"
+}, {
+  "kecamatan" : "Tiga Lingga",
+  "kelurahan" : "Juma Gerat",
+  "kodepos" : "22252"
+}, {
+  "kecamatan" : "Gunung Sitember",
+  "kelurahan" : "Tupak Raja",
+  "kodepos" : "22251"
+}, {
+  "kecamatan" : "Gunung Sitember",
+  "kelurahan" : "Rante Besi",
+  "kodepos" : "22251"
+}, {
+  "kecamatan" : "Berampu (Brampu)",
+  "kelurahan" : "Sambaliang",
+  "kodepos" : "22251"
+}, {
+  "kecamatan" : "Gunung Sitember",
+  "kelurahan" : "Kendit Liang",
+  "kodepos" : "22251"
+}, {
+  "kecamatan" : "Gunung Sitember",
+  "kelurahan" : "Lau Lebah",
+  "kodepos" : "22251"
+}, {
+  "kecamatan" : "Berampu (Brampu)",
+  "kelurahan" : "Pasi",
+  "kodepos" : "22251"
+}, {
+  "kecamatan" : "Gunung Sitember",
+  "kelurahan" : "Gunung Sitember",
+  "kodepos" : "22251"
+}, {
+  "kecamatan" : "Berampu (Brampu)",
+  "kelurahan" : "Karing",
+  "kodepos" : "22251"
+}, {
+  "kecamatan" : "Gunung Sitember",
+  "kelurahan" : "Bukit Lau Kersik",
+  "kodepos" : "22251"
+}, {
+  "kecamatan" : "Gunung Sitember",
+  "kelurahan" : "Gundaling",
+  "kodepos" : "22251"
+}, {
+  "kecamatan" : "Gunung Sitember",
+  "kelurahan" : "Batu Gun-Gun",
+  "kodepos" : "22251"
+}, {
+  "kecamatan" : "Berampu (Brampu)",
+  "kelurahan" : "Berampu (Brampu)",
+  "kodepos" : "22251"
+}, {
+  "kecamatan" : "Sitinjo",
+  "kelurahan" : "Sitinjo II",
+  "kodepos" : "22219"
+}, {
+  "kecamatan" : "Berampu (Brampu)",
+  "kelurahan" : "Banjar Toba",
+  "kodepos" : "22251"
+}, {
+  "kecamatan" : "Sitinjo",
+  "kelurahan" : "Sitinjo",
+  "kodepos" : "22219"
+}, {
+  "kecamatan" : "Sitinjo",
+  "kelurahan" : "Sitinjo I",
+  "kodepos" : "22219"
+}, {
+  "kecamatan" : "Sidikalang",
+  "kelurahan" : "Bintang",
+  "kodepos" : "22219"
+}, {
+  "kecamatan" : "Sitinjo",
+  "kelurahan" : "Panji Dabutar (Bako)",
+  "kodepos" : "22219"
+}, {
+  "kecamatan" : "Sidikalang",
+  "kelurahan" : "Kalang Simbara",
+  "kodepos" : "22218"
+}, {
+  "kecamatan" : "Sidikalang",
+  "kelurahan" : "Sidiangkat",
+  "kodepos" : "22216"
+}, {
+  "kecamatan" : "Sidikalang",
+  "kelurahan" : "Bintang Hulu",
+  "kodepos" : "22217"
+}, {
+  "kecamatan" : "Sidikalang",
+  "kelurahan" : "Belang Malum",
+  "kodepos" : "22215"
+}, {
+  "kecamatan" : "Sidikalang",
+  "kelurahan" : "Kalang",
+  "kodepos" : "22213"
+}, {
+  "kecamatan" : "Sidikalang",
+  "kelurahan" : "Kuta Gambir",
+  "kodepos" : "22214"
+}, {
+  "kecamatan" : "Sidikalang",
+  "kelurahan" : "Sidikalang Kota",
+  "kodepos" : "22211"
+}, {
+  "kecamatan" : "Sidikalang",
+  "kelurahan" : "Batang Beruh",
+  "kodepos" : "22212"
+}, {
+  "kecamatan" : "Sidikalang",
+  "kelurahan" : "Huta Rakjat",
+  "kodepos" : "22211"
+} ]

@@ -1,0 +1,997 @@
+[ {
+  "kecamatan" : "Obi Timur",
+  "kelurahan" : "Wooi",
+  "kodepos" : "97792"
+}, {
+  "kecamatan" : "Obi Selatan",
+  "kelurahan" : "Wayaloar",
+  "kodepos" : "97792"
+}, {
+  "kecamatan" : "Obi Utara",
+  "kelurahan" : "Waringi",
+  "kodepos" : "97792"
+}, {
+  "kecamatan" : "Obi Timur",
+  "kelurahan" : "Sum",
+  "kodepos" : "97792"
+}, {
+  "kecamatan" : "Obi Barat",
+  "kelurahan" : "Tapa",
+  "kodepos" : "97792"
+}, {
+  "kecamatan" : "Obi Selatan",
+  "kelurahan" : "Soligi",
+  "kodepos" : "97792"
+}, {
+  "kecamatan" : "Obi Timur",
+  "kelurahan" : "Sosepe",
+  "kodepos" : "97792"
+}, {
+  "kecamatan" : "Obi Barat",
+  "kelurahan" : "Soasangaji",
+  "kodepos" : "97792"
+}, {
+  "kecamatan" : "Obi",
+  "kelurahan" : "Sambiki",
+  "kodepos" : "97792"
+}, {
+  "kecamatan" : "Obi Utara",
+  "kelurahan" : "Pasir Putih",
+  "kodepos" : "97792"
+}, {
+  "kecamatan" : "Obi Selatan",
+  "kelurahan" : "Mano",
+  "kodepos" : "97792"
+}, {
+  "kecamatan" : "Obi Selatan",
+  "kelurahan" : "Ocimaloleo",
+  "kodepos" : "97792"
+}, {
+  "kecamatan" : "Obi Utara",
+  "kelurahan" : "Madapolo Timur",
+  "kodepos" : "97792"
+}, {
+  "kecamatan" : "Obi Barat",
+  "kelurahan" : "Manatahan",
+  "kodepos" : "97792"
+}, {
+  "kecamatan" : "Obi Selatan",
+  "kelurahan" : "Loleo",
+  "kodepos" : "97792"
+}, {
+  "kecamatan" : "Obi Utara",
+  "kelurahan" : "Madapolo",
+  "kodepos" : "97792"
+}, {
+  "kecamatan" : "Obi Utara",
+  "kelurahan" : "Madapolo Barat",
+  "kodepos" : "97792"
+}, {
+  "kecamatan" : "Obi Timur",
+  "kelurahan" : "Kello (Kelo)",
+  "kodepos" : "97792"
+}, {
+  "kecamatan" : "Obi",
+  "kelurahan" : "Laiwui",
+  "kodepos" : "97792"
+}, {
+  "kecamatan" : "Obi",
+  "kelurahan" : "Kawasi",
+  "kodepos" : "97792"
+}, {
+  "kecamatan" : "Obi",
+  "kelurahan" : "Jikotamo",
+  "kodepos" : "97792"
+}, {
+  "kecamatan" : "Obi Selatan",
+  "kelurahan" : "Gambaru",
+  "kodepos" : "97792"
+}, {
+  "kecamatan" : "Obi Barat",
+  "kelurahan" : "Jikohai (Jikohay)",
+  "kodepos" : "97792"
+}, {
+  "kecamatan" : "Obi Selatan",
+  "kelurahan" : "Fluks (Fluk)",
+  "kodepos" : "97792"
+}, {
+  "kecamatan" : "Obi Utara",
+  "kelurahan" : "Galala",
+  "kodepos" : "97792"
+}, {
+  "kecamatan" : "Obi Utara",
+  "kelurahan" : "Cap",
+  "kodepos" : "97792"
+}, {
+  "kecamatan" : "Obi Selatan",
+  "kelurahan" : "Bobo",
+  "kodepos" : "97792"
+}, {
+  "kecamatan" : "Obi",
+  "kelurahan" : "Buton",
+  "kodepos" : "97792"
+}, {
+  "kecamatan" : "Mandioli Utara",
+  "kelurahan" : "Bobo",
+  "kodepos" : "97792"
+}, {
+  "kecamatan" : "Obi",
+  "kelurahan" : "Baru",
+  "kodepos" : "97792"
+}, {
+  "kecamatan" : "Obi",
+  "kelurahan" : "Anggai",
+  "kodepos" : "97792"
+}, {
+  "kecamatan" : "Obi Barat",
+  "kelurahan" : "Alam Kenanga",
+  "kodepos" : "97792"
+}, {
+  "kecamatan" : "Obi Barat",
+  "kelurahan" : "Alam Pelita",
+  "kodepos" : "97792"
+}, {
+  "kecamatan" : "Obi",
+  "kelurahan" : "Air Mangga Indah",
+  "kodepos" : "97792"
+}, {
+  "kecamatan" : "Obi",
+  "kelurahan" : "Akegula",
+  "kodepos" : "97792"
+}, {
+  "kecamatan" : "Mandioli Selatan",
+  "kelurahan" : "Yoyok",
+  "kodepos" : "97791"
+}, {
+  "kecamatan" : "Bacan Barat Utara",
+  "kelurahan" : "Yaba",
+  "kodepos" : "97791"
+}, {
+  "kecamatan" : "Bacan Timur Selatan",
+  "kelurahan" : "Wayaua",
+  "kodepos" : "97791"
+}, {
+  "kecamatan" : "Bacan Barat",
+  "kelurahan" : "Wiring",
+  "kodepos" : "97791"
+}, {
+  "kecamatan" : "Bacan Timur",
+  "kelurahan" : "Wayamiga",
+  "kodepos" : "97791"
+}, {
+  "kecamatan" : "Bacan Timur Tengah",
+  "kelurahan" : "Wayatim",
+  "kodepos" : "97791"
+}, {
+  "kecamatan" : "Bacan Timur Selatan",
+  "kelurahan" : "Wayakuba",
+  "kodepos" : "97791"
+}, {
+  "kecamatan" : "Mandioli Utara",
+  "kelurahan" : "Waya",
+  "kodepos" : "97791"
+}, {
+  "kecamatan" : "Bacan Selatan",
+  "kelurahan" : "Tuwokona (Tuakona)",
+  "kodepos" : "97791"
+}, {
+  "kecamatan" : "Bacan Timur Tengah",
+  "kelurahan" : "Tutupa",
+  "kodepos" : "97791"
+}, {
+  "kecamatan" : "Bacan",
+  "kelurahan" : "Tomori",
+  "kodepos" : "97791"
+}, {
+  "kecamatan" : "Kasiruta Timur",
+  "kelurahan" : "Tutuha",
+  "kodepos" : "97791"
+}, {
+  "kecamatan" : "Kepulauan Botanglomang",
+  "kelurahan" : "Toin",
+  "kodepos" : "97791"
+}, {
+  "kecamatan" : "Bacan Timur",
+  "kelurahan" : "Timlonga",
+  "kodepos" : "97791"
+}, {
+  "kecamatan" : "Bacan Timur",
+  "kelurahan" : "Timlonga",
+  "kodepos" : "97791"
+}, {
+  "kecamatan" : "Bacan Barat",
+  "kelurahan" : "Tawabi",
+  "kodepos" : "97791"
+}, {
+  "kecamatan" : "Bacan Selatan",
+  "kelurahan" : "Tembal",
+  "kodepos" : "97791"
+}, {
+  "kecamatan" : "Bacan Timur Tengah",
+  "kelurahan" : "Tawa",
+  "kodepos" : "97791"
+}, {
+  "kecamatan" : "Kasiruta Timur",
+  "kelurahan" : "Tawa",
+  "kodepos" : "97791"
+}, {
+  "kecamatan" : "Kepulauan Botanglomang",
+  "kelurahan" : "Tanjung Obit",
+  "kodepos" : "97791"
+}, {
+  "kecamatan" : "Bacan Timur Tengah",
+  "kelurahan" : "Tabapoma",
+  "kodepos" : "97791"
+}, {
+  "kecamatan" : "Bacan Timur Selatan",
+  "kelurahan" : "Tabangame",
+  "kodepos" : "97791"
+}, {
+  "kecamatan" : "Mandioli Selatan",
+  "kelurahan" : "Tabalema",
+  "kodepos" : "97791"
+}, {
+  "kecamatan" : "Bacan Timur Selatan",
+  "kelurahan" : "Tabajaya",
+  "kodepos" : "97791"
+}, {
+  "kecamatan" : "Bacan",
+  "kelurahan" : "Sumae",
+  "kodepos" : "97791"
+}, {
+  "kecamatan" : "Bacan",
+  "kelurahan" : "Suma Tinggi",
+  "kodepos" : "97791"
+}, {
+  "kecamatan" : "Bacan Barat Utara",
+  "kelurahan" : "Sidopo",
+  "kodepos" : "97791"
+}, {
+  "kecamatan" : "Bacan Timur Selatan",
+  "kelurahan" : "Silang",
+  "kodepos" : "97791"
+}, {
+  "kecamatan" : "Bacan Timur Tengah",
+  "kelurahan" : "Songa",
+  "kodepos" : "97791"
+}, {
+  "kecamatan" : "Kasiruta Barat",
+  "kelurahan" : "Sengga Baru",
+  "kodepos" : "97791"
+}, {
+  "kecamatan" : "Kasiruta Barat",
+  "kelurahan" : "Sidanga",
+  "kodepos" : "97791"
+}, {
+  "kecamatan" : "Kepulauan Botanglomang",
+  "kelurahan" : "Sawanakar (Sawangakar/Sawangkang)",
+  "kodepos" : "97791"
+}, {
+  "kecamatan" : "Bacan Selatan",
+  "kelurahan" : "Sawadai",
+  "kodepos" : "97791"
+}, {
+  "kecamatan" : "Bacan Timur",
+  "kelurahan" : "Sayoang",
+  "kodepos" : "97791"
+}, {
+  "kecamatan" : "Bacan Timur",
+  "kelurahan" : "Sabatang",
+  "kodepos" : "97791"
+}, {
+  "kecamatan" : "Bacan Timur",
+  "kelurahan" : "Sali Kecil",
+  "kodepos" : "97791"
+}, {
+  "kecamatan" : "Bacan Timur Selatan",
+  "kelurahan" : "Pigaraja",
+  "kodepos" : "97791"
+}, {
+  "kecamatan" : "Kepulauan Botanglomang",
+  "kelurahan" : "Prapakanda",
+  "kodepos" : "97791"
+}, {
+  "kecamatan" : "Mandioli Utara",
+  "kelurahan" : "Pelita (Pelita Jaya)",
+  "kodepos" : "97791"
+}, {
+  "kecamatan" : "Kepulauan Botanglomang",
+  "kelurahan" : "Pasimbaos",
+  "kodepos" : "97791"
+}, {
+  "kecamatan" : "Bacan Selatan",
+  "kelurahan" : "Panamboang",
+  "kodepos" : "97791"
+}, {
+  "kecamatan" : "Bacan Selatan",
+  "kelurahan" : "Papaloang",
+  "kodepos" : "97791"
+}, {
+  "kecamatan" : "Kasiruta Barat",
+  "kelurahan" : "Palamea",
+  "kodepos" : "97791"
+}, {
+  "kecamatan" : "Bacan Barat Utara",
+  "kelurahan" : "Nusa Babullah (Nusa Babi)",
+  "kodepos" : "97791"
+}, {
+  "kecamatan" : "Bacan Timur",
+  "kelurahan" : "Nyonyifi",
+  "kodepos" : "97791"
+}, {
+  "kecamatan" : "Kasiruta Timur",
+  "kelurahan" : "Marituso (Maritosu)",
+  "kodepos" : "97791"
+}, {
+  "kecamatan" : "Bacan Barat",
+  "kelurahan" : "Nondang (Mondang)",
+  "kodepos" : "97791"
+}, {
+  "kecamatan" : "Kasiruta Barat",
+  "kelurahan" : "Marikapal",
+  "kodepos" : "97791"
+}, {
+  "kecamatan" : "Bacan",
+  "kelurahan" : "Marabose",
+  "kodepos" : "97791"
+}, {
+  "kecamatan" : "Bacan Selatan",
+  "kelurahan" : "Makian (Kampung Makian)",
+  "kodepos" : "97791"
+}, {
+  "kecamatan" : "Bacan Selatan",
+  "kelurahan" : "Mandawong (Mandaong)",
+  "kodepos" : "97791"
+}, {
+  "kecamatan" : "Mandioli Utara",
+  "kelurahan" : "Loleongusu",
+  "kodepos" : "97791"
+}, {
+  "kecamatan" : "Kasiruta Timur",
+  "kelurahan" : "Loleo Jaya",
+  "kodepos" : "97791"
+}, {
+  "kecamatan" : "Kasiruta Timur",
+  "kelurahan" : "Loleomekar",
+  "kodepos" : "97791"
+}, {
+  "kecamatan" : "Bacan Timur Selatan",
+  "kelurahan" : "Liaro",
+  "kodepos" : "97791"
+}, {
+  "kecamatan" : "Kasiruta Barat",
+  "kelurahan" : "Lata Lata",
+  "kodepos" : "97791"
+}, {
+  "kecamatan" : "Mandioli Selatan",
+  "kelurahan" : "Lele",
+  "kodepos" : "97791"
+}, {
+  "kecamatan" : "Bacan",
+  "kelurahan" : "Labuha",
+  "kodepos" : "97791"
+}, {
+  "kecamatan" : "Bacan Barat",
+  "kelurahan" : "Kusubibi",
+  "kodepos" : "97791"
+}, {
+  "kecamatan" : "Kasiruta Barat",
+  "kelurahan" : "Kukupang (Kakupang)",
+  "kodepos" : "97791"
+}, {
+  "kecamatan" : "Bacan Selatan",
+  "kelurahan" : "Kubung",
+  "kodepos" : "97791"
+}, {
+  "kecamatan" : "Bacan Selatan",
+  "kelurahan" : "Kupal",
+  "kodepos" : "97791"
+}, {
+  "kecamatan" : "Kasiruta Timur",
+  "kelurahan" : "Koubalabala",
+  "kodepos" : "97791"
+}, {
+  "kecamatan" : "Bacan Barat",
+  "kelurahan" : "Kokotu",
+  "kodepos" : "97791"
+}, {
+  "kecamatan" : "Bacan Barat",
+  "kelurahan" : "Kotunang (Kukutunang)",
+  "kodepos" : "97791"
+}, {
+  "kecamatan" : "Kasiruta Timur",
+  "kelurahan" : "Kasiruta Dalam",
+  "kodepos" : "97791"
+}, {
+  "kecamatan" : "Bacan",
+  "kelurahan" : "Kaputusan (Kaputusang)",
+  "kodepos" : "97791"
+}, {
+  "kecamatan" : "Kepulauan Botanglomang",
+  "kelurahan" : "Kampung Baru",
+  "kodepos" : "97791"
+}, {
+  "kecamatan" : "Bacan Timur",
+  "kelurahan" : "Kaireu",
+  "kodepos" : "97791"
+}, {
+  "kecamatan" : "Mandioli Selatan",
+  "kelurahan" : "Jiko (Jeko)",
+  "kodepos" : "97791"
+}, {
+  "kecamatan" : "Bacan Barat Utara",
+  "kelurahan" : "Jojame",
+  "kodepos" : "97791"
+}, {
+  "kecamatan" : "Kasiruta Timur",
+  "kelurahan" : "Jeret",
+  "kodepos" : "97791"
+}, {
+  "kecamatan" : "Bacan",
+  "kelurahan" : "Indomut",
+  "kodepos" : "97791"
+}, {
+  "kecamatan" : "Mandioli Utara",
+  "kelurahan" : "Indong",
+  "kodepos" : "97791"
+}, {
+  "kecamatan" : "Bacan Barat",
+  "kelurahan" : "Indari",
+  "kodepos" : "97791"
+}, {
+  "kecamatan" : "Kasiruta Barat",
+  "kelurahan" : "Imbu Imbu",
+  "kodepos" : "97791"
+}, {
+  "kecamatan" : "Bacan Barat Utara",
+  "kelurahan" : "Gorua Lolaro (Lolorogurua)",
+  "kodepos" : "97791"
+}, {
+  "kecamatan" : "Bacan",
+  "kelurahan" : "Hidayat",
+  "kodepos" : "97791"
+}, {
+  "kecamatan" : "Bacan Barat Utara",
+  "kelurahan" : "Gilalang",
+  "kodepos" : "97791"
+}, {
+  "kecamatan" : "Bacan Timur",
+  "kelurahan" : "Goro Goro",
+  "kodepos" : "97791"
+}, {
+  "kecamatan" : "Bacan Barat Utara",
+  "kelurahan" : "Geti Baru",
+  "kodepos" : "97791"
+}, {
+  "kecamatan" : "Bacan Barat Utara",
+  "kelurahan" : "Geti Lama",
+  "kodepos" : "97791"
+}, {
+  "kecamatan" : "Kasiruta Barat",
+  "kelurahan" : "Doko (Doku)",
+  "kodepos" : "97791"
+}, {
+  "kecamatan" : "Mandioli Selatan",
+  "kelurahan" : "Galala",
+  "kodepos" : "97791"
+}, {
+  "kecamatan" : "Bacan Selatan",
+  "kelurahan" : "Dgandasuli (Gandasuli)",
+  "kodepos" : "97791"
+}, {
+  "kecamatan" : "Kasiruta Barat",
+  "kelurahan" : "Bisori",
+  "kodepos" : "97791"
+}, {
+  "kecamatan" : "Bacan Timur",
+  "kelurahan" : "Bori",
+  "kodepos" : "97791"
+}, {
+  "kecamatan" : "Bacan Timur Tengah",
+  "kelurahan" : "Bibinoi",
+  "kodepos" : "97791"
+}, {
+  "kecamatan" : "Bacan",
+  "kelurahan" : "Belang Belang",
+  "kodepos" : "97791"
+}, {
+  "kecamatan" : "Kepulauan Botanglomang",
+  "kelurahan" : "Bajo",
+  "kodepos" : "97791"
+}, {
+  "kecamatan" : "Kepulauan Botanglomang",
+  "kelurahan" : "Batutaga",
+  "kodepos" : "97791"
+}, {
+  "kecamatan" : "Mandioli Selatan",
+  "kelurahan" : "Bahu",
+  "kodepos" : "97791"
+}, {
+  "kecamatan" : "Bacan",
+  "kelurahan" : "Awanggoa",
+  "kodepos" : "97791"
+}, {
+  "kecamatan" : "Bacan Timur",
+  "kelurahan" : "Babang",
+  "kodepos" : "97791"
+}, {
+  "kecamatan" : "Kasiruta Barat",
+  "kelurahan" : "Arumamang",
+  "kodepos" : "97791"
+}, {
+  "kecamatan" : "Bacan",
+  "kelurahan" : "Amasing Kota",
+  "kodepos" : "97791"
+}, {
+  "kecamatan" : "Bacan",
+  "kelurahan" : "Amasing Kota Barat",
+  "kodepos" : "97791"
+}, {
+  "kecamatan" : "Bacan",
+  "kelurahan" : "Amasing Kota Utara",
+  "kodepos" : "97791"
+}, {
+  "kecamatan" : "Bacan",
+  "kelurahan" : "Amasing Kali",
+  "kodepos" : "97791"
+}, {
+  "kecamatan" : "Mandioli Utara",
+  "kelurahan" : "Akedabo",
+  "kodepos" : "97791"
+}, {
+  "kecamatan" : "Gane Timur",
+  "kelurahan" : "Wosi",
+  "kodepos" : "97783"
+}, {
+  "kecamatan" : "Gane Timur",
+  "kelurahan" : "Tanjung Jere",
+  "kodepos" : "97783"
+}, {
+  "kecamatan" : "Gane Timur",
+  "kelurahan" : "Tobaru",
+  "kodepos" : "97783"
+}, {
+  "kecamatan" : "Gane Timur Tengah",
+  "kelurahan" : "Tabahijrah",
+  "kodepos" : "97783"
+}, {
+  "kecamatan" : "Gane Timur Tengah",
+  "kelurahan" : "Tagea",
+  "kodepos" : "97783"
+}, {
+  "kecamatan" : "Gane Timur Tengah",
+  "kelurahan" : "Tabahidayah",
+  "kodepos" : "97783"
+}, {
+  "kecamatan" : "Gane Timur",
+  "kelurahan" : "Sumber Makmur",
+  "kodepos" : "97783"
+}, {
+  "kecamatan" : "Gane Timur Selatan",
+  "kelurahan" : "Sawat",
+  "kodepos" : "97783"
+}, {
+  "kecamatan" : "Gane Timur Tengah",
+  "kelurahan" : "Matuting Tanjung",
+  "kodepos" : "97783"
+}, {
+  "kecamatan" : "Gane Timur",
+  "kelurahan" : "Sakita (Saketa/Botonam)",
+  "kodepos" : "97783"
+}, {
+  "kecamatan" : "Gane Timur Selatan",
+  "kelurahan" : "Ranga Ranga",
+  "kodepos" : "97783"
+}, {
+  "kecamatan" : "Gane Timur",
+  "kelurahan" : "Maffa",
+  "kodepos" : "97783"
+}, {
+  "kecamatan" : "Gane Timur Tengah",
+  "kelurahan" : "Matuting",
+  "kodepos" : "97783"
+}, {
+  "kecamatan" : "Gane Timur Tengah",
+  "kelurahan" : "Lelewi",
+  "kodepos" : "97783"
+}, {
+  "kecamatan" : "Gane Timur Tengah",
+  "kelurahan" : "Luim",
+  "kodepos" : "97783"
+}, {
+  "kecamatan" : "Gane Timur",
+  "kelurahan" : "Lalubi",
+  "kodepos" : "97783"
+}, {
+  "kecamatan" : "Gane Timur Selatan",
+  "kelurahan" : "Kuwo",
+  "kodepos" : "97783"
+}, {
+  "kecamatan" : "Gane Timur",
+  "kelurahan" : "Kebun Raja",
+  "kodepos" : "97783"
+}, {
+  "kecamatan" : "Gane Timur",
+  "kelurahan" : "Kotalou",
+  "kodepos" : "97783"
+}, {
+  "kecamatan" : "Gane Timur Selatan",
+  "kelurahan" : "Gane Luar",
+  "kodepos" : "97783"
+}, {
+  "kecamatan" : "Gane Timur Selatan",
+  "kelurahan" : "Gaimu",
+  "kodepos" : "97783"
+}, {
+  "kecamatan" : "Gane Timur Tengah",
+  "kelurahan" : "Bisui",
+  "kodepos" : "97783"
+}, {
+  "kecamatan" : "Gane Timur",
+  "kelurahan" : "Foya",
+  "kodepos" : "97783"
+}, {
+  "kecamatan" : "Gane Timur",
+  "kelurahan" : "Foya Tobaru",
+  "kodepos" : "97783"
+}, {
+  "kecamatan" : "Gane Timur",
+  "kelurahan" : "Akelamo/Fida",
+  "kodepos" : "97783"
+}, {
+  "kecamatan" : "Kepulauan Joronga",
+  "kelurahan" : "Yomen",
+  "kodepos" : "97782"
+}, {
+  "kecamatan" : "Gane Barat Selatan",
+  "kelurahan" : "Yamly",
+  "kodepos" : "97782"
+}, {
+  "kecamatan" : "Kepulauan Joronga",
+  "kelurahan" : "Tawabi",
+  "kodepos" : "97782"
+}, {
+  "kecamatan" : "Gane Barat Selatan",
+  "kelurahan" : "Tawa",
+  "kodepos" : "97782"
+}, {
+  "kecamatan" : "Gane Barat Utara",
+  "kelurahan" : "Tokaka",
+  "kodepos" : "97782"
+}, {
+  "kecamatan" : "Gane Barat",
+  "kelurahan" : "Tabamasa",
+  "kodepos" : "97782"
+}, {
+  "kecamatan" : "Gane Barat Selatan",
+  "kelurahan" : "Sekely",
+  "kodepos" : "97782"
+}, {
+  "kecamatan" : "Gane Barat Utara",
+  "kelurahan" : "Suka Damai",
+  "kodepos" : "97782"
+}, {
+  "kecamatan" : "Gane Barat Utara",
+  "kelurahan" : "Samat",
+  "kodepos" : "97782"
+}, {
+  "kecamatan" : "Gane Barat Utara",
+  "kelurahan" : "Samo",
+  "kodepos" : "97782"
+}, {
+  "kecamatan" : "Gane Barat Utara",
+  "kelurahan" : "Posi Posi",
+  "kodepos" : "97782"
+}, {
+  "kecamatan" : "Gane Barat",
+  "kelurahan" : "Saketa",
+  "kodepos" : "97782"
+}, {
+  "kecamatan" : "Kepulauan Joronga",
+  "kelurahan" : "Pulau Gala",
+  "kodepos" : "97782"
+}, {
+  "kecamatan" : "Gane Barat",
+  "kelurahan" : "Oha",
+  "kodepos" : "97782"
+}, {
+  "kecamatan" : "Gane Barat",
+  "kelurahan" : "Papaceda",
+  "kodepos" : "97782"
+}, {
+  "kecamatan" : "Gane Barat Selatan",
+  "kelurahan" : "Pasi Palele",
+  "kodepos" : "97782"
+}, {
+  "kecamatan" : "Gane Barat Utara",
+  "kelurahan" : "Moloku",
+  "kodepos" : "97782"
+}, {
+  "kecamatan" : "Gane Barat Utara",
+  "kelurahan" : "Nurjihat",
+  "kodepos" : "97782"
+}, {
+  "kecamatan" : "Gane Barat",
+  "kelurahan" : "Lemo Lemo",
+  "kodepos" : "97782"
+}, {
+  "kecamatan" : "Kepulauan Joronga",
+  "kelurahan" : "Kurunga",
+  "kodepos" : "97782"
+}, {
+  "kecamatan" : "Kepulauan Joronga",
+  "kelurahan" : "Liboba Hijrah",
+  "kodepos" : "97782"
+}, {
+  "kecamatan" : "Gane Barat",
+  "kelurahan" : "Koititi",
+  "kodepos" : "97782"
+}, {
+  "kecamatan" : "Kepulauan Joronga",
+  "kelurahan" : "Kukupang",
+  "kodepos" : "97782"
+}, {
+  "kecamatan" : "Gane Barat Selatan",
+  "kelurahan" : "Jibubu",
+  "kodepos" : "97782"
+}, {
+  "kecamatan" : "Gane Barat Utara",
+  "kelurahan" : "Gumirah (Gumira)",
+  "kodepos" : "97782"
+}, {
+  "kecamatan" : "Kepulauan Joronga",
+  "kelurahan" : "Gonone",
+  "kodepos" : "97782"
+}, {
+  "kecamatan" : "Gane Barat Selatan",
+  "kelurahan" : "Gane Dalam",
+  "kodepos" : "97782"
+}, {
+  "kecamatan" : "Gane Barat Utara",
+  "kelurahan" : "Fulai (Jikolamo/Fulay)",
+  "kodepos" : "97782"
+}, {
+  "kecamatan" : "Gane Barat Selatan",
+  "kelurahan" : "Dowora",
+  "kodepos" : "97782"
+}, {
+  "kecamatan" : "Gane Barat",
+  "kelurahan" : "Doro",
+  "kodepos" : "97782"
+}, {
+  "kecamatan" : "Gane Barat Utara",
+  "kelurahan" : "Dolik",
+  "kodepos" : "97782"
+}, {
+  "kecamatan" : "Gane Barat",
+  "kelurahan" : "Bumi Rahmat",
+  "kodepos" : "97782"
+}, {
+  "kecamatan" : "Gane Barat",
+  "kelurahan" : "Cango",
+  "kodepos" : "97782"
+}, {
+  "kecamatan" : "Gane Barat Utara",
+  "kelurahan" : "Boso",
+  "kodepos" : "97782"
+}, {
+  "kecamatan" : "Gane Barat Utara",
+  "kelurahan" : "Batulak",
+  "kodepos" : "97782"
+}, {
+  "kecamatan" : "Gane Barat",
+  "kelurahan" : "Balitata",
+  "kodepos" : "97782"
+}, {
+  "kecamatan" : "Kayoa Utara",
+  "kelurahan" : "Wayasipang",
+  "kodepos" : "97781"
+}, {
+  "kecamatan" : "Gane Barat Selatan",
+  "kelurahan" : "Awis",
+  "kodepos" : "97782"
+}, {
+  "kecamatan" : "Kayoa",
+  "kelurahan" : "Tawabi",
+  "kodepos" : "97781"
+}, {
+  "kecamatan" : "Kayoa",
+  "kelurahan" : "Talimau",
+  "kodepos" : "97781"
+}, {
+  "kecamatan" : "Kayoa Selatan",
+  "kelurahan" : "Sagawele",
+  "kodepos" : "97781"
+}, {
+  "kecamatan" : "Kayoa",
+  "kelurahan" : "Siko",
+  "kodepos" : "97781"
+}, {
+  "kecamatan" : "Kayoa Selatan",
+  "kelurahan" : "Pasir Putih",
+  "kodepos" : "97781"
+}, {
+  "kecamatan" : "Kayoa Selatan",
+  "kelurahan" : "Posi Posi",
+  "kodepos" : "97781"
+}, {
+  "kecamatan" : "Kayoa Selatan",
+  "kelurahan" : "Ngute Ngute",
+  "kodepos" : "97781"
+}, {
+  "kecamatan" : "Kayoa Selatan",
+  "kelurahan" : "Orimakurunga",
+  "kodepos" : "97781"
+}, {
+  "kecamatan" : "Kayoa Utara",
+  "kelurahan" : "Modayama",
+  "kodepos" : "97781"
+}, {
+  "kecamatan" : "Kayoa Utara",
+  "kelurahan" : "Ngokomalako",
+  "kodepos" : "97781"
+}, {
+  "kecamatan" : "Kayoa",
+  "kelurahan" : "Ligua",
+  "kodepos" : "97781"
+}, {
+  "kecamatan" : "Kayoa",
+  "kelurahan" : "Lelei",
+  "kodepos" : "97781"
+}, {
+  "kecamatan" : "Kayoa Utara",
+  "kelurahan" : "Laromabati (Loromabati)",
+  "kodepos" : "97781"
+}, {
+  "kecamatan" : "Kayoa Selatan",
+  "kelurahan" : "Laluin",
+  "kodepos" : "97781"
+}, {
+  "kecamatan" : "Kayoa",
+  "kelurahan" : "Kida",
+  "kodepos" : "97781"
+}, {
+  "kecamatan" : "Kayoa",
+  "kelurahan" : "Laigoma",
+  "kodepos" : "97781"
+}, {
+  "kecamatan" : "Kayoa",
+  "kelurahan" : "Karamat",
+  "kodepos" : "97781"
+}, {
+  "kecamatan" : "Kayoa Barat",
+  "kelurahan" : "Hatejawa",
+  "kodepos" : "97781"
+}, {
+  "kecamatan" : "Kayoa",
+  "kelurahan" : "Gunange",
+  "kodepos" : "97781"
+}, {
+  "kecamatan" : "Kayoa",
+  "kelurahan" : "Guruapin",
+  "kodepos" : "97781"
+}, {
+  "kecamatan" : "Kayoa Utara",
+  "kelurahan" : "Gayap",
+  "kodepos" : "97781"
+}, {
+  "kecamatan" : "Kayoa Barat",
+  "kelurahan" : "Fofao",
+  "kodepos" : "97781"
+}, {
+  "kecamatan" : "Kayoa",
+  "kelurahan" : "Gafi",
+  "kodepos" : "97781"
+}, {
+  "kecamatan" : "Kayoa",
+  "kelurahan" : "Dorolamo",
+  "kodepos" : "97781"
+}, {
+  "kecamatan" : "Kayoa Barat",
+  "kelurahan" : "Busua",
+  "kodepos" : "97781"
+}, {
+  "kecamatan" : "Kayoa",
+  "kelurahan" : "Buli",
+  "kodepos" : "97781"
+}, {
+  "kecamatan" : "Kayoa Barat",
+  "kelurahan" : "Bokimiake",
+  "kodepos" : "97781"
+}, {
+  "kecamatan" : "Kayoa",
+  "kelurahan" : "Bajo",
+  "kodepos" : "97781"
+}, {
+  "kecamatan" : "Kayoa Utara",
+  "kelurahan" : "Ake Jailolo",
+  "kodepos" : "97781"
+}, {
+  "kecamatan" : "Makian (Pulau Makian)",
+  "kelurahan" : "Wailoa",
+  "kodepos" : "97756"
+}, {
+  "kecamatan" : "Makian (Pulau Makian)",
+  "kelurahan" : "Walo",
+  "kodepos" : "97756"
+}, {
+  "kecamatan" : "Makian (Pulau Makian)",
+  "kelurahan" : "Waigitang / Waigitan",
+  "kodepos" : "97756"
+}, {
+  "kecamatan" : "Makian (Pulau Makian)",
+  "kelurahan" : "Waikyon (Kota)",
+  "kodepos" : "97756"
+}, {
+  "kecamatan" : "Makian (Pulau Makian)",
+  "kelurahan" : "Soma (Suma)",
+  "kodepos" : "97756"
+}, {
+  "kecamatan" : "Makian Barat (Pulau Makian)",
+  "kelurahan" : "Talapao (Talapaon)",
+  "kodepos" : "97756"
+}, {
+  "kecamatan" : "Makian Barat (Pulau Makian)",
+  "kelurahan" : "Tegono",
+  "kodepos" : "97756"
+}, {
+  "kecamatan" : "Makian (Pulau Makian)",
+  "kelurahan" : "Sangapati",
+  "kodepos" : "97756"
+}, {
+  "kecamatan" : "Makian (Pulau Makian)",
+  "kelurahan" : "Rabutdaiyo (Rabutdaio)",
+  "kodepos" : "97756"
+}, {
+  "kecamatan" : "Makian Barat (Pulau Makian)",
+  "kelurahan" : "Sabalei (Sebelei)",
+  "kodepos" : "97756"
+}, {
+  "kecamatan" : "Makian (Pulau Makian)",
+  "kelurahan" : "Ploli (Ploly)",
+  "kodepos" : "97756"
+}, {
+  "kecamatan" : "Makian Barat (Pulau Makian)",
+  "kelurahan" : "Mateketen (Matekente)",
+  "kodepos" : "97756"
+}, {
+  "kecamatan" : "Makian Barat (Pulau Makian)",
+  "kelurahan" : "Ombawa",
+  "kodepos" : "97756"
+}, {
+  "kecamatan" : "Makian (Pulau Makian)",
+  "kelurahan" : "Matentengen (Matan Tengin)",
+  "kodepos" : "97756"
+}, {
+  "kecamatan" : "Makian Barat (Pulau Makian)",
+  "kelurahan" : "Malapat",
+  "kodepos" : "97756"
+}, {
+  "kecamatan" : "Makian (Pulau Makian)",
+  "kelurahan" : "Kiowor (Kyowor)",
+  "kodepos" : "97756"
+}, {
+  "kecamatan" : "Makian (Pulau Makian)",
+  "kelurahan" : "Gitang",
+  "kodepos" : "97756"
+}, {
+  "kecamatan" : "Makian (Pulau Makian)",
+  "kelurahan" : "Gorup",
+  "kodepos" : "97756"
+}, {
+  "kecamatan" : "Makian (Pulau Makian)",
+  "kelurahan" : "Gurua",
+  "kodepos" : "97756"
+}, {
+  "kecamatan" : "Makian (Pulau Makian)",
+  "kelurahan" : "Dalam",
+  "kodepos" : "97756"
+}, {
+  "kecamatan" : "Makian (Pulau Makian)",
+  "kelurahan" : "Dauri (Daiwori)",
+  "kodepos" : "97756"
+}, {
+  "kecamatan" : "Makian Barat (Pulau Makian)",
+  "kelurahan" : "Bobawa (Bobawae)",
+  "kodepos" : "97756"
+} ]

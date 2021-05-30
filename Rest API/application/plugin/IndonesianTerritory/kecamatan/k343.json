@@ -1,0 +1,669 @@
+[ {
+  "kecamatan" : "Alu (Allu)",
+  "kelurahan" : "Saragian",
+  "kodepos" : "96365"
+}, {
+  "kecamatan" : "Alu (Allu)",
+  "kelurahan" : "Sayoang",
+  "kodepos" : "96365"
+}, {
+  "kecamatan" : "Alu (Allu)",
+  "kelurahan" : "Petoosang",
+  "kodepos" : "96365"
+}, {
+  "kecamatan" : "Alu (Allu)",
+  "kelurahan" : "Pupu Uring (Puppuring)",
+  "kodepos" : "96365"
+}, {
+  "kecamatan" : "Alu (Allu)",
+  "kelurahan" : "Kalumammang",
+  "kodepos" : "96365"
+}, {
+  "kecamatan" : "Alu (Allu)",
+  "kelurahan" : "Mombi",
+  "kodepos" : "96365"
+}, {
+  "kecamatan" : "Alu (Allu)",
+  "kelurahan" : "Pao Pao",
+  "kodepos" : "96365"
+}, {
+  "kecamatan" : "Alu (Allu)",
+  "kelurahan" : "Alu (Allu)",
+  "kodepos" : "96365"
+}, {
+  "kecamatan" : "Limboro",
+  "kelurahan" : "Todang Todang",
+  "kodepos" : "91413"
+}, {
+  "kecamatan" : "Limboro",
+  "kelurahan" : "Tangan Baru",
+  "kodepos" : "91413"
+}, {
+  "kecamatan" : "Limboro",
+  "kelurahan" : "Tandasura (Tandassura)",
+  "kodepos" : "91413"
+}, {
+  "kecamatan" : "Limboro",
+  "kelurahan" : "Renggeang",
+  "kodepos" : "91413"
+}, {
+  "kecamatan" : "Limboro",
+  "kelurahan" : "Salarri",
+  "kodepos" : "91413"
+}, {
+  "kecamatan" : "Limboro",
+  "kelurahan" : "Samasundu",
+  "kodepos" : "91413"
+}, {
+  "kecamatan" : "Limboro",
+  "kelurahan" : "Palece",
+  "kodepos" : "91413"
+}, {
+  "kecamatan" : "Limboro",
+  "kelurahan" : "Pendulangan (Pandulangan)",
+  "kodepos" : "91413"
+}, {
+  "kecamatan" : "Limboro",
+  "kelurahan" : "Limboro",
+  "kodepos" : "91413"
+}, {
+  "kecamatan" : "Limboro",
+  "kelurahan" : "Napo",
+  "kodepos" : "91413"
+}, {
+  "kecamatan" : "Limboro",
+  "kelurahan" : "Lembang Lembang",
+  "kodepos" : "91413"
+}, {
+  "kecamatan" : "Tinambung",
+  "kelurahan" : "Tangnga-Tangnga",
+  "kodepos" : "91412"
+}, {
+  "kecamatan" : "Tubbi Taramanu (Tutar/Tutallu)",
+  "kelurahan" : "Tubbi",
+  "kodepos" : "91355"
+}, {
+  "kecamatan" : "Tubbi Taramanu (Tutar/Tutallu)",
+  "kelurahan" : "Taramanu",
+  "kodepos" : "91355"
+}, {
+  "kecamatan" : "Tubbi Taramanu (Tutar/Tutallu)",
+  "kelurahan" : "Taramanu Tua",
+  "kodepos" : "91355"
+}, {
+  "kecamatan" : "Tubbi Taramanu (Tutar/Tutallu)",
+  "kelurahan" : "Ratte",
+  "kodepos" : "91355"
+}, {
+  "kecamatan" : "Tubbi Taramanu (Tutar/Tutallu)",
+  "kelurahan" : "Taloba",
+  "kodepos" : "91355"
+}, {
+  "kecamatan" : "Tubbi Taramanu (Tutar/Tutallu)",
+  "kelurahan" : "Pollewani",
+  "kodepos" : "91355"
+}, {
+  "kecamatan" : "Tubbi Taramanu (Tutar/Tutallu)",
+  "kelurahan" : "Piriang Tapiko",
+  "kodepos" : "91355"
+}, {
+  "kecamatan" : "Tubbi Taramanu (Tutar/Tutallu)",
+  "kelurahan" : "Poda",
+  "kodepos" : "91355"
+}, {
+  "kecamatan" : "Tubbi Taramanu (Tutar/Tutallu)",
+  "kelurahan" : "Besoangin Utara",
+  "kodepos" : "91355"
+}, {
+  "kecamatan" : "Tubbi Taramanu (Tutar/Tutallu)",
+  "kelurahan" : "Peburru",
+  "kodepos" : "91355"
+}, {
+  "kecamatan" : "Tubbi Taramanu (Tutar/Tutallu)",
+  "kelurahan" : "Arabua",
+  "kodepos" : "91355"
+}, {
+  "kecamatan" : "Tubbi Taramanu (Tutar/Tutallu)",
+  "kelurahan" : "Besoangin",
+  "kodepos" : "91355"
+}, {
+  "kecamatan" : "Tinambung",
+  "kelurahan" : "Tinambung",
+  "kodepos" : "91354"
+}, {
+  "kecamatan" : "Tubbi Taramanu (Tutar/Tutallu)",
+  "kelurahan" : "Ambo Padang",
+  "kodepos" : "91355"
+}, {
+  "kecamatan" : "Tinambung",
+  "kelurahan" : "Tandung",
+  "kodepos" : "91354"
+}, {
+  "kecamatan" : "Balanipa",
+  "kelurahan" : "Tammejarra (Tammajarra)",
+  "kodepos" : "91354"
+}, {
+  "kecamatan" : "Tinambung",
+  "kelurahan" : "Sepa Batu",
+  "kodepos" : "91354"
+}, {
+  "kecamatan" : "Balanipa",
+  "kelurahan" : "Tammangalle",
+  "kodepos" : "91354"
+}, {
+  "kecamatan" : "Balanipa",
+  "kelurahan" : "Pambusuang",
+  "kodepos" : "91354"
+}, {
+  "kecamatan" : "Balanipa",
+  "kelurahan" : "Sabang Subik",
+  "kodepos" : "91354"
+}, {
+  "kecamatan" : "Tinambung",
+  "kelurahan" : "Lekopadis",
+  "kodepos" : "91354"
+}, {
+  "kecamatan" : "Balanipa",
+  "kelurahan" : "Mosso",
+  "kodepos" : "91354"
+}, {
+  "kecamatan" : "Balanipa",
+  "kelurahan" : "Pallis",
+  "kodepos" : "91354"
+}, {
+  "kecamatan" : "Balanipa",
+  "kelurahan" : "Lambanan",
+  "kodepos" : "91354"
+}, {
+  "kecamatan" : "Balanipa",
+  "kelurahan" : "Lego",
+  "kodepos" : "91354"
+}, {
+  "kecamatan" : "Tinambung",
+  "kelurahan" : "Karama",
+  "kodepos" : "91354"
+}, {
+  "kecamatan" : "Balanipa",
+  "kelurahan" : "Galung Tulu",
+  "kodepos" : "91354"
+}, {
+  "kecamatan" : "Tinambung",
+  "kelurahan" : "Batulaya",
+  "kodepos" : "91354"
+}, {
+  "kecamatan" : "Tinambung",
+  "kelurahan" : "Galung Lombok",
+  "kodepos" : "91354"
+}, {
+  "kecamatan" : "Balanipa",
+  "kelurahan" : "Balanipa",
+  "kodepos" : "91354"
+}, {
+  "kecamatan" : "Balanipa",
+  "kelurahan" : "Bala",
+  "kodepos" : "91354"
+}, {
+  "kecamatan" : "Mapilli",
+  "kelurahan" : "Ugi Baru",
+  "kodepos" : "91353"
+}, {
+  "kecamatan" : "Luyo",
+  "kelurahan" : "Tenggelang (Tenggelan)",
+  "kodepos" : "91353"
+}, {
+  "kecamatan" : "Bulo",
+  "kelurahan" : "Tapambanua (Patambanua)",
+  "kodepos" : "91353"
+}, {
+  "kecamatan" : "Campalagian",
+  "kelurahan" : "Sumarang (Sumarrang)",
+  "kodepos" : "91353"
+}, {
+  "kecamatan" : "Campalagian",
+  "kelurahan" : "Suruang",
+  "kodepos" : "91353"
+}, {
+  "kecamatan" : "Bulo",
+  "kelurahan" : "Sepporraki",
+  "kodepos" : "91353"
+}, {
+  "kecamatan" : "Mapilli",
+  "kelurahan" : "Segerang",
+  "kodepos" : "91353"
+}, {
+  "kecamatan" : "Mapilli",
+  "kelurahan" : "Sattoko",
+  "kodepos" : "91353"
+}, {
+  "kecamatan" : "Luyo",
+  "kelurahan" : "Sambali Wali",
+  "kodepos" : "91353"
+}, {
+  "kecamatan" : "Bulo",
+  "kelurahan" : "Sabura",
+  "kodepos" : "91353"
+}, {
+  "kecamatan" : "Mapilli",
+  "kelurahan" : "Rappang Barat",
+  "kodepos" : "91353"
+}, {
+  "kecamatan" : "Mapilli",
+  "kelurahan" : "Rumpa",
+  "kodepos" : "91353"
+}, {
+  "kecamatan" : "Luyo",
+  "kelurahan" : "Pussui",
+  "kodepos" : "91353"
+}, {
+  "kecamatan" : "Luyo",
+  "kelurahan" : "Pussui Barat",
+  "kodepos" : "91353"
+}, {
+  "kecamatan" : "Luyo",
+  "kelurahan" : "Puccadi",
+  "kodepos" : "91353"
+}, {
+  "kecamatan" : "Bulo",
+  "kelurahan" : "Pulliwa",
+  "kodepos" : "91353"
+}, {
+  "kecamatan" : "Campalagian",
+  "kelurahan" : "Pappang",
+  "kodepos" : "91353"
+}, {
+  "kecamatan" : "Campalagian",
+  "kelurahan" : "Parappe",
+  "kodepos" : "91353"
+}, {
+  "kecamatan" : "Campalagian",
+  "kelurahan" : "Panyampa",
+  "kodepos" : "91353"
+}, {
+  "kecamatan" : "Campalagian",
+  "kelurahan" : "Padang Timur",
+  "kodepos" : "91353"
+}, {
+  "kecamatan" : "Luyo",
+  "kelurahan" : "Mapilli Barat",
+  "kodepos" : "91353"
+}, {
+  "kecamatan" : "Campalagian",
+  "kelurahan" : "Ongko",
+  "kodepos" : "91353"
+}, {
+  "kecamatan" : "Campalagian",
+  "kelurahan" : "Padang",
+  "kodepos" : "91353"
+}, {
+  "kecamatan" : "Luyo",
+  "kelurahan" : "Mambu",
+  "kodepos" : "91353"
+}, {
+  "kecamatan" : "Mapilli",
+  "kelurahan" : "Mapilli",
+  "kodepos" : "91353"
+}, {
+  "kecamatan" : "Bulo",
+  "kelurahan" : "Lenggo",
+  "kodepos" : "91353"
+}, {
+  "kecamatan" : "Luyo",
+  "kelurahan" : "Luyo (Lujo)",
+  "kodepos" : "91353"
+}, {
+  "kecamatan" : "Mapilli",
+  "kelurahan" : "Landi Kanusuang",
+  "kodepos" : "91353"
+}, {
+  "kecamatan" : "Campalagian",
+  "kelurahan" : "Lapeo",
+  "kodepos" : "91353"
+}, {
+  "kecamatan" : "Campalagian",
+  "kelurahan" : "Laliko",
+  "kodepos" : "91353"
+}, {
+  "kecamatan" : "Campalagian",
+  "kelurahan" : "Lampoko",
+  "kodepos" : "91353"
+}, {
+  "kecamatan" : "Campalagian",
+  "kelurahan" : "Lagi-Agi",
+  "kodepos" : "91353"
+}, {
+  "kecamatan" : "Mapilli",
+  "kelurahan" : "Kurma",
+  "kodepos" : "91353"
+}, {
+  "kecamatan" : "Campalagian",
+  "kelurahan" : "Kenje",
+  "kodepos" : "91353"
+}, {
+  "kecamatan" : "Campalagian",
+  "kelurahan" : "Katumbangan",
+  "kodepos" : "91353"
+}, {
+  "kecamatan" : "Campalagian",
+  "kelurahan" : "Katumbangan Lemo",
+  "kodepos" : "91353"
+}, {
+  "kecamatan" : "Bulo",
+  "kelurahan" : "Karombang",
+  "kodepos" : "91353"
+}, {
+  "kecamatan" : "Bulo",
+  "kelurahan" : "Ihing",
+  "kodepos" : "91353"
+}, {
+  "kecamatan" : "Bulo",
+  "kelurahan" : "Daala Timur",
+  "kodepos" : "91353"
+}, {
+  "kecamatan" : "Campalagian",
+  "kelurahan" : "Gattungan",
+  "kodepos" : "91353"
+}, {
+  "kecamatan" : "Bulo",
+  "kelurahan" : "Bulo",
+  "kodepos" : "91353"
+}, {
+  "kecamatan" : "Mapilli",
+  "kelurahan" : "Buku",
+  "kodepos" : "91353"
+}, {
+  "kecamatan" : "Mapilli",
+  "kelurahan" : "Bonra",
+  "kodepos" : "91353"
+}, {
+  "kecamatan" : "Campalagian",
+  "kelurahan" : "Botto",
+  "kodepos" : "91353"
+}, {
+  "kecamatan" : "Mapilli",
+  "kelurahan" : "Bonne-Bonne",
+  "kodepos" : "91353"
+}, {
+  "kecamatan" : "Campalagian",
+  "kelurahan" : "Bonde",
+  "kodepos" : "91353"
+}, {
+  "kecamatan" : "Mapilli",
+  "kelurahan" : "Beroangin",
+  "kodepos" : "91353"
+}, {
+  "kecamatan" : "Luyo",
+  "kelurahan" : "Batupanga Daala",
+  "kodepos" : "91353"
+}, {
+  "kecamatan" : "Luyo",
+  "kelurahan" : "Batu Panga",
+  "kodepos" : "91353"
+}, {
+  "kecamatan" : "Luyo",
+  "kelurahan" : "Baru",
+  "kodepos" : "91353"
+}, {
+  "kecamatan" : "Tapango",
+  "kelurahan" : "Tuttula",
+  "kodepos" : "91352"
+}, {
+  "kecamatan" : "Wonomulyo",
+  "kelurahan" : "Tumpiling",
+  "kodepos" : "91352"
+}, {
+  "kecamatan" : "Matakali",
+  "kelurahan" : "Tonro Lima",
+  "kodepos" : "91352"
+}, {
+  "kecamatan" : "Tapango",
+  "kelurahan" : "Tapango Barat",
+  "kodepos" : "91352"
+}, {
+  "kecamatan" : "Matangnga",
+  "kelurahan" : "Tapua",
+  "kodepos" : "91352"
+}, {
+  "kecamatan" : "Tapango",
+  "kelurahan" : "Tapango",
+  "kodepos" : "91352"
+}, {
+  "kecamatan" : "Wonomulyo",
+  "kelurahan" : "Sumberjo",
+  "kodepos" : "91352"
+}, {
+  "kecamatan" : "Wonomulyo",
+  "kelurahan" : "Sugih Waras",
+  "kodepos" : "91352"
+}, {
+  "kecamatan" : "Wonomulyo",
+  "kelurahan" : "Sidodadi",
+  "kodepos" : "91352"
+}, {
+  "kecamatan" : "Wonomulyo",
+  "kelurahan" : "Sidorejo",
+  "kodepos" : "91352"
+}, {
+  "kecamatan" : "Tapango",
+  "kelurahan" : "Rappang",
+  "kodepos" : "91352"
+}, {
+  "kecamatan" : "Tapango",
+  "kelurahan" : "Riso",
+  "kodepos" : "91352"
+}, {
+  "kecamatan" : "Matangnga",
+  "kelurahan" : "Rangoan",
+  "kodepos" : "91352"
+}, {
+  "kecamatan" : "Matakali",
+  "kelurahan" : "Patampanua",
+  "kodepos" : "91352"
+}, {
+  "kecamatan" : "Tapango",
+  "kelurahan" : "Pelitakan",
+  "kodepos" : "91352"
+}, {
+  "kecamatan" : "Matakali",
+  "kelurahan" : "Pasiang",
+  "kodepos" : "91352"
+}, {
+  "kecamatan" : "Tapango",
+  "kelurahan" : "Palatta",
+  "kodepos" : "91352"
+}, {
+  "kecamatan" : "Wonomulyo",
+  "kelurahan" : "Nepo",
+  "kodepos" : "91352"
+}, {
+  "kecamatan" : "Matangnga",
+  "kelurahan" : "Matangnga",
+  "kodepos" : "91352"
+}, {
+  "kecamatan" : "Matakali",
+  "kelurahan" : "Matakali",
+  "kodepos" : "91352"
+}, {
+  "kecamatan" : "Matangnga",
+  "kelurahan" : "Lilli",
+  "kodepos" : "91352"
+}, {
+  "kecamatan" : "Matangnga",
+  "kelurahan" : "Mambu Tapua",
+  "kodepos" : "91352"
+}, {
+  "kecamatan" : "Tapango",
+  "kelurahan" : "Kurrak",
+  "kodepos" : "91352"
+}, {
+  "kecamatan" : "Wonomulyo",
+  "kelurahan" : "Kebunsari",
+  "kodepos" : "91352"
+}, {
+  "kecamatan" : "Matangnga",
+  "kelurahan" : "Katimbang",
+  "kodepos" : "91352"
+}, {
+  "kecamatan" : "Tapango",
+  "kelurahan" : "Kalimbua",
+  "kodepos" : "91352"
+}, {
+  "kecamatan" : "Tapango",
+  "kelurahan" : "Jambu Malea",
+  "kodepos" : "91352"
+}, {
+  "kecamatan" : "Matakali",
+  "kelurahan" : "Indo Makkombong (Indomakkondang)",
+  "kodepos" : "91352"
+}, {
+  "kecamatan" : "Wonomulyo",
+  "kelurahan" : "Geleso",
+  "kodepos" : "91352"
+}, {
+  "kecamatan" : "Tapango",
+  "kelurahan" : "Dakka",
+  "kodepos" : "91352"
+}, {
+  "kecamatan" : "Tapango",
+  "kelurahan" : "Bussu",
+  "kodepos" : "91352"
+}, {
+  "kecamatan" : "Wonomulyo",
+  "kelurahan" : "Campurjo",
+  "kodepos" : "91352"
+}, {
+  "kecamatan" : "Wonomulyo",
+  "kelurahan" : "Bumiayu",
+  "kodepos" : "91352"
+}, {
+  "kecamatan" : "Matakali",
+  "kelurahan" : "Bunga-Bunga",
+  "kodepos" : "91352"
+}, {
+  "kecamatan" : "Wonomulyo",
+  "kelurahan" : "Bumi Mulyo",
+  "kodepos" : "91352"
+}, {
+  "kecamatan" : "Tapango",
+  "kelurahan" : "Batu",
+  "kodepos" : "91352"
+}, {
+  "kecamatan" : "Wonomulyo",
+  "kelurahan" : "Banua Baru",
+  "kodepos" : "91352"
+}, {
+  "kecamatan" : "Matakali",
+  "kelurahan" : "Barumbung",
+  "kodepos" : "91352"
+}, {
+  "kecamatan" : "Wonomulyo",
+  "kelurahan" : "Bakka-Bakka",
+  "kodepos" : "91352"
+}, {
+  "kecamatan" : "Tapango",
+  "kelurahan" : "Banato Rejo",
+  "kodepos" : "91352"
+}, {
+  "kecamatan" : "Matangnga",
+  "kelurahan" : "Ba&#8217;ba Tapua",
+  "kodepos" : "91352"
+}, {
+  "kecamatan" : "Wonomulyo",
+  "kelurahan" : "Arjosari",
+  "kodepos" : "91352"
+}, {
+  "kecamatan" : "Binuang",
+  "kelurahan" : "Kuajang",
+  "kodepos" : "91351"
+}, {
+  "kecamatan" : "Binuang",
+  "kelurahan" : "Paku",
+  "kodepos" : "91351"
+}, {
+  "kecamatan" : "Polewali",
+  "kelurahan" : "Wattang",
+  "kodepos" : "91315"
+}, {
+  "kecamatan" : "Polewali",
+  "kelurahan" : "Madatte",
+  "kodepos" : "91315"
+}, {
+  "kecamatan" : "Polewali",
+  "kelurahan" : "Sulewatang",
+  "kodepos" : "91315"
+}, {
+  "kecamatan" : "Anreapi",
+  "kelurahan" : "Pappandangan",
+  "kodepos" : "91315"
+}, {
+  "kecamatan" : "Anreapi",
+  "kelurahan" : "Kelapa Dua",
+  "kodepos" : "91315"
+}, {
+  "kecamatan" : "Anreapi",
+  "kelurahan" : "Kunyi",
+  "kodepos" : "91315"
+}, {
+  "kecamatan" : "Anreapi",
+  "kelurahan" : "Anreapi",
+  "kodepos" : "91315"
+}, {
+  "kecamatan" : "Anreapi",
+  "kelurahan" : "Duampanua",
+  "kodepos" : "91315"
+}, {
+  "kecamatan" : "Polewali",
+  "kelurahan" : "Darma",
+  "kodepos" : "91314"
+}, {
+  "kecamatan" : "Polewali",
+  "kelurahan" : "Lantora",
+  "kodepos" : "91313"
+}, {
+  "kecamatan" : "Binuang",
+  "kelurahan" : "Tonyaman",
+  "kodepos" : "91312"
+}, {
+  "kecamatan" : "Binuang",
+  "kelurahan" : "Mirring",
+  "kodepos" : "91312"
+}, {
+  "kecamatan" : "Binuang",
+  "kelurahan" : "Rea",
+  "kodepos" : "91312"
+}, {
+  "kecamatan" : "Binuang",
+  "kelurahan" : "Amola",
+  "kodepos" : "91312"
+}, {
+  "kecamatan" : "Binuang",
+  "kelurahan" : "Batetangnga",
+  "kodepos" : "91312"
+}, {
+  "kecamatan" : "Binuang",
+  "kelurahan" : "Kaleok",
+  "kodepos" : "91312"
+}, {
+  "kecamatan" : "Binuang",
+  "kelurahan" : "Amassangan",
+  "kodepos" : "91312"
+}, {
+  "kecamatan" : "Polewali",
+  "kelurahan" : "Takatidung",
+  "kodepos" : "91311"
+}, {
+  "kecamatan" : "Polewali",
+  "kelurahan" : "Polewali",
+  "kodepos" : "91311"
+}, {
+  "kecamatan" : "Polewali",
+  "kelurahan" : "Pekkabata",
+  "kodepos" : "91311"
+}, {
+  "kecamatan" : "Polewali",
+  "kelurahan" : "Manding",
+  "kodepos" : "91311"
+}, {
+  "kecamatan" : "Binuang",
+  "kelurahan" : "Mammi",
+  "kodepos" : "91311"
+} ]

@@ -1,0 +1,973 @@
+[ {
+  "kecamatan" : "Muara Gembong",
+  "kelurahan" : "Pantai Mekar",
+  "kodepos" : "17730"
+}, {
+  "kecamatan" : "Muara Gembong",
+  "kelurahan" : "Pantai Sederhana",
+  "kodepos" : "17730"
+}, {
+  "kecamatan" : "Muara Gembong",
+  "kelurahan" : "Pantai Harapan Jaya",
+  "kodepos" : "17730"
+}, {
+  "kecamatan" : "Muara Gembong",
+  "kelurahan" : "Jayasakti",
+  "kodepos" : "17730"
+}, {
+  "kecamatan" : "Muara Gembong",
+  "kelurahan" : "Pantai Bahagia",
+  "kodepos" : "17730"
+}, {
+  "kecamatan" : "Muara Gembong",
+  "kelurahan" : "Pantai Bakti",
+  "kodepos" : "17730"
+}, {
+  "kecamatan" : "Cabangbungin",
+  "kelurahan" : "Sindangsari",
+  "kodepos" : "17720"
+}, {
+  "kecamatan" : "Cabangbungin",
+  "kelurahan" : "Sindang Jaya",
+  "kodepos" : "17720"
+}, {
+  "kecamatan" : "Cabangbungin",
+  "kelurahan" : "Setialaksana",
+  "kodepos" : "17720"
+}, {
+  "kecamatan" : "Cabangbungin",
+  "kelurahan" : "Setia Jaya",
+  "kodepos" : "17720"
+}, {
+  "kecamatan" : "Cabangbungin",
+  "kelurahan" : "Lenggah Sari",
+  "kodepos" : "17720"
+}, {
+  "kecamatan" : "Cabangbungin",
+  "kelurahan" : "Jaya Laksana",
+  "kodepos" : "17720"
+}, {
+  "kecamatan" : "Cabangbungin",
+  "kelurahan" : "Lenggah Jaya",
+  "kodepos" : "17720"
+}, {
+  "kecamatan" : "Cabangbungin",
+  "kelurahan" : "Jaya Bakti",
+  "kodepos" : "17720"
+}, {
+  "kecamatan" : "Pebayuran",
+  "kelurahan" : "Sumbersari",
+  "kodepos" : "17710"
+}, {
+  "kecamatan" : "Pebayuran",
+  "kelurahan" : "Sumberurip",
+  "kodepos" : "17710"
+}, {
+  "kecamatan" : "Pebayuran",
+  "kelurahan" : "Sumberreja",
+  "kodepos" : "17710"
+}, {
+  "kecamatan" : "Pebayuran",
+  "kelurahan" : "Kertasari",
+  "kodepos" : "17710"
+}, {
+  "kecamatan" : "Pebayuran",
+  "kelurahan" : "Kertajaya",
+  "kodepos" : "17710"
+}, {
+  "kecamatan" : "Pebayuran",
+  "kelurahan" : "Karangsegar",
+  "kodepos" : "17710"
+}, {
+  "kecamatan" : "Pebayuran",
+  "kelurahan" : "Karangreja",
+  "kodepos" : "17710"
+}, {
+  "kecamatan" : "Pebayuran",
+  "kelurahan" : "Karangjaya",
+  "kodepos" : "17710"
+}, {
+  "kecamatan" : "Pebayuran",
+  "kelurahan" : "Karangpatri",
+  "kodepos" : "17710"
+}, {
+  "kecamatan" : "Pebayuran",
+  "kelurahan" : "Karang Harja",
+  "kodepos" : "17710"
+}, {
+  "kecamatan" : "Pebayuran",
+  "kelurahan" : "Karanghaur",
+  "kodepos" : "17710"
+}, {
+  "kecamatan" : "Pebayuran",
+  "kelurahan" : "Bantarjaya",
+  "kodepos" : "17710"
+}, {
+  "kecamatan" : "Pebayuran",
+  "kelurahan" : "Bantarsari",
+  "kodepos" : "17710"
+}, {
+  "kecamatan" : "Sukakarya",
+  "kelurahan" : "Sukamurni",
+  "kodepos" : "17630"
+}, {
+  "kecamatan" : "Sukatani",
+  "kelurahan" : "Sukarukun",
+  "kodepos" : "17630"
+}, {
+  "kecamatan" : "Sukatani",
+  "kelurahan" : "Sukamanah",
+  "kodepos" : "17630"
+}, {
+  "kecamatan" : "Sukatani",
+  "kelurahan" : "Sukamulya",
+  "kodepos" : "17630"
+}, {
+  "kecamatan" : "Sukakarya",
+  "kelurahan" : "Sukalaksana",
+  "kodepos" : "17630"
+}, {
+  "kecamatan" : "Sukakarya",
+  "kelurahan" : "Sukamakmur",
+  "kodepos" : "17630"
+}, {
+  "kecamatan" : "Sukakarya",
+  "kelurahan" : "Sukajadi",
+  "kodepos" : "17630"
+}, {
+  "kecamatan" : "Sukakarya",
+  "kelurahan" : "Sukakarya",
+  "kodepos" : "17630"
+}, {
+  "kecamatan" : "Sukakarya",
+  "kelurahan" : "Sukakersa",
+  "kodepos" : "17630"
+}, {
+  "kecamatan" : "Sukatani",
+  "kelurahan" : "Sukahurip",
+  "kodepos" : "17630"
+}, {
+  "kecamatan" : "Sukakarya",
+  "kelurahan" : "Sukaindah",
+  "kodepos" : "17630"
+}, {
+  "kecamatan" : "Sukatani",
+  "kelurahan" : "Suka Asih",
+  "kodepos" : "17630"
+}, {
+  "kecamatan" : "Sukatani",
+  "kelurahan" : "Sukadarma",
+  "kodepos" : "17630"
+}, {
+  "kecamatan" : "Sukatani",
+  "kelurahan" : "Banjar Sari",
+  "kodepos" : "17630"
+}, {
+  "kecamatan" : "Tambelang",
+  "kelurahan" : "Sukawijaya",
+  "kodepos" : "17620"
+}, {
+  "kecamatan" : "Sukawangi",
+  "kelurahan" : "Sukawangi",
+  "kodepos" : "17620"
+}, {
+  "kecamatan" : "Sukawangi",
+  "kelurahan" : "Sukaringin",
+  "kodepos" : "17620"
+}, {
+  "kecamatan" : "Sukawangi",
+  "kelurahan" : "Sukatenang",
+  "kodepos" : "17620"
+}, {
+  "kecamatan" : "Tambelang",
+  "kelurahan" : "Sukaraja",
+  "kodepos" : "17620"
+}, {
+  "kecamatan" : "Tambelang",
+  "kelurahan" : "Sukarapih",
+  "kodepos" : "17620"
+}, {
+  "kecamatan" : "Tambelang",
+  "kelurahan" : "Sukamantri",
+  "kodepos" : "17620"
+}, {
+  "kecamatan" : "Tambelang",
+  "kelurahan" : "Sukarahayu",
+  "kodepos" : "17620"
+}, {
+  "kecamatan" : "Sukawangi",
+  "kelurahan" : "Sukamekar",
+  "kodepos" : "17620"
+}, {
+  "kecamatan" : "Tambelang",
+  "kelurahan" : "Sukamaju",
+  "kodepos" : "17620"
+}, {
+  "kecamatan" : "Sukawangi",
+  "kelurahan" : "Sukakerta",
+  "kodepos" : "17620"
+}, {
+  "kecamatan" : "Sukawangi",
+  "kelurahan" : "Sukabudi",
+  "kodepos" : "17620"
+}, {
+  "kecamatan" : "Sukawangi",
+  "kelurahan" : "Sukadaya",
+  "kodepos" : "17620"
+}, {
+  "kecamatan" : "Tambelang",
+  "kelurahan" : "Sukabakti",
+  "kodepos" : "17620"
+}, {
+  "kecamatan" : "Babelan",
+  "kelurahan" : "Pantai Hurip",
+  "kodepos" : "17610"
+}, {
+  "kecamatan" : "Babelan",
+  "kelurahan" : "Kedungjaya",
+  "kodepos" : "17610"
+}, {
+  "kecamatan" : "Babelan",
+  "kelurahan" : "Muara Bakti",
+  "kodepos" : "17610"
+}, {
+  "kecamatan" : "Babelan",
+  "kelurahan" : "Kebalen",
+  "kodepos" : "17610"
+}, {
+  "kecamatan" : "Babelan",
+  "kelurahan" : "Kedung Pengawas",
+  "kodepos" : "17610"
+}, {
+  "kecamatan" : "Babelan",
+  "kelurahan" : "Buni Bakti",
+  "kodepos" : "17610"
+}, {
+  "kecamatan" : "Babelan",
+  "kelurahan" : "Hurip Jaya",
+  "kodepos" : "17610"
+}, {
+  "kecamatan" : "Babelan",
+  "kelurahan" : "Babelan Kota",
+  "kodepos" : "17610"
+}, {
+  "kecamatan" : "Babelan",
+  "kelurahan" : "Bahagia",
+  "kodepos" : "17610"
+}, {
+  "kecamatan" : "Kedung Waringin",
+  "kelurahan" : "Waringin Jaya",
+  "kodepos" : "17540"
+}, {
+  "kecamatan" : "Kedung Waringin",
+  "kelurahan" : "Karang Sambung",
+  "kodepos" : "17540"
+}, {
+  "kecamatan" : "Kedung Waringin",
+  "kelurahan" : "Kedungwaringin",
+  "kodepos" : "17540"
+}, {
+  "kecamatan" : "Kedung Waringin",
+  "kelurahan" : "Mekar Jaya",
+  "kodepos" : "17540"
+}, {
+  "kecamatan" : "Kedung Waringin",
+  "kelurahan" : "Karang Harum",
+  "kodepos" : "17540"
+}, {
+  "kecamatan" : "Kedung Waringin",
+  "kelurahan" : "Karang Mekar",
+  "kodepos" : "17540"
+}, {
+  "kecamatan" : "Kedung Waringin",
+  "kelurahan" : "Bojongsari",
+  "kodepos" : "17540"
+}, {
+  "kecamatan" : "Cikarang Utara",
+  "kelurahan" : "Wangunharja",
+  "kodepos" : "17530"
+}, {
+  "kecamatan" : "Cikarang Barat",
+  "kelurahan" : "Telajung",
+  "kodepos" : "17530"
+}, {
+  "kecamatan" : "Cikarang Utara",
+  "kelurahan" : "Waluya",
+  "kodepos" : "17530"
+}, {
+  "kecamatan" : "Cikarang Barat",
+  "kelurahan" : "Telaga Asih",
+  "kodepos" : "17530"
+}, {
+  "kecamatan" : "Cikarang Barat",
+  "kelurahan" : "Telaga Murni",
+  "kodepos" : "17530"
+}, {
+  "kecamatan" : "Cikarang Timur",
+  "kelurahan" : "Tanjungbaru",
+  "kodepos" : "17530"
+}, {
+  "kecamatan" : "Cikarang Utara",
+  "kelurahan" : "Tanjungsari",
+  "kodepos" : "17530"
+}, {
+  "kecamatan" : "Karangbahagia",
+  "kelurahan" : "Sukaraya",
+  "kodepos" : "17530"
+}, {
+  "kecamatan" : "Cikarang Selatan",
+  "kelurahan" : "Sukaresmi",
+  "kodepos" : "17530"
+}, {
+  "kecamatan" : "Cikarang Selatan",
+  "kelurahan" : "Sukasejati",
+  "kodepos" : "17530"
+}, {
+  "kecamatan" : "Cikarang Pusat",
+  "kelurahan" : "Sukamahi",
+  "kodepos" : "17530"
+}, {
+  "kecamatan" : "Cikarang Barat",
+  "kelurahan" : "Sukadanau",
+  "kodepos" : "17530"
+}, {
+  "kecamatan" : "Cikarang Selatan",
+  "kelurahan" : "Sukadami",
+  "kodepos" : "17530"
+}, {
+  "kecamatan" : "Cikarang Utara",
+  "kelurahan" : "Simpangan",
+  "kodepos" : "17530"
+}, {
+  "kecamatan" : "Cikarang Timur",
+  "kelurahan" : "Sertajaya",
+  "kodepos" : "17530"
+}, {
+  "kecamatan" : "Cikarang Pusat",
+  "kelurahan" : "Pasirtanjung",
+  "kodepos" : "17530"
+}, {
+  "kecamatan" : "Cikarang Selatan",
+  "kelurahan" : "Pasirsari",
+  "kodepos" : "17530"
+}, {
+  "kecamatan" : "Cikarang Selatan",
+  "kelurahan" : "Serang",
+  "kodepos" : "17530"
+}, {
+  "kecamatan" : "Cikarang Pusat",
+  "kelurahan" : "Pasirpanji",
+  "kodepos" : "17530"
+}, {
+  "kecamatan" : "Cikarang Utara",
+  "kelurahan" : "Pasir Gombong",
+  "kodepos" : "17530"
+}, {
+  "kecamatan" : "Cikarang Barat",
+  "kelurahan" : "Mekar Wangi",
+  "kodepos" : "17530"
+}, {
+  "kecamatan" : "Cikarang Utara",
+  "kelurahan" : "Mekarmukti",
+  "kodepos" : "17530"
+}, {
+  "kecamatan" : "Cikarang Timur",
+  "kelurahan" : "Karangsari",
+  "kodepos" : "17530"
+}, {
+  "kecamatan" : "Cikarang Timur",
+  "kelurahan" : "Labansari",
+  "kodepos" : "17530"
+}, {
+  "kecamatan" : "Cikarang Utara",
+  "kelurahan" : "Karangasih",
+  "kodepos" : "17530"
+}, {
+  "kecamatan" : "Cikarang Utara",
+  "kelurahan" : "Karangraharja",
+  "kodepos" : "17530"
+}, {
+  "kecamatan" : "Karangbahagia",
+  "kelurahan" : "Karangmukti",
+  "kodepos" : "17530"
+}, {
+  "kecamatan" : "Karangbahagia",
+  "kelurahan" : "Karang Setu",
+  "kodepos" : "17530"
+}, {
+  "kecamatan" : "Karangbahagia",
+  "kelurahan" : "Karanganyar",
+  "kodepos" : "17530"
+}, {
+  "kecamatan" : "Karangbahagia",
+  "kelurahan" : "Karang Sentosa",
+  "kodepos" : "17530"
+}, {
+  "kecamatan" : "Karangbahagia",
+  "kelurahan" : "Karang Setra",
+  "kodepos" : "17530"
+}, {
+  "kecamatan" : "Karangbahagia",
+  "kelurahan" : "Karang Rahayu",
+  "kodepos" : "17530"
+}, {
+  "kecamatan" : "Cikarang Utara",
+  "kelurahan" : "Karang Baru",
+  "kodepos" : "17530"
+}, {
+  "kecamatan" : "Karangbahagia",
+  "kelurahan" : "Karang Bahagia",
+  "kodepos" : "17530"
+}, {
+  "kecamatan" : "Cikarang Barat",
+  "kelurahan" : "Kali Jaya",
+  "kodepos" : "17530"
+}, {
+  "kecamatan" : "Cikarang Pusat",
+  "kelurahan" : "Jayamukti",
+  "kodepos" : "17530"
+}, {
+  "kecamatan" : "Cikarang Barat",
+  "kelurahan" : "Jatiwangi",
+  "kodepos" : "17530"
+}, {
+  "kecamatan" : "Cikarang Timur",
+  "kelurahan" : "Jatibaru",
+  "kodepos" : "17530"
+}, {
+  "kecamatan" : "Cikarang Timur",
+  "kelurahan" : "Jatireja",
+  "kodepos" : "17530"
+}, {
+  "kecamatan" : "Cikarang Pusat",
+  "kelurahan" : "Hegarmukti",
+  "kodepos" : "17530"
+}, {
+  "kecamatan" : "Cikarang Timur",
+  "kelurahan" : "Hegarmanah",
+  "kodepos" : "17530"
+}, {
+  "kecamatan" : "Cikarang Barat",
+  "kelurahan" : "Gandasari",
+  "kodepos" : "17530"
+}, {
+  "kecamatan" : "Cikarang Utara",
+  "kelurahan" : "Harja Mekar",
+  "kodepos" : "17530"
+}, {
+  "kecamatan" : "Cikarang Barat",
+  "kelurahan" : "Danau Indah",
+  "kodepos" : "17530"
+}, {
+  "kecamatan" : "Cikarang Barat",
+  "kelurahan" : "Gandamekar",
+  "kodepos" : "17530"
+}, {
+  "kecamatan" : "Cikarang Timur",
+  "kelurahan" : "Cipayung",
+  "kodepos" : "17530"
+}, {
+  "kecamatan" : "Cikarang Barat",
+  "kelurahan" : "Cikedokan",
+  "kodepos" : "17530"
+}, {
+  "kecamatan" : "Cikarang Utara",
+  "kelurahan" : "Cikarang Kota",
+  "kodepos" : "17530"
+}, {
+  "kecamatan" : "Cikarang Selatan",
+  "kelurahan" : "Cibatu",
+  "kodepos" : "17530"
+}, {
+  "kecamatan" : "Cikarang Pusat",
+  "kelurahan" : "Cicau",
+  "kodepos" : "17530"
+}, {
+  "kecamatan" : "Cibitung",
+  "kelurahan" : "Wanajaya",
+  "kodepos" : "17520"
+}, {
+  "kecamatan" : "Cibitung",
+  "kelurahan" : "Wanasari",
+  "kodepos" : "17520"
+}, {
+  "kecamatan" : "Cikarang Selatan",
+  "kelurahan" : "Ciantra",
+  "kodepos" : "17530"
+}, {
+  "kecamatan" : "Cibitung",
+  "kelurahan" : "Sarimukti",
+  "kodepos" : "17520"
+}, {
+  "kecamatan" : "Cibitung",
+  "kelurahan" : "Sukajaya",
+  "kodepos" : "17520"
+}, {
+  "kecamatan" : "Cibitung",
+  "kelurahan" : "Kerta Mukti",
+  "kodepos" : "17520"
+}, {
+  "kecamatan" : "Cibitung",
+  "kelurahan" : "Muktiwari",
+  "kodepos" : "17520"
+}, {
+  "kecamatan" : "Tambun Selatan",
+  "kelurahan" : "Tridaya Sakti",
+  "kodepos" : "17510"
+}, {
+  "kecamatan" : "Cibitung",
+  "kelurahan" : "Cibuntu",
+  "kodepos" : "17520"
+}, {
+  "kecamatan" : "Tambun Selatan",
+  "kelurahan" : "Sumber Jaya",
+  "kodepos" : "17510"
+}, {
+  "kecamatan" : "Tambun Selatan",
+  "kelurahan" : "Tambun",
+  "kodepos" : "17510"
+}, {
+  "kecamatan" : "Tambun Utara",
+  "kelurahan" : "Srijaya",
+  "kodepos" : "17510"
+}, {
+  "kecamatan" : "Tambun Utara",
+  "kelurahan" : "Srimahi",
+  "kodepos" : "17510"
+}, {
+  "kecamatan" : "Tambun Utara",
+  "kelurahan" : "Srimukti",
+  "kodepos" : "17510"
+}, {
+  "kecamatan" : "Tambun Selatan",
+  "kelurahan" : "Setiadarma",
+  "kodepos" : "17510"
+}, {
+  "kecamatan" : "Tambun Selatan",
+  "kelurahan" : "Setiamekar",
+  "kodepos" : "17510"
+}, {
+  "kecamatan" : "Tambun Utara",
+  "kelurahan" : "Sriamur",
+  "kodepos" : "17510"
+}, {
+  "kecamatan" : "Tambun Selatan",
+  "kelurahan" : "Mekarsari",
+  "kodepos" : "17510"
+}, {
+  "kecamatan" : "Tambun Utara",
+  "kelurahan" : "Satriajaya",
+  "kodepos" : "17510"
+}, {
+  "kecamatan" : "Tambun Utara",
+  "kelurahan" : "Satriamekar",
+  "kodepos" : "17510"
+}, {
+  "kecamatan" : "Tambun Selatan",
+  "kelurahan" : "Lambangsari",
+  "kodepos" : "17510"
+}, {
+  "kecamatan" : "Tambun Selatan",
+  "kelurahan" : "Mangunjaya",
+  "kodepos" : "17510"
+}, {
+  "kecamatan" : "Tambun Utara",
+  "kelurahan" : "Karangsatria",
+  "kodepos" : "17510"
+}, {
+  "kecamatan" : "Tambun Selatan",
+  "kelurahan" : "Lambangjaya",
+  "kodepos" : "17510"
+}, {
+  "kecamatan" : "Jati Sampurna",
+  "kelurahan" : "Jatiranggon",
+  "kodepos" : "17432"
+}, {
+  "kecamatan" : "Tambun Utara",
+  "kelurahan" : "Jalenjaya (Jejalenjaya)",
+  "kodepos" : "17510"
+}, {
+  "kecamatan" : "Jati Sampurna",
+  "kelurahan" : "Jatiraden",
+  "kodepos" : "17433"
+}, {
+  "kecamatan" : "Tambun Selatan",
+  "kelurahan" : "Jatimulya",
+  "kodepos" : "17510"
+}, {
+  "kecamatan" : "Pondok Melati",
+  "kelurahan" : "Jatimurni",
+  "kodepos" : "17431"
+}, {
+  "kecamatan" : "Jati Sampurna",
+  "kelurahan" : "Jatikarya",
+  "kodepos" : "17435"
+}, {
+  "kecamatan" : "Jatiasih",
+  "kelurahan" : "Jatisari",
+  "kodepos" : "17426"
+}, {
+  "kecamatan" : "Jati Sampurna",
+  "kelurahan" : "Jatisampurna",
+  "kodepos" : "17433"
+}, {
+  "kecamatan" : "Jatiasih",
+  "kelurahan" : "Jatiluhur",
+  "kodepos" : "17425"
+}, {
+  "kecamatan" : "Jati Sampurna",
+  "kelurahan" : "Jatirangga",
+  "kodepos" : "17434"
+}, {
+  "kecamatan" : "Jatiasih",
+  "kelurahan" : "Jatirasa",
+  "kodepos" : "17424"
+}, {
+  "kecamatan" : "Jatiasih",
+  "kelurahan" : "Jatiasih",
+  "kodepos" : "17423"
+}, {
+  "kecamatan" : "Jatiasih",
+  "kelurahan" : "Jati Mekar",
+  "kodepos" : "17422"
+}, {
+  "kecamatan" : "Jatiasih",
+  "kelurahan" : "Jatikramat",
+  "kodepos" : "17421"
+}, {
+  "kecamatan" : "Pondok Melati",
+  "kelurahan" : "Jatiwarna",
+  "kodepos" : "17415"
+}, {
+  "kecamatan" : "Pondok Melati",
+  "kelurahan" : "Jati Rahayu",
+  "kodepos" : "17414"
+}, {
+  "kecamatan" : "Pondok Melati",
+  "kelurahan" : "Jatimelati",
+  "kodepos" : "17414"
+}, {
+  "kecamatan" : "Pondok Gede",
+  "kelurahan" : "Jatibening Baru",
+  "kodepos" : "17412"
+}, {
+  "kecamatan" : "Pondok Gede",
+  "kelurahan" : "Jatimakmur",
+  "kodepos" : "17413"
+}, {
+  "kecamatan" : "Pondok Gede",
+  "kelurahan" : "Jaticempaka",
+  "kodepos" : "17411"
+}, {
+  "kecamatan" : "Pondok Gede",
+  "kelurahan" : "Jatiwaringin",
+  "kodepos" : "17411"
+}, {
+  "kecamatan" : "Pondok Gede",
+  "kelurahan" : "Jatibening",
+  "kodepos" : "17412"
+}, {
+  "kecamatan" : "Bojongmangu",
+  "kelurahan" : "Karangmulya",
+  "kodepos" : "17356"
+}, {
+  "kecamatan" : "Bojongmangu",
+  "kelurahan" : "Sukabungah",
+  "kodepos" : "17350"
+}, {
+  "kecamatan" : "Bojongmangu",
+  "kelurahan" : "Sukamukti",
+  "kodepos" : "17350"
+}, {
+  "kecamatan" : "Bojongmangu",
+  "kelurahan" : "Sukamukti",
+  "kodepos" : "17350"
+}, {
+  "kecamatan" : "Bojongmangu",
+  "kelurahan" : "Karangindah",
+  "kodepos" : "17350"
+}, {
+  "kecamatan" : "Bojongmangu",
+  "kelurahan" : "Medalkrisna",
+  "kodepos" : "17350"
+}, {
+  "kecamatan" : "Cibarusah",
+  "kelurahan" : "Sirnajati",
+  "kodepos" : "17340"
+}, {
+  "kecamatan" : "Cibarusah",
+  "kelurahan" : "Wibawamulya",
+  "kodepos" : "17340"
+}, {
+  "kecamatan" : "Cibarusah",
+  "kelurahan" : "Ridogalih",
+  "kodepos" : "17340"
+}, {
+  "kecamatan" : "Cibarusah",
+  "kelurahan" : "Ridomanah",
+  "kodepos" : "17340"
+}, {
+  "kecamatan" : "Cibarusah",
+  "kelurahan" : "Sindangmulya",
+  "kodepos" : "17340"
+}, {
+  "kecamatan" : "Cibarusah",
+  "kelurahan" : "Cibarusahjaya",
+  "kodepos" : "17340"
+}, {
+  "kecamatan" : "Cibarusah",
+  "kelurahan" : "Cibarusahkota",
+  "kodepos" : "17340"
+}, {
+  "kecamatan" : "Serang Baru",
+  "kelurahan" : "Sukaragam",
+  "kodepos" : "17330"
+}, {
+  "kecamatan" : "Serang Baru",
+  "kelurahan" : "Sukasari",
+  "kodepos" : "17330"
+}, {
+  "kecamatan" : "Serang Baru",
+  "kelurahan" : "Nagasari",
+  "kodepos" : "17330"
+}, {
+  "kecamatan" : "Serang Baru",
+  "kelurahan" : "Sirnajaya",
+  "kodepos" : "17330"
+}, {
+  "kecamatan" : "Serang Baru",
+  "kelurahan" : "Nagacipta",
+  "kodepos" : "17330"
+}, {
+  "kecamatan" : "Serang Baru",
+  "kelurahan" : "Jayamulya",
+  "kodepos" : "17330"
+}, {
+  "kecamatan" : "Serang Baru",
+  "kelurahan" : "Cilangkara",
+  "kodepos" : "17330"
+}, {
+  "kecamatan" : "Serang Baru",
+  "kelurahan" : "Jaya Sampurna",
+  "kodepos" : "17330"
+}, {
+  "kecamatan" : "Setu",
+  "kelurahan" : "Taman Rahayu",
+  "kodepos" : "17320"
+}, {
+  "kecamatan" : "Setu",
+  "kelurahan" : "Taman Sari",
+  "kodepos" : "17320"
+}, {
+  "kecamatan" : "Setu",
+  "kelurahan" : "Muktijaya",
+  "kodepos" : "17320"
+}, {
+  "kecamatan" : "Setu",
+  "kelurahan" : "Ragemanunggal",
+  "kodepos" : "17320"
+}, {
+  "kecamatan" : "Setu",
+  "kelurahan" : "Lubangbuaya",
+  "kodepos" : "17320"
+}, {
+  "kecamatan" : "Setu",
+  "kelurahan" : "Kertarahayu",
+  "kodepos" : "17320"
+}, {
+  "kecamatan" : "Setu",
+  "kelurahan" : "Cileduk",
+  "kodepos" : "17320"
+}, {
+  "kecamatan" : "Setu",
+  "kelurahan" : "Cikarageman",
+  "kodepos" : "17320"
+}, {
+  "kecamatan" : "Setu",
+  "kelurahan" : "Cibening",
+  "kodepos" : "17320"
+}, {
+  "kecamatan" : "Setu",
+  "kelurahan" : "Cijengkol",
+  "kodepos" : "17320"
+}, {
+  "kecamatan" : "Setu",
+  "kelurahan" : "Burangkeng",
+  "kodepos" : "17320"
+}, {
+  "kecamatan" : "Tarumajaya",
+  "kelurahan" : "Segara Jaya",
+  "kodepos" : "17218"
+}, {
+  "kecamatan" : "Tarumajaya",
+  "kelurahan" : "Pahlawan Setia",
+  "kodepos" : "17216"
+}, {
+  "kecamatan" : "Tarumajaya",
+  "kelurahan" : "Samudra Jaya",
+  "kodepos" : "17217"
+}, {
+  "kecamatan" : "Tarumajaya",
+  "kelurahan" : "Pusaka Rakyat",
+  "kodepos" : "17214"
+}, {
+  "kecamatan" : "Tarumajaya",
+  "kelurahan" : "Setia Asih",
+  "kodepos" : "17215"
+}, {
+  "kecamatan" : "Tarumajaya",
+  "kelurahan" : "Setia Mulya",
+  "kodepos" : "17213"
+}, {
+  "kecamatan" : "Tarumajaya",
+  "kelurahan" : "Segara Makmur",
+  "kodepos" : "17211"
+}, {
+  "kecamatan" : "Tarumajaya",
+  "kelurahan" : "Pantai Makmur",
+  "kodepos" : "17212"
+}, {
+  "kecamatan" : "Mustika Jaya",
+  "kelurahan" : "Mustika Sari",
+  "kodepos" : "17157"
+}, {
+  "kecamatan" : "Mustika Jaya",
+  "kelurahan" : "Mustika Jaya",
+  "kodepos" : "17158"
+}, {
+  "kecamatan" : "Mustika Jaya",
+  "kelurahan" : "Cimuning",
+  "kodepos" : "17155"
+}, {
+  "kecamatan" : "Mustika Jaya",
+  "kelurahan" : "Pedurenan (Padurenan)",
+  "kodepos" : "17156"
+}, {
+  "kecamatan" : "Bantar Gebang",
+  "kelurahan" : "Cikiwul",
+  "kodepos" : "17152"
+}, {
+  "kecamatan" : "Bantar Gebang",
+  "kelurahan" : "Ciketing Udik",
+  "kodepos" : "17153"
+}, {
+  "kecamatan" : "Bantar Gebang",
+  "kelurahan" : "Sumur Batu",
+  "kodepos" : "17154"
+}, {
+  "kecamatan" : "Bekasi Selatan",
+  "kelurahan" : "Pekayon Jaya",
+  "kodepos" : "17148"
+}, {
+  "kecamatan" : "Bantar Gebang",
+  "kelurahan" : "Bantar Gebang",
+  "kodepos" : "17151"
+}, {
+  "kecamatan" : "Bekasi Selatan",
+  "kelurahan" : "Jaka Setia",
+  "kodepos" : "17147"
+}, {
+  "kecamatan" : "Bekasi Selatan",
+  "kelurahan" : "Jaka Mulya",
+  "kodepos" : "17146"
+}, {
+  "kecamatan" : "Bekasi Barat",
+  "kelurahan" : "Jaka Sampurna",
+  "kodepos" : "17145"
+}, {
+  "kecamatan" : "Bekasi Selatan",
+  "kelurahan" : "Kayuringin Jaya",
+  "kodepos" : "17144"
+}, {
+  "kecamatan" : "Bekasi Utara",
+  "kelurahan" : "Marga Mulya",
+  "kodepos" : "17142"
+}, {
+  "kecamatan" : "Medan Satria",
+  "kelurahan" : "Harapan Mulya",
+  "kodepos" : "17143"
+}, {
+  "kecamatan" : "Bekasi Barat",
+  "kelurahan" : "Bintara Jaya",
+  "kodepos" : "17136"
+}, {
+  "kecamatan" : "Bekasi Selatan",
+  "kelurahan" : "Margajaya",
+  "kodepos" : "17141"
+}, {
+  "kecamatan" : "Bekasi Barat",
+  "kelurahan" : "Kota Baru",
+  "kodepos" : "17133"
+}, {
+  "kecamatan" : "Bekasi Barat",
+  "kelurahan" : "Bintara",
+  "kodepos" : "17134"
+}, {
+  "kecamatan" : "Bekasi Barat",
+  "kelurahan" : "Kranji",
+  "kodepos" : "17135"
+}, {
+  "kecamatan" : "Medan Satria",
+  "kelurahan" : "Medan Satria",
+  "kodepos" : "17132"
+}, {
+  "kecamatan" : "Medan Satria",
+  "kelurahan" : "Kali Baru",
+  "kodepos" : "17133"
+}, {
+  "kecamatan" : "Medan Satria",
+  "kelurahan" : "Pejuang",
+  "kodepos" : "17131"
+}, {
+  "kecamatan" : "Bekasi Utara",
+  "kelurahan" : "Kali Abang Tengah",
+  "kodepos" : "17125"
+}, {
+  "kecamatan" : "Bekasi Utara",
+  "kelurahan" : "Harapan Baru",
+  "kodepos" : "17123"
+}, {
+  "kecamatan" : "Bekasi Utara",
+  "kelurahan" : "Harapan Jaya",
+  "kodepos" : "17124"
+}, {
+  "kecamatan" : "Bekasi Utara",
+  "kelurahan" : "Teluk Pucung",
+  "kodepos" : "17121"
+}, {
+  "kecamatan" : "Bekasi Utara",
+  "kelurahan" : "Perwira",
+  "kodepos" : "17122"
+}, {
+  "kecamatan" : "Rawalumbu",
+  "kelurahan" : "Bojong Menteng",
+  "kodepos" : "17117"
+}, {
+  "kecamatan" : "Rawalumbu",
+  "kelurahan" : "Sepanjang Jaya",
+  "kodepos" : "17114"
+}, {
+  "kecamatan" : "Rawalumbu",
+  "kelurahan" : "Pengasinan",
+  "kodepos" : "17115"
+}, {
+  "kecamatan" : "Rawalumbu",
+  "kelurahan" : "Bojong Rawalumbu",
+  "kodepos" : "17116"
+}, {
+  "kecamatan" : "Bekasi Timur",
+  "kelurahan" : "Bekasi Jaya",
+  "kodepos" : "17112"
+}, {
+  "kecamatan" : "Bekasi Timur",
+  "kelurahan" : "Margahayu",
+  "kodepos" : "17113"
+}, {
+  "kecamatan" : "Bekasi Timur",
+  "kelurahan" : "Aren Jaya",
+  "kodepos" : "17111"
+}, {
+  "kecamatan" : "Bekasi Timur",
+  "kelurahan" : "Duren Jaya",
+  "kodepos" : "17111"
+} ]

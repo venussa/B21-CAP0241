@@ -1,0 +1,693 @@
+[ {
+  "kecamatan" : "Baebunta",
+  "kelurahan" : "Tarobok",
+  "kodepos" : "92965"
+}, {
+  "kecamatan" : "Baebunta",
+  "kelurahan" : "Sassa",
+  "kodepos" : "92965"
+}, {
+  "kecamatan" : "Baebunta",
+  "kelurahan" : "Sumpira",
+  "kodepos" : "92965"
+}, {
+  "kecamatan" : "Baebunta",
+  "kelurahan" : "Salassa",
+  "kodepos" : "92965"
+}, {
+  "kecamatan" : "Baebunta",
+  "kelurahan" : "Salulemo",
+  "kodepos" : "92965"
+}, {
+  "kecamatan" : "Baebunta",
+  "kelurahan" : "Radda",
+  "kodepos" : "92965"
+}, {
+  "kecamatan" : "Baebunta",
+  "kelurahan" : "Palandan",
+  "kodepos" : "92965"
+}, {
+  "kecamatan" : "Baebunta",
+  "kelurahan" : "Polewali",
+  "kodepos" : "92965"
+}, {
+  "kecamatan" : "Baebunta",
+  "kelurahan" : "Mukti Jaya",
+  "kodepos" : "92965"
+}, {
+  "kecamatan" : "Baebunta",
+  "kelurahan" : "Mukti Tama",
+  "kodepos" : "92965"
+}, {
+  "kecamatan" : "Baebunta",
+  "kelurahan" : "Mario",
+  "kodepos" : "92965"
+}, {
+  "kecamatan" : "Baebunta",
+  "kelurahan" : "Mekar Sari Jaya",
+  "kodepos" : "92965"
+}, {
+  "kecamatan" : "Baebunta",
+  "kelurahan" : "Meli",
+  "kodepos" : "92965"
+}, {
+  "kecamatan" : "Baebunta",
+  "kelurahan" : "Marannu",
+  "kodepos" : "92965"
+}, {
+  "kecamatan" : "Baebunta",
+  "kelurahan" : "Lawewe",
+  "kodepos" : "92965"
+}, {
+  "kecamatan" : "Baebunta",
+  "kelurahan" : "Lembang-Lembang",
+  "kodepos" : "92965"
+}, {
+  "kecamatan" : "Baebunta",
+  "kelurahan" : "Bumi Harapan",
+  "kodepos" : "92965"
+}, {
+  "kecamatan" : "Baebunta",
+  "kelurahan" : "Kariango",
+  "kodepos" : "92965"
+}, {
+  "kecamatan" : "Baebunta",
+  "kelurahan" : "Lara",
+  "kodepos" : "92965"
+}, {
+  "kecamatan" : "Baebunta",
+  "kelurahan" : "Baebunta",
+  "kodepos" : "92965"
+}, {
+  "kecamatan" : "Baebunta",
+  "kelurahan" : "Beringin Jaya",
+  "kodepos" : "92965"
+}, {
+  "kecamatan" : "Rampi",
+  "kelurahan" : "Tedeboe",
+  "kodepos" : "92964"
+}, {
+  "kecamatan" : "Rampi",
+  "kelurahan" : "Onondoa",
+  "kodepos" : "92964"
+}, {
+  "kecamatan" : "Rampi",
+  "kelurahan" : "Rampi",
+  "kodepos" : "92964"
+}, {
+  "kecamatan" : "Rampi",
+  "kelurahan" : "Sulaku",
+  "kodepos" : "92964"
+}, {
+  "kecamatan" : "Rampi",
+  "kelurahan" : "Dodolo",
+  "kodepos" : "92964"
+}, {
+  "kecamatan" : "Rampi",
+  "kelurahan" : "Leboni",
+  "kodepos" : "92964"
+}, {
+  "kecamatan" : "Sukamaju",
+  "kelurahan" : "Wonosari",
+  "kodepos" : "92963"
+}, {
+  "kecamatan" : "Sukamaju",
+  "kelurahan" : "Tulung Sari",
+  "kodepos" : "92963"
+}, {
+  "kecamatan" : "Sukamaju",
+  "kelurahan" : "Wonokerto",
+  "kodepos" : "92963"
+}, {
+  "kecamatan" : "Sukamaju",
+  "kelurahan" : "Tamboke",
+  "kodepos" : "92963"
+}, {
+  "kecamatan" : "Sukamaju",
+  "kelurahan" : "Tolangi",
+  "kodepos" : "92963"
+}, {
+  "kecamatan" : "Sukamaju",
+  "kelurahan" : "Tulung Indah",
+  "kodepos" : "92963"
+}, {
+  "kecamatan" : "Sukamaju",
+  "kelurahan" : "Sumber Baru",
+  "kodepos" : "92963"
+}, {
+  "kecamatan" : "Sukamaju",
+  "kelurahan" : "Sukamaju",
+  "kodepos" : "92963"
+}, {
+  "kecamatan" : "Sukamaju",
+  "kelurahan" : "Sukamukti",
+  "kodepos" : "92963"
+}, {
+  "kecamatan" : "Sukamaju",
+  "kelurahan" : "Sukadamai",
+  "kodepos" : "92963"
+}, {
+  "kecamatan" : "Sukamaju",
+  "kelurahan" : "Sukaharapan",
+  "kodepos" : "92963"
+}, {
+  "kecamatan" : "Sukamaju",
+  "kelurahan" : "Sidoraharjo",
+  "kodepos" : "92963"
+}, {
+  "kecamatan" : "Sukamaju",
+  "kelurahan" : "Subur",
+  "kodepos" : "92963"
+}, {
+  "kecamatan" : "Sukamaju",
+  "kelurahan" : "Salulemo",
+  "kodepos" : "92963"
+}, {
+  "kecamatan" : "Sukamaju",
+  "kelurahan" : "Saptamarga",
+  "kodepos" : "92963"
+}, {
+  "kecamatan" : "Sukamaju",
+  "kelurahan" : "Paomacang",
+  "kodepos" : "92963"
+}, {
+  "kecamatan" : "Sukamaju",
+  "kelurahan" : "Rawamangun",
+  "kodepos" : "92963"
+}, {
+  "kecamatan" : "Sukamaju",
+  "kelurahan" : "Minanga Tallu",
+  "kodepos" : "92963"
+}, {
+  "kecamatan" : "Sukamaju",
+  "kelurahan" : "Mulyasari",
+  "kodepos" : "92963"
+}, {
+  "kecamatan" : "Sukamaju",
+  "kelurahan" : "Mulyorejo",
+  "kodepos" : "92963"
+}, {
+  "kecamatan" : "Sukamaju",
+  "kelurahan" : "Lampuawa",
+  "kodepos" : "92963"
+}, {
+  "kecamatan" : "Sukamaju",
+  "kelurahan" : "Lino",
+  "kodepos" : "92963"
+}, {
+  "kecamatan" : "Sukamaju",
+  "kelurahan" : "Banyuwangi",
+  "kodepos" : "92963"
+}, {
+  "kecamatan" : "Sukamaju",
+  "kelurahan" : "Kaluku",
+  "kodepos" : "92963"
+}, {
+  "kecamatan" : "Sukamaju",
+  "kelurahan" : "Katulungan",
+  "kodepos" : "92963"
+}, {
+  "kecamatan" : "Masamba",
+  "kelurahan" : "Toradda (Torada)",
+  "kodepos" : "92961"
+}, {
+  "kecamatan" : "Masamba",
+  "kelurahan" : "Rompu",
+  "kodepos" : "92961"
+}, {
+  "kecamatan" : "Masamba",
+  "kelurahan" : "Sepakat",
+  "kodepos" : "92961"
+}, {
+  "kecamatan" : "Masamba",
+  "kelurahan" : "Sumillin",
+  "kodepos" : "92961"
+}, {
+  "kecamatan" : "Masamba",
+  "kelurahan" : "Pongo",
+  "kodepos" : "92961"
+}, {
+  "kecamatan" : "Masamba",
+  "kelurahan" : "Pandak",
+  "kodepos" : "92961"
+}, {
+  "kecamatan" : "Masamba",
+  "kelurahan" : "Pincara",
+  "kodepos" : "92961"
+}, {
+  "kecamatan" : "Masamba",
+  "kelurahan" : "Pombakka",
+  "kodepos" : "92961"
+}, {
+  "kecamatan" : "Masamba",
+  "kelurahan" : "Lero",
+  "kodepos" : "92961"
+}, {
+  "kecamatan" : "Masamba",
+  "kelurahan" : "Masamba",
+  "kodepos" : "92961"
+}, {
+  "kecamatan" : "Masamba",
+  "kelurahan" : "Lantang Tallang",
+  "kodepos" : "92961"
+}, {
+  "kecamatan" : "Masamba",
+  "kelurahan" : "Lapapa",
+  "kodepos" : "92961"
+}, {
+  "kecamatan" : "Masamba",
+  "kelurahan" : "Kamiri",
+  "kodepos" : "92961"
+}, {
+  "kecamatan" : "Masamba",
+  "kelurahan" : "Laba",
+  "kodepos" : "92961"
+}, {
+  "kecamatan" : "Malangke Barat",
+  "kelurahan" : "Waetuo (Waetuwo)",
+  "kodepos" : "92957"
+}, {
+  "kecamatan" : "Malangke Barat",
+  "kelurahan" : "Wara",
+  "kodepos" : "92957"
+}, {
+  "kecamatan" : "Malangke Barat",
+  "kelurahan" : "Pole Jiwa",
+  "kodepos" : "92957"
+}, {
+  "kecamatan" : "Malangke Barat",
+  "kelurahan" : "Pombakka",
+  "kodepos" : "92957"
+}, {
+  "kecamatan" : "Malangke Barat",
+  "kelurahan" : "Waelawi",
+  "kodepos" : "92957"
+}, {
+  "kecamatan" : "Malangke Barat",
+  "kelurahan" : "Pengkajoang",
+  "kodepos" : "92957"
+}, {
+  "kecamatan" : "Malangke Barat",
+  "kelurahan" : "Limbong Wara",
+  "kodepos" : "92957"
+}, {
+  "kecamatan" : "Malangke Barat",
+  "kelurahan" : "Pao",
+  "kodepos" : "92957"
+}, {
+  "kecamatan" : "Malangke Barat",
+  "kelurahan" : "Pembuniang",
+  "kodepos" : "92957"
+}, {
+  "kecamatan" : "Malangke Barat",
+  "kelurahan" : "Kalitata",
+  "kodepos" : "92957"
+}, {
+  "kecamatan" : "Malangke Barat",
+  "kelurahan" : "Arusu",
+  "kodepos" : "92957"
+}, {
+  "kecamatan" : "Malangke Barat",
+  "kelurahan" : "Baku-Baku",
+  "kodepos" : "92957"
+}, {
+  "kecamatan" : "Malangke Barat",
+  "kelurahan" : "Cenning",
+  "kodepos" : "92957"
+}, {
+  "kecamatan" : "Seko",
+  "kelurahan" : "Wono",
+  "kodepos" : "92956"
+}, {
+  "kecamatan" : "Seko",
+  "kelurahan" : "Tanama Kaleang",
+  "kodepos" : "92956"
+}, {
+  "kecamatan" : "Seko",
+  "kelurahan" : "Tirobali",
+  "kodepos" : "92956"
+}, {
+  "kecamatan" : "Seko",
+  "kelurahan" : "Padang Raya",
+  "kodepos" : "92956"
+}, {
+  "kecamatan" : "Seko",
+  "kelurahan" : "Taloto",
+  "kodepos" : "92956"
+}, {
+  "kecamatan" : "Seko",
+  "kelurahan" : "Marante",
+  "kodepos" : "92956"
+}, {
+  "kecamatan" : "Seko",
+  "kelurahan" : "Padang Balua",
+  "kodepos" : "92956"
+}, {
+  "kecamatan" : "Seko",
+  "kelurahan" : "Hoyane",
+  "kodepos" : "92956"
+}, {
+  "kecamatan" : "Seko",
+  "kelurahan" : "Lodang",
+  "kodepos" : "92956"
+}, {
+  "kecamatan" : "Seko",
+  "kelurahan" : "Malimongan",
+  "kodepos" : "92956"
+}, {
+  "kecamatan" : "Seko",
+  "kelurahan" : "Embonatanah",
+  "kodepos" : "92956"
+}, {
+  "kecamatan" : "Sabbang",
+  "kelurahan" : "Tulak Tallu",
+  "kodepos" : "92955"
+}, {
+  "kecamatan" : "Seko",
+  "kelurahan" : "Beroppa",
+  "kodepos" : "92956"
+}, {
+  "kecamatan" : "Sabbang",
+  "kelurahan" : "Terpedo Jaya",
+  "kodepos" : "92955"
+}, {
+  "kecamatan" : "Sabbang",
+  "kelurahan" : "Tete Uri",
+  "kodepos" : "92955"
+}, {
+  "kecamatan" : "Sabbang",
+  "kelurahan" : "Salama",
+  "kodepos" : "92955"
+}, {
+  "kecamatan" : "Sabbang",
+  "kelurahan" : "Tandung",
+  "kodepos" : "92955"
+}, {
+  "kecamatan" : "Sabbang",
+  "kelurahan" : "Pompaniki",
+  "kodepos" : "92955"
+}, {
+  "kecamatan" : "Sabbang",
+  "kelurahan" : "Sabbang",
+  "kodepos" : "92955"
+}, {
+  "kecamatan" : "Sabbang",
+  "kelurahan" : "Pararra",
+  "kodepos" : "92955"
+}, {
+  "kecamatan" : "Sabbang",
+  "kelurahan" : "Pengkendekan",
+  "kodepos" : "92955"
+}, {
+  "kecamatan" : "Sabbang",
+  "kelurahan" : "Mari-Mari",
+  "kodepos" : "92955"
+}, {
+  "kecamatan" : "Sabbang",
+  "kelurahan" : "Marobo",
+  "kodepos" : "92955"
+}, {
+  "kecamatan" : "Sabbang",
+  "kelurahan" : "Kampung Baru",
+  "kodepos" : "92955"
+}, {
+  "kecamatan" : "Sabbang",
+  "kelurahan" : "Malimbu",
+  "kodepos" : "92955"
+}, {
+  "kecamatan" : "Sabbang",
+  "kelurahan" : "Dandang",
+  "kodepos" : "92955"
+}, {
+  "kecamatan" : "Sabbang",
+  "kelurahan" : "Kalotok",
+  "kodepos" : "92955"
+}, {
+  "kecamatan" : "Sabbang",
+  "kelurahan" : "Buangin",
+  "kodepos" : "92955"
+}, {
+  "kecamatan" : "Sabbang",
+  "kelurahan" : "Buntu Terpedo",
+  "kodepos" : "92955"
+}, {
+  "kecamatan" : "Sabbang",
+  "kelurahan" : "Batu Alang",
+  "kodepos" : "92955"
+}, {
+  "kecamatan" : "Sabbang",
+  "kelurahan" : "Bone Subur",
+  "kodepos" : "92955"
+}, {
+  "kecamatan" : "Limbong",
+  "kelurahan" : "Pengkendekan",
+  "kodepos" : "92954"
+}, {
+  "kecamatan" : "Sabbang",
+  "kelurahan" : "Bakka",
+  "kodepos" : "92955"
+}, {
+  "kecamatan" : "Limbong",
+  "kelurahan" : "Marampa",
+  "kodepos" : "92954"
+}, {
+  "kecamatan" : "Limbong",
+  "kelurahan" : "Minanga",
+  "kodepos" : "92954"
+}, {
+  "kecamatan" : "Limbong",
+  "kelurahan" : "Komba",
+  "kodepos" : "92954"
+}, {
+  "kecamatan" : "Limbong",
+  "kelurahan" : "Limbong",
+  "kodepos" : "92954"
+}, {
+  "kecamatan" : "Limbong",
+  "kelurahan" : "Kanandede",
+  "kodepos" : "92954"
+}, {
+  "kecamatan" : "Malangke",
+  "kelurahan" : "Tokke",
+  "kodepos" : "92953"
+}, {
+  "kecamatan" : "Malangke",
+  "kelurahan" : "Tandung",
+  "kodepos" : "92953"
+}, {
+  "kecamatan" : "Malangke",
+  "kelurahan" : "Tingkara (Tingkaran)",
+  "kodepos" : "92953"
+}, {
+  "kecamatan" : "Malangke",
+  "kelurahan" : "To Lada",
+  "kodepos" : "92953"
+}, {
+  "kecamatan" : "Malangke",
+  "kelurahan" : "Takkalala",
+  "kodepos" : "92953"
+}, {
+  "kecamatan" : "Malangke",
+  "kelurahan" : "Pince Pute",
+  "kodepos" : "92953"
+}, {
+  "kecamatan" : "Malangke",
+  "kelurahan" : "Pute Mata",
+  "kodepos" : "92953"
+}, {
+  "kecamatan" : "Malangke",
+  "kelurahan" : "Salekoe",
+  "kodepos" : "92953"
+}, {
+  "kecamatan" : "Malangke",
+  "kelurahan" : "Pattimang",
+  "kodepos" : "92953"
+}, {
+  "kecamatan" : "Malangke",
+  "kelurahan" : "Petta Landung",
+  "kodepos" : "92953"
+}, {
+  "kecamatan" : "Malangke",
+  "kelurahan" : "Ladongi",
+  "kodepos" : "92953"
+}, {
+  "kecamatan" : "Malangke",
+  "kelurahan" : "Malangke",
+  "kodepos" : "92953"
+}, {
+  "kecamatan" : "Malangke",
+  "kelurahan" : "Benteng",
+  "kodepos" : "92953"
+}, {
+  "kecamatan" : "Malangke",
+  "kelurahan" : "Girikusuma",
+  "kodepos" : "92953"
+}, {
+  "kecamatan" : "Mappedeceng",
+  "kelurahan" : "Uraso",
+  "kodepos" : "92917"
+}, {
+  "kecamatan" : "Mappedeceng",
+  "kelurahan" : "Sumber Wangi",
+  "kodepos" : "92917"
+}, {
+  "kecamatan" : "Mappedeceng",
+  "kelurahan" : "Tarra Tallu",
+  "kodepos" : "92917"
+}, {
+  "kecamatan" : "Mappedeceng",
+  "kelurahan" : "Ujung Mattajang",
+  "kodepos" : "92917"
+}, {
+  "kecamatan" : "Mappedeceng",
+  "kelurahan" : "Mekar Jaya Tondok",
+  "kodepos" : "92917"
+}, {
+  "kecamatan" : "Mappedeceng",
+  "kelurahan" : "Sumber Harum",
+  "kodepos" : "92917"
+}, {
+  "kecamatan" : "Mappedeceng",
+  "kelurahan" : "Mappedeceng",
+  "kodepos" : "92917"
+}, {
+  "kecamatan" : "Mappedeceng",
+  "kelurahan" : "Mangale",
+  "kodepos" : "92917"
+}, {
+  "kecamatan" : "Mappedeceng",
+  "kelurahan" : "Harapan/Kampung Baru",
+  "kodepos" : "92917"
+}, {
+  "kecamatan" : "Mappedeceng",
+  "kelurahan" : "Hasanah",
+  "kodepos" : "92917"
+}, {
+  "kecamatan" : "Mappedeceng",
+  "kelurahan" : "Kapidi",
+  "kodepos" : "92917"
+}, {
+  "kecamatan" : "Mappedeceng",
+  "kelurahan" : "Cendana Putih Satu",
+  "kodepos" : "92917"
+}, {
+  "kecamatan" : "Mappedeceng",
+  "kelurahan" : "Cendana Putih",
+  "kodepos" : "92917"
+}, {
+  "kecamatan" : "Mappedeceng",
+  "kelurahan" : "Cendana Putih Dua",
+  "kodepos" : "92917"
+}, {
+  "kecamatan" : "Mappedeceng",
+  "kelurahan" : "Benteng",
+  "kodepos" : "92917"
+}, {
+  "kecamatan" : "Masamba",
+  "kelurahan" : "Baliase",
+  "kodepos" : "92916"
+}, {
+  "kecamatan" : "Masamba",
+  "kelurahan" : "Bone",
+  "kodepos" : "92914"
+}, {
+  "kecamatan" : "Masamba",
+  "kelurahan" : "Kasimbong",
+  "kodepos" : "92915"
+}, {
+  "kecamatan" : "Masamba",
+  "kelurahan" : "Baloli (Balebo)",
+  "kodepos" : "92912"
+}, {
+  "kecamatan" : "Masamba",
+  "kelurahan" : "Kappuna",
+  "kodepos" : "92913"
+}, {
+  "kecamatan" : "Bone-Bone",
+  "kelurahan" : "Tamuku",
+  "kodepos" : "91966"
+}, {
+  "kecamatan" : "Tana Lili",
+  "kelurahan" : "Sumberdadi",
+  "kodepos" : "91966"
+}, {
+  "kecamatan" : "Bone-Bone",
+  "kelurahan" : "Sukaraya",
+  "kodepos" : "91966"
+}, {
+  "kecamatan" : "Tana Lili",
+  "kelurahan" : "Sidomakmur",
+  "kodepos" : "91966"
+}, {
+  "kecamatan" : "Bone-Bone",
+  "kelurahan" : "Sidomukti",
+  "kodepos" : "91966"
+}, {
+  "kecamatan" : "Tana Lili",
+  "kelurahan" : "Sidobinangun",
+  "kodepos" : "91966"
+}, {
+  "kecamatan" : "Bone-Bone",
+  "kelurahan" : "Sadar",
+  "kodepos" : "91966"
+}, {
+  "kecamatan" : "Tana Lili",
+  "kelurahan" : "Poreang",
+  "kodepos" : "91966"
+}, {
+  "kecamatan" : "Tana Lili",
+  "kelurahan" : "Rampoang",
+  "kodepos" : "91966"
+}, {
+  "kecamatan" : "Bone-Bone",
+  "kelurahan" : "Pongko",
+  "kodepos" : "91966"
+}, {
+  "kecamatan" : "Bone-Bone",
+  "kelurahan" : "Patoloan",
+  "kodepos" : "91966"
+}, {
+  "kecamatan" : "Bone-Bone",
+  "kelurahan" : "Muktisari",
+  "kodepos" : "91966"
+}, {
+  "kecamatan" : "Tana Lili",
+  "kelurahan" : "Munte",
+  "kodepos" : "91966"
+}, {
+  "kecamatan" : "Tana Lili",
+  "kelurahan" : "Patila",
+  "kodepos" : "91966"
+}, {
+  "kecamatan" : "Tana Lili",
+  "kelurahan" : "Karondang",
+  "kodepos" : "91966"
+}, {
+  "kecamatan" : "Tana Lili",
+  "kelurahan" : "Bungadidi",
+  "kodepos" : "91966"
+}, {
+  "kecamatan" : "Tana Lili",
+  "kelurahan" : "Bungapati",
+  "kodepos" : "91966"
+}, {
+  "kecamatan" : "Bone-Bone",
+  "kelurahan" : "Banyu Urip",
+  "kodepos" : "91966"
+}, {
+  "kecamatan" : "Bone-Bone",
+  "kelurahan" : "Batang Tongka",
+  "kodepos" : "91966"
+}, {
+  "kecamatan" : "Bone-Bone",
+  "kelurahan" : "Bone Bone",
+  "kodepos" : "91966"
+}, {
+  "kecamatan" : "Bone-Bone",
+  "kelurahan" : "Bantimurung",
+  "kodepos" : "91966"
+}, {
+  "kecamatan" : "Limbong",
+  "kelurahan" : "Rinding Allo",
+  "kodepos" : "91854"
+} ]

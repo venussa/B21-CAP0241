@@ -1,0 +1,949 @@
+[ {
+  "kecamatan" : "Gaung",
+  "kelurahan" : "Terusan Kempas",
+  "kodepos" : "29282"
+}, {
+  "kecamatan" : "Gaung",
+  "kelurahan" : "Teluk Kabung",
+  "kodepos" : "29282"
+}, {
+  "kecamatan" : "Gaung",
+  "kelurahan" : "Telukmerbau",
+  "kodepos" : "29282"
+}, {
+  "kecamatan" : "Gaung",
+  "kelurahan" : "Soren",
+  "kodepos" : "29282"
+}, {
+  "kecamatan" : "Gaung",
+  "kelurahan" : "Sungai Baru",
+  "kodepos" : "29282"
+}, {
+  "kecamatan" : "Gaung",
+  "kelurahan" : "Pungkat",
+  "kodepos" : "29282"
+}, {
+  "kecamatan" : "Gaung",
+  "kelurahan" : "Semambu Kuning",
+  "kodepos" : "29282"
+}, {
+  "kecamatan" : "Gaung",
+  "kelurahan" : "Simpang Gaung",
+  "kodepos" : "29282"
+}, {
+  "kecamatan" : "Gaung",
+  "kelurahan" : "Pintasan",
+  "kodepos" : "29282"
+}, {
+  "kecamatan" : "Gaung",
+  "kelurahan" : "Lahang Tengah",
+  "kodepos" : "29282"
+}, {
+  "kecamatan" : "Gaung",
+  "kelurahan" : "Lahang Baru",
+  "kodepos" : "29282"
+}, {
+  "kecamatan" : "Gaung",
+  "kelurahan" : "Lahang Hulu",
+  "kodepos" : "29282"
+}, {
+  "kecamatan" : "Gaung",
+  "kelurahan" : "Jerambang",
+  "kodepos" : "29282"
+}, {
+  "kecamatan" : "Gaung",
+  "kelurahan" : "Kuala Lahang",
+  "kodepos" : "29282"
+}, {
+  "kecamatan" : "Gaung",
+  "kelurahan" : "Belantaraya",
+  "kodepos" : "29282"
+}, {
+  "kecamatan" : "Gaung",
+  "kelurahan" : "Gembira",
+  "kodepos" : "29282"
+}, {
+  "kecamatan" : "Kuala Indragiri",
+  "kelurahan" : "Tanjung Melayu",
+  "kodepos" : "29281"
+}, {
+  "kecamatan" : "Kuala Indragiri",
+  "kelurahan" : "Teluk Dalam",
+  "kodepos" : "29281"
+}, {
+  "kecamatan" : "Kuala Indragiri",
+  "kelurahan" : "Sungai Buluh",
+  "kodepos" : "29281"
+}, {
+  "kecamatan" : "Kuala Indragiri",
+  "kelurahan" : "Sungai Piyai",
+  "kodepos" : "29281"
+}, {
+  "kecamatan" : "Kuala Indragiri",
+  "kelurahan" : "Tanjung Lajau",
+  "kodepos" : "29281"
+}, {
+  "kecamatan" : "Concong",
+  "kelurahan" : "Sungai Berapit",
+  "kodepos" : "29281"
+}, {
+  "kecamatan" : "Kuala Indragiri",
+  "kelurahan" : "Sungai Bela",
+  "kodepos" : "29281"
+}, {
+  "kecamatan" : "Kuala Indragiri",
+  "kelurahan" : "Perigi Raja",
+  "kodepos" : "29281"
+}, {
+  "kecamatan" : "Kuala Indragiri",
+  "kelurahan" : "Sapat",
+  "kodepos" : "29281"
+}, {
+  "kecamatan" : "Concong",
+  "kelurahan" : "Concong Tengah",
+  "kodepos" : "29281"
+}, {
+  "kecamatan" : "Concong",
+  "kelurahan" : "Kampung Baru",
+  "kodepos" : "29281"
+}, {
+  "kecamatan" : "Concong",
+  "kelurahan" : "Panglima Raja",
+  "kodepos" : "29281"
+}, {
+  "kecamatan" : "Concong",
+  "kelurahan" : "Concong Dalam",
+  "kodepos" : "29281"
+}, {
+  "kecamatan" : "Concong",
+  "kelurahan" : "Concong Luar",
+  "kodepos" : "29281"
+}, {
+  "kecamatan" : "Kemuning",
+  "kelurahan" : "Talang Jangkang",
+  "kodepos" : "29274"
+}, {
+  "kecamatan" : "Keritang",
+  "kelurahan" : "Sencalang",
+  "kodepos" : "29274"
+}, {
+  "kecamatan" : "Keritang",
+  "kelurahan" : "Teluk Kelasa",
+  "kodepos" : "29274"
+}, {
+  "kecamatan" : "Kemuning",
+  "kelurahan" : "Sekara",
+  "kodepos" : "29274"
+}, {
+  "kecamatan" : "Kemuning",
+  "kelurahan" : "Sekayan",
+  "kodepos" : "29274"
+}, {
+  "kecamatan" : "Kemuning",
+  "kelurahan" : "Selensen",
+  "kodepos" : "29274"
+}, {
+  "kecamatan" : "Keritang",
+  "kelurahan" : "Petalongan",
+  "kodepos" : "29274"
+}, {
+  "kecamatan" : "Keritang",
+  "kelurahan" : "Petalongan",
+  "kodepos" : "29274"
+}, {
+  "kecamatan" : "Keritang",
+  "kelurahan" : "Pebenaan",
+  "kodepos" : "29274"
+}, {
+  "kecamatan" : "Keritang",
+  "kelurahan" : "Pengalihan/Pengalehan",
+  "kodepos" : "29274"
+}, {
+  "kecamatan" : "Keritang",
+  "kelurahan" : "Pasar Kembang",
+  "kodepos" : "29274"
+}, {
+  "kecamatan" : "Keritang",
+  "kelurahan" : "Nusantara Jaya",
+  "kodepos" : "29274"
+}, {
+  "kecamatan" : "Keritang",
+  "kelurahan" : "Nyiur Permai",
+  "kodepos" : "29274"
+}, {
+  "kecamatan" : "Keritang",
+  "kelurahan" : "Pancur",
+  "kodepos" : "29274"
+}, {
+  "kecamatan" : "Kemuning",
+  "kelurahan" : "Lubuk Besar",
+  "kodepos" : "29274"
+}, {
+  "kecamatan" : "Keritang",
+  "kelurahan" : "Kuala Lemang",
+  "kodepos" : "29274"
+}, {
+  "kecamatan" : "Keritang",
+  "kelurahan" : "Lintas Utara",
+  "kodepos" : "29274"
+}, {
+  "kecamatan" : "Kemuning",
+  "kelurahan" : "Limau Manis",
+  "kodepos" : "29274"
+}, {
+  "kecamatan" : "Keritang",
+  "kelurahan" : "Kota Baru Seberida",
+  "kodepos" : "29274"
+}, {
+  "kecamatan" : "Keritang",
+  "kelurahan" : "Kuala Keritang",
+  "kodepos" : "29274"
+}, {
+  "kecamatan" : "Keritang",
+  "kelurahan" : "Kota Baru Reteh",
+  "kodepos" : "29274"
+}, {
+  "kecamatan" : "Kemuning",
+  "kelurahan" : "Kemuning Tua",
+  "kodepos" : "29274"
+}, {
+  "kecamatan" : "Kemuning",
+  "kelurahan" : "Keritang",
+  "kodepos" : "29274"
+}, {
+  "kecamatan" : "Keritang",
+  "kelurahan" : "Kembang Mekar Sari",
+  "kodepos" : "29274"
+}, {
+  "kecamatan" : "Kemuning",
+  "kelurahan" : "Kemuning Muda",
+  "kodepos" : "29274"
+}, {
+  "kecamatan" : "Keritang",
+  "kelurahan" : "Kayu Raja",
+  "kodepos" : "29274"
+}, {
+  "kecamatan" : "Kemuning",
+  "kelurahan" : "Batu Ampar",
+  "kodepos" : "29274"
+}, {
+  "kecamatan" : "Kemuning",
+  "kelurahan" : "Dusun Tuk Jimun",
+  "kodepos" : "29274"
+}, {
+  "kecamatan" : "Reteh",
+  "kelurahan" : "Tanjung Labuh",
+  "kodepos" : "29273"
+}, {
+  "kecamatan" : "Kemuning",
+  "kelurahan" : "Air Balui",
+  "kodepos" : "29274"
+}, {
+  "kecamatan" : "Reteh",
+  "kelurahan" : "Sungai Mahang",
+  "kodepos" : "29273"
+}, {
+  "kecamatan" : "Reteh",
+  "kelurahan" : "Sungai Terab/Terap",
+  "kodepos" : "29273"
+}, {
+  "kecamatan" : "Reteh",
+  "kelurahan" : "Sungai Undan",
+  "kodepos" : "29273"
+}, {
+  "kecamatan" : "Reteh",
+  "kelurahan" : "Seberang Sanglar",
+  "kodepos" : "29273"
+}, {
+  "kecamatan" : "Reteh",
+  "kelurahan" : "Sungai Asam",
+  "kodepos" : "29273"
+}, {
+  "kecamatan" : "Reteh",
+  "kelurahan" : "Sanglar",
+  "kodepos" : "29273"
+}, {
+  "kecamatan" : "Reteh",
+  "kelurahan" : "Seberang Pulau Kijang",
+  "kodepos" : "29273"
+}, {
+  "kecamatan" : "Reteh",
+  "kelurahan" : "Pulau Kecil",
+  "kodepos" : "29273"
+}, {
+  "kecamatan" : "Reteh",
+  "kelurahan" : "Pulau Kijang",
+  "kodepos" : "29273"
+}, {
+  "kecamatan" : "Reteh",
+  "kelurahan" : "Pulau Ruku",
+  "kodepos" : "29273"
+}, {
+  "kecamatan" : "Sungai Batang",
+  "kelurahan" : "Mugo Mulyo",
+  "kodepos" : "29273"
+}, {
+  "kecamatan" : "Sungai Batang",
+  "kelurahan" : "Pandan Sari",
+  "kodepos" : "29273"
+}, {
+  "kecamatan" : "Sungai Batang",
+  "kelurahan" : "Pesanggerahan (Pasenggarahan)",
+  "kodepos" : "29273"
+}, {
+  "kecamatan" : "Reteh",
+  "kelurahan" : "Mekar Sari",
+  "kodepos" : "29273"
+}, {
+  "kecamatan" : "Reteh",
+  "kelurahan" : "Metro",
+  "kodepos" : "29273"
+}, {
+  "kecamatan" : "Reteh",
+  "kelurahan" : "Madani",
+  "kodepos" : "29273"
+}, {
+  "kecamatan" : "Sungai Batang",
+  "kelurahan" : "Kuala Patah Parang",
+  "kodepos" : "29273"
+}, {
+  "kecamatan" : "Sungai Batang",
+  "kelurahan" : "Kuala Sungai Batang",
+  "kodepos" : "29273"
+}, {
+  "kecamatan" : "Sungai Batang",
+  "kelurahan" : "Benteng",
+  "kodepos" : "29273"
+}, {
+  "kecamatan" : "Sungai Batang",
+  "kelurahan" : "Benteng Barat",
+  "kodepos" : "29273"
+}, {
+  "kecamatan" : "Sungai Batang",
+  "kelurahan" : "Benteng Utara",
+  "kodepos" : "29273"
+}, {
+  "kecamatan" : "Enok",
+  "kelurahan" : "Sungai Rukam",
+  "kodepos" : "29272"
+}, {
+  "kecamatan" : "Enok",
+  "kelurahan" : "Teluk Medan",
+  "kodepos" : "29272"
+}, {
+  "kecamatan" : "Enok",
+  "kelurahan" : "Sungai Ambat",
+  "kodepos" : "29272"
+}, {
+  "kecamatan" : "Enok",
+  "kelurahan" : "Sungai Lokan",
+  "kodepos" : "29272"
+}, {
+  "kecamatan" : "Enok",
+  "kelurahan" : "Simpang Tiga Daratan",
+  "kodepos" : "29272"
+}, {
+  "kecamatan" : "Enok",
+  "kelurahan" : "Suhada",
+  "kodepos" : "29272"
+}, {
+  "kecamatan" : "Enok",
+  "kelurahan" : "Rantau Panjang",
+  "kodepos" : "29272"
+}, {
+  "kecamatan" : "Enok",
+  "kelurahan" : "Simpang Tiga",
+  "kodepos" : "29272"
+}, {
+  "kecamatan" : "Enok",
+  "kelurahan" : "Pusaran",
+  "kodepos" : "29272"
+}, {
+  "kecamatan" : "Enok",
+  "kelurahan" : "Pengalihan",
+  "kodepos" : "29272"
+}, {
+  "kecamatan" : "Enok",
+  "kelurahan" : "Jaya Bhakti",
+  "kodepos" : "29272"
+}, {
+  "kecamatan" : "Enok",
+  "kelurahan" : "Pantai Seberang Makmur",
+  "kodepos" : "29272"
+}, {
+  "kecamatan" : "Enok",
+  "kelurahan" : "Enok",
+  "kodepos" : "29272"
+}, {
+  "kecamatan" : "Enok",
+  "kelurahan" : "Bagan Jaya",
+  "kodepos" : "29272"
+}, {
+  "kecamatan" : "Tanah Merah",
+  "kelurahan" : "Tekulai Hulu",
+  "kodepos" : "29271"
+}, {
+  "kecamatan" : "Tanah Merah",
+  "kelurahan" : "Tekulai Hilir",
+  "kodepos" : "29271"
+}, {
+  "kecamatan" : "Tanah Merah",
+  "kelurahan" : "Tekulai Bugis",
+  "kodepos" : "29271"
+}, {
+  "kecamatan" : "Tanah Merah",
+  "kelurahan" : "Tanjung Baru",
+  "kodepos" : "29271"
+}, {
+  "kecamatan" : "Tanah Merah",
+  "kelurahan" : "Tanjung Pasir",
+  "kodepos" : "29271"
+}, {
+  "kecamatan" : "Tanah Merah",
+  "kelurahan" : "Tanah Merah",
+  "kodepos" : "29271"
+}, {
+  "kecamatan" : "Tanah Merah",
+  "kelurahan" : "Sungai Nyiur",
+  "kodepos" : "29271"
+}, {
+  "kecamatan" : "Tanah Merah",
+  "kelurahan" : "Sungai Laut",
+  "kodepos" : "29271"
+}, {
+  "kecamatan" : "Tanah Merah",
+  "kelurahan" : "Selat Nama",
+  "kodepos" : "29271"
+}, {
+  "kecamatan" : "Tanah Merah",
+  "kelurahan" : "Kuala Enok",
+  "kodepos" : "29271"
+}, {
+  "kecamatan" : "Tempuling",
+  "kelurahan" : "Tempuling",
+  "kodepos" : "29261"
+}, {
+  "kecamatan" : "Tempuling",
+  "kelurahan" : "Teluk Kiambang",
+  "kodepos" : "29261"
+}, {
+  "kecamatan" : "Tempuling",
+  "kelurahan" : "Teluk Jira",
+  "kodepos" : "29261"
+}, {
+  "kecamatan" : "Tempuling",
+  "kelurahan" : "Tanjung Pidada",
+  "kodepos" : "29261"
+}, {
+  "kecamatan" : "Kempas",
+  "kelurahan" : "Sungai Rabit",
+  "kodepos" : "29261"
+}, {
+  "kecamatan" : "Tempuling",
+  "kelurahan" : "Sungai Salak",
+  "kodepos" : "29261"
+}, {
+  "kecamatan" : "Kempas",
+  "kelurahan" : "Sungai Gantang",
+  "kodepos" : "29261"
+}, {
+  "kecamatan" : "Kempas",
+  "kelurahan" : "Sungai Arah",
+  "kodepos" : "29261"
+}, {
+  "kecamatan" : "Kempas",
+  "kelurahan" : "Rumbai Jaya",
+  "kodepos" : "29261"
+}, {
+  "kecamatan" : "Kempas",
+  "kelurahan" : "Pekan Tua",
+  "kodepos" : "29261"
+}, {
+  "kecamatan" : "Tempuling",
+  "kelurahan" : "Pangkalan Tujuh",
+  "kodepos" : "29261"
+}, {
+  "kecamatan" : "Tempuling",
+  "kelurahan" : "Mumpa",
+  "kodepos" : "29261"
+}, {
+  "kecamatan" : "Kempas",
+  "kelurahan" : "Kerta Jaya",
+  "kodepos" : "29261"
+}, {
+  "kecamatan" : "Kempas",
+  "kelurahan" : "Kulim Jaya",
+  "kodepos" : "29261"
+}, {
+  "kecamatan" : "Kempas",
+  "kelurahan" : "Kempas Jaya",
+  "kodepos" : "29261"
+}, {
+  "kecamatan" : "Tempuling",
+  "kelurahan" : "Karya Tunas Jaya",
+  "kodepos" : "29261"
+}, {
+  "kecamatan" : "Kempas",
+  "kelurahan" : "Harapan Tani",
+  "kodepos" : "29261"
+}, {
+  "kecamatan" : "Kempas",
+  "kelurahan" : "Karya Tani",
+  "kodepos" : "29261"
+}, {
+  "kecamatan" : "Tempuling",
+  "kelurahan" : "Harapan Jaya",
+  "kodepos" : "29261"
+}, {
+  "kecamatan" : "Kempas",
+  "kelurahan" : "Danau Pulai Indah",
+  "kodepos" : "29261"
+}, {
+  "kecamatan" : "Kempas",
+  "kelurahan" : "Bayas Jaya",
+  "kodepos" : "29261"
+}, {
+  "kecamatan" : "Pulau Burung",
+  "kelurahan" : "Teluk Nibung",
+  "kodepos" : "29256"
+}, {
+  "kecamatan" : "Pulau Burung",
+  "kelurahan" : "Sungai Danai",
+  "kodepos" : "29256"
+}, {
+  "kecamatan" : "Pulau Burung",
+  "kelurahan" : "Suko Harjo Jaya",
+  "kodepos" : "29256"
+}, {
+  "kecamatan" : "Pulau Burung",
+  "kelurahan" : "Sri Danai",
+  "kodepos" : "29256"
+}, {
+  "kecamatan" : "Pulau Burung",
+  "kelurahan" : "Suka Jaya",
+  "kodepos" : "29256"
+}, {
+  "kecamatan" : "Pulau Burung",
+  "kelurahan" : "Sempadan Jaya",
+  "kodepos" : "29256"
+}, {
+  "kecamatan" : "Pulau Burung",
+  "kelurahan" : "Mayang Sari Jaya",
+  "kodepos" : "29256"
+}, {
+  "kecamatan" : "Pulau Burung",
+  "kelurahan" : "Pulau Burung",
+  "kodepos" : "29256"
+}, {
+  "kecamatan" : "Pulau Burung",
+  "kelurahan" : "Sapta Jaya",
+  "kodepos" : "29256"
+}, {
+  "kecamatan" : "Pulau Burung",
+  "kelurahan" : "Keramat/Kramat Jaya",
+  "kodepos" : "29256"
+}, {
+  "kecamatan" : "Pulau Burung",
+  "kelurahan" : "Manunggal Jaya",
+  "kodepos" : "29256"
+}, {
+  "kecamatan" : "Pulau Burung",
+  "kelurahan" : "Beringin Jaya",
+  "kodepos" : "29256"
+}, {
+  "kecamatan" : "Pulau Burung",
+  "kelurahan" : "Binangun Jaya",
+  "kodepos" : "29256"
+}, {
+  "kecamatan" : "Pulau Burung",
+  "kelurahan" : "Bukit Sari Intan Jaya",
+  "kodepos" : "29256"
+}, {
+  "kecamatan" : "Pulau Burung",
+  "kelurahan" : "Bangun Harjo Jaya",
+  "kodepos" : "29256"
+}, {
+  "kecamatan" : "Pelangiran",
+  "kelurahan" : "Wonosari",
+  "kodepos" : "29255"
+}, {
+  "kecamatan" : "Teluk Belengkong",
+  "kelurahan" : "Tunggal Rahayu Jaya",
+  "kodepos" : "29255"
+}, {
+  "kecamatan" : "Pelangiran",
+  "kelurahan" : "Terusan Beringin Jaya",
+  "kodepos" : "29255"
+}, {
+  "kecamatan" : "Pelangiran",
+  "kelurahan" : "Tegal Rejo",
+  "kodepos" : "29255"
+}, {
+  "kecamatan" : "Pelangiran",
+  "kelurahan" : "Teluk Bunian",
+  "kodepos" : "29255"
+}, {
+  "kecamatan" : "Pelangiran",
+  "kelurahan" : "Tanjung Simpang",
+  "kodepos" : "29255"
+}, {
+  "kecamatan" : "Kateman",
+  "kelurahan" : "Tagaraja (Tegaraja)",
+  "kodepos" : "29255"
+}, {
+  "kecamatan" : "Kateman",
+  "kelurahan" : "Tanjung Raja",
+  "kodepos" : "29255"
+}, {
+  "kecamatan" : "Pelangiran",
+  "kelurahan" : "Tagagiri Tama Jaya",
+  "kodepos" : "29255"
+}, {
+  "kecamatan" : "Kateman",
+  "kelurahan" : "Sungai Simbar",
+  "kodepos" : "29255"
+}, {
+  "kecamatan" : "Kateman",
+  "kelurahan" : "Sungai Teritip",
+  "kodepos" : "29255"
+}, {
+  "kecamatan" : "Teluk Belengkong",
+  "kelurahan" : "Sumber Makmur Jaya",
+  "kodepos" : "29255"
+}, {
+  "kecamatan" : "Teluk Belengkong",
+  "kelurahan" : "Sumber Sari Jaya",
+  "kodepos" : "29255"
+}, {
+  "kecamatan" : "Pelangiran",
+  "kelurahan" : "Simpang Kateman",
+  "kodepos" : "29255"
+}, {
+  "kecamatan" : "Teluk Belengkong",
+  "kelurahan" : "Sumber Jaya",
+  "kodepos" : "29255"
+}, {
+  "kecamatan" : "Kateman",
+  "kelurahan" : "Sari Mulia/Mulya",
+  "kodepos" : "29255"
+}, {
+  "kecamatan" : "Teluk Belengkong",
+  "kelurahan" : "Saka Rotan",
+  "kodepos" : "29255"
+}, {
+  "kecamatan" : "Teluk Belengkong",
+  "kelurahan" : "Sapta Mulya Jaya",
+  "kodepos" : "29255"
+}, {
+  "kecamatan" : "Pelangiran",
+  "kelurahan" : "Rotan Semelur",
+  "kodepos" : "29255"
+}, {
+  "kecamatan" : "Pelangiran",
+  "kelurahan" : "Saka Palas Jaya",
+  "kodepos" : "29255"
+}, {
+  "kecamatan" : "Pelangiran",
+  "kelurahan" : "Pinang Jaya",
+  "kodepos" : "29255"
+}, {
+  "kecamatan" : "Kateman",
+  "kelurahan" : "Penjuru",
+  "kodepos" : "29255"
+}, {
+  "kecamatan" : "Pelangiran",
+  "kelurahan" : "Pelangiran",
+  "kodepos" : "29255"
+}, {
+  "kecamatan" : "Kateman",
+  "kelurahan" : "Kuala Selat",
+  "kodepos" : "29255"
+}, {
+  "kecamatan" : "Kateman",
+  "kelurahan" : "Makmur Jaya",
+  "kodepos" : "29255"
+}, {
+  "kecamatan" : "Pelangiran",
+  "kelurahan" : "Intan Mulia/Mulya Jaya",
+  "kodepos" : "29255"
+}, {
+  "kecamatan" : "Teluk Belengkong",
+  "kelurahan" : "Kelapa Patih Jaya",
+  "kodepos" : "29255"
+}, {
+  "kecamatan" : "Pelangiran",
+  "kelurahan" : "Hidayah",
+  "kodepos" : "29255"
+}, {
+  "kecamatan" : "Teluk Belengkong",
+  "kelurahan" : "Indra Sari Jaya",
+  "kodepos" : "29255"
+}, {
+  "kecamatan" : "Teluk Belengkong",
+  "kelurahan" : "Griya Mukti Jaya",
+  "kodepos" : "29255"
+}, {
+  "kecamatan" : "Teluk Belengkong",
+  "kelurahan" : "Hibrida Jaya",
+  "kodepos" : "29255"
+}, {
+  "kecamatan" : "Teluk Belengkong",
+  "kelurahan" : "Hibrida Mulya",
+  "kodepos" : "29255"
+}, {
+  "kecamatan" : "Teluk Belengkong",
+  "kelurahan" : "Gembaran",
+  "kodepos" : "29255"
+}, {
+  "kecamatan" : "Pelangiran",
+  "kelurahan" : "Gaung/Baung Rejo Jaya",
+  "kodepos" : "29255"
+}, {
+  "kecamatan" : "Pelangiran",
+  "kelurahan" : "Catur Karya",
+  "kodepos" : "29255"
+}, {
+  "kecamatan" : "Kateman",
+  "kelurahan" : "Bandar Sri Gemilang",
+  "kodepos" : "29255"
+}, {
+  "kecamatan" : "Kateman",
+  "kelurahan" : "Bandar Sri Gemilang",
+  "kodepos" : "29255"
+}, {
+  "kecamatan" : "Pelangiran",
+  "kelurahan" : "Bagan Jaya",
+  "kodepos" : "29255"
+}, {
+  "kecamatan" : "Kateman",
+  "kelurahan" : "Amal Bakti",
+  "kodepos" : "29255"
+}, {
+  "kecamatan" : "Mandah",
+  "kelurahan" : "Suraya Mandiri",
+  "kodepos" : "29254"
+}, {
+  "kecamatan" : "Kateman",
+  "kelurahan" : "Air Tawar",
+  "kodepos" : "29255"
+}, {
+  "kecamatan" : "Mandah",
+  "kelurahan" : "Pulau Cawan",
+  "kodepos" : "29254"
+}, {
+  "kecamatan" : "Mandah",
+  "kelurahan" : "Sepakat Jaya",
+  "kodepos" : "29254"
+}, {
+  "kecamatan" : "Mandah",
+  "kelurahan" : "Igal",
+  "kodepos" : "29254"
+}, {
+  "kecamatan" : "Mandah",
+  "kelurahan" : "Khairiah Mandah",
+  "kodepos" : "29254"
+}, {
+  "kecamatan" : "Mandah",
+  "kelurahan" : "Pelanduk",
+  "kodepos" : "29254"
+}, {
+  "kecamatan" : "Mandah",
+  "kelurahan" : "Bolak Raya",
+  "kodepos" : "29254"
+}, {
+  "kecamatan" : "Mandah",
+  "kelurahan" : "Cahaya Baru",
+  "kodepos" : "29254"
+}, {
+  "kecamatan" : "Mandah",
+  "kelurahan" : "Bente",
+  "kodepos" : "29254"
+}, {
+  "kecamatan" : "Mandah",
+  "kelurahan" : "Bidari Tanjung Datuk",
+  "kodepos" : "29254"
+}, {
+  "kecamatan" : "Mandah",
+  "kelurahan" : "Belaras",
+  "kodepos" : "29254"
+}, {
+  "kecamatan" : "Mandah",
+  "kelurahan" : "Belaras Barat",
+  "kodepos" : "29254"
+}, {
+  "kecamatan" : "Mandah",
+  "kelurahan" : "Batang Tumu",
+  "kodepos" : "29254"
+}, {
+  "kecamatan" : "Mandah",
+  "kelurahan" : "Bekawan",
+  "kodepos" : "29254"
+}, {
+  "kecamatan" : "Mandah",
+  "kelurahan" : "Bantaian (Bantayan)",
+  "kodepos" : "29254"
+}, {
+  "kecamatan" : "Mandah",
+  "kelurahan" : "Batang Sari",
+  "kodepos" : "29254"
+}, {
+  "kecamatan" : "Gaung Anak Serka",
+  "kelurahan" : "Teluk Tuasan",
+  "kodepos" : "29253"
+}, {
+  "kecamatan" : "Mandah",
+  "kelurahan" : "Bakau Aceh",
+  "kodepos" : "29254"
+}, {
+  "kecamatan" : "Gaung Anak Serka",
+  "kelurahan" : "Teluk Pinang",
+  "kodepos" : "29253"
+}, {
+  "kecamatan" : "Gaung Anak Serka",
+  "kelurahan" : "Teluk Sungka",
+  "kodepos" : "29253"
+}, {
+  "kecamatan" : "Gaung Anak Serka",
+  "kelurahan" : "Tanjung Harapan",
+  "kodepos" : "29253"
+}, {
+  "kecamatan" : "Gaung Anak Serka",
+  "kelurahan" : "Teluk Pantaian",
+  "kodepos" : "29253"
+}, {
+  "kecamatan" : "Gaung Anak Serka",
+  "kelurahan" : "Sungai Empat",
+  "kodepos" : "29253"
+}, {
+  "kecamatan" : "Gaung Anak Serka",
+  "kelurahan" : "Sungai Iliran",
+  "kodepos" : "29253"
+}, {
+  "kecamatan" : "Gaung Anak Serka",
+  "kelurahan" : "Kuala Gaung",
+  "kodepos" : "29253"
+}, {
+  "kecamatan" : "Gaung Anak Serka",
+  "kelurahan" : "Rambaian",
+  "kodepos" : "29253"
+}, {
+  "kecamatan" : "Gaung Anak Serka",
+  "kelurahan" : "Idaman",
+  "kodepos" : "29253"
+}, {
+  "kecamatan" : "Gaung Anak Serka",
+  "kelurahan" : "Kelumpang",
+  "kodepos" : "29253"
+}, {
+  "kecamatan" : "Batang Tuaka",
+  "kelurahan" : "Tasik Raya",
+  "kodepos" : "29252"
+}, {
+  "kecamatan" : "Gaung Anak Serka",
+  "kelurahan" : "Harapan Makmur",
+  "kodepos" : "29253"
+}, {
+  "kecamatan" : "Batang Tuaka",
+  "kelurahan" : "Tanjung Siantar",
+  "kodepos" : "29252"
+}, {
+  "kecamatan" : "Batang Tuaka",
+  "kelurahan" : "Sungai Raya",
+  "kodepos" : "29252"
+}, {
+  "kecamatan" : "Batang Tuaka",
+  "kelurahan" : "Sungai Luar",
+  "kodepos" : "29252"
+}, {
+  "kecamatan" : "Batang Tuaka",
+  "kelurahan" : "Sungai Piring",
+  "kodepos" : "29252"
+}, {
+  "kecamatan" : "Batang Tuaka",
+  "kelurahan" : "Sungai Rawa",
+  "kodepos" : "29252"
+}, {
+  "kecamatan" : "Batang Tuaka",
+  "kelurahan" : "Simpang Jaya",
+  "kodepos" : "29252"
+}, {
+  "kecamatan" : "Batang Tuaka",
+  "kelurahan" : "Sungai Junjangan",
+  "kodepos" : "29252"
+}, {
+  "kecamatan" : "Batang Tuaka",
+  "kelurahan" : "Sungai Dusun",
+  "kodepos" : "29252"
+}, {
+  "kecamatan" : "Batang Tuaka",
+  "kelurahan" : "Pasir Emas",
+  "kodepos" : "29252"
+}, {
+  "kecamatan" : "Batang Tuaka",
+  "kelurahan" : "Sialang Jaya",
+  "kodepos" : "29252"
+}, {
+  "kecamatan" : "Batang Tuaka",
+  "kelurahan" : "Gemilang Jaya",
+  "kodepos" : "29252"
+}, {
+  "kecamatan" : "Batang Tuaka",
+  "kelurahan" : "Kuala Sebatu",
+  "kodepos" : "29252"
+}, {
+  "kecamatan" : "Tembilahan Hulu",
+  "kelurahan" : "Tembilahan Hulu",
+  "kodepos" : "29213"
+}, {
+  "kecamatan" : "Tembilahan",
+  "kelurahan" : "Sungai Beringin",
+  "kodepos" : "29214"
+}, {
+  "kecamatan" : "Tembilahan Hulu",
+  "kelurahan" : "Tembilahan Barat",
+  "kodepos" : "29213"
+}, {
+  "kecamatan" : "Tembilahan Hulu",
+  "kelurahan" : "Sialang Panjang",
+  "kodepos" : "29213"
+}, {
+  "kecamatan" : "Tembilahan Hulu",
+  "kelurahan" : "Sungai Intan",
+  "kodepos" : "29213"
+}, {
+  "kecamatan" : "Tembilahan Hulu",
+  "kelurahan" : "Pekan Kamis",
+  "kodepos" : "29213"
+}, {
+  "kecamatan" : "Tembilahan Hulu",
+  "kelurahan" : "Pulau Palas",
+  "kodepos" : "29213"
+}, {
+  "kecamatan" : "Tembilahan",
+  "kelurahan" : "Tembilahan Kota",
+  "kodepos" : "29212"
+}, {
+  "kecamatan" : "Tembilahan",
+  "kelurahan" : "Seberang Tembilahan Selatan",
+  "kodepos" : "29212"
+}, {
+  "kecamatan" : "Tembilahan",
+  "kelurahan" : "Sungai Perak",
+  "kodepos" : "29212"
+}, {
+  "kecamatan" : "Tembilahan",
+  "kelurahan" : "Seberang Tembilahan",
+  "kodepos" : "29212"
+}, {
+  "kecamatan" : "Tembilahan",
+  "kelurahan" : "Seberang Tembilahan Barat",
+  "kodepos" : "29212"
+}, {
+  "kecamatan" : "Tembilahan",
+  "kelurahan" : "Tembilahan Hilir",
+  "kodepos" : "29211"
+}, {
+  "kecamatan" : "Tembilahan",
+  "kelurahan" : "Pekan Arba",
+  "kodepos" : "29212"
+} ]

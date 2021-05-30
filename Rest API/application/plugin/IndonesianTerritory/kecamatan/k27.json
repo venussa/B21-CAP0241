@@ -1,0 +1,797 @@
+[ {
+  "kecamatan" : "Talo Kecil",
+  "kelurahan" : "Tebat Sibun",
+  "kodepos" : "38888"
+}, {
+  "kecamatan" : "Talo Kecil",
+  "kelurahan" : "Taba",
+  "kodepos" : "38888"
+}, {
+  "kecamatan" : "Talo Kecil",
+  "kelurahan" : "Talang Padang",
+  "kodepos" : "38888"
+}, {
+  "kecamatan" : "Talo Kecil",
+  "kelurahan" : "Suka Bulan",
+  "kodepos" : "38888"
+}, {
+  "kecamatan" : "Talo Kecil",
+  "kelurahan" : "Suka Merindu",
+  "kodepos" : "38888"
+}, {
+  "kecamatan" : "Talo Kecil",
+  "kelurahan" : "Sungai Petai",
+  "kodepos" : "38888"
+}, {
+  "kecamatan" : "Talo Kecil",
+  "kelurahan" : "Pering Baru",
+  "kodepos" : "38888"
+}, {
+  "kecamatan" : "Talo Kecil",
+  "kelurahan" : "Napalan",
+  "kodepos" : "38888"
+}, {
+  "kecamatan" : "Talo Kecil",
+  "kelurahan" : "Bakal Dalam",
+  "kodepos" : "38888"
+}, {
+  "kecamatan" : "Talo Kecil",
+  "kelurahan" : "Lubuk Lagan",
+  "kodepos" : "38888"
+}, {
+  "kecamatan" : "Ilir Talo",
+  "kelurahan" : "Talang Kabu",
+  "kodepos" : "38887"
+}, {
+  "kecamatan" : "Ilir Talo",
+  "kelurahan" : "Talang Panjang",
+  "kodepos" : "38887"
+}, {
+  "kecamatan" : "Ilir Talo",
+  "kelurahan" : "Tanah Abang",
+  "kodepos" : "38887"
+}, {
+  "kecamatan" : "Ilir Talo",
+  "kelurahan" : "Penago II",
+  "kodepos" : "38887"
+}, {
+  "kecamatan" : "Ilir Talo",
+  "kelurahan" : "Rawa Indah",
+  "kodepos" : "38887"
+}, {
+  "kecamatan" : "Ilir Talo",
+  "kelurahan" : "Pasar Talo",
+  "kodepos" : "38887"
+}, {
+  "kecamatan" : "Ilir Talo",
+  "kelurahan" : "Penago Baru",
+  "kodepos" : "38887"
+}, {
+  "kecamatan" : "Ilir Talo",
+  "kelurahan" : "Penago I",
+  "kodepos" : "38887"
+}, {
+  "kecamatan" : "Ilir Talo",
+  "kelurahan" : "Padang Cekur",
+  "kodepos" : "38887"
+}, {
+  "kecamatan" : "Ilir Talo",
+  "kelurahan" : "Paluah Terap",
+  "kodepos" : "38887"
+}, {
+  "kecamatan" : "Ilir Talo",
+  "kelurahan" : "Nanti Agung",
+  "kodepos" : "38887"
+}, {
+  "kecamatan" : "Ilir Talo",
+  "kelurahan" : "Padang Batu",
+  "kodepos" : "38887"
+}, {
+  "kecamatan" : "Ilir Talo",
+  "kelurahan" : "Mekar Sari",
+  "kodepos" : "38887"
+}, {
+  "kecamatan" : "Ilir Talo",
+  "kelurahan" : "Margo Sari",
+  "kodepos" : "38887"
+}, {
+  "kecamatan" : "Ulu Talo",
+  "kelurahan" : "Tanjung Agung",
+  "kodepos" : "38886"
+}, {
+  "kecamatan" : "Ilir Talo",
+  "kelurahan" : "Dusun Baru",
+  "kodepos" : "38887"
+}, {
+  "kecamatan" : "Ulu Talo",
+  "kelurahan" : "Pagar Banyu",
+  "kodepos" : "38886"
+}, {
+  "kecamatan" : "Ulu Talo",
+  "kelurahan" : "Sipur/Simpur Ijang",
+  "kodepos" : "38886"
+}, {
+  "kecamatan" : "Ulu Talo",
+  "kelurahan" : "Pagar",
+  "kodepos" : "38886"
+}, {
+  "kecamatan" : "Ulu Talo",
+  "kelurahan" : "Pagar Agung",
+  "kodepos" : "38886"
+}, {
+  "kecamatan" : "Ulu Talo",
+  "kelurahan" : "Muara Nibung",
+  "kodepos" : "38886"
+}, {
+  "kecamatan" : "Ulu Talo",
+  "kelurahan" : "Muara Simpur",
+  "kodepos" : "38886"
+}, {
+  "kecamatan" : "Ulu Talo",
+  "kelurahan" : "Hargo Binangun",
+  "kodepos" : "38886"
+}, {
+  "kecamatan" : "Ulu Talo",
+  "kelurahan" : "Mekar Jaya",
+  "kodepos" : "38886"
+}, {
+  "kecamatan" : "Ulu Talo",
+  "kelurahan" : "Giri Mulya",
+  "kodepos" : "38886"
+}, {
+  "kecamatan" : "Ulu Talo",
+  "kelurahan" : "Giri Nanto",
+  "kodepos" : "38886"
+}, {
+  "kecamatan" : "Ulu Talo",
+  "kelurahan" : "Banyu Kencana",
+  "kodepos" : "38886"
+}, {
+  "kecamatan" : "Ulu Talo",
+  "kelurahan" : "Air Keruh",
+  "kodepos" : "38886"
+}, {
+  "kecamatan" : "Seluma Timur",
+  "kelurahan" : "Talang Sali",
+  "kodepos" : "38885"
+}, {
+  "kecamatan" : "Seluma Timur",
+  "kelurahan" : "Tenangan",
+  "kodepos" : "38885"
+}, {
+  "kecamatan" : "Seluma Timur",
+  "kelurahan" : "Selebar",
+  "kodepos" : "38885"
+}, {
+  "kecamatan" : "Seluma Timur",
+  "kelurahan" : "Sembayat",
+  "kodepos" : "38885"
+}, {
+  "kecamatan" : "Seluma Timur",
+  "kelurahan" : "Kunduran",
+  "kodepos" : "38885"
+}, {
+  "kecamatan" : "Seluma Timur",
+  "kelurahan" : "Rawasari",
+  "kodepos" : "38885"
+}, {
+  "kecamatan" : "Seluma Timur",
+  "kelurahan" : "Bunga Mas",
+  "kodepos" : "38885"
+}, {
+  "kecamatan" : "Seluma Timur",
+  "kelurahan" : "Kota Agung",
+  "kodepos" : "38885"
+}, {
+  "kecamatan" : "Seluma Utara",
+  "kelurahan" : "Talang Rami",
+  "kodepos" : "38884"
+}, {
+  "kecamatan" : "Seluma Utara",
+  "kelurahan" : "Talang Empat",
+  "kodepos" : "38884"
+}, {
+  "kecamatan" : "Seluma Utara",
+  "kelurahan" : "Talang Beringin",
+  "kodepos" : "38884"
+}, {
+  "kecamatan" : "Seluma Utara",
+  "kelurahan" : "Simpang",
+  "kodepos" : "38884"
+}, {
+  "kecamatan" : "Seluma Utara",
+  "kelurahan" : "Sinar Pagi",
+  "kodepos" : "38884"
+}, {
+  "kecamatan" : "Seluma Utara",
+  "kelurahan" : "Selingsingan",
+  "kodepos" : "38884"
+}, {
+  "kecamatan" : "Seluma Utara",
+  "kelurahan" : "Sekalak",
+  "kodepos" : "38884"
+}, {
+  "kecamatan" : "Seluma Utara",
+  "kelurahan" : "Puguk",
+  "kodepos" : "38884"
+}, {
+  "kecamatan" : "Seluma Utara",
+  "kelurahan" : "Pandan",
+  "kodepos" : "38884"
+}, {
+  "kecamatan" : "Seluma Utara",
+  "kelurahan" : "Lubuk Resam",
+  "kodepos" : "38884"
+}, {
+  "kecamatan" : "Seluma Barat",
+  "kelurahan" : "Tanjung Agung",
+  "kodepos" : "38883"
+}, {
+  "kecamatan" : "Seluma Barat",
+  "kelurahan" : "Talang Tinggi",
+  "kodepos" : "38883"
+}, {
+  "kecamatan" : "Seluma Barat",
+  "kelurahan" : "Talang Perapat",
+  "kodepos" : "38883"
+}, {
+  "kecamatan" : "Seluma Barat",
+  "kelurahan" : "Sengkuang Jaya",
+  "kodepos" : "38883"
+}, {
+  "kecamatan" : "Seluma Barat",
+  "kelurahan" : "Purbosari",
+  "kodepos" : "38883"
+}, {
+  "kecamatan" : "Seluma Barat",
+  "kelurahan" : "Pagar Agung",
+  "kodepos" : "38883"
+}, {
+  "kecamatan" : "Seluma Barat",
+  "kelurahan" : "Lubuk Lagan",
+  "kodepos" : "38883"
+}, {
+  "kecamatan" : "Seluma Barat",
+  "kelurahan" : "Lunjuk",
+  "kodepos" : "38883"
+}, {
+  "kecamatan" : "Seluma Barat",
+  "kelurahan" : "Air Latak",
+  "kodepos" : "38883"
+}, {
+  "kecamatan" : "Lubuk Sandi",
+  "kelurahan" : "Tumbuan",
+  "kodepos" : "38882"
+}, {
+  "kecamatan" : "Lubuk Sandi",
+  "kelurahan" : "Tanjung Kuaw",
+  "kodepos" : "38882"
+}, {
+  "kecamatan" : "Lubuk Sandi",
+  "kelurahan" : "Talang Giring",
+  "kodepos" : "38882"
+}, {
+  "kecamatan" : "Lubuk Sandi",
+  "kelurahan" : "Talang Kebun",
+  "kodepos" : "38882"
+}, {
+  "kecamatan" : "Lubuk Sandi",
+  "kelurahan" : "Sakaian",
+  "kodepos" : "38882"
+}, {
+  "kecamatan" : "Lubuk Sandi",
+  "kelurahan" : "Renah/Rena Panjang",
+  "kodepos" : "38882"
+}, {
+  "kecamatan" : "Lubuk Sandi",
+  "kelurahan" : "Padang Capo Ilir",
+  "kodepos" : "38882"
+}, {
+  "kecamatan" : "Lubuk Sandi",
+  "kelurahan" : "Padang Capo Ulu",
+  "kodepos" : "38882"
+}, {
+  "kecamatan" : "Lubuk Sandi",
+  "kelurahan" : "Napal Jungur",
+  "kodepos" : "38882"
+}, {
+  "kecamatan" : "Lubuk Sandi",
+  "kelurahan" : "Lubuk Terentang",
+  "kodepos" : "38882"
+}, {
+  "kecamatan" : "Lubuk Sandi",
+  "kelurahan" : "Dusun Tengah",
+  "kodepos" : "38882"
+}, {
+  "kecamatan" : "Lubuk Sandi",
+  "kelurahan" : "Gunung Agung",
+  "kodepos" : "38882"
+}, {
+  "kecamatan" : "Lubuk Sandi",
+  "kelurahan" : "Cawang",
+  "kodepos" : "38882"
+}, {
+  "kecamatan" : "Lubuk Sandi",
+  "kelurahan" : "Arang Sapat",
+  "kodepos" : "38882"
+}, {
+  "kecamatan" : "Air Periukan",
+  "kelurahan" : "Tawang Rejo",
+  "kodepos" : "38881"
+}, {
+  "kecamatan" : "Air Periukan",
+  "kelurahan" : "Talang Sebaris",
+  "kodepos" : "38881"
+}, {
+  "kecamatan" : "Air Periukan",
+  "kelurahan" : "Talang Alai",
+  "kodepos" : "38881"
+}, {
+  "kecamatan" : "Air Periukan",
+  "kelurahan" : "Talang Benuang",
+  "kodepos" : "38881"
+}, {
+  "kecamatan" : "Air Periukan",
+  "kelurahan" : "Taba Lubuk Puding",
+  "kodepos" : "38881"
+}, {
+  "kecamatan" : "Air Periukan",
+  "kelurahan" : "Sukasari",
+  "kodepos" : "38881"
+}, {
+  "kecamatan" : "Air Periukan",
+  "kelurahan" : "Pasar Ngalam",
+  "kodepos" : "38881"
+}, {
+  "kecamatan" : "Air Periukan",
+  "kelurahan" : "Suka Maju",
+  "kodepos" : "38881"
+}, {
+  "kecamatan" : "Air Periukan",
+  "kelurahan" : "Padang Pelasan",
+  "kodepos" : "38881"
+}, {
+  "kecamatan" : "Air Periukan",
+  "kelurahan" : "Lubuk Gilang",
+  "kodepos" : "38881"
+}, {
+  "kecamatan" : "Air Periukan",
+  "kelurahan" : "Lokasi Baru",
+  "kodepos" : "38881"
+}, {
+  "kecamatan" : "Air Periukan",
+  "kelurahan" : "Lawang Agung",
+  "kodepos" : "38881"
+}, {
+  "kecamatan" : "Air Periukan",
+  "kelurahan" : "Keban Agung",
+  "kodepos" : "38881"
+}, {
+  "kecamatan" : "Air Periukan",
+  "kelurahan" : "Kungkai Baru",
+  "kodepos" : "38881"
+}, {
+  "kecamatan" : "Air Periukan",
+  "kelurahan" : "Dermayu",
+  "kodepos" : "38881"
+}, {
+  "kecamatan" : "Air Periukan",
+  "kelurahan" : "Air Periukan",
+  "kodepos" : "38881"
+}, {
+  "kecamatan" : "Seluma Selatan",
+  "kelurahan" : "Tanjungan",
+  "kodepos" : "38878"
+}, {
+  "kecamatan" : "Seluma Selatan",
+  "kelurahan" : "Tanjung Seru",
+  "kodepos" : "38878"
+}, {
+  "kecamatan" : "Seluma Selatan",
+  "kelurahan" : "Tangga Batu",
+  "kodepos" : "38878"
+}, {
+  "kecamatan" : "Seluma Selatan",
+  "kelurahan" : "Tanjung Seluai",
+  "kodepos" : "38878"
+}, {
+  "kecamatan" : "Seluma Selatan",
+  "kelurahan" : "Sido Mulyo",
+  "kodepos" : "38878"
+}, {
+  "kecamatan" : "Seluma Selatan",
+  "kelurahan" : "Suka Rami",
+  "kodepos" : "38878"
+}, {
+  "kecamatan" : "Seluma Selatan",
+  "kelurahan" : "Rimbo Kedui",
+  "kodepos" : "38878"
+}, {
+  "kecamatan" : "Seluma Selatan",
+  "kelurahan" : "Sengkuang",
+  "kodepos" : "38878"
+}, {
+  "kecamatan" : "Seluma Selatan",
+  "kelurahan" : "Padang Rambun",
+  "kodepos" : "38878"
+}, {
+  "kecamatan" : "Seluma Selatan",
+  "kelurahan" : "Pasar Seluma",
+  "kodepos" : "38878"
+}, {
+  "kecamatan" : "Seluma Selatan",
+  "kelurahan" : "Padang Merbau",
+  "kodepos" : "38878"
+}, {
+  "kecamatan" : "Seluma Selatan",
+  "kelurahan" : "Padang Genting",
+  "kodepos" : "38878"
+}, {
+  "kecamatan" : "Sukaraja",
+  "kelurahan" : "Sumber Makmur",
+  "kodepos" : "38877"
+}, {
+  "kecamatan" : "Sukaraja",
+  "kelurahan" : "Sumber Arung/Arum",
+  "kodepos" : "38877"
+}, {
+  "kecamatan" : "Sukaraja",
+  "kelurahan" : "Sido Sari",
+  "kodepos" : "38877"
+}, {
+  "kecamatan" : "Sukaraja",
+  "kelurahan" : "Sukaraja",
+  "kodepos" : "38877"
+}, {
+  "kecamatan" : "Sukaraja",
+  "kelurahan" : "Sari Mulyo",
+  "kodepos" : "38877"
+}, {
+  "kecamatan" : "Sukaraja",
+  "kelurahan" : "Sido Luhur",
+  "kodepos" : "38877"
+}, {
+  "kecamatan" : "Sukaraja",
+  "kelurahan" : "Riak Siabun",
+  "kodepos" : "38877"
+}, {
+  "kecamatan" : "Sukaraja",
+  "kelurahan" : "Riak Siabun I",
+  "kodepos" : "38877"
+}, {
+  "kecamatan" : "Sukaraja",
+  "kelurahan" : "Niur",
+  "kodepos" : "38877"
+}, {
+  "kecamatan" : "Sukaraja",
+  "kelurahan" : "Padang Kuas",
+  "kodepos" : "38877"
+}, {
+  "kecamatan" : "Sukaraja",
+  "kelurahan" : "Padang Pelawi",
+  "kodepos" : "38877"
+}, {
+  "kecamatan" : "Sukaraja",
+  "kelurahan" : "Lubuk Sahung",
+  "kodepos" : "38877"
+}, {
+  "kecamatan" : "Sukaraja",
+  "kelurahan" : "Kuti Agung",
+  "kodepos" : "38877"
+}, {
+  "kecamatan" : "Sukaraja",
+  "kelurahan" : "Jenggalu",
+  "kodepos" : "38877"
+}, {
+  "kecamatan" : "Sukaraja",
+  "kelurahan" : "Kayu Arang",
+  "kodepos" : "38877"
+}, {
+  "kecamatan" : "Sukaraja",
+  "kelurahan" : "Bukit Peninjauan II",
+  "kodepos" : "38877"
+}, {
+  "kecamatan" : "Sukaraja",
+  "kelurahan" : "Cahaya Negeri",
+  "kodepos" : "38877"
+}, {
+  "kecamatan" : "Sukaraja",
+  "kelurahan" : "Bukit Peninjauan I",
+  "kodepos" : "38877"
+}, {
+  "kecamatan" : "Sukaraja",
+  "kelurahan" : "Air Petai",
+  "kodepos" : "38877"
+}, {
+  "kecamatan" : "Sukaraja",
+  "kelurahan" : "Babatan",
+  "kodepos" : "38877"
+}, {
+  "kecamatan" : "Sukaraja",
+  "kelurahan" : "Air Kemuning",
+  "kodepos" : "38877"
+}, {
+  "kecamatan" : "Seluma",
+  "kelurahan" : "Talang Dantuk",
+  "kodepos" : "38876"
+}, {
+  "kecamatan" : "Seluma",
+  "kelurahan" : "Talang Saling",
+  "kodepos" : "38876"
+}, {
+  "kecamatan" : "Seluma",
+  "kelurahan" : "Lubuk Lintang",
+  "kodepos" : "38876"
+}, {
+  "kecamatan" : "Seluma",
+  "kelurahan" : "Napal",
+  "kodepos" : "38876"
+}, {
+  "kecamatan" : "Seluma",
+  "kelurahan" : "Pasar Tais",
+  "kodepos" : "38876"
+}, {
+  "kecamatan" : "Seluma",
+  "kelurahan" : "Lubuk Kebur",
+  "kodepos" : "38876"
+}, {
+  "kecamatan" : "Semidang Alas Maras",
+  "kelurahan" : "Ujung Padang",
+  "kodepos" : "38875"
+}, {
+  "kecamatan" : "Seluma",
+  "kelurahan" : "Dusun Baru",
+  "kodepos" : "38876"
+}, {
+  "kecamatan" : "Semidang Alas Maras",
+  "kelurahan" : "Talang Kemang",
+  "kodepos" : "38875"
+}, {
+  "kecamatan" : "Semidang Alas Maras",
+  "kelurahan" : "Tedunan",
+  "kodepos" : "38875"
+}, {
+  "kecamatan" : "Semidang Alas Maras",
+  "kelurahan" : "Talang Beringin",
+  "kodepos" : "38875"
+}, {
+  "kecamatan" : "Semidang Alas Maras",
+  "kelurahan" : "Serian Bandung",
+  "kodepos" : "38875"
+}, {
+  "kecamatan" : "Semidang Alas Maras",
+  "kelurahan" : "Talang Alai",
+  "kodepos" : "38875"
+}, {
+  "kecamatan" : "Semidang Alas Maras",
+  "kelurahan" : "Rimbo Besak",
+  "kodepos" : "38875"
+}, {
+  "kecamatan" : "Semidang Alas Maras",
+  "kelurahan" : "Sendawar",
+  "kodepos" : "38875"
+}, {
+  "kecamatan" : "Semidang Alas Maras",
+  "kelurahan" : "Padang Peri",
+  "kodepos" : "38875"
+}, {
+  "kecamatan" : "Semidang Alas Maras",
+  "kelurahan" : "Pematang Riding/Rindang",
+  "kodepos" : "38875"
+}, {
+  "kecamatan" : "Semidang Alas Maras",
+  "kelurahan" : "Padang Kelapa",
+  "kodepos" : "38875"
+}, {
+  "kecamatan" : "Semidang Alas Maras",
+  "kelurahan" : "Padang Bakung",
+  "kodepos" : "38875"
+}, {
+  "kecamatan" : "Semidang Alas Maras",
+  "kelurahan" : "Muara Maras",
+  "kodepos" : "38875"
+}, {
+  "kecamatan" : "Semidang Alas Maras",
+  "kelurahan" : "Muara Timput",
+  "kodepos" : "38875"
+}, {
+  "kecamatan" : "Semidang Alas Maras",
+  "kelurahan" : "Maras Bantan",
+  "kodepos" : "38875"
+}, {
+  "kecamatan" : "Semidang Alas Maras",
+  "kelurahan" : "Maras Tengah",
+  "kodepos" : "38875"
+}, {
+  "kecamatan" : "Semidang Alas Maras",
+  "kelurahan" : "Karang Anyar",
+  "kodepos" : "38875"
+}, {
+  "kecamatan" : "Semidang Alas Maras",
+  "kelurahan" : "Ketapang Baru",
+  "kodepos" : "38875"
+}, {
+  "kecamatan" : "Semidang Alas Maras",
+  "kelurahan" : "Kembang Mumpo",
+  "kodepos" : "38875"
+}, {
+  "kecamatan" : "Semidang Alas Maras",
+  "kelurahan" : "Lubuk Betung",
+  "kodepos" : "38875"
+}, {
+  "kecamatan" : "Semidang Alas Maras",
+  "kelurahan" : "Gunung Kembang",
+  "kodepos" : "38875"
+}, {
+  "kecamatan" : "Semidang Alas Maras",
+  "kelurahan" : "Karang Anyar",
+  "kodepos" : "38875"
+}, {
+  "kecamatan" : "Semidang Alas Maras",
+  "kelurahan" : "Gunung Bantan",
+  "kodepos" : "38875"
+}, {
+  "kecamatan" : "Semidang Alas Maras",
+  "kelurahan" : "Genting Luar",
+  "kodepos" : "38875"
+}, {
+  "kecamatan" : "Talo",
+  "kelurahan" : "Simpang Tiga Pagar Gasing",
+  "kodepos" : "38874"
+}, {
+  "kecamatan" : "Semidang Alas Maras",
+  "kelurahan" : "Gelombang",
+  "kodepos" : "38875"
+}, {
+  "kecamatan" : "Talo",
+  "kelurahan" : "Napal Melintang",
+  "kodepos" : "38874"
+}, {
+  "kecamatan" : "Talo",
+  "kelurahan" : "Serambi Gunung",
+  "kodepos" : "38874"
+}, {
+  "kecamatan" : "Talo",
+  "kelurahan" : "Lubuk Ngantungan",
+  "kodepos" : "38874"
+}, {
+  "kecamatan" : "Talo",
+  "kelurahan" : "Masmambang",
+  "kodepos" : "38874"
+}, {
+  "kecamatan" : "Talo",
+  "kelurahan" : "Muara Danau",
+  "kodepos" : "38874"
+}, {
+  "kecamatan" : "Talo",
+  "kelurahan" : "Lubuk Gadis",
+  "kodepos" : "38874"
+}, {
+  "kecamatan" : "Talo",
+  "kelurahan" : "Lubuk Gio",
+  "kodepos" : "38874"
+}, {
+  "kecamatan" : "Talo",
+  "kelurahan" : "Durian Bubur",
+  "kodepos" : "38874"
+}, {
+  "kecamatan" : "Talo",
+  "kelurahan" : "Kampai",
+  "kodepos" : "38874"
+}, {
+  "kecamatan" : "Talo",
+  "kelurahan" : "Kembang Seri",
+  "kodepos" : "38874"
+}, {
+  "kecamatan" : "Talo",
+  "kelurahan" : "Batu Tugu",
+  "kodepos" : "38874"
+}, {
+  "kecamatan" : "Talo",
+  "kelurahan" : "Bunut Tinggi",
+  "kodepos" : "38874"
+}, {
+  "kecamatan" : "Talo",
+  "kelurahan" : "Air Teras",
+  "kodepos" : "38874"
+}, {
+  "kecamatan" : "Talo",
+  "kelurahan" : "Air Teras",
+  "kodepos" : "38874"
+}, {
+  "kecamatan" : "Semidang Alas",
+  "kelurahan" : "Talang Durian",
+  "kodepos" : "38873"
+}, {
+  "kecamatan" : "Semidang Alas",
+  "kelurahan" : "Tebat/Teba Gunung",
+  "kodepos" : "38873"
+}, {
+  "kecamatan" : "Semidang Alas",
+  "kelurahan" : "Telatan",
+  "kodepos" : "38873"
+}, {
+  "kecamatan" : "Semidang Alas",
+  "kelurahan" : "Suban",
+  "kodepos" : "38873"
+}, {
+  "kecamatan" : "Semidang Alas",
+  "kelurahan" : "Renah Gajah Mati II",
+  "kodepos" : "38873"
+}, {
+  "kecamatan" : "Semidang Alas",
+  "kelurahan" : "Pinju Layang",
+  "kodepos" : "38873"
+}, {
+  "kecamatan" : "Semidang Alas",
+  "kelurahan" : "Rantau Panjang",
+  "kodepos" : "38873"
+}, {
+  "kecamatan" : "Semidang Alas",
+  "kelurahan" : "Renah Gajah Mati 1",
+  "kodepos" : "38873"
+}, {
+  "kecamatan" : "Semidang Alas",
+  "kelurahan" : "Pajar Bulan",
+  "kodepos" : "38873"
+}, {
+  "kecamatan" : "Semidang Alas",
+  "kelurahan" : "Petai Kayu",
+  "kodepos" : "38873"
+}, {
+  "kecamatan" : "Semidang Alas",
+  "kelurahan" : "Nanti Agung",
+  "kodepos" : "38873"
+}, {
+  "kecamatan" : "Semidang Alas",
+  "kelurahan" : "Napalan",
+  "kodepos" : "38873"
+}, {
+  "kecamatan" : "Semidang Alas",
+  "kelurahan" : "Padang Serunaian",
+  "kodepos" : "38873"
+}, {
+  "kecamatan" : "Semidang Alas",
+  "kelurahan" : "Mekar Sari Mukti",
+  "kodepos" : "38873"
+}, {
+  "kecamatan" : "Semidang Alas",
+  "kelurahan" : "Muara Dua",
+  "kodepos" : "38873"
+}, {
+  "kecamatan" : "Semidang Alas",
+  "kelurahan" : "Nanjungan",
+  "kodepos" : "38873"
+}, {
+  "kecamatan" : "Semidang Alas",
+  "kelurahan" : "Maras Jauh",
+  "kodepos" : "38873"
+}, {
+  "kecamatan" : "Semidang Alas",
+  "kelurahan" : "Kayu Elang",
+  "kodepos" : "38873"
+}, {
+  "kecamatan" : "Semidang Alas",
+  "kelurahan" : "Kemang Manis",
+  "kodepos" : "38873"
+}, {
+  "kecamatan" : "Semidang Alas",
+  "kelurahan" : "Cugung Langu",
+  "kodepos" : "38873"
+}, {
+  "kecamatan" : "Semidang Alas",
+  "kelurahan" : "Gunung Megang",
+  "kodepos" : "38873"
+}, {
+  "kecamatan" : "Semidang Alas",
+  "kelurahan" : "Gunung Mesir",
+  "kodepos" : "38873"
+}, {
+  "kecamatan" : "Semidang Alas",
+  "kelurahan" : "Air Melancar",
+  "kodepos" : "38873"
+}, {
+  "kecamatan" : "Semidang Alas",
+  "kelurahan" : "Bandung Agung",
+  "kodepos" : "38873"
+} ]

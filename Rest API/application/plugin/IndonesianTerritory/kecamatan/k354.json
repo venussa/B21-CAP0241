@@ -1,0 +1,545 @@
+[ {
+  "kecamatan" : "Ujung Loe",
+  "kelurahan" : "Tamatto",
+  "kodepos" : "92661"
+}, {
+  "kecamatan" : "Ujung Loe",
+  "kelurahan" : "Seppang",
+  "kodepos" : "92661"
+}, {
+  "kecamatan" : "Ujung Loe",
+  "kelurahan" : "Salemba",
+  "kodepos" : "92661"
+}, {
+  "kecamatan" : "Ujung Loe",
+  "kelurahan" : "Paccaramengang",
+  "kodepos" : "92661"
+}, {
+  "kecamatan" : "Ujung Loe",
+  "kelurahan" : "Padang Loang",
+  "kodepos" : "92661"
+}, {
+  "kecamatan" : "Ujung Loe",
+  "kelurahan" : "Manjalling",
+  "kodepos" : "92661"
+}, {
+  "kecamatan" : "Ujung Loe",
+  "kelurahan" : "Manyampa",
+  "kodepos" : "92661"
+}, {
+  "kecamatan" : "Ujung Loe",
+  "kelurahan" : "Lonrong",
+  "kodepos" : "92661"
+}, {
+  "kecamatan" : "Ujung Loe",
+  "kelurahan" : "Garanta",
+  "kodepos" : "92661"
+}, {
+  "kecamatan" : "Ujung Loe",
+  "kelurahan" : "Dannuang",
+  "kodepos" : "92661"
+}, {
+  "kecamatan" : "Ujung Loe",
+  "kelurahan" : "Balong",
+  "kodepos" : "92661"
+}, {
+  "kecamatan" : "Ujung Loe",
+  "kelurahan" : "Bijawang",
+  "kodepos" : "92661"
+}, {
+  "kecamatan" : "Ujung Loe",
+  "kelurahan" : "Balleanging (Balleangin)",
+  "kodepos" : "92661"
+}, {
+  "kecamatan" : "Kajang",
+  "kelurahan" : "Tanah Towa",
+  "kodepos" : "92574"
+}, {
+  "kecamatan" : "Kajang",
+  "kelurahan" : "Tambangan",
+  "kodepos" : "92574"
+}, {
+  "kecamatan" : "Kajang",
+  "kelurahan" : "Tanah Jaya",
+  "kodepos" : "92574"
+}, {
+  "kecamatan" : "Kajang",
+  "kelurahan" : "Possi Tanah",
+  "kodepos" : "92574"
+}, {
+  "kecamatan" : "Kajang",
+  "kelurahan" : "Sangkala",
+  "kodepos" : "92574"
+}, {
+  "kecamatan" : "Kajang",
+  "kelurahan" : "Sapanang",
+  "kodepos" : "92574"
+}, {
+  "kecamatan" : "Kajang",
+  "kelurahan" : "Pantama",
+  "kodepos" : "92574"
+}, {
+  "kecamatan" : "Kajang",
+  "kelurahan" : "Pattiroang",
+  "kodepos" : "92574"
+}, {
+  "kecamatan" : "Kajang",
+  "kelurahan" : "Malleleng",
+  "kodepos" : "92574"
+}, {
+  "kecamatan" : "Kajang",
+  "kelurahan" : "Malleleng",
+  "kodepos" : "92574"
+}, {
+  "kecamatan" : "Kajang",
+  "kelurahan" : "Lembanglohe",
+  "kodepos" : "92574"
+}, {
+  "kecamatan" : "Kajang",
+  "kelurahan" : "Lembanna",
+  "kodepos" : "92574"
+}, {
+  "kecamatan" : "Kajang",
+  "kelurahan" : "Lolisang",
+  "kodepos" : "92574"
+}, {
+  "kecamatan" : "Kajang",
+  "kelurahan" : "Laikang",
+  "kodepos" : "92574"
+}, {
+  "kecamatan" : "Kajang",
+  "kelurahan" : "Lembang",
+  "kodepos" : "92574"
+}, {
+  "kecamatan" : "Kajang",
+  "kelurahan" : "Bonto Baji",
+  "kodepos" : "92574"
+}, {
+  "kecamatan" : "Kajang",
+  "kelurahan" : "Bonto Biraeng",
+  "kodepos" : "92574"
+}, {
+  "kecamatan" : "Kajang",
+  "kelurahan" : "Bontorannu",
+  "kodepos" : "92574"
+}, {
+  "kecamatan" : "Hero Lange-Lange (Herlang)",
+  "kelurahan" : "Tugondeng",
+  "kodepos" : "92573"
+}, {
+  "kecamatan" : "Kajang",
+  "kelurahan" : "Batunilamung",
+  "kodepos" : "92574"
+}, {
+  "kecamatan" : "Hero Lange-Lange (Herlang)",
+  "kelurahan" : "Singa",
+  "kodepos" : "92573"
+}, {
+  "kecamatan" : "Hero Lange-Lange (Herlang)",
+  "kelurahan" : "Tanuntung",
+  "kodepos" : "92573"
+}, {
+  "kecamatan" : "Hero Lange-Lange (Herlang)",
+  "kelurahan" : "Karassing",
+  "kodepos" : "92573"
+}, {
+  "kecamatan" : "Hero Lange-Lange (Herlang)",
+  "kelurahan" : "Pataro",
+  "kodepos" : "92573"
+}, {
+  "kecamatan" : "Hero Lange-Lange (Herlang)",
+  "kelurahan" : "Gunturu",
+  "kodepos" : "92573"
+}, {
+  "kecamatan" : "Hero Lange-Lange (Herlang)",
+  "kelurahan" : "Bonto Kamase",
+  "kodepos" : "92573"
+}, {
+  "kecamatan" : "Hero Lange-Lange (Herlang)",
+  "kelurahan" : "Borong",
+  "kodepos" : "92573"
+}, {
+  "kecamatan" : "Bontotiro",
+  "kelurahan" : "Tritiro",
+  "kodepos" : "92572"
+}, {
+  "kecamatan" : "Bontotiro",
+  "kelurahan" : "Pakubalaho",
+  "kodepos" : "92572"
+}, {
+  "kecamatan" : "Bontotiro",
+  "kelurahan" : "Tamalanrea",
+  "kodepos" : "92572"
+}, {
+  "kecamatan" : "Bontotiro",
+  "kelurahan" : "Ekatiro",
+  "kodepos" : "92572"
+}, {
+  "kecamatan" : "Bontotiro",
+  "kelurahan" : "Lamanda",
+  "kodepos" : "92572"
+}, {
+  "kecamatan" : "Bontotiro",
+  "kelurahan" : "Caramming",
+  "kodepos" : "92572"
+}, {
+  "kecamatan" : "Bontotiro",
+  "kelurahan" : "Dwi Tiro",
+  "kodepos" : "92572"
+}, {
+  "kecamatan" : "Bontotiro",
+  "kelurahan" : "Buhung Bundang",
+  "kodepos" : "92572"
+}, {
+  "kecamatan" : "Bontotiro",
+  "kelurahan" : "Bonto Marannu",
+  "kodepos" : "92572"
+}, {
+  "kecamatan" : "Bontotiro",
+  "kelurahan" : "Bonto Tangnga",
+  "kodepos" : "92572"
+}, {
+  "kecamatan" : "Bontotiro",
+  "kelurahan" : "Bonto Barua",
+  "kodepos" : "92572"
+}, {
+  "kecamatan" : "Bontotiro",
+  "kelurahan" : "Bonto Bulaeng",
+  "kodepos" : "92572"
+}, {
+  "kecamatan" : "Bonto Bahari",
+  "kelurahan" : "Tanah Lemo",
+  "kodepos" : "92571"
+}, {
+  "kecamatan" : "Bontotiro",
+  "kelurahan" : "Batang",
+  "kodepos" : "92572"
+}, {
+  "kecamatan" : "Bonto Bahari",
+  "kelurahan" : "Sapolohe",
+  "kodepos" : "92571"
+}, {
+  "kecamatan" : "Bonto Bahari",
+  "kelurahan" : "Tanah Beru",
+  "kodepos" : "92571"
+}, {
+  "kecamatan" : "Bonto Bahari",
+  "kelurahan" : "Darubiah",
+  "kodepos" : "92571"
+}, {
+  "kecamatan" : "Bonto Bahari",
+  "kelurahan" : "Lembanna",
+  "kodepos" : "92571"
+}, {
+  "kecamatan" : "Bonto Bahari",
+  "kelurahan" : "Benjala",
+  "kodepos" : "92571"
+}, {
+  "kecamatan" : "Bonto Bahari",
+  "kelurahan" : "Bira",
+  "kodepos" : "92571"
+}, {
+  "kecamatan" : "Bonto Bahari",
+  "kelurahan" : "Ara",
+  "kodepos" : "92571"
+}, {
+  "kecamatan" : "Gantorang/Gantarang (Gangking)",
+  "kelurahan" : "Polewali",
+  "kodepos" : "92561"
+}, {
+  "kecamatan" : "Gantorang/Gantarang (Gangking)",
+  "kelurahan" : "Taccorong",
+  "kodepos" : "92561"
+}, {
+  "kecamatan" : "Gantorang/Gantarang (Gangking)",
+  "kelurahan" : "Paenre Lompoe",
+  "kodepos" : "92561"
+}, {
+  "kecamatan" : "Gantorang/Gantarang (Gangking)",
+  "kelurahan" : "Palambarae",
+  "kodepos" : "92561"
+}, {
+  "kecamatan" : "Gantorang/Gantarang (Gangking)",
+  "kelurahan" : "Mattekko",
+  "kodepos" : "92561"
+}, {
+  "kecamatan" : "Gantorang/Gantarang (Gangking)",
+  "kelurahan" : "Padang",
+  "kodepos" : "92561"
+}, {
+  "kecamatan" : "Gantorang/Gantarang (Gangking)",
+  "kelurahan" : "Gattareng",
+  "kodepos" : "92561"
+}, {
+  "kecamatan" : "Gantorang/Gantarang (Gangking)",
+  "kelurahan" : "Jalanjang",
+  "kodepos" : "92561"
+}, {
+  "kecamatan" : "Gantorang/Gantarang (Gangking)",
+  "kelurahan" : "Mariorennu",
+  "kodepos" : "92561"
+}, {
+  "kecamatan" : "Gantorang/Gantarang (Gangking)",
+  "kelurahan" : "Bukit Tinggi",
+  "kodepos" : "92561"
+}, {
+  "kecamatan" : "Gantorang/Gantarang (Gangking)",
+  "kelurahan" : "Dampang",
+  "kodepos" : "92561"
+}, {
+  "kecamatan" : "Gantorang/Gantarang (Gangking)",
+  "kelurahan" : "Bontonyeleng",
+  "kodepos" : "92561"
+}, {
+  "kecamatan" : "Gantorang/Gantarang (Gangking)",
+  "kelurahan" : "Bontoraja",
+  "kodepos" : "92561"
+}, {
+  "kecamatan" : "Gantorang/Gantarang (Gangking)",
+  "kelurahan" : "Bukit Harapan",
+  "kodepos" : "92561"
+}, {
+  "kecamatan" : "Gantorang/Gantarang (Gangking)",
+  "kelurahan" : "Bonto Sunggu",
+  "kodepos" : "92561"
+}, {
+  "kecamatan" : "Gantorang/Gantarang (Gangking)",
+  "kelurahan" : "Bontomasila",
+  "kodepos" : "92561"
+}, {
+  "kecamatan" : "Gantorang/Gantarang (Gangking)",
+  "kelurahan" : "Bialo",
+  "kodepos" : "92561"
+}, {
+  "kecamatan" : "Gantorang/Gantarang (Gangking)",
+  "kelurahan" : "Bonto Macinna",
+  "kodepos" : "92561"
+}, {
+  "kecamatan" : "Gantorang/Gantarang (Gangking)",
+  "kelurahan" : "Benteng Gatareng",
+  "kodepos" : "92561"
+}, {
+  "kecamatan" : "Gantorang/Gantarang (Gangking)",
+  "kelurahan" : "Benteng Malewang",
+  "kodepos" : "92561"
+}, {
+  "kecamatan" : "Gantorang/Gantarang (Gangking)",
+  "kelurahan" : "Barombong",
+  "kodepos" : "92561"
+}, {
+  "kecamatan" : "Rilau Ale",
+  "kelurahan" : "Topanda",
+  "kodepos" : "92552"
+}, {
+  "kecamatan" : "Bulukumba (Bulukumpa)",
+  "kelurahan" : "Tibona",
+  "kodepos" : "92552"
+}, {
+  "kecamatan" : "Rilau Ale",
+  "kelurahan" : "Tanah Harapan",
+  "kodepos" : "92552"
+}, {
+  "kecamatan" : "Bulukumba (Bulukumpa)",
+  "kelurahan" : "Tanete",
+  "kodepos" : "92552"
+}, {
+  "kecamatan" : "Rilau Ale",
+  "kelurahan" : "Swatani",
+  "kodepos" : "92552"
+}, {
+  "kecamatan" : "Bulukumba (Bulukumpa)",
+  "kelurahan" : "Salassae",
+  "kodepos" : "92552"
+}, {
+  "kecamatan" : "Bulukumba (Bulukumpa)",
+  "kelurahan" : "Sapo Bonto",
+  "kodepos" : "92552"
+}, {
+  "kecamatan" : "Rilau Ale",
+  "kelurahan" : "Palampang",
+  "kodepos" : "92552"
+}, {
+  "kecamatan" : "Rilau Ale",
+  "kelurahan" : "Pangalloang",
+  "kodepos" : "92552"
+}, {
+  "kecamatan" : "Rilau Ale",
+  "kelurahan" : "Karama",
+  "kodepos" : "92552"
+}, {
+  "kecamatan" : "Bulukumba (Bulukumpa)",
+  "kelurahan" : "Kambuno",
+  "kodepos" : "92552"
+}, {
+  "kecamatan" : "Bulukumba (Bulukumpa)",
+  "kelurahan" : "Jawi &#8211; Jawi",
+  "kodepos" : "92552"
+}, {
+  "kecamatan" : "Bulukumba (Bulukumpa)",
+  "kelurahan" : "Jojjolo",
+  "kodepos" : "92552"
+}, {
+  "kecamatan" : "Rilau Ale",
+  "kelurahan" : "Bulolohe",
+  "kodepos" : "92552"
+}, {
+  "kecamatan" : "Bulukumba (Bulukumpa)",
+  "kelurahan" : "Bulo-Bulo",
+  "kodepos" : "92552"
+}, {
+  "kecamatan" : "Rilau Ale",
+  "kelurahan" : "Bontomanai",
+  "kodepos" : "92552"
+}, {
+  "kecamatan" : "Bulukumba (Bulukumpa)",
+  "kelurahan" : "Bontomangiring",
+  "kodepos" : "92552"
+}, {
+  "kecamatan" : "Rilau Ale",
+  "kelurahan" : "Bontoharu",
+  "kodepos" : "92552"
+}, {
+  "kecamatan" : "Rilau Ale",
+  "kelurahan" : "Bontolohe",
+  "kodepos" : "92552"
+}, {
+  "kecamatan" : "Rilau Ale",
+  "kelurahan" : "Bontobangun",
+  "kodepos" : "92552"
+}, {
+  "kecamatan" : "Bulukumba (Bulukumpa)",
+  "kelurahan" : "Bonto Minasa",
+  "kodepos" : "92552"
+}, {
+  "kecamatan" : "Rilau Ale",
+  "kelurahan" : "Bonto Matene",
+  "kodepos" : "92552"
+}, {
+  "kecamatan" : "Bulukumba (Bulukumpa)",
+  "kelurahan" : "Bonto Bulaeng",
+  "kodepos" : "92552"
+}, {
+  "kecamatan" : "Rilau Ale",
+  "kelurahan" : "Batukaropa",
+  "kodepos" : "92552"
+}, {
+  "kecamatan" : "Bulukumba (Bulukumpa)",
+  "kelurahan" : "Batulohe",
+  "kodepos" : "92552"
+}, {
+  "kecamatan" : "Bulukumba (Bulukumpa)",
+  "kelurahan" : "Baruga Riattang",
+  "kodepos" : "92552"
+}, {
+  "kecamatan" : "Bulukumba (Bulukumpa)",
+  "kelurahan" : "Barugae",
+  "kodepos" : "92552"
+}, {
+  "kecamatan" : "Bulukumba (Bulukumpa)",
+  "kelurahan" : "Balang Taroang",
+  "kodepos" : "92552"
+}, {
+  "kecamatan" : "Bulukumba (Bulukumpa)",
+  "kelurahan" : "Ballasaraja",
+  "kodepos" : "92552"
+}, {
+  "kecamatan" : "Bulukumba (Bulukumpa)",
+  "kelurahan" : "Balang Pesoang",
+  "kodepos" : "92552"
+}, {
+  "kecamatan" : "Rilau Ale",
+  "kelurahan" : "Anrang",
+  "kodepos" : "92552"
+}, {
+  "kecamatan" : "Rilau Ale",
+  "kelurahan" : "Bajiminasa",
+  "kodepos" : "92552"
+}, {
+  "kecamatan" : "Ujung Bulu",
+  "kelurahan" : "Kalumeme",
+  "kodepos" : "92518"
+}, {
+  "kecamatan" : "Kindang",
+  "kelurahan" : "Sopa",
+  "kodepos" : "92517"
+}, {
+  "kecamatan" : "Kindang",
+  "kelurahan" : "Tamaona",
+  "kodepos" : "92517"
+}, {
+  "kecamatan" : "Kindang",
+  "kelurahan" : "Sipaenre",
+  "kodepos" : "92517"
+}, {
+  "kecamatan" : "Kindang",
+  "kelurahan" : "Somba Palioli",
+  "kodepos" : "92517"
+}, {
+  "kecamatan" : "Kindang",
+  "kelurahan" : "Mattirowalie",
+  "kodepos" : "92517"
+}, {
+  "kecamatan" : "Kindang",
+  "kelurahan" : "Oro Gading",
+  "kodepos" : "92517"
+}, {
+  "kecamatan" : "Kindang",
+  "kelurahan" : "Kindang",
+  "kodepos" : "92517"
+}, {
+  "kecamatan" : "Kindang",
+  "kelurahan" : "Kahayya",
+  "kodepos" : "92517"
+}, {
+  "kecamatan" : "Ujung Bulu",
+  "kelurahan" : "Caile",
+  "kodepos" : "92517"
+}, {
+  "kecamatan" : "Kindang",
+  "kelurahan" : "Garuntungan",
+  "kodepos" : "92517"
+}, {
+  "kecamatan" : "Kindang",
+  "kelurahan" : "Benteng Palioi",
+  "kodepos" : "92517"
+}, {
+  "kecamatan" : "Kindang",
+  "kelurahan" : "Borong Rappoa",
+  "kodepos" : "92517"
+}, {
+  "kecamatan" : "Kindang",
+  "kelurahan" : "Anrihua",
+  "kodepos" : "92517"
+}, {
+  "kecamatan" : "Kindang",
+  "kelurahan" : "Balibo",
+  "kodepos" : "92517"
+}, {
+  "kecamatan" : "Ujung Bulu",
+  "kelurahan" : "Tanah Kongkong",
+  "kodepos" : "92513"
+}, {
+  "kecamatan" : "Ujung Bulu",
+  "kelurahan" : "Bintarore",
+  "kodepos" : "92514"
+}, {
+  "kecamatan" : "Ujung Bulu",
+  "kelurahan" : "Terang-Terang",
+  "kodepos" : "92511"
+}, {
+  "kecamatan" : "Ujung Bulu",
+  "kelurahan" : "Kasimpureng",
+  "kodepos" : "92511"
+}, {
+  "kecamatan" : "Ujung Bulu",
+  "kelurahan" : "L O K A (Loka)",
+  "kodepos" : "92511"
+}, {
+  "kecamatan" : "Ujung Bulu",
+  "kelurahan" : "Bentengnge",
+  "kodepos" : "92511"
+}, {
+  "kecamatan" : "Ujung Bulu",
+  "kelurahan" : "Ela-Ela",
+  "kodepos" : "92511"
+} ]

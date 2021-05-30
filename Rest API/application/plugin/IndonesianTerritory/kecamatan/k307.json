@@ -1,0 +1,729 @@
+[ {
+  "kecamatan" : "Kaureh",
+  "kelurahan" : "Yadouw (Yadauw)",
+  "kodepos" : "99364"
+}, {
+  "kecamatan" : "Yapsi",
+  "kelurahan" : "Tabbeyan (Tabeyan)",
+  "kodepos" : "99364"
+}, {
+  "kecamatan" : "Yapsi",
+  "kelurahan" : "Taqwa/Takwa Bangun",
+  "kodepos" : "99364"
+}, {
+  "kecamatan" : "Kaureh",
+  "kelurahan" : "Umbron",
+  "kodepos" : "99364"
+}, {
+  "kecamatan" : "Kaureh",
+  "kelurahan" : "Sebum",
+  "kodepos" : "99364"
+}, {
+  "kecamatan" : "Kaureh",
+  "kelurahan" : "Soskotek",
+  "kodepos" : "99364"
+}, {
+  "kecamatan" : "Airu",
+  "kelurahan" : "Pagai",
+  "kodepos" : "99364"
+}, {
+  "kecamatan" : "Yapsi",
+  "kelurahan" : "Ongan Jaya",
+  "kodepos" : "99364"
+}, {
+  "kecamatan" : "Yapsi",
+  "kelurahan" : "Purnawajati (Purnama Jati)",
+  "kodepos" : "99364"
+}, {
+  "kecamatan" : "Airu",
+  "kelurahan" : "Naira",
+  "kodepos" : "99364"
+}, {
+  "kecamatan" : "Yapsi",
+  "kelurahan" : "Nawa Mukti",
+  "kodepos" : "99364"
+}, {
+  "kecamatan" : "Yapsi",
+  "kelurahan" : "Nawa Mulya",
+  "kodepos" : "99364"
+}, {
+  "kecamatan" : "Kaureh",
+  "kelurahan" : "Lapua",
+  "kodepos" : "99364"
+}, {
+  "kecamatan" : "Airu",
+  "kelurahan" : "Muara Nawa (Muarah Mawa)",
+  "kodepos" : "99364"
+}, {
+  "kecamatan" : "Yapsi",
+  "kelurahan" : "Kwarja (Kwaja)",
+  "kodepos" : "99364"
+}, {
+  "kecamatan" : "Airu",
+  "kelurahan" : "Hulu Atas",
+  "kodepos" : "99364"
+}, {
+  "kecamatan" : "Airu",
+  "kelurahan" : "Kamikaru",
+  "kodepos" : "99364"
+}, {
+  "kecamatan" : "Yapsi",
+  "kelurahan" : "Bumi Sahaja",
+  "kodepos" : "99364"
+}, {
+  "kecamatan" : "Yapsi",
+  "kelurahan" : "Bundru",
+  "kodepos" : "99364"
+}, {
+  "kecamatan" : "Airu",
+  "kelurahan" : "Aurina",
+  "kodepos" : "99364"
+}, {
+  "kecamatan" : "Nimbokrang",
+  "kelurahan" : "Nembukrang Sari (Nimbokrang Sari)",
+  "kodepos" : "99362"
+}, {
+  "kecamatan" : "Nimbokrang",
+  "kelurahan" : "Rhepang Muaif/Muaib",
+  "kodepos" : "99362"
+}, {
+  "kecamatan" : "Nimbokrang",
+  "kelurahan" : "Wahab",
+  "kodepos" : "99362"
+}, {
+  "kecamatan" : "Nimbokrang",
+  "kelurahan" : "Hamongkrang",
+  "kodepos" : "99362"
+}, {
+  "kecamatan" : "Nimbokrang",
+  "kelurahan" : "Nembukrang (Nimbokrang)",
+  "kodepos" : "99362"
+}, {
+  "kecamatan" : "Nimbokrang",
+  "kelurahan" : "Berab",
+  "kodepos" : "99362"
+}, {
+  "kecamatan" : "Nimbokrang",
+  "kelurahan" : "Bunyom",
+  "kodepos" : "99362"
+}, {
+  "kecamatan" : "Nimbokrang",
+  "kelurahan" : "Benyom Jaya I",
+  "kodepos" : "99362"
+}, {
+  "kecamatan" : "Nimbokrang",
+  "kelurahan" : "Benyom Jaya II",
+  "kodepos" : "99362"
+}, {
+  "kecamatan" : "Nimboran",
+  "kelurahan" : "Yenggu Baru",
+  "kodepos" : "99361"
+}, {
+  "kecamatan" : "Nambluong",
+  "kelurahan" : "Yakasib (Yakasip/Yokasib)",
+  "kodepos" : "99361"
+}, {
+  "kecamatan" : "Nimboran",
+  "kelurahan" : "Yenggu (Yenggu Lama)",
+  "kodepos" : "99361"
+}, {
+  "kecamatan" : "Nambluong",
+  "kelurahan" : "Sumbe",
+  "kodepos" : "99361"
+}, {
+  "kecamatan" : "Nimboran",
+  "kelurahan" : "Tabri",
+  "kodepos" : "99361"
+}, {
+  "kecamatan" : "Nimboran",
+  "kelurahan" : "Singgriway (Singgriwai)",
+  "kodepos" : "99361"
+}, {
+  "kecamatan" : "Nambluong",
+  "kelurahan" : "Sarmai Bawah",
+  "kodepos" : "99361"
+}, {
+  "kecamatan" : "Nimboran",
+  "kelurahan" : "Singgri",
+  "kodepos" : "99361"
+}, {
+  "kecamatan" : "Nambluong",
+  "kelurahan" : "Sarmai Atas",
+  "kodepos" : "99361"
+}, {
+  "kecamatan" : "Nimboran",
+  "kelurahan" : "Pobaim",
+  "kodepos" : "99361"
+}, {
+  "kecamatan" : "Nambluong",
+  "kelurahan" : "Sanggai",
+  "kodepos" : "99361"
+}, {
+  "kecamatan" : "Nimboran",
+  "kelurahan" : "Meyu",
+  "kodepos" : "99361"
+}, {
+  "kecamatan" : "Nimboran",
+  "kelurahan" : "Oyengsi",
+  "kodepos" : "99361"
+}, {
+  "kecamatan" : "Nimboran",
+  "kelurahan" : "Kuipon (Kuipons)",
+  "kodepos" : "99361"
+}, {
+  "kecamatan" : "Nimboran",
+  "kelurahan" : "Kuwase",
+  "kodepos" : "99361"
+}, {
+  "kecamatan" : "Nambluong",
+  "kelurahan" : "Karya Bumi",
+  "kodepos" : "99361"
+}, {
+  "kecamatan" : "Nimboran",
+  "kelurahan" : "Kaitemung (Kautemung)",
+  "kodepos" : "99361"
+}, {
+  "kecamatan" : "Nambluong",
+  "kelurahan" : "Hanggaiy Hamong",
+  "kodepos" : "99361"
+}, {
+  "kecamatan" : "Nambluong",
+  "kelurahan" : "Imestum (Imustum)",
+  "kodepos" : "99361"
+}, {
+  "kecamatan" : "Nimboran",
+  "kelurahan" : "Imsar",
+  "kodepos" : "99361"
+}, {
+  "kecamatan" : "Nambluong",
+  "kelurahan" : "Besum",
+  "kodepos" : "99361"
+}, {
+  "kecamatan" : "Nimboran",
+  "kelurahan" : "Gemebs",
+  "kodepos" : "99361"
+}, {
+  "kecamatan" : "Nimboran",
+  "kelurahan" : "Benyom",
+  "kodepos" : "99361"
+}, {
+  "kecamatan" : "Sentani Timur",
+  "kelurahan" : "Puay (Puai)",
+  "kodepos" : "99359"
+}, {
+  "kecamatan" : "Sentani Timur",
+  "kelurahan" : "Yokiwa",
+  "kodepos" : "99359"
+}, {
+  "kecamatan" : "Sentani Timur",
+  "kelurahan" : "Nendali",
+  "kodepos" : "99359"
+}, {
+  "kecamatan" : "Sentani Timur",
+  "kelurahan" : "Nolokla",
+  "kodepos" : "99359"
+}, {
+  "kecamatan" : "Sentani Timur",
+  "kelurahan" : "Ayapo (Itakiwa)",
+  "kodepos" : "99359"
+}, {
+  "kecamatan" : "Sentani Timur",
+  "kelurahan" : "Asei Kecil",
+  "kodepos" : "99359"
+}, {
+  "kecamatan" : "Sentani Timur",
+  "kelurahan" : "Asei Besar",
+  "kodepos" : "99359"
+}, {
+  "kecamatan" : "Waibu",
+  "kelurahan" : "Yakonde",
+  "kodepos" : "99358"
+}, {
+  "kecamatan" : "Sentani Barat",
+  "kelurahan" : "Waibron",
+  "kodepos" : "99358"
+}, {
+  "kecamatan" : "Waibu",
+  "kelurahan" : "Sosiri",
+  "kodepos" : "99358"
+}, {
+  "kecamatan" : "Sentani Barat",
+  "kelurahan" : "Sabron Sari",
+  "kodepos" : "99358"
+}, {
+  "kecamatan" : "Sentani Barat",
+  "kelurahan" : "Sabron Yaru (Sabro Yaru)",
+  "kodepos" : "99358"
+}, {
+  "kecamatan" : "Waibu",
+  "kelurahan" : "Kwadeware (Kanda)",
+  "kodepos" : "99358"
+}, {
+  "kecamatan" : "Sentani Barat",
+  "kelurahan" : "Maribu",
+  "kodepos" : "99358"
+}, {
+  "kecamatan" : "Waibu",
+  "kelurahan" : "Doyo Baru",
+  "kodepos" : "99358"
+}, {
+  "kecamatan" : "Waibu",
+  "kelurahan" : "Doyo Lama",
+  "kodepos" : "99358"
+}, {
+  "kecamatan" : "Waibu",
+  "kelurahan" : "Dondai (Donday)",
+  "kodepos" : "99358"
+}, {
+  "kecamatan" : "Sentani Barat",
+  "kelurahan" : "Dosay (Dosai)",
+  "kodepos" : "99358"
+}, {
+  "kecamatan" : "Waibu",
+  "kelurahan" : "Bambar",
+  "kodepos" : "99358"
+}, {
+  "kecamatan" : "Kemtuk Gresi",
+  "kelurahan" : "Swentab",
+  "kodepos" : "99357"
+}, {
+  "kecamatan" : "Kemtuk",
+  "kelurahan" : "Soaib",
+  "kodepos" : "99357"
+}, {
+  "kecamatan" : "Kemtuk Gresi",
+  "kelurahan" : "Yanbra (Yanim)",
+  "kodepos" : "99357"
+}, {
+  "kecamatan" : "Kemtuk",
+  "kelurahan" : "Sekori",
+  "kodepos" : "99357"
+}, {
+  "kecamatan" : "Kemtuk",
+  "kelurahan" : "Skoaim",
+  "kodepos" : "99357"
+}, {
+  "kecamatan" : "Kemtuk",
+  "kelurahan" : "Sama",
+  "kodepos" : "99357"
+}, {
+  "kecamatan" : "Kemtuk",
+  "kelurahan" : "Sabeab Kecil",
+  "kodepos" : "99357"
+}, {
+  "kecamatan" : "Kemtuk Gresi",
+  "kelurahan" : "Pupehabu",
+  "kodepos" : "99357"
+}, {
+  "kecamatan" : "Kemtuk Gresi",
+  "kelurahan" : "Omon",
+  "kodepos" : "99357"
+}, {
+  "kecamatan" : "Gresi Selatan",
+  "kelurahan" : "Omon",
+  "kodepos" : "99357"
+}, {
+  "kecamatan" : "Kemtuk",
+  "kelurahan" : "Namei",
+  "kodepos" : "99357"
+}, {
+  "kecamatan" : "Kemtuk Gresi",
+  "kelurahan" : "Nembu Gresi",
+  "kodepos" : "99357"
+}, {
+  "kecamatan" : "Kemtuk",
+  "kelurahan" : "Mandayawan",
+  "kodepos" : "99357"
+}, {
+  "kecamatan" : "Kemtuk",
+  "kelurahan" : "Nambon",
+  "kodepos" : "99357"
+}, {
+  "kecamatan" : "Kemtuk",
+  "kelurahan" : "Mamda",
+  "kodepos" : "99357"
+}, {
+  "kecamatan" : "Gresi Selatan",
+  "kelurahan" : "Klaisu",
+  "kodepos" : "99357"
+}, {
+  "kecamatan" : "Kemtuk",
+  "kelurahan" : "Kwansu",
+  "kodepos" : "99357"
+}, {
+  "kecamatan" : "Kemtuk Gresi",
+  "kelurahan" : "Jagrang",
+  "kodepos" : "99357"
+}, {
+  "kecamatan" : "Gresi Selatan",
+  "kelurahan" : "Iwon",
+  "kodepos" : "99357"
+}, {
+  "kecamatan" : "Kemtuk Gresi",
+  "kelurahan" : "Hatib",
+  "kodepos" : "99357"
+}, {
+  "kecamatan" : "Kemtuk Gresi",
+  "kelurahan" : "Ibub",
+  "kodepos" : "99357"
+}, {
+  "kecamatan" : "Kemtuk Gresi",
+  "kelurahan" : "Damoi Kati",
+  "kodepos" : "99357"
+}, {
+  "kecamatan" : "Kemtuk Gresi",
+  "kelurahan" : "Demetin",
+  "kodepos" : "99357"
+}, {
+  "kecamatan" : "Kemtuk Gresi",
+  "kelurahan" : "Braso",
+  "kodepos" : "99357"
+}, {
+  "kecamatan" : "Kemtuk Gresi",
+  "kelurahan" : "Bring",
+  "kodepos" : "99357"
+}, {
+  "kecamatan" : "Gresi Selatan",
+  "kelurahan" : "Bangai",
+  "kodepos" : "99357"
+}, {
+  "kecamatan" : "Kemtuk",
+  "kelurahan" : "Bengguin Progo",
+  "kodepos" : "99357"
+}, {
+  "kecamatan" : "Kemtuk",
+  "kelurahan" : "Aib",
+  "kodepos" : "99357"
+}, {
+  "kecamatan" : "Unurum Guay",
+  "kelurahan" : "Sawesuma (Sawa Suma)",
+  "kodepos" : "99356"
+}, {
+  "kecamatan" : "Unurum Guay",
+  "kelurahan" : "Sentosa (Santosa)",
+  "kodepos" : "99356"
+}, {
+  "kecamatan" : "Unurum Guay",
+  "kelurahan" : "Nandalzi (Nandaizi)",
+  "kodepos" : "99356"
+}, {
+  "kecamatan" : "Unurum Guay",
+  "kelurahan" : "Beneik",
+  "kodepos" : "99356"
+}, {
+  "kecamatan" : "Unurum Guay",
+  "kelurahan" : "Garusa",
+  "kodepos" : "99356"
+}, {
+  "kecamatan" : "Unurum Guay",
+  "kelurahan" : "Guriyad (Guryard)",
+  "kodepos" : "99356"
+}, {
+  "kecamatan" : "Yokari",
+  "kelurahan" : "Snamay",
+  "kodepos" : "99354"
+}, {
+  "kecamatan" : "Demta",
+  "kelurahan" : "Yaugapsa (Yougapsa)",
+  "kodepos" : "99354"
+}, {
+  "kecamatan" : "Yokari",
+  "kelurahan" : "Snamay",
+  "kodepos" : "99354"
+}, {
+  "kecamatan" : "Demta",
+  "kelurahan" : "Muaif",
+  "kodepos" : "99354"
+}, {
+  "kecamatan" : "Demta",
+  "kelurahan" : "Muris Kecil",
+  "kodepos" : "99354"
+}, {
+  "kecamatan" : "Yokari",
+  "kelurahan" : "Maruway",
+  "kodepos" : "99354"
+}, {
+  "kecamatan" : "Yokari",
+  "kelurahan" : "Meukisi",
+  "kodepos" : "99354"
+}, {
+  "kecamatan" : "Demta",
+  "kelurahan" : "Kamdera",
+  "kodepos" : "99354"
+}, {
+  "kecamatan" : "Yokari",
+  "kelurahan" : "Buseryo",
+  "kodepos" : "99354"
+}, {
+  "kecamatan" : "Yokari",
+  "kelurahan" : "Endokisi",
+  "kodepos" : "99354"
+}, {
+  "kecamatan" : "Demta",
+  "kelurahan" : "Demta Kota",
+  "kodepos" : "99354"
+}, {
+  "kecamatan" : "Demta",
+  "kelurahan" : "Ambora",
+  "kodepos" : "99354"
+}, {
+  "kecamatan" : "Ravenirara",
+  "kelurahan" : "Yongsu Sapari",
+  "kodepos" : "99353"
+}, {
+  "kecamatan" : "Depapre",
+  "kelurahan" : "Yefase (Yepase)",
+  "kodepos" : "99353"
+}, {
+  "kecamatan" : "Depapre",
+  "kelurahan" : "Yewena",
+  "kodepos" : "99353"
+}, {
+  "kecamatan" : "Ravenirara",
+  "kelurahan" : "Yongsu Besar (Dosoyo)",
+  "kodepos" : "99353"
+}, {
+  "kecamatan" : "Depapre",
+  "kelurahan" : "Waiya",
+  "kodepos" : "99353"
+}, {
+  "kecamatan" : "Depapre",
+  "kelurahan" : "Wambena",
+  "kodepos" : "99353"
+}, {
+  "kecamatan" : "Depapre",
+  "kelurahan" : "Tablasupa",
+  "kodepos" : "99353"
+}, {
+  "kecamatan" : "Ravenirara",
+  "kelurahan" : "Ormuwari (Newa)",
+  "kodepos" : "99353"
+}, {
+  "kecamatan" : "Ravenirara",
+  "kelurahan" : "Nehibe (Nacha Tawa)",
+  "kodepos" : "99353"
+}, {
+  "kecamatan" : "Depapre",
+  "kelurahan" : "Doromena",
+  "kodepos" : "99353"
+}, {
+  "kecamatan" : "Depapre",
+  "kelurahan" : "Entiyebo",
+  "kodepos" : "99353"
+}, {
+  "kecamatan" : "Depapre",
+  "kelurahan" : "Kendate",
+  "kodepos" : "99353"
+}, {
+  "kecamatan" : "Sentani",
+  "kelurahan" : "Yobeh",
+  "kodepos" : "99352"
+}, {
+  "kecamatan" : "Sentani",
+  "kelurahan" : "Yoboy",
+  "kodepos" : "99352"
+}, {
+  "kecamatan" : "Ebungfau (Ebungfa)",
+  "kelurahan" : "Simporo (Babo/Yosiba/Homf)",
+  "kodepos" : "99352"
+}, {
+  "kecamatan" : "Sentani",
+  "kelurahan" : "Sereh",
+  "kodepos" : "99352"
+}, {
+  "kecamatan" : "Sentani",
+  "kelurahan" : "Keheran (Kehiran)",
+  "kodepos" : "99352"
+}, {
+  "kecamatan" : "Sentani",
+  "kelurahan" : "Sentani Kota",
+  "kodepos" : "99352"
+}, {
+  "kecamatan" : "Ebungfau (Ebungfa)",
+  "kelurahan" : "Khameyaka (Kameyoka/Khamaeka)",
+  "kodepos" : "99352"
+}, {
+  "kecamatan" : "Sentani",
+  "kelurahan" : "Ifale (Ilfele)",
+  "kodepos" : "99352"
+}, {
+  "kecamatan" : "Sentani",
+  "kelurahan" : "Ifar Besar",
+  "kodepos" : "99352"
+}, {
+  "kecamatan" : "Sentani",
+  "kelurahan" : "Hinekombe",
+  "kodepos" : "99352"
+}, {
+  "kecamatan" : "Sentani",
+  "kelurahan" : "Hobong",
+  "kodepos" : "99352"
+}, {
+  "kecamatan" : "Sentani",
+  "kelurahan" : "Dobonsolo",
+  "kodepos" : "99352"
+}, {
+  "kecamatan" : "Ebungfau (Ebungfa)",
+  "kelurahan" : "Ebungfa",
+  "kodepos" : "99352"
+}, {
+  "kecamatan" : "Ebungfau (Ebungfa)",
+  "kelurahan" : "Abar (Atabar)",
+  "kodepos" : "99352"
+}, {
+  "kecamatan" : "Ebungfau (Ebungfa)",
+  "kelurahan" : "Babrongko (Ifar Bobrongko)",
+  "kodepos" : "99352"
+}, {
+  "kecamatan" : "Heram",
+  "kelurahan" : "Yoka",
+  "kodepos" : "99351"
+}, {
+  "kecamatan" : "Heram",
+  "kelurahan" : "Yabansai",
+  "kodepos" : "99351"
+}, {
+  "kecamatan" : "Heram",
+  "kelurahan" : "Yabansai",
+  "kodepos" : "99351"
+}, {
+  "kecamatan" : "Heram",
+  "kelurahan" : "Waena",
+  "kodepos" : "99351"
+}, {
+  "kecamatan" : "Muara Tami",
+  "kelurahan" : "Skow Sae (Skouw Sae)",
+  "kodepos" : "99351"
+}, {
+  "kecamatan" : "Muara Tami",
+  "kelurahan" : "Skow Yambe (Skouw Yambe)",
+  "kodepos" : "99351"
+}, {
+  "kecamatan" : "Abepura",
+  "kelurahan" : "Nafri",
+  "kodepos" : "99351"
+}, {
+  "kecamatan" : "Muara Tami",
+  "kelurahan" : "Mosso",
+  "kodepos" : "99351"
+}, {
+  "kecamatan" : "Muara Tami",
+  "kelurahan" : "Skow Mabo (Skouw Mabo )",
+  "kodepos" : "99351"
+}, {
+  "kecamatan" : "Muara Tami",
+  "kelurahan" : "Koya Tengah",
+  "kodepos" : "99351"
+}, {
+  "kecamatan" : "Muara Tami",
+  "kelurahan" : "Koya Timur",
+  "kodepos" : "99351"
+}, {
+  "kecamatan" : "Muara Tami",
+  "kelurahan" : "Koya Barat",
+  "kodepos" : "99351"
+}, {
+  "kecamatan" : "Abepura",
+  "kelurahan" : "Koya Koso",
+  "kodepos" : "99351"
+}, {
+  "kecamatan" : "Muara Tami",
+  "kelurahan" : "Holtekamp",
+  "kodepos" : "99351"
+}, {
+  "kecamatan" : "Abepura",
+  "kelurahan" : "Kota Baru",
+  "kodepos" : "99351"
+}, {
+  "kecamatan" : "Heram",
+  "kelurahan" : "Hedam",
+  "kodepos" : "99351"
+}, {
+  "kecamatan" : "Abepura",
+  "kelurahan" : "Engros (Enggros)",
+  "kodepos" : "99351"
+}, {
+  "kecamatan" : "Abepura",
+  "kelurahan" : "Asano",
+  "kodepos" : "99351"
+}, {
+  "kecamatan" : "Abepura",
+  "kelurahan" : "Awiyo",
+  "kodepos" : "99351"
+}, {
+  "kecamatan" : "Jayapura Selatan",
+  "kelurahan" : "Vim",
+  "kodepos" : "99225"
+}, {
+  "kecamatan" : "Jayapura Selatan",
+  "kelurahan" : "Wahno",
+  "kodepos" : "99226"
+}, {
+  "kecamatan" : "Abepura",
+  "kelurahan" : "Abepantai",
+  "kodepos" : "99351"
+}, {
+  "kecamatan" : "Jayapura Selatan",
+  "kelurahan" : "Argapura",
+  "kodepos" : "99222"
+}, {
+  "kecamatan" : "Jayapura Selatan",
+  "kelurahan" : "Ardipura",
+  "kodepos" : "99223"
+}, {
+  "kecamatan" : "Jayapura Selatan",
+  "kelurahan" : "Entrop",
+  "kodepos" : "99224"
+}, {
+  "kecamatan" : "Jayapura Selatan",
+  "kelurahan" : "Way Mhorock",
+  "kodepos" : "99221"
+}, {
+  "kecamatan" : "Abepura",
+  "kelurahan" : "Waena",
+  "kodepos" : "99221"
+}, {
+  "kecamatan" : "Jayapura Selatan",
+  "kelurahan" : "Tahima Sorama",
+  "kodepos" : "99221"
+}, {
+  "kecamatan" : "Jayapura Selatan",
+  "kelurahan" : "Tobati",
+  "kodepos" : "99221"
+}, {
+  "kecamatan" : "Jayapura Selatan",
+  "kelurahan" : "Numbai (Numbay)",
+  "kodepos" : "99221"
+}, {
+  "kecamatan" : "Jayapura Selatan",
+  "kelurahan" : "Hamadi",
+  "kodepos" : "99221"
+}, {
+  "kecamatan" : "Jayapura Utara",
+  "kelurahan" : "Tanjung Ria",
+  "kodepos" : "99117"
+}, {
+  "kecamatan" : "Jayapura Utara",
+  "kelurahan" : "Mandala",
+  "kodepos" : "99115"
+}, {
+  "kecamatan" : "Jayapura Utara",
+  "kelurahan" : "Imbi",
+  "kodepos" : "99116"
+}, {
+  "kecamatan" : "Jayapura Utara",
+  "kelurahan" : "Angkasapura",
+  "kodepos" : "99113"
+}, {
+  "kecamatan" : "Jayapura Utara",
+  "kelurahan" : "Trikora",
+  "kodepos" : "99114"
+}, {
+  "kecamatan" : "Jayapura Utara",
+  "kelurahan" : "Gurabesi",
+  "kodepos" : "99111"
+}, {
+  "kecamatan" : "Jayapura Utara",
+  "kelurahan" : "Bhayangkara (Bayangkara)",
+  "kodepos" : "99112"
+} ]

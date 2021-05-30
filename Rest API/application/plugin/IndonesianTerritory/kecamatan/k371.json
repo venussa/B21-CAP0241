@@ -1,0 +1,573 @@
+[ {
+  "kecamatan" : "Tamalanrea",
+  "kelurahan" : "Tamalanrea Indah",
+  "kodepos" : "90245"
+}, {
+  "kecamatan" : "Tamalanrea",
+  "kelurahan" : "Tamalanrea Jaya",
+  "kodepos" : "90245"
+}, {
+  "kecamatan" : "Tamalanrea",
+  "kelurahan" : "Parang Loe",
+  "kodepos" : "90245"
+}, {
+  "kecamatan" : "Tamalanrea",
+  "kelurahan" : "Tamalanrea",
+  "kodepos" : "90245"
+}, {
+  "kecamatan" : "Tamalanrea",
+  "kelurahan" : "Bira",
+  "kodepos" : "90244"
+}, {
+  "kecamatan" : "Biring Kanaya",
+  "kelurahan" : "Pai",
+  "kodepos" : "90243"
+}, {
+  "kecamatan" : "Biring Kanaya",
+  "kelurahan" : "Sudiang Raya",
+  "kodepos" : "90242"
+}, {
+  "kecamatan" : "Biring Kanaya",
+  "kelurahan" : "Buluroken (Bulurokeng)",
+  "kodepos" : "90243"
+}, {
+  "kecamatan" : "Biring Kanaya",
+  "kelurahan" : "Sudiang",
+  "kodepos" : "90242"
+}, {
+  "kecamatan" : "Biring Kanaya",
+  "kelurahan" : "Paccerakang",
+  "kodepos" : "90241"
+}, {
+  "kecamatan" : "Biring Kanaya",
+  "kelurahan" : "Untia",
+  "kodepos" : "90241"
+}, {
+  "kecamatan" : "Tamalanrea",
+  "kelurahan" : "Kapasa",
+  "kodepos" : "90241"
+}, {
+  "kecamatan" : "Manggala",
+  "kelurahan" : "Tamangapa",
+  "kodepos" : "90235"
+}, {
+  "kecamatan" : "Biring Kanaya",
+  "kelurahan" : "Daya",
+  "kodepos" : "90241"
+}, {
+  "kecamatan" : "Manggala",
+  "kelurahan" : "Manggala",
+  "kodepos" : "90234"
+}, {
+  "kecamatan" : "Manggala",
+  "kelurahan" : "Bangkala",
+  "kodepos" : "90235"
+}, {
+  "kecamatan" : "Panakkukang",
+  "kelurahan" : "Paropo",
+  "kodepos" : "90233"
+}, {
+  "kecamatan" : "Panakkukang",
+  "kelurahan" : "Tello Baru",
+  "kodepos" : "90233"
+}, {
+  "kecamatan" : "Manggala",
+  "kelurahan" : "Antang",
+  "kodepos" : "90234"
+}, {
+  "kecamatan" : "Manggala",
+  "kelurahan" : "Batua",
+  "kodepos" : "90233"
+}, {
+  "kecamatan" : "Manggala",
+  "kelurahan" : "Borong",
+  "kodepos" : "90233"
+}, {
+  "kecamatan" : "Panakkukang",
+  "kelurahan" : "Karuwisi Utara",
+  "kodepos" : "90232"
+}, {
+  "kecamatan" : "Panakkukang",
+  "kelurahan" : "Tamamaung",
+  "kodepos" : "90231"
+}, {
+  "kecamatan" : "Panakkukang",
+  "kelurahan" : "Karuwisi",
+  "kodepos" : "90232"
+}, {
+  "kecamatan" : "Panakkukang",
+  "kelurahan" : "Pandang",
+  "kodepos" : "90231"
+}, {
+  "kecamatan" : "Panakkukang",
+  "kelurahan" : "Panaikang",
+  "kodepos" : "90231"
+}, {
+  "kecamatan" : "Panakkukang",
+  "kelurahan" : "Sinri Jala",
+  "kodepos" : "90231"
+}, {
+  "kecamatan" : "Panakkukang",
+  "kelurahan" : "Karampuang",
+  "kodepos" : "90231"
+}, {
+  "kecamatan" : "Panakkukang",
+  "kelurahan" : "Pampang",
+  "kodepos" : "90231"
+}, {
+  "kecamatan" : "Panakkukang",
+  "kelurahan" : "Masale",
+  "kodepos" : "90231"
+}, {
+  "kecamatan" : "Tamalate",
+  "kelurahan" : "Tanjung Merdeka",
+  "kodepos" : "90225"
+}, {
+  "kecamatan" : "Tamalate",
+  "kelurahan" : "Maccini Sombala",
+  "kodepos" : "90224"
+}, {
+  "kecamatan" : "Tamalate",
+  "kelurahan" : "Parang Tambung",
+  "kodepos" : "90224"
+}, {
+  "kecamatan" : "Tamalate",
+  "kelurahan" : "Barombong",
+  "kodepos" : "90225"
+}, {
+  "kecamatan" : "Rappocini",
+  "kelurahan" : "Kassi-Kassi",
+  "kodepos" : "90222"
+}, {
+  "kecamatan" : "Tamalate",
+  "kelurahan" : "Balang Baru",
+  "kodepos" : "90224"
+}, {
+  "kecamatan" : "Rappocini",
+  "kelurahan" : "Mappala",
+  "kodepos" : "90222"
+}, {
+  "kecamatan" : "Tamalate",
+  "kelurahan" : "Bongaya",
+  "kodepos" : "90223"
+}, {
+  "kecamatan" : "Rappocini",
+  "kelurahan" : "Buakana",
+  "kodepos" : "90222"
+}, {
+  "kecamatan" : "Tamalate",
+  "kelurahan" : "Jongaya",
+  "kodepos" : "90223"
+}, {
+  "kecamatan" : "Rappocini",
+  "kelurahan" : "Karunrung",
+  "kodepos" : "90222"
+}, {
+  "kecamatan" : "Rappocini",
+  "kelurahan" : "Rappocini",
+  "kodepos" : "90222"
+}, {
+  "kecamatan" : "Rappocini",
+  "kelurahan" : "Banta-Bantaeng",
+  "kodepos" : "90222"
+}, {
+  "kecamatan" : "Rappocini",
+  "kelurahan" : "Tidung",
+  "kodepos" : "90222"
+}, {
+  "kecamatan" : "Rappocini",
+  "kelurahan" : "Bonto Makkio",
+  "kodepos" : "90222"
+}, {
+  "kecamatan" : "Rappocini",
+  "kelurahan" : "Ballaparang",
+  "kodepos" : "90222"
+}, {
+  "kecamatan" : "Tamalate",
+  "kelurahan" : "Pa Baeng-Baeng",
+  "kodepos" : "90221"
+}, {
+  "kecamatan" : "Tamalate",
+  "kelurahan" : "Mannuruki",
+  "kodepos" : "90221"
+}, {
+  "kecamatan" : "Tamalate",
+  "kelurahan" : "Mangasa",
+  "kodepos" : "90221"
+}, {
+  "kecamatan" : "Rappocini",
+  "kelurahan" : "Gunung Sari",
+  "kodepos" : "90221"
+}, {
+  "kecamatan" : "Tallo",
+  "kelurahan" : "Ujung Pandang Baru (Makassardang Baru)",
+  "kodepos" : "90217"
+}, {
+  "kecamatan" : "Tallo",
+  "kelurahan" : "Wala-Walaya",
+  "kodepos" : "90217"
+}, {
+  "kecamatan" : "Tallo",
+  "kelurahan" : "Tammua",
+  "kodepos" : "90216"
+}, {
+  "kecamatan" : "Tallo",
+  "kelurahan" : "Rappokalling",
+  "kodepos" : "90216"
+}, {
+  "kecamatan" : "Tallo",
+  "kelurahan" : "Rappojawa",
+  "kodepos" : "90215"
+}, {
+  "kecamatan" : "Tallo",
+  "kelurahan" : "Kaluku Bodoa",
+  "kodepos" : "90215"
+}, {
+  "kecamatan" : "Tallo",
+  "kelurahan" : "Buloa",
+  "kodepos" : "90212"
+}, {
+  "kecamatan" : "Tallo",
+  "kelurahan" : "Kalukuang",
+  "kodepos" : "90214"
+}, {
+  "kecamatan" : "Tallo",
+  "kelurahan" : "Tallo",
+  "kodepos" : "90212"
+}, {
+  "kecamatan" : "Tallo",
+  "kelurahan" : "Pannampu",
+  "kodepos" : "90213"
+}, {
+  "kecamatan" : "Tallo",
+  "kelurahan" : "Suwangga",
+  "kodepos" : "90211"
+}, {
+  "kecamatan" : "Tallo",
+  "kelurahan" : "Lembo",
+  "kodepos" : "90213"
+}, {
+  "kecamatan" : "Tallo",
+  "kelurahan" : "Lakkang",
+  "kodepos" : "90211"
+}, {
+  "kecamatan" : "Tallo",
+  "kelurahan" : "La Latang",
+  "kodepos" : "90211"
+}, {
+  "kecamatan" : "Tallo",
+  "kelurahan" : "Bunga Eja Beru",
+  "kodepos" : "90211"
+}, {
+  "kecamatan" : "Wajo",
+  "kelurahan" : "Pattunuang",
+  "kodepos" : "90174"
+}, {
+  "kecamatan" : "Wajo",
+  "kelurahan" : "Ende",
+  "kodepos" : "90174"
+}, {
+  "kecamatan" : "Wajo",
+  "kelurahan" : "Butung",
+  "kodepos" : "90173"
+}, {
+  "kecamatan" : "Wajo",
+  "kelurahan" : "Mampu",
+  "kodepos" : "90173"
+}, {
+  "kecamatan" : "Wajo",
+  "kelurahan" : "Malimongan",
+  "kodepos" : "90172"
+}, {
+  "kecamatan" : "Wajo",
+  "kelurahan" : "Malimongan Tua",
+  "kodepos" : "90172"
+}, {
+  "kecamatan" : "Wajo",
+  "kelurahan" : "Melayu",
+  "kodepos" : "90171"
+}, {
+  "kecamatan" : "Wajo",
+  "kelurahan" : "Melayu Baru",
+  "kodepos" : "90171"
+}, {
+  "kecamatan" : "Ujung Tanah",
+  "kelurahan" : "Kodingareng",
+  "kodepos" : "90168"
+}, {
+  "kecamatan" : "Ujung Tanah",
+  "kelurahan" : "Barrang Lompo",
+  "kodepos" : "90166"
+}, {
+  "kecamatan" : "Ujung Tanah",
+  "kelurahan" : "Barrang Caddi",
+  "kodepos" : "90167"
+}, {
+  "kecamatan" : "Ujung Tanah",
+  "kelurahan" : "Tabaringan",
+  "kodepos" : "90165"
+}, {
+  "kecamatan" : "Ujung Tanah",
+  "kelurahan" : "Totaka",
+  "kodepos" : "90165"
+}, {
+  "kecamatan" : "Ujung Tanah",
+  "kelurahan" : "Tamalabba",
+  "kodepos" : "90164"
+}, {
+  "kecamatan" : "Ujung Tanah",
+  "kelurahan" : "Ujung Tanah",
+  "kodepos" : "90164"
+}, {
+  "kecamatan" : "Ujung Tanah",
+  "kelurahan" : "Cambaya",
+  "kodepos" : "90162"
+}, {
+  "kecamatan" : "Ujung Tanah",
+  "kelurahan" : "Gusung",
+  "kodepos" : "90163"
+}, {
+  "kecamatan" : "Ujung Tanah",
+  "kelurahan" : "Pattingalloang Baru",
+  "kodepos" : "90161"
+}, {
+  "kecamatan" : "Ujung Tanah",
+  "kelurahan" : "Camba Berua",
+  "kodepos" : "90162"
+}, {
+  "kecamatan" : "Bontoala",
+  "kelurahan" : "Gaddong",
+  "kodepos" : "90157"
+}, {
+  "kecamatan" : "Ujung Tanah",
+  "kelurahan" : "Pattingalloang",
+  "kodepos" : "90161"
+}, {
+  "kecamatan" : "Bontoala",
+  "kelurahan" : "Bontoala Parang",
+  "kodepos" : "90157"
+}, {
+  "kecamatan" : "Bontoala",
+  "kelurahan" : "Bontoala Tua",
+  "kodepos" : "90156"
+}, {
+  "kecamatan" : "Bontoala",
+  "kelurahan" : "Parang Layang",
+  "kodepos" : "90155"
+}, {
+  "kecamatan" : "Bontoala",
+  "kelurahan" : "Bontoala",
+  "kodepos" : "90156"
+}, {
+  "kecamatan" : "Bontoala",
+  "kelurahan" : "Bunga Ejaya",
+  "kodepos" : "90154"
+}, {
+  "kecamatan" : "Bontoala",
+  "kelurahan" : "Layang",
+  "kodepos" : "90154"
+}, {
+  "kecamatan" : "Bontoala",
+  "kelurahan" : "Malimongan Baru",
+  "kodepos" : "90152"
+}, {
+  "kecamatan" : "Bontoala",
+  "kelurahan" : "Baraya",
+  "kodepos" : "90153"
+}, {
+  "kecamatan" : "Bontoala",
+  "kelurahan" : "Tompo Balang",
+  "kodepos" : "90151"
+}, {
+  "kecamatan" : "Bontoala",
+  "kelurahan" : "Wajo Baru",
+  "kodepos" : "90151"
+}, {
+  "kecamatan" : "Makassar",
+  "kelurahan" : "Barana",
+  "kodepos" : "90145"
+}, {
+  "kecamatan" : "Bontoala",
+  "kelurahan" : "Timungan Lompoa",
+  "kodepos" : "90151"
+}, {
+  "kecamatan" : "Makassar",
+  "kelurahan" : "Maccini Gusung",
+  "kodepos" : "90144"
+}, {
+  "kecamatan" : "Makassar",
+  "kelurahan" : "Maccini Parang",
+  "kodepos" : "90144"
+}, {
+  "kecamatan" : "Makassar",
+  "kelurahan" : "Maccini",
+  "kodepos" : "90144"
+}, {
+  "kecamatan" : "Makassar",
+  "kelurahan" : "Bara-Baraya Timur",
+  "kodepos" : "90143"
+}, {
+  "kecamatan" : "Makassar",
+  "kelurahan" : "Bara-Baraya Utara",
+  "kodepos" : "90143"
+}, {
+  "kecamatan" : "Makassar",
+  "kelurahan" : "Bara-Baraya",
+  "kodepos" : "90143"
+}, {
+  "kecamatan" : "Makassar",
+  "kelurahan" : "Bara-Baraya Selatan",
+  "kodepos" : "90143"
+}, {
+  "kecamatan" : "Makassar",
+  "kelurahan" : "Maricaya",
+  "kodepos" : "90142"
+}, {
+  "kecamatan" : "Makassar",
+  "kelurahan" : "Maricaya Baru",
+  "kodepos" : "90142"
+}, {
+  "kecamatan" : "Makassar",
+  "kelurahan" : "Maradekaya Selatan",
+  "kodepos" : "90141"
+}, {
+  "kecamatan" : "Makassar",
+  "kelurahan" : "Maradekaya Utara",
+  "kodepos" : "90141"
+}, {
+  "kecamatan" : "Makassar",
+  "kelurahan" : "Lariang Bangi",
+  "kodepos" : "90141"
+}, {
+  "kecamatan" : "Makassar",
+  "kelurahan" : "Maradekaya",
+  "kodepos" : "90141"
+}, {
+  "kecamatan" : "Mamajang",
+  "kelurahan" : "Mandala",
+  "kodepos" : "90135"
+}, {
+  "kecamatan" : "Mamajang",
+  "kelurahan" : "Sambung Jawa",
+  "kodepos" : "90134"
+}, {
+  "kecamatan" : "Mamajang",
+  "kelurahan" : "Tamparang Keke",
+  "kodepos" : "90134"
+}, {
+  "kecamatan" : "Mamajang",
+  "kelurahan" : "Mamajang Dalam",
+  "kodepos" : "90135"
+}, {
+  "kecamatan" : "Mamajang",
+  "kelurahan" : "Parang",
+  "kodepos" : "90133"
+}, {
+  "kecamatan" : "Mamajang",
+  "kelurahan" : "Karang Anyar",
+  "kodepos" : "90134"
+}, {
+  "kecamatan" : "Mamajang",
+  "kelurahan" : "Mamajang Luar",
+  "kodepos" : "90132"
+}, {
+  "kecamatan" : "Mamajang",
+  "kelurahan" : "Bonto Lebang",
+  "kodepos" : "90133"
+}, {
+  "kecamatan" : "Mamajang",
+  "kelurahan" : "Bonto Biraeng",
+  "kodepos" : "90132"
+}, {
+  "kecamatan" : "Mamajang",
+  "kelurahan" : "Labuang Baji",
+  "kodepos" : "90132"
+}, {
+  "kecamatan" : "Mamajang",
+  "kelurahan" : "Maricaya Selatan",
+  "kodepos" : "90131"
+}, {
+  "kecamatan" : "Mamajang",
+  "kelurahan" : "Pa Batang",
+  "kodepos" : "90131"
+}, {
+  "kecamatan" : "Mamajang",
+  "kelurahan" : "Baji Mappakasunggu",
+  "kodepos" : "90131"
+}, {
+  "kecamatan" : "Mariso",
+  "kelurahan" : "Bontorannu",
+  "kodepos" : "90126"
+}, {
+  "kecamatan" : "Mariso",
+  "kelurahan" : "Tamarunang",
+  "kodepos" : "90126"
+}, {
+  "kecamatan" : "Mariso",
+  "kelurahan" : "Kunjung Mae",
+  "kodepos" : "90125"
+}, {
+  "kecamatan" : "Mariso",
+  "kelurahan" : "Mario",
+  "kodepos" : "90125"
+}, {
+  "kecamatan" : "Mariso",
+  "kelurahan" : "Mariso",
+  "kodepos" : "90122"
+}, {
+  "kecamatan" : "Mariso",
+  "kelurahan" : "Lette",
+  "kodepos" : "90123"
+}, {
+  "kecamatan" : "Mariso",
+  "kelurahan" : "Panambungan",
+  "kodepos" : "90121"
+}, {
+  "kecamatan" : "Mariso",
+  "kelurahan" : "Kampung Buyang",
+  "kodepos" : "90121"
+}, {
+  "kecamatan" : "Mariso",
+  "kelurahan" : "Mattoangin",
+  "kodepos" : "90121"
+}, {
+  "kecamatan" : "Ujung Pandang",
+  "kelurahan" : "Pisang Selatan",
+  "kodepos" : "90114"
+}, {
+  "kecamatan" : "Ujung Pandang",
+  "kelurahan" : "Pisang Utara",
+  "kodepos" : "90115"
+}, {
+  "kecamatan" : "Ujung Pandang",
+  "kelurahan" : "Sawerigading",
+  "kodepos" : "90113"
+}, {
+  "kecamatan" : "Ujung Pandang",
+  "kelurahan" : "Lajangiru",
+  "kodepos" : "90114"
+}, {
+  "kecamatan" : "Ujung Pandang",
+  "kelurahan" : "Maloku",
+  "kodepos" : "90112"
+}, {
+  "kecamatan" : "Ujung Pandang",
+  "kelurahan" : "Mangkura",
+  "kodepos" : "90113"
+}, {
+  "kecamatan" : "Ujung Pandang",
+  "kelurahan" : "Lae &#8211; Lae",
+  "kodepos" : "90111"
+}, {
+  "kecamatan" : "Ujung Pandang",
+  "kelurahan" : "Losari",
+  "kodepos" : "90112"
+}, {
+  "kecamatan" : "Ujung Pandang",
+  "kelurahan" : "Bulogading",
+  "kodepos" : "90111"
+}, {
+  "kecamatan" : "Ujung Pandang",
+  "kelurahan" : "Baru",
+  "kodepos" : "90111"
+} ]

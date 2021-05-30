@@ -1,0 +1,397 @@
+[ {
+  "kecamatan" : "Sebangau Kuala",
+  "kelurahan" : "Sei/Sungai Bakau",
+  "kodepos" : "74874"
+}, {
+  "kecamatan" : "Sebangau Kuala",
+  "kelurahan" : "Sei/Sungai Hambawang",
+  "kodepos" : "74874"
+}, {
+  "kecamatan" : "Sebangau Kuala",
+  "kelurahan" : "Sebangau Jaya",
+  "kodepos" : "74874"
+}, {
+  "kecamatan" : "Sebangau Kuala",
+  "kelurahan" : "Sebangau Mulya",
+  "kodepos" : "74874"
+}, {
+  "kecamatan" : "Sebangau Kuala",
+  "kelurahan" : "Sebangau Permai",
+  "kodepos" : "74874"
+}, {
+  "kecamatan" : "Sebangau Kuala",
+  "kelurahan" : "Paduran Sabangau",
+  "kodepos" : "74874"
+}, {
+  "kecamatan" : "Sebangau Kuala",
+  "kelurahan" : "Panduran Mulya",
+  "kodepos" : "74874"
+}, {
+  "kecamatan" : "Sebangau Kuala",
+  "kelurahan" : "Mekar Jaya",
+  "kodepos" : "74874"
+}, {
+  "kecamatan" : "Maliku",
+  "kelurahan" : "Tahai Jaya",
+  "kodepos" : "74873"
+}, {
+  "kecamatan" : "Maliku",
+  "kelurahan" : "Wonoagung",
+  "kodepos" : "74873"
+}, {
+  "kecamatan" : "Maliku",
+  "kelurahan" : "Tahai Baru",
+  "kodepos" : "74873"
+}, {
+  "kecamatan" : "Maliku",
+  "kelurahan" : "Sei/Sungai Baru Tewu",
+  "kodepos" : "74873"
+}, {
+  "kecamatan" : "Maliku",
+  "kelurahan" : "Sidodadi",
+  "kodepos" : "74873"
+}, {
+  "kecamatan" : "Maliku",
+  "kelurahan" : "Maliku Mulya",
+  "kodepos" : "74873"
+}, {
+  "kecamatan" : "Maliku",
+  "kelurahan" : "Purwodadi",
+  "kodepos" : "74873"
+}, {
+  "kecamatan" : "Maliku",
+  "kelurahan" : "Kanamit Barat",
+  "kodepos" : "74873"
+}, {
+  "kecamatan" : "Maliku",
+  "kelurahan" : "Kanamit Jaya",
+  "kodepos" : "74873"
+}, {
+  "kecamatan" : "Maliku",
+  "kelurahan" : "Maliku Baru",
+  "kodepos" : "74873"
+}, {
+  "kecamatan" : "Maliku",
+  "kelurahan" : "Kanamit",
+  "kodepos" : "74873"
+}, {
+  "kecamatan" : "Maliku",
+  "kelurahan" : "Garantung",
+  "kodepos" : "74873"
+}, {
+  "kecamatan" : "Maliku",
+  "kelurahan" : "Gandang",
+  "kodepos" : "74873"
+}, {
+  "kecamatan" : "Maliku",
+  "kelurahan" : "Gandang Barat",
+  "kodepos" : "74873"
+}, {
+  "kecamatan" : "Maliku",
+  "kelurahan" : "Badirih",
+  "kodepos" : "74873"
+}, {
+  "kecamatan" : "Kahayan Kuala",
+  "kelurahan" : "Sei/Sungai Rungun",
+  "kodepos" : "74872"
+}, {
+  "kecamatan" : "Kahayan Kuala",
+  "kelurahan" : "Tanjung Perawan",
+  "kodepos" : "74872"
+}, {
+  "kecamatan" : "Kahayan Kuala",
+  "kelurahan" : "Sei/Sungai Pasanan (Papuyu I)",
+  "kodepos" : "74872"
+}, {
+  "kecamatan" : "Kahayan Kuala",
+  "kelurahan" : "Sei/Sungai Pudak (Papuyu III)",
+  "kodepos" : "74872"
+}, {
+  "kecamatan" : "Kahayan Kuala",
+  "kelurahan" : "Kiapak",
+  "kodepos" : "74872"
+}, {
+  "kecamatan" : "Kahayan Kuala",
+  "kelurahan" : "Sei/Sungai Barunai (Papuyu II)",
+  "kodepos" : "74872"
+}, {
+  "kecamatan" : "Kahayan Kuala",
+  "kelurahan" : "Bahaur Hulu Permai",
+  "kodepos" : "74872"
+}, {
+  "kecamatan" : "Kahayan Kuala",
+  "kelurahan" : "Bahaur Tengah",
+  "kodepos" : "74872"
+}, {
+  "kecamatan" : "Kahayan Kuala",
+  "kelurahan" : "Camatan (Cematan)",
+  "kodepos" : "74872"
+}, {
+  "kecamatan" : "Kahayan Kuala",
+  "kelurahan" : "Bahaur Hulu",
+  "kodepos" : "74872"
+}, {
+  "kecamatan" : "Kahayan Kuala",
+  "kelurahan" : "Bahaur Hilir",
+  "kodepos" : "74872"
+}, {
+  "kecamatan" : "Kahayan Kuala",
+  "kelurahan" : "Bahaur Basantan",
+  "kodepos" : "74872"
+}, {
+  "kecamatan" : "Kahayan Kuala",
+  "kelurahan" : "Bahaur Batu Raya",
+  "kodepos" : "74872"
+}, {
+  "kecamatan" : "Pandih Batu",
+  "kelurahan" : "Talio Muara",
+  "kodepos" : "74871"
+}, {
+  "kecamatan" : "Pandih Batu",
+  "kelurahan" : "Talio Hulu",
+  "kodepos" : "74871"
+}, {
+  "kecamatan" : "Pandih Batu",
+  "kelurahan" : "Talio",
+  "kodepos" : "74871"
+}, {
+  "kecamatan" : "Pandih Batu",
+  "kelurahan" : "Pantik",
+  "kodepos" : "74871"
+}, {
+  "kecamatan" : "Pandih Batu",
+  "kelurahan" : "Sanggang",
+  "kodepos" : "74871"
+}, {
+  "kecamatan" : "Pandih Batu",
+  "kelurahan" : "Pangkoh Sari",
+  "kodepos" : "74871"
+}, {
+  "kecamatan" : "Pandih Batu",
+  "kelurahan" : "Pangkoh Hulu",
+  "kodepos" : "74871"
+}, {
+  "kecamatan" : "Pandih Batu",
+  "kelurahan" : "Mulyasari (Mulia Sari)",
+  "kodepos" : "74871"
+}, {
+  "kecamatan" : "Pandih Batu",
+  "kelurahan" : "Pangkoh Hilir",
+  "kodepos" : "74871"
+}, {
+  "kecamatan" : "Pandih Batu",
+  "kelurahan" : "Karya Bersama",
+  "kodepos" : "74871"
+}, {
+  "kecamatan" : "Pandih Batu",
+  "kelurahan" : "Kantan Dalam",
+  "kodepos" : "74871"
+}, {
+  "kecamatan" : "Pandih Batu",
+  "kelurahan" : "Kantan Muara",
+  "kodepos" : "74871"
+}, {
+  "kecamatan" : "Pandih Batu",
+  "kelurahan" : "Kantan Atas",
+  "kodepos" : "74871"
+}, {
+  "kecamatan" : "Pandih Batu",
+  "kelurahan" : "Gadabung",
+  "kodepos" : "74871"
+}, {
+  "kecamatan" : "Pandih Batu",
+  "kelurahan" : "Dandang",
+  "kodepos" : "74871"
+}, {
+  "kecamatan" : "Pandih Batu",
+  "kelurahan" : "Belanti Siam",
+  "kodepos" : "74871"
+}, {
+  "kecamatan" : "Banama Tingang",
+  "kelurahan" : "Tumbang Tarusan",
+  "kodepos" : "74863"
+}, {
+  "kecamatan" : "Banama Tingang",
+  "kelurahan" : "Tangkahen",
+  "kodepos" : "74863"
+}, {
+  "kecamatan" : "Banama Tingang",
+  "kelurahan" : "Tambak",
+  "kodepos" : "74863"
+}, {
+  "kecamatan" : "Banama Tingang",
+  "kelurahan" : "Pangi",
+  "kodepos" : "74863"
+}, {
+  "kecamatan" : "Banama Tingang",
+  "kelurahan" : "Ramang",
+  "kodepos" : "74863"
+}, {
+  "kecamatan" : "Banama Tingang",
+  "kelurahan" : "Pandawei",
+  "kodepos" : "74863"
+}, {
+  "kecamatan" : "Banama Tingang",
+  "kelurahan" : "Manen Kaleka",
+  "kodepos" : "74863"
+}, {
+  "kecamatan" : "Banama Tingang",
+  "kelurahan" : "Manen Paduran",
+  "kodepos" : "74863"
+}, {
+  "kecamatan" : "Banama Tingang",
+  "kelurahan" : "Pahawan",
+  "kodepos" : "74863"
+}, {
+  "kecamatan" : "Banama Tingang",
+  "kelurahan" : "Kasali Baru",
+  "kodepos" : "74863"
+}, {
+  "kecamatan" : "Banama Tingang",
+  "kelurahan" : "Lawang Uru",
+  "kodepos" : "74863"
+}, {
+  "kecamatan" : "Banama Tingang",
+  "kelurahan" : "Hanua",
+  "kodepos" : "74863"
+}, {
+  "kecamatan" : "Banama Tingang",
+  "kelurahan" : "Hurung",
+  "kodepos" : "74863"
+}, {
+  "kecamatan" : "Banama Tingang",
+  "kelurahan" : "Bawan",
+  "kodepos" : "74863"
+}, {
+  "kecamatan" : "Banama Tingang",
+  "kelurahan" : "Guha",
+  "kodepos" : "74863"
+}, {
+  "kecamatan" : "Kahayan Tengah",
+  "kelurahan" : "Tanjung Sangalang",
+  "kodepos" : "74862"
+}, {
+  "kecamatan" : "Kahayan Tengah",
+  "kelurahan" : "Tuwung",
+  "kodepos" : "74862"
+}, {
+  "kecamatan" : "Kahayan Tengah",
+  "kelurahan" : "Petuk Liti",
+  "kodepos" : "74862"
+}, {
+  "kecamatan" : "Kahayan Tengah",
+  "kelurahan" : "Sigi",
+  "kodepos" : "74862"
+}, {
+  "kecamatan" : "Kahayan Tengah",
+  "kelurahan" : "Tahawa",
+  "kodepos" : "74862"
+}, {
+  "kecamatan" : "Kahayan Tengah",
+  "kelurahan" : "Parahangan",
+  "kodepos" : "74862"
+}, {
+  "kecamatan" : "Kahayan Tengah",
+  "kelurahan" : "Penda Barania",
+  "kodepos" : "74862"
+}, {
+  "kecamatan" : "Kahayan Tengah",
+  "kelurahan" : "Bukit Rawi",
+  "kodepos" : "74862"
+}, {
+  "kecamatan" : "Kahayan Tengah",
+  "kelurahan" : "Pamarunan",
+  "kodepos" : "74862"
+}, {
+  "kecamatan" : "Kahayan Tengah",
+  "kelurahan" : "Bareng Rambang",
+  "kodepos" : "74862"
+}, {
+  "kecamatan" : "Kahayan Tengah",
+  "kelurahan" : "Bukit Bamba",
+  "kodepos" : "74862"
+}, {
+  "kecamatan" : "Kahayan Tengah",
+  "kelurahan" : "Bukit Liti",
+  "kodepos" : "74862"
+}, {
+  "kecamatan" : "Kahayan Tengah",
+  "kelurahan" : "Bahu Palawa",
+  "kodepos" : "74862"
+}, {
+  "kecamatan" : "Kahayan Tengah",
+  "kelurahan" : "Balukun",
+  "kodepos" : "74862"
+}, {
+  "kecamatan" : "Kahayan Hilir",
+  "kelurahan" : "Mantaren II",
+  "kodepos" : "74861"
+}, {
+  "kecamatan" : "Kahayan Hilir",
+  "kelurahan" : "Buntoi",
+  "kodepos" : "74861"
+}, {
+  "kecamatan" : "Kahayan Hilir",
+  "kelurahan" : "Mantaren I",
+  "kodepos" : "74861"
+}, {
+  "kecamatan" : "Kahayan Hilir",
+  "kelurahan" : "Bereng",
+  "kodepos" : "74831"
+}, {
+  "kecamatan" : "Kahayan Hilir",
+  "kelurahan" : "Kahayan Hilir",
+  "kodepos" : "74841"
+}, {
+  "kecamatan" : "Jabiren Raya",
+  "kelurahan" : "Tumbang Nusa",
+  "kodepos" : "74816"
+}, {
+  "kecamatan" : "Kahayan Hilir",
+  "kelurahan" : "Hanjak Maju",
+  "kodepos" : "74821"
+}, {
+  "kecamatan" : "Jabiren Raya",
+  "kelurahan" : "Simpur",
+  "kodepos" : "74816"
+}, {
+  "kecamatan" : "Jabiren Raya",
+  "kelurahan" : "Tanjung Taruna",
+  "kodepos" : "74816"
+}, {
+  "kecamatan" : "Jabiren Raya",
+  "kelurahan" : "Pilang",
+  "kodepos" : "74816"
+}, {
+  "kecamatan" : "Jabiren Raya",
+  "kelurahan" : "Saka Kajang",
+  "kodepos" : "74816"
+}, {
+  "kecamatan" : "Kahayan Hilir",
+  "kelurahan" : "Mintin",
+  "kodepos" : "74816"
+}, {
+  "kecamatan" : "Jabiren Raya",
+  "kelurahan" : "Jabiren",
+  "kodepos" : "74816"
+}, {
+  "kecamatan" : "Jabiren Raya",
+  "kelurahan" : "Garung (Garong)",
+  "kodepos" : "74816"
+}, {
+  "kecamatan" : "Jabiren Raya",
+  "kelurahan" : "Henda",
+  "kodepos" : "74816"
+}, {
+  "kecamatan" : "Kahayan Hilir",
+  "kelurahan" : "Kalawa",
+  "kodepos" : "74812"
+}, {
+  "kecamatan" : "Kahayan Hilir",
+  "kelurahan" : "Anjir Pulang Pisau",
+  "kodepos" : "74813"
+}, {
+  "kecamatan" : "Kahayan Hilir",
+  "kelurahan" : "Gohong",
+  "kodepos" : "74812"
+} ]

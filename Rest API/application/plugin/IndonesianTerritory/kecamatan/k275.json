@@ -1,0 +1,485 @@
+[ {
+  "kecamatan" : "Mbeliling",
+  "kelurahan" : "Watu Wangka",
+  "kodepos" : "86757"
+}, {
+  "kecamatan" : "Sano Nggoang",
+  "kelurahan" : "Wae Lolos",
+  "kodepos" : "86757"
+}, {
+  "kecamatan" : "Sano Nggoang",
+  "kelurahan" : "Wae Sano",
+  "kodepos" : "86757"
+}, {
+  "kecamatan" : "Mbeliling",
+  "kelurahan" : "Tiwi Riwung",
+  "kodepos" : "86757"
+}, {
+  "kecamatan" : "Mbeliling",
+  "kelurahan" : "Wae Jare",
+  "kodepos" : "86757"
+}, {
+  "kecamatan" : "Sano Nggoang",
+  "kelurahan" : "Sano Nggoang",
+  "kodepos" : "86757"
+}, {
+  "kecamatan" : "Mbeliling",
+  "kelurahan" : "Tandong/Tondong Belang",
+  "kodepos" : "86757"
+}, {
+  "kecamatan" : "Sano Nggoang",
+  "kelurahan" : "Mata Wae",
+  "kodepos" : "86757"
+}, {
+  "kecamatan" : "Sano Nggoang",
+  "kelurahan" : "Nampar Macing",
+  "kodepos" : "86757"
+}, {
+  "kecamatan" : "Mbeliling",
+  "kelurahan" : "Liang Ndara",
+  "kodepos" : "86757"
+}, {
+  "kecamatan" : "Mbeliling",
+  "kelurahan" : "Golo Tantong",
+  "kodepos" : "86757"
+}, {
+  "kecamatan" : "Mbeliling",
+  "kelurahan" : "Kempo",
+  "kodepos" : "86757"
+}, {
+  "kecamatan" : "Sano Nggoang",
+  "kelurahan" : "Golo Sengang",
+  "kodepos" : "86757"
+}, {
+  "kecamatan" : "Mbeliling",
+  "kelurahan" : "Golo Sembea",
+  "kodepos" : "86757"
+}, {
+  "kecamatan" : "Sano Nggoang",
+  "kelurahan" : "Golo Ndaring",
+  "kodepos" : "86757"
+}, {
+  "kecamatan" : "Mbeliling",
+  "kelurahan" : "Golo Ndoal",
+  "kodepos" : "86757"
+}, {
+  "kecamatan" : "Sano Nggoang",
+  "kelurahan" : "Golo Manting",
+  "kodepos" : "86757"
+}, {
+  "kecamatan" : "Sano Nggoang",
+  "kelurahan" : "Golo Mbu",
+  "kodepos" : "86757"
+}, {
+  "kecamatan" : "Sano Nggoang",
+  "kelurahan" : "Golo Kempo",
+  "kodepos" : "86757"
+}, {
+  "kecamatan" : "Sano Nggoang",
+  "kelurahan" : "Golo Leleng",
+  "kodepos" : "86757"
+}, {
+  "kecamatan" : "Mbeliling",
+  "kelurahan" : "Golo Damu",
+  "kodepos" : "86757"
+}, {
+  "kecamatan" : "Mbeliling",
+  "kelurahan" : "Golo Desat",
+  "kodepos" : "86757"
+}, {
+  "kecamatan" : "Mbeliling",
+  "kelurahan" : "Cunca Lolos",
+  "kodepos" : "86757"
+}, {
+  "kecamatan" : "Mbeliling",
+  "kelurahan" : "Cunca Wulang",
+  "kodepos" : "86757"
+}, {
+  "kecamatan" : "Macang Pacar",
+  "kelurahan" : "Wontong",
+  "kodepos" : "86756"
+}, {
+  "kecamatan" : "Macang Pacar",
+  "kelurahan" : "Raba",
+  "kodepos" : "86756"
+}, {
+  "kecamatan" : "Macang Pacar",
+  "kelurahan" : "Rego",
+  "kodepos" : "86756"
+}, {
+  "kecamatan" : "Macang Pacar",
+  "kelurahan" : "Rokap",
+  "kodepos" : "86756"
+}, {
+  "kecamatan" : "Macang Pacar",
+  "kelurahan" : "Nggilat",
+  "kodepos" : "86756"
+}, {
+  "kecamatan" : "Macang Pacar",
+  "kelurahan" : "Pacar",
+  "kodepos" : "86756"
+}, {
+  "kecamatan" : "Macang Pacar",
+  "kelurahan" : "Mbakung",
+  "kodepos" : "86756"
+}, {
+  "kecamatan" : "Macang Pacar",
+  "kelurahan" : "Nanga Kantor",
+  "kodepos" : "86756"
+}, {
+  "kecamatan" : "Macang Pacar",
+  "kelurahan" : "Loha",
+  "kodepos" : "86756"
+}, {
+  "kecamatan" : "Macang Pacar",
+  "kelurahan" : "Loha",
+  "kodepos" : "86756"
+}, {
+  "kecamatan" : "Macang Pacar",
+  "kelurahan" : "Compang",
+  "kodepos" : "86756"
+}, {
+  "kecamatan" : "Macang Pacar",
+  "kelurahan" : "Golo Lajang",
+  "kodepos" : "86756"
+}, {
+  "kecamatan" : "Macang Pacar",
+  "kelurahan" : "Bari",
+  "kodepos" : "86756"
+}, {
+  "kecamatan" : "Komodo",
+  "kelurahan" : "Warloka",
+  "kodepos" : "86754"
+}, {
+  "kecamatan" : "Komodo",
+  "kelurahan" : "Watu Nggelek",
+  "kodepos" : "86754"
+}, {
+  "kecamatan" : "Komodo",
+  "kelurahan" : "Wae Kelambu",
+  "kodepos" : "86754"
+}, {
+  "kecamatan" : "Boleng",
+  "kelurahan" : "Tanjung Boleng",
+  "kodepos" : "86754"
+}, {
+  "kecamatan" : "Komodo",
+  "kelurahan" : "Tiwu Nampar",
+  "kodepos" : "86754"
+}, {
+  "kecamatan" : "Boleng",
+  "kelurahan" : "Pota Wangka",
+  "kodepos" : "86754"
+}, {
+  "kecamatan" : "Boleng",
+  "kelurahan" : "Sepang",
+  "kodepos" : "86754"
+}, {
+  "kecamatan" : "Boleng",
+  "kelurahan" : "Pontianak (Tanjung Pontianak)",
+  "kodepos" : "86754"
+}, {
+  "kecamatan" : "Komodo",
+  "kelurahan" : "Pasir Putih",
+  "kodepos" : "86754"
+}, {
+  "kecamatan" : "Komodo",
+  "kelurahan" : "Papa Garang",
+  "kodepos" : "86754"
+}, {
+  "kecamatan" : "Komodo",
+  "kelurahan" : "Pasir Panjang",
+  "kodepos" : "86754"
+}, {
+  "kecamatan" : "Boleng",
+  "kelurahan" : "Mbuit",
+  "kodepos" : "86754"
+}, {
+  "kecamatan" : "Komodo",
+  "kelurahan" : "Nggorang",
+  "kodepos" : "86754"
+}, {
+  "kecamatan" : "Komodo",
+  "kelurahan" : "Labuan Bajo",
+  "kodepos" : "86754"
+}, {
+  "kecamatan" : "Komodo",
+  "kelurahan" : "Macang Tanggar",
+  "kodepos" : "86754"
+}, {
+  "kecamatan" : "Komodo",
+  "kelurahan" : "Gorontalo",
+  "kodepos" : "86754"
+}, {
+  "kecamatan" : "Komodo",
+  "kelurahan" : "Komodo",
+  "kodepos" : "86754"
+}, {
+  "kecamatan" : "Komodo",
+  "kelurahan" : "Golo Pongkor",
+  "kodepos" : "86754"
+}, {
+  "kecamatan" : "Boleng",
+  "kelurahan" : "Golo Sepang",
+  "kodepos" : "86754"
+}, {
+  "kecamatan" : "Komodo",
+  "kelurahan" : "Golo Mori",
+  "kodepos" : "86754"
+}, {
+  "kecamatan" : "Boleng",
+  "kelurahan" : "Golo Lujang",
+  "kodepos" : "86754"
+}, {
+  "kecamatan" : "Boleng",
+  "kelurahan" : "Batu Tiga",
+  "kodepos" : "86754"
+}, {
+  "kecamatan" : "Komodo",
+  "kelurahan" : "Golo Bilas",
+  "kodepos" : "86754"
+}, {
+  "kecamatan" : "Boleng",
+  "kelurahan" : "Golo Ketak",
+  "kodepos" : "86754"
+}, {
+  "kecamatan" : "Komodo",
+  "kelurahan" : "Batu Cermin",
+  "kodepos" : "86754"
+}, {
+  "kecamatan" : "Lembor Selatan",
+  "kelurahan" : "Watu Waja",
+  "kodepos" : "86753"
+}, {
+  "kecamatan" : "Welak",
+  "kelurahan" : "Watu Umpu",
+  "kodepos" : "86753"
+}, {
+  "kecamatan" : "Lembor",
+  "kelurahan" : "Wae Wako",
+  "kodepos" : "86753"
+}, {
+  "kecamatan" : "Lembor Selatan",
+  "kelurahan" : "Wae Mose",
+  "kodepos" : "86753"
+}, {
+  "kecamatan" : "Lembor",
+  "kelurahan" : "Wae Bangka",
+  "kodepos" : "86753"
+}, {
+  "kecamatan" : "Lembor",
+  "kelurahan" : "Wae Kanta",
+  "kodepos" : "86753"
+}, {
+  "kecamatan" : "Lembor",
+  "kelurahan" : "Tangge",
+  "kodepos" : "86753"
+}, {
+  "kecamatan" : "Lembor Selatan",
+  "kelurahan" : "Surunumbeng",
+  "kodepos" : "86753"
+}, {
+  "kecamatan" : "Welak",
+  "kelurahan" : "Semang",
+  "kodepos" : "86753"
+}, {
+  "kecamatan" : "Lembor",
+  "kelurahan" : "Siru",
+  "kodepos" : "86753"
+}, {
+  "kecamatan" : "Lembor Selatan",
+  "kelurahan" : "Repi",
+  "kodepos" : "86753"
+}, {
+  "kecamatan" : "Lembor",
+  "kelurahan" : "Ponto Ara",
+  "kodepos" : "86753"
+}, {
+  "kecamatan" : "Welak",
+  "kelurahan" : "Rehak",
+  "kodepos" : "86753"
+}, {
+  "kecamatan" : "Lembor",
+  "kelurahan" : "Pong Majok",
+  "kodepos" : "86753"
+}, {
+  "kecamatan" : "Welak",
+  "kelurahan" : "Pong Welak",
+  "kodepos" : "86753"
+}, {
+  "kecamatan" : "Lembor",
+  "kelurahan" : "Poco Rutang",
+  "kodepos" : "86753"
+}, {
+  "kecamatan" : "Lembor",
+  "kelurahan" : "Pondo",
+  "kodepos" : "86753"
+}, {
+  "kecamatan" : "Welak",
+  "kelurahan" : "Orong",
+  "kodepos" : "86753"
+}, {
+  "kecamatan" : "Welak",
+  "kelurahan" : "Pengka",
+  "kodepos" : "86753"
+}, {
+  "kecamatan" : "Lembor Selatan",
+  "kelurahan" : "Nanga Lili",
+  "kodepos" : "86753"
+}, {
+  "kecamatan" : "Lembor",
+  "kelurahan" : "Ngancar",
+  "kodepos" : "86753"
+}, {
+  "kecamatan" : "Lembor Selatan",
+  "kelurahan" : "Munting",
+  "kodepos" : "86753"
+}, {
+  "kecamatan" : "Lembor Selatan",
+  "kelurahan" : "Nanga Bere",
+  "kodepos" : "86753"
+}, {
+  "kecamatan" : "Lembor Selatan",
+  "kelurahan" : "Lalong",
+  "kodepos" : "86753"
+}, {
+  "kecamatan" : "Welak",
+  "kelurahan" : "Lale",
+  "kodepos" : "86753"
+}, {
+  "kecamatan" : "Lembor Selatan",
+  "kelurahan" : "Kakor",
+  "kodepos" : "86753"
+}, {
+  "kecamatan" : "Welak",
+  "kelurahan" : "Gurung",
+  "kodepos" : "86753"
+}, {
+  "kecamatan" : "Welak",
+  "kelurahan" : "Galang",
+  "kodepos" : "86753"
+}, {
+  "kecamatan" : "Welak",
+  "kelurahan" : "Golo Ronggot",
+  "kodepos" : "86753"
+}, {
+  "kecamatan" : "Welak",
+  "kelurahan" : "Dunta",
+  "kodepos" : "86753"
+}, {
+  "kecamatan" : "Lembor Selatan",
+  "kelurahan" : "Benteng Dewa",
+  "kodepos" : "86753"
+}, {
+  "kecamatan" : "Lembor Selatan",
+  "kelurahan" : "Benteng Dewa",
+  "kodepos" : "86753"
+}, {
+  "kecamatan" : "Ndoso",
+  "kelurahan" : "Wae Buka",
+  "kodepos" : "86752"
+}, {
+  "kecamatan" : "Ndoso",
+  "kelurahan" : "Waning",
+  "kodepos" : "86752"
+}, {
+  "kecamatan" : "Kuwus",
+  "kelurahan" : "Tueng",
+  "kodepos" : "86752"
+}, {
+  "kecamatan" : "Ndoso",
+  "kelurahan" : "Tentang",
+  "kodepos" : "86752"
+}, {
+  "kecamatan" : "Kuwus",
+  "kelurahan" : "Sama",
+  "kodepos" : "86752"
+}, {
+  "kecamatan" : "Kuwus",
+  "kelurahan" : "Tengku",
+  "kodepos" : "86752"
+}, {
+  "kecamatan" : "Ndoso",
+  "kelurahan" : "Raka",
+  "kodepos" : "86752"
+}, {
+  "kecamatan" : "Kuwus",
+  "kelurahan" : "Ranggu",
+  "kodepos" : "86752"
+}, {
+  "kecamatan" : "Ndoso",
+  "kelurahan" : "Pong Narang",
+  "kodepos" : "86752"
+}, {
+  "kecamatan" : "Ndoso",
+  "kelurahan" : "Ndoso",
+  "kodepos" : "86752"
+}, {
+  "kecamatan" : "Kuwus",
+  "kelurahan" : "Pangga",
+  "kodepos" : "86752"
+}, {
+  "kecamatan" : "Ndoso",
+  "kelurahan" : "Momol",
+  "kodepos" : "86752"
+}, {
+  "kecamatan" : "Kuwus",
+  "kelurahan" : "Nantal",
+  "kodepos" : "86752"
+}, {
+  "kecamatan" : "Ndoso",
+  "kelurahan" : "Lumut",
+  "kodepos" : "86752"
+}, {
+  "kecamatan" : "Kuwus",
+  "kelurahan" : "Lewur",
+  "kodepos" : "86752"
+}, {
+  "kecamatan" : "Kuwus",
+  "kelurahan" : "Kolang",
+  "kodepos" : "86752"
+}, {
+  "kecamatan" : "Kuwus",
+  "kelurahan" : "Lawi",
+  "kodepos" : "86752"
+}, {
+  "kecamatan" : "Ndoso",
+  "kelurahan" : "Kasong",
+  "kodepos" : "86752"
+}, {
+  "kecamatan" : "Kuwus",
+  "kelurahan" : "Golo Ruu",
+  "kodepos" : "86752"
+}, {
+  "kecamatan" : "Kuwus",
+  "kelurahan" : "Golo Wedong",
+  "kodepos" : "86752"
+}, {
+  "kecamatan" : "Kuwus",
+  "kelurahan" : "Golo Riwu",
+  "kodepos" : "86752"
+}, {
+  "kecamatan" : "Ndoso",
+  "kelurahan" : "Golo Poleng",
+  "kodepos" : "86752"
+}, {
+  "kecamatan" : "Kuwus",
+  "kelurahan" : "Compang Suka",
+  "kodepos" : "86752"
+}, {
+  "kecamatan" : "Kuwus",
+  "kelurahan" : "Golo Lewe",
+  "kodepos" : "86752"
+}, {
+  "kecamatan" : "Kuwus",
+  "kelurahan" : "Coal",
+  "kodepos" : "86752"
+}, {
+  "kecamatan" : "Kuwus",
+  "kelurahan" : "Compang Kules",
+  "kodepos" : "86752"
+}, {
+  "kecamatan" : "Kuwus",
+  "kelurahan" : "Benteng Curu",
+  "kodepos" : "86752"
+} ]

@@ -1,0 +1,941 @@
+[ {
+  "kecamatan" : "Karas",
+  "kelurahan" : "Temboro",
+  "kodepos" : "63395"
+}, {
+  "kecamatan" : "Karas",
+  "kelurahan" : "Temenggungan",
+  "kodepos" : "63395"
+}, {
+  "kecamatan" : "Barat",
+  "kelurahan" : "Tebon",
+  "kodepos" : "63395"
+}, {
+  "kecamatan" : "Karas",
+  "kelurahan" : "Sumursongo",
+  "kodepos" : "63395"
+}, {
+  "kecamatan" : "Karas",
+  "kelurahan" : "Taji",
+  "kodepos" : "63395"
+}, {
+  "kecamatan" : "Karangrejo",
+  "kelurahan" : "Sambirembe",
+  "kodepos" : "63395"
+}, {
+  "kecamatan" : "Karas",
+  "kelurahan" : "Sobontoro",
+  "kodepos" : "63395"
+}, {
+  "kecamatan" : "Kartoharjo (Kertoharjo)",
+  "kelurahan" : "Sukowidi",
+  "kodepos" : "63395"
+}, {
+  "kecamatan" : "Barat",
+  "kelurahan" : "Purwodadi",
+  "kodepos" : "63395"
+}, {
+  "kecamatan" : "Barat",
+  "kelurahan" : "Rejomulyo",
+  "kodepos" : "63395"
+}, {
+  "kecamatan" : "Kartoharjo (Kertoharjo)",
+  "kelurahan" : "Pencol",
+  "kodepos" : "63395"
+}, {
+  "kecamatan" : "Karangrejo",
+  "kelurahan" : "Prampelan",
+  "kodepos" : "63395"
+}, {
+  "kecamatan" : "Karangrejo",
+  "kelurahan" : "Patihan",
+  "kodepos" : "63395"
+}, {
+  "kecamatan" : "Barat",
+  "kelurahan" : "Panggung",
+  "kodepos" : "63395"
+}, {
+  "kecamatan" : "Karangrejo",
+  "kelurahan" : "Pelem",
+  "kodepos" : "63395"
+}, {
+  "kecamatan" : "Kartoharjo (Kertoharjo)",
+  "kelurahan" : "Ngelang",
+  "kodepos" : "63395"
+}, {
+  "kecamatan" : "Barat",
+  "kelurahan" : "Ngumpul",
+  "kodepos" : "63395"
+}, {
+  "kecamatan" : "Kartoharjo (Kertoharjo)",
+  "kelurahan" : "Mrahu",
+  "kodepos" : "63395"
+}, {
+  "kecamatan" : "Karangrejo",
+  "kelurahan" : "Mantren",
+  "kodepos" : "63395"
+}, {
+  "kecamatan" : "Karangrejo",
+  "kelurahan" : "Maron",
+  "kodepos" : "63395"
+}, {
+  "kecamatan" : "Karangrejo",
+  "kelurahan" : "Manisrejo",
+  "kodepos" : "63395"
+}, {
+  "kecamatan" : "Barat",
+  "kelurahan" : "Manjung",
+  "kodepos" : "63395"
+}, {
+  "kecamatan" : "Karas",
+  "kelurahan" : "Kuwon",
+  "kodepos" : "63395"
+}, {
+  "kecamatan" : "Kartoharjo (Kertoharjo)",
+  "kelurahan" : "Klurahan",
+  "kodepos" : "63395"
+}, {
+  "kecamatan" : "Barat",
+  "kelurahan" : "Mangge",
+  "kodepos" : "63395"
+}, {
+  "kecamatan" : "Kartoharjo (Kertoharjo)",
+  "kelurahan" : "Kartoharjo (Kertoharjo)",
+  "kodepos" : "63395"
+}, {
+  "kecamatan" : "Karangrejo",
+  "kelurahan" : "Kauman",
+  "kodepos" : "63395"
+}, {
+  "kecamatan" : "Barat",
+  "kelurahan" : "Klagen",
+  "kodepos" : "63395"
+}, {
+  "kecamatan" : "Karas",
+  "kelurahan" : "Karas",
+  "kodepos" : "63395"
+}, {
+  "kecamatan" : "Barat",
+  "kelurahan" : "Karangsono",
+  "kodepos" : "63395"
+}, {
+  "kecamatan" : "Karas",
+  "kelurahan" : "Jungke",
+  "kodepos" : "63395"
+}, {
+  "kecamatan" : "Kartoharjo (Kertoharjo)",
+  "kelurahan" : "Karangmojo",
+  "kodepos" : "63395"
+}, {
+  "kecamatan" : "Karangrejo",
+  "kelurahan" : "Karangrejo",
+  "kodepos" : "63395"
+}, {
+  "kecamatan" : "Barat",
+  "kelurahan" : "Jonggrang",
+  "kodepos" : "63395"
+}, {
+  "kecamatan" : "Kartoharjo (Kertoharjo)",
+  "kelurahan" : "Gunungan",
+  "kodepos" : "63395"
+}, {
+  "kecamatan" : "Kartoharjo (Kertoharjo)",
+  "kelurahan" : "Jajar",
+  "kodepos" : "63395"
+}, {
+  "kecamatan" : "Kartoharjo (Kertoharjo)",
+  "kelurahan" : "Jeruk",
+  "kodepos" : "63395"
+}, {
+  "kecamatan" : "Karangrejo",
+  "kelurahan" : "Gondang",
+  "kodepos" : "63395"
+}, {
+  "kecamatan" : "Karangrejo",
+  "kelurahan" : "Grabahan",
+  "kodepos" : "63395"
+}, {
+  "kecamatan" : "Karas",
+  "kelurahan" : "Geplak",
+  "kodepos" : "63395"
+}, {
+  "kecamatan" : "Karas",
+  "kelurahan" : "Ginuk",
+  "kodepos" : "63395"
+}, {
+  "kecamatan" : "Karas",
+  "kelurahan" : "Botok",
+  "kodepos" : "63395"
+}, {
+  "kecamatan" : "Karangrejo",
+  "kelurahan" : "Gebyog",
+  "kodepos" : "63395"
+}, {
+  "kecamatan" : "Barat",
+  "kelurahan" : "Blaran",
+  "kodepos" : "63395"
+}, {
+  "kecamatan" : "Barat",
+  "kelurahan" : "Bogorejo",
+  "kodepos" : "63395"
+}, {
+  "kecamatan" : "Kartoharjo (Kertoharjo)",
+  "kelurahan" : "Bayem Taman",
+  "kodepos" : "63395"
+}, {
+  "kecamatan" : "Kartoharjo (Kertoharjo)",
+  "kelurahan" : "Bayem Wetan",
+  "kodepos" : "63395"
+}, {
+  "kecamatan" : "Karangrejo",
+  "kelurahan" : "Baluk",
+  "kodepos" : "63395"
+}, {
+  "kecamatan" : "Barat",
+  "kelurahan" : "Bangunasri",
+  "kodepos" : "63395"
+}, {
+  "kecamatan" : "Maospati",
+  "kelurahan" : "Suratmajan",
+  "kodepos" : "63392"
+}, {
+  "kecamatan" : "Maospati",
+  "kelurahan" : "Tanjungsepreh",
+  "kodepos" : "63392"
+}, {
+  "kecamatan" : "Maospati",
+  "kelurahan" : "Sumberejo",
+  "kodepos" : "63392"
+}, {
+  "kecamatan" : "Maospati",
+  "kelurahan" : "Sempol",
+  "kodepos" : "63392"
+}, {
+  "kecamatan" : "Maospati",
+  "kelurahan" : "Sugihwaras",
+  "kodepos" : "63392"
+}, {
+  "kecamatan" : "Maospati",
+  "kelurahan" : "Ronowijayan",
+  "kodepos" : "63392"
+}, {
+  "kecamatan" : "Maospati",
+  "kelurahan" : "Pandeyan",
+  "kodepos" : "63392"
+}, {
+  "kecamatan" : "Maospati",
+  "kelurahan" : "Pesu",
+  "kodepos" : "63392"
+}, {
+  "kecamatan" : "Maospati",
+  "kelurahan" : "Mranggen",
+  "kodepos" : "63392"
+}, {
+  "kecamatan" : "Maospati",
+  "kelurahan" : "Ngujung",
+  "kodepos" : "63392"
+}, {
+  "kecamatan" : "Maospati",
+  "kelurahan" : "Kraton",
+  "kodepos" : "63392"
+}, {
+  "kecamatan" : "Maospati",
+  "kelurahan" : "Malang",
+  "kodepos" : "63392"
+}, {
+  "kecamatan" : "Maospati",
+  "kelurahan" : "Maospati",
+  "kodepos" : "63392"
+}, {
+  "kecamatan" : "Maospati",
+  "kelurahan" : "Gulun",
+  "kodepos" : "63392"
+}, {
+  "kecamatan" : "Maospati",
+  "kelurahan" : "Klagen Gambiran",
+  "kodepos" : "63392"
+}, {
+  "kecamatan" : "Sukomoro",
+  "kelurahan" : "Tinap",
+  "kodepos" : "63391"
+}, {
+  "kecamatan" : "Sukomoro",
+  "kelurahan" : "Truneng",
+  "kodepos" : "63391"
+}, {
+  "kecamatan" : "Sukomoro",
+  "kelurahan" : "Tambakmas",
+  "kodepos" : "63391"
+}, {
+  "kecamatan" : "Sukomoro",
+  "kelurahan" : "Sukomoro",
+  "kodepos" : "63391"
+}, {
+  "kecamatan" : "Sukomoro",
+  "kelurahan" : "Tamanan",
+  "kodepos" : "63391"
+}, {
+  "kecamatan" : "Sukomoro",
+  "kelurahan" : "Kembangan",
+  "kodepos" : "63391"
+}, {
+  "kecamatan" : "Sukomoro",
+  "kelurahan" : "Kentangan",
+  "kodepos" : "63391"
+}, {
+  "kecamatan" : "Sukomoro",
+  "kelurahan" : "Pojoksari",
+  "kodepos" : "63391"
+}, {
+  "kecamatan" : "Sukomoro",
+  "kelurahan" : "Kedungguwo",
+  "kodepos" : "63391"
+}, {
+  "kecamatan" : "Sukomoro",
+  "kelurahan" : "Bulu",
+  "kodepos" : "63391"
+}, {
+  "kecamatan" : "Sukomoro",
+  "kelurahan" : "Kalangketi",
+  "kodepos" : "63391"
+}, {
+  "kecamatan" : "Sukomoro",
+  "kelurahan" : "Bibis",
+  "kodepos" : "63391"
+}, {
+  "kecamatan" : "Sukomoro",
+  "kelurahan" : "Bogem",
+  "kodepos" : "63391"
+}, {
+  "kecamatan" : "Sukomoro",
+  "kelurahan" : "Bandar",
+  "kodepos" : "63391"
+}, {
+  "kecamatan" : "Bendo",
+  "kelurahan" : "Tanjung",
+  "kodepos" : "63384"
+}, {
+  "kecamatan" : "Bendo",
+  "kelurahan" : "Tegalarum",
+  "kodepos" : "63384"
+}, {
+  "kecamatan" : "Bendo",
+  "kelurahan" : "Setren",
+  "kodepos" : "63384"
+}, {
+  "kecamatan" : "Bendo",
+  "kelurahan" : "Soco",
+  "kodepos" : "63384"
+}, {
+  "kecamatan" : "Bendo",
+  "kelurahan" : "Lemahbang",
+  "kodepos" : "63384"
+}, {
+  "kecamatan" : "Bendo",
+  "kelurahan" : "Pingkuk",
+  "kodepos" : "63384"
+}, {
+  "kecamatan" : "Bendo",
+  "kelurahan" : "Kleco",
+  "kodepos" : "63384"
+}, {
+  "kecamatan" : "Bendo",
+  "kelurahan" : "Kledokan",
+  "kodepos" : "63384"
+}, {
+  "kecamatan" : "Bendo",
+  "kelurahan" : "Duwet",
+  "kodepos" : "63384"
+}, {
+  "kecamatan" : "Bendo",
+  "kelurahan" : "Kinandang",
+  "kodepos" : "63384"
+}, {
+  "kecamatan" : "Bendo",
+  "kelurahan" : "Carikan",
+  "kodepos" : "63384"
+}, {
+  "kecamatan" : "Bendo",
+  "kelurahan" : "Dukuh",
+  "kodepos" : "63384"
+}, {
+  "kecamatan" : "Bendo",
+  "kelurahan" : "Bendo",
+  "kodepos" : "63384"
+}, {
+  "kecamatan" : "Bendo",
+  "kelurahan" : "Bulak",
+  "kodepos" : "63384"
+}, {
+  "kecamatan" : "Bendo",
+  "kelurahan" : "Bulugledeg",
+  "kodepos" : "63384"
+}, {
+  "kecamatan" : "Bendo",
+  "kelurahan" : "Belotan",
+  "kodepos" : "63384"
+}, {
+  "kecamatan" : "Takeran",
+  "kelurahan" : "Waduk",
+  "kodepos" : "63383"
+}, {
+  "kecamatan" : "Takeran",
+  "kelurahan" : "Takeran",
+  "kodepos" : "63383"
+}, {
+  "kecamatan" : "Takeran",
+  "kelurahan" : "Tawangrejo",
+  "kodepos" : "63383"
+}, {
+  "kecamatan" : "Nguntoronadi",
+  "kelurahan" : "Simbatan",
+  "kodepos" : "63383"
+}, {
+  "kecamatan" : "Nguntoronadi",
+  "kelurahan" : "Sukowidi",
+  "kodepos" : "63383"
+}, {
+  "kecamatan" : "Takeran",
+  "kelurahan" : "Sawojajar",
+  "kodepos" : "63383"
+}, {
+  "kecamatan" : "Nguntoronadi",
+  "kelurahan" : "Semen",
+  "kodepos" : "63383"
+}, {
+  "kecamatan" : "Nguntoronadi",
+  "kelurahan" : "Nguntoronadi",
+  "kodepos" : "63383"
+}, {
+  "kecamatan" : "Nguntoronadi",
+  "kelurahan" : "Petungrejo",
+  "kodepos" : "63383"
+}, {
+  "kecamatan" : "Nguntoronadi",
+  "kelurahan" : "Purworejo",
+  "kodepos" : "63383"
+}, {
+  "kecamatan" : "Takeran",
+  "kelurahan" : "Kuwonharjo",
+  "kodepos" : "63383"
+}, {
+  "kecamatan" : "Takeran",
+  "kelurahan" : "Madigondo",
+  "kodepos" : "63383"
+}, {
+  "kecamatan" : "Takeran",
+  "kelurahan" : "Kerik",
+  "kodepos" : "63383"
+}, {
+  "kecamatan" : "Takeran",
+  "kelurahan" : "Kiringan",
+  "kodepos" : "63383"
+}, {
+  "kecamatan" : "Takeran",
+  "kelurahan" : "Kepuhrejo",
+  "kodepos" : "63383"
+}, {
+  "kecamatan" : "Takeran",
+  "kelurahan" : "Kerang",
+  "kodepos" : "63383"
+}, {
+  "kecamatan" : "Takeran",
+  "kelurahan" : "Jomblang",
+  "kodepos" : "63383"
+}, {
+  "kecamatan" : "Nguntoronadi",
+  "kelurahan" : "Kenongomulyo",
+  "kodepos" : "63383"
+}, {
+  "kecamatan" : "Takeran",
+  "kelurahan" : "Duyung",
+  "kodepos" : "63383"
+}, {
+  "kecamatan" : "Nguntoronadi",
+  "kelurahan" : "Gorang Gareng",
+  "kodepos" : "63383"
+}, {
+  "kecamatan" : "Nguntoronadi",
+  "kelurahan" : "Driyorejo",
+  "kodepos" : "63383"
+}, {
+  "kecamatan" : "Kawedanan",
+  "kelurahan" : "Tulung",
+  "kodepos" : "63382"
+}, {
+  "kecamatan" : "Kawedanan",
+  "kelurahan" : "Selorejo",
+  "kodepos" : "63382"
+}, {
+  "kecamatan" : "Kawedanan",
+  "kelurahan" : "Sugihrejo",
+  "kodepos" : "63382"
+}, {
+  "kecamatan" : "Kawedanan",
+  "kelurahan" : "Tladan",
+  "kodepos" : "63382"
+}, {
+  "kecamatan" : "Kawedanan",
+  "kelurahan" : "Sampung",
+  "kodepos" : "63382"
+}, {
+  "kecamatan" : "Kawedanan",
+  "kelurahan" : "Pojok",
+  "kodepos" : "63382"
+}, {
+  "kecamatan" : "Kawedanan",
+  "kelurahan" : "Rejosari",
+  "kodepos" : "63382"
+}, {
+  "kecamatan" : "Kawedanan",
+  "kelurahan" : "Ngentep",
+  "kodepos" : "63382"
+}, {
+  "kecamatan" : "Kawedanan",
+  "kelurahan" : "Ngunut",
+  "kodepos" : "63382"
+}, {
+  "kecamatan" : "Kawedanan",
+  "kelurahan" : "Ngadirejo",
+  "kodepos" : "63382"
+}, {
+  "kecamatan" : "Kawedanan",
+  "kelurahan" : "Mangunrejo",
+  "kodepos" : "63382"
+}, {
+  "kecamatan" : "Kawedanan",
+  "kelurahan" : "Mojorejo",
+  "kodepos" : "63382"
+}, {
+  "kecamatan" : "Kawedanan",
+  "kelurahan" : "Karangrejo",
+  "kodepos" : "63382"
+}, {
+  "kecamatan" : "Kawedanan",
+  "kelurahan" : "Kawedanan",
+  "kodepos" : "63382"
+}, {
+  "kecamatan" : "Kawedanan",
+  "kelurahan" : "Genengan",
+  "kodepos" : "63382"
+}, {
+  "kecamatan" : "Kawedanan",
+  "kelurahan" : "Giripurno",
+  "kodepos" : "63382"
+}, {
+  "kecamatan" : "Kawedanan",
+  "kelurahan" : "Jambangan",
+  "kodepos" : "63382"
+}, {
+  "kecamatan" : "Kawedanan",
+  "kelurahan" : "Bogem",
+  "kodepos" : "63382"
+}, {
+  "kecamatan" : "Kawedanan",
+  "kelurahan" : "Garon",
+  "kodepos" : "63382"
+}, {
+  "kecamatan" : "Kawedanan",
+  "kelurahan" : "Balerejo",
+  "kodepos" : "63382"
+}, {
+  "kecamatan" : "Lembeyan",
+  "kelurahan" : "Pupus",
+  "kodepos" : "63372"
+}, {
+  "kecamatan" : "Lembeyan",
+  "kelurahan" : "Tapen",
+  "kodepos" : "63372"
+}, {
+  "kecamatan" : "Lembeyan",
+  "kelurahan" : "Tunggur",
+  "kodepos" : "63372"
+}, {
+  "kecamatan" : "Lembeyan",
+  "kelurahan" : "Lembeyan Wetan",
+  "kodepos" : "63372"
+}, {
+  "kecamatan" : "Lembeyan",
+  "kelurahan" : "Nguri",
+  "kodepos" : "63372"
+}, {
+  "kecamatan" : "Lembeyan",
+  "kelurahan" : "Lembeyan Kulon",
+  "kodepos" : "63372"
+}, {
+  "kecamatan" : "Lembeyan",
+  "kelurahan" : "Kedungpanji",
+  "kodepos" : "63372"
+}, {
+  "kecamatan" : "Lembeyan",
+  "kelurahan" : "Krowe",
+  "kodepos" : "63372"
+}, {
+  "kecamatan" : "Lembeyan",
+  "kelurahan" : "Dukuh",
+  "kodepos" : "63372"
+}, {
+  "kecamatan" : "Lembeyan",
+  "kelurahan" : "Kediren",
+  "kodepos" : "63372"
+}, {
+  "kecamatan" : "Parang",
+  "kelurahan" : "Trosono",
+  "kodepos" : "63371"
+}, {
+  "kecamatan" : "Parang",
+  "kelurahan" : "Sayutan",
+  "kodepos" : "63371"
+}, {
+  "kecamatan" : "Parang",
+  "kelurahan" : "Sundul",
+  "kodepos" : "63371"
+}, {
+  "kecamatan" : "Parang",
+  "kelurahan" : "Tamanarum",
+  "kodepos" : "63371"
+}, {
+  "kecamatan" : "Parang",
+  "kelurahan" : "Parang",
+  "kodepos" : "63371"
+}, {
+  "kecamatan" : "Parang",
+  "kelurahan" : "Pragak",
+  "kodepos" : "63371"
+}, {
+  "kecamatan" : "Parang",
+  "kelurahan" : "Nglopang",
+  "kodepos" : "63371"
+}, {
+  "kecamatan" : "Parang",
+  "kelurahan" : "Ngunut",
+  "kodepos" : "63371"
+}, {
+  "kecamatan" : "Parang",
+  "kelurahan" : "Mategal",
+  "kodepos" : "63371"
+}, {
+  "kecamatan" : "Parang",
+  "kelurahan" : "Ngaglik",
+  "kodepos" : "63371"
+}, {
+  "kecamatan" : "Parang",
+  "kelurahan" : "Krajan",
+  "kodepos" : "63371"
+}, {
+  "kecamatan" : "Parang",
+  "kelurahan" : "Bungkuk",
+  "kodepos" : "63371"
+}, {
+  "kecamatan" : "Parang",
+  "kelurahan" : "Joketro",
+  "kodepos" : "63371"
+}, {
+  "kecamatan" : "Poncol",
+  "kelurahan" : "Poncol",
+  "kodepos" : "63362"
+}, {
+  "kecamatan" : "Poncol",
+  "kelurahan" : "Sombo",
+  "kodepos" : "63362"
+}, {
+  "kecamatan" : "Poncol",
+  "kelurahan" : "Plangkrongan",
+  "kodepos" : "63362"
+}, {
+  "kecamatan" : "Poncol",
+  "kelurahan" : "Janggan",
+  "kodepos" : "63362"
+}, {
+  "kecamatan" : "Poncol",
+  "kelurahan" : "Genilangit",
+  "kodepos" : "63362"
+}, {
+  "kecamatan" : "Poncol",
+  "kelurahan" : "Gonggang",
+  "kodepos" : "63362"
+}, {
+  "kecamatan" : "Poncol",
+  "kelurahan" : "Alastuwo",
+  "kodepos" : "63362"
+}, {
+  "kecamatan" : "Poncol",
+  "kelurahan" : "Cileng",
+  "kodepos" : "63362"
+}, {
+  "kecamatan" : "Plaosan",
+  "kelurahan" : "Sumberagung",
+  "kodepos" : "63361"
+}, {
+  "kecamatan" : "Sidorejo",
+  "kelurahan" : "Sidorejo",
+  "kodepos" : "63361"
+}, {
+  "kecamatan" : "Plaosan",
+  "kelurahan" : "Sidomukti",
+  "kodepos" : "63361"
+}, {
+  "kecamatan" : "Plaosan",
+  "kelurahan" : "Sidomukti",
+  "kodepos" : "63361"
+}, {
+  "kecamatan" : "Plaosan",
+  "kelurahan" : "Randugede",
+  "kodepos" : "63361"
+}, {
+  "kecamatan" : "Plaosan",
+  "kelurahan" : "Sarangan",
+  "kodepos" : "63361"
+}, {
+  "kecamatan" : "Plaosan",
+  "kelurahan" : "Sendangagung",
+  "kodepos" : "63361"
+}, {
+  "kecamatan" : "Plaosan",
+  "kelurahan" : "Plumpung",
+  "kodepos" : "63361"
+}, {
+  "kecamatan" : "Plaosan",
+  "kelurahan" : "Puntukdoro",
+  "kodepos" : "63361"
+}, {
+  "kecamatan" : "Plaosan",
+  "kelurahan" : "Pacalan",
+  "kodepos" : "63361"
+}, {
+  "kecamatan" : "Plaosan",
+  "kelurahan" : "Plaosan",
+  "kodepos" : "63361"
+}, {
+  "kecamatan" : "Plaosan",
+  "kelurahan" : "Ngancar",
+  "kodepos" : "63361"
+}, {
+  "kecamatan" : "Plaosan",
+  "kelurahan" : "Nitikan",
+  "kodepos" : "63361"
+}, {
+  "kecamatan" : "Ngariboyo",
+  "kelurahan" : "Mojopurno",
+  "kodepos" : "63361"
+}, {
+  "kecamatan" : "Sidorejo",
+  "kelurahan" : "Durenan",
+  "kodepos" : "63361"
+}, {
+  "kecamatan" : "Sidorejo",
+  "kelurahan" : "Getasanyar",
+  "kodepos" : "63361"
+}, {
+  "kecamatan" : "Plaosan",
+  "kelurahan" : "Bulugunung",
+  "kodepos" : "63361"
+}, {
+  "kecamatan" : "Plaosan",
+  "kelurahan" : "Buluharjo",
+  "kodepos" : "63361"
+}, {
+  "kecamatan" : "Plaosan",
+  "kelurahan" : "Dadi",
+  "kodepos" : "63361"
+}, {
+  "kecamatan" : "Plaosan",
+  "kelurahan" : "Bogoarum",
+  "kodepos" : "63361"
+}, {
+  "kecamatan" : "Sidorejo",
+  "kelurahan" : "Widorokandang",
+  "kodepos" : "63352"
+}, {
+  "kecamatan" : "Panekan",
+  "kelurahan" : "Wates",
+  "kodepos" : "63352"
+}, {
+  "kecamatan" : "Panekan",
+  "kelurahan" : "Terung",
+  "kodepos" : "63352"
+}, {
+  "kecamatan" : "Panekan",
+  "kelurahan" : "Turi",
+  "kodepos" : "63352"
+}, {
+  "kecamatan" : "Panekan",
+  "kelurahan" : "Tanjungsari",
+  "kodepos" : "63352"
+}, {
+  "kecamatan" : "Panekan",
+  "kelurahan" : "Tapak",
+  "kodepos" : "63352"
+}, {
+  "kecamatan" : "Panekan",
+  "kelurahan" : "Sukowidi",
+  "kodepos" : "63352"
+}, {
+  "kecamatan" : "Panekan",
+  "kelurahan" : "Sumberdodol",
+  "kodepos" : "63352"
+}, {
+  "kecamatan" : "Sidorejo",
+  "kelurahan" : "Sumbersawit",
+  "kodepos" : "63352"
+}, {
+  "kecamatan" : "Panekan",
+  "kelurahan" : "Sidowayah",
+  "kodepos" : "63352"
+}, {
+  "kecamatan" : "Sidorejo",
+  "kelurahan" : "Sidokerto",
+  "kodepos" : "63352"
+}, {
+  "kecamatan" : "Panekan",
+  "kelurahan" : "Rejomulyo",
+  "kodepos" : "63352"
+}, {
+  "kecamatan" : "Panekan",
+  "kelurahan" : "Milangasri",
+  "kodepos" : "63352"
+}, {
+  "kecamatan" : "Panekan",
+  "kelurahan" : "Ngiliran",
+  "kodepos" : "63352"
+}, {
+  "kecamatan" : "Panekan",
+  "kelurahan" : "Panekan",
+  "kodepos" : "63352"
+}, {
+  "kecamatan" : "Panekan",
+  "kelurahan" : "Jabung",
+  "kodepos" : "63352"
+}, {
+  "kecamatan" : "Panekan",
+  "kelurahan" : "Manjung",
+  "kodepos" : "63352"
+}, {
+  "kecamatan" : "Panekan",
+  "kelurahan" : "Bedagung",
+  "kodepos" : "63352"
+}, {
+  "kecamatan" : "Panekan",
+  "kelurahan" : "Cepoko",
+  "kodepos" : "63352"
+}, {
+  "kecamatan" : "Ngariboyo",
+  "kelurahan" : "Sumberdukun",
+  "kodepos" : "63351"
+}, {
+  "kecamatan" : "Panekan",
+  "kelurahan" : "Banjarejo",
+  "kodepos" : "63352"
+}, {
+  "kecamatan" : "Ngariboyo",
+  "kelurahan" : "Selopanggung",
+  "kodepos" : "63351"
+}, {
+  "kecamatan" : "Ngariboyo",
+  "kelurahan" : "Selotinatah",
+  "kodepos" : "63351"
+}, {
+  "kecamatan" : "Ngariboyo",
+  "kelurahan" : "Ngariboyo",
+  "kodepos" : "63351"
+}, {
+  "kecamatan" : "Ngariboyo",
+  "kelurahan" : "Pendem",
+  "kodepos" : "63351"
+}, {
+  "kecamatan" : "Ngariboyo",
+  "kelurahan" : "Banjarpanjang",
+  "kodepos" : "63351"
+}, {
+  "kecamatan" : "Ngariboyo",
+  "kelurahan" : "Banyudono",
+  "kodepos" : "63351"
+}, {
+  "kecamatan" : "Ngariboyo",
+  "kelurahan" : "Balegondo",
+  "kodepos" : "63351"
+}, {
+  "kecamatan" : "Ngariboyo",
+  "kelurahan" : "Bangsri",
+  "kodepos" : "63351"
+}, {
+  "kecamatan" : "Ngariboyo",
+  "kelurahan" : "Banjarejo",
+  "kodepos" : "63351"
+}, {
+  "kecamatan" : "Ngariboyo",
+  "kelurahan" : "Baleasri",
+  "kodepos" : "63351"
+}, {
+  "kecamatan" : "Magetan",
+  "kelurahan" : "Sukowinangun",
+  "kodepos" : "63319"
+}, {
+  "kecamatan" : "Magetan",
+  "kelurahan" : "Tambakrejo",
+  "kodepos" : "63319"
+}, {
+  "kecamatan" : "Sidorejo",
+  "kelurahan" : "Sambirobyong",
+  "kodepos" : "63319"
+}, {
+  "kecamatan" : "Magetan",
+  "kelurahan" : "Purwosari",
+  "kodepos" : "63319"
+}, {
+  "kecamatan" : "Magetan",
+  "kelurahan" : "Ringinagung",
+  "kodepos" : "63319"
+}, {
+  "kecamatan" : "Magetan",
+  "kelurahan" : "Magetan",
+  "kodepos" : "63319"
+}, {
+  "kecamatan" : "Sidorejo",
+  "kelurahan" : "Kalang",
+  "kodepos" : "63319"
+}, {
+  "kecamatan" : "Magetan",
+  "kelurahan" : "Candirejo",
+  "kodepos" : "63319"
+}, {
+  "kecamatan" : "Sidorejo",
+  "kelurahan" : "Campursari",
+  "kodepos" : "63319"
+}, {
+  "kecamatan" : "Magetan",
+  "kelurahan" : "Tambran",
+  "kodepos" : "63318"
+}, {
+  "kecamatan" : "Magetan",
+  "kelurahan" : "Baron",
+  "kodepos" : "63319"
+}, {
+  "kecamatan" : "Magetan",
+  "kelurahan" : "Mangkujayan",
+  "kodepos" : "63316"
+}, {
+  "kecamatan" : "Magetan",
+  "kelurahan" : "Kebonagung",
+  "kodepos" : "63317"
+}, {
+  "kecamatan" : "Magetan",
+  "kelurahan" : "Selosari",
+  "kodepos" : "63313"
+}, {
+  "kecamatan" : "Magetan",
+  "kelurahan" : "Bulukerto",
+  "kodepos" : "63315"
+}, {
+  "kecamatan" : "Magetan",
+  "kelurahan" : "Kepolorejo",
+  "kodepos" : "63311"
+}, {
+  "kecamatan" : "Magetan",
+  "kelurahan" : "Tawanganom",
+  "kodepos" : "63312"
+}, {
+  "kecamatan" : "Barat",
+  "kelurahan" : "Banjarejo",
+  "kodepos" : "63137"
+} ]

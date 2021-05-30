@@ -1,0 +1,661 @@
+[ {
+  "kecamatan" : "Empang",
+  "kelurahan" : "Pamanto",
+  "kodepos" : "84384"
+}, {
+  "kecamatan" : "Tarano",
+  "kelurahan" : "Tolo Oi",
+  "kodepos" : "84384"
+}, {
+  "kecamatan" : "Empang",
+  "kelurahan" : "Ongko",
+  "kodepos" : "84384"
+}, {
+  "kecamatan" : "Tarano",
+  "kelurahan" : "Mata",
+  "kodepos" : "84384"
+}, {
+  "kecamatan" : "Empang",
+  "kelurahan" : "Lamenta",
+  "kodepos" : "84384"
+}, {
+  "kecamatan" : "Tarano",
+  "kelurahan" : "Labuhan Jambu",
+  "kodepos" : "84384"
+}, {
+  "kecamatan" : "Tarano",
+  "kelurahan" : "Labuhan Pidang",
+  "kodepos" : "84384"
+}, {
+  "kecamatan" : "Empang",
+  "kelurahan" : "Jotang Beru",
+  "kodepos" : "84384"
+}, {
+  "kecamatan" : "Tarano",
+  "kelurahan" : "Labuhan Aji",
+  "kodepos" : "84384"
+}, {
+  "kecamatan" : "Tarano",
+  "kelurahan" : "Labuhan Bontong",
+  "kodepos" : "84384"
+}, {
+  "kecamatan" : "Empang",
+  "kelurahan" : "Empang Bawah",
+  "kodepos" : "84384"
+}, {
+  "kecamatan" : "Empang",
+  "kelurahan" : "Gapit",
+  "kodepos" : "84384"
+}, {
+  "kecamatan" : "Empang",
+  "kelurahan" : "Jotang",
+  "kodepos" : "84384"
+}, {
+  "kecamatan" : "Empang",
+  "kelurahan" : "Bunga Eja",
+  "kodepos" : "84384"
+}, {
+  "kecamatan" : "Empang",
+  "kelurahan" : "Empang Atas",
+  "kodepos" : "84384"
+}, {
+  "kecamatan" : "Tarano",
+  "kelurahan" : "Bantulante",
+  "kodepos" : "84384"
+}, {
+  "kecamatan" : "Empang",
+  "kelurahan" : "Boal",
+  "kodepos" : "84384"
+}, {
+  "kecamatan" : "Tarano",
+  "kelurahan" : "Banda",
+  "kodepos" : "84384"
+}, {
+  "kecamatan" : "Plampang",
+  "kelurahan" : "Teluk Santong",
+  "kodepos" : "84383"
+}, {
+  "kecamatan" : "Plampang",
+  "kelurahan" : "Usar",
+  "kodepos" : "84383"
+}, {
+  "kecamatan" : "Labangka",
+  "kelurahan" : "Suka Damai",
+  "kodepos" : "84383"
+}, {
+  "kecamatan" : "Labangka",
+  "kelurahan" : "Suka Mulya",
+  "kodepos" : "84383"
+}, {
+  "kecamatan" : "Plampang",
+  "kelurahan" : "Sp II Prode/Perode",
+  "kodepos" : "84383"
+}, {
+  "kecamatan" : "Plampang",
+  "kelurahan" : "Sp III Prode/Perode",
+  "kodepos" : "84383"
+}, {
+  "kecamatan" : "Maronge",
+  "kelurahan" : "Simu",
+  "kodepos" : "84383"
+}, {
+  "kecamatan" : "Plampang",
+  "kelurahan" : "Sp I Prode/Perode",
+  "kodepos" : "84383"
+}, {
+  "kecamatan" : "Plampang",
+  "kelurahan" : "Sepayung",
+  "kodepos" : "84383"
+}, {
+  "kecamatan" : "Plampang",
+  "kelurahan" : "Selante",
+  "kodepos" : "84383"
+}, {
+  "kecamatan" : "Plampang",
+  "kelurahan" : "Sepakat",
+  "kodepos" : "84383"
+}, {
+  "kecamatan" : "Plampang",
+  "kelurahan" : "Plampang",
+  "kodepos" : "84383"
+}, {
+  "kecamatan" : "Labangka",
+  "kelurahan" : "Sekokat",
+  "kodepos" : "84383"
+}, {
+  "kecamatan" : "Plampang",
+  "kelurahan" : "Muer",
+  "kodepos" : "84383"
+}, {
+  "kecamatan" : "Maronge",
+  "kelurahan" : "Maronge",
+  "kodepos" : "84383"
+}, {
+  "kecamatan" : "Maronge",
+  "kelurahan" : "Pemasar",
+  "kodepos" : "84383"
+}, {
+  "kecamatan" : "Maronge",
+  "kelurahan" : "Labuhan Sangoro",
+  "kodepos" : "84383"
+}, {
+  "kecamatan" : "Labangka",
+  "kelurahan" : "Jaya Makmur",
+  "kodepos" : "84383"
+}, {
+  "kecamatan" : "Labangka",
+  "kelurahan" : "Labangka",
+  "kodepos" : "84383"
+}, {
+  "kecamatan" : "Plampang",
+  "kelurahan" : "Brang Kolong",
+  "kodepos" : "84383"
+}, {
+  "kecamatan" : "Lopok",
+  "kelurahan" : "Pungkit",
+  "kodepos" : "84382"
+}, {
+  "kecamatan" : "Lopok",
+  "kelurahan" : "Tatede",
+  "kodepos" : "84382"
+}, {
+  "kecamatan" : "Lopok",
+  "kelurahan" : "Mama",
+  "kodepos" : "84382"
+}, {
+  "kecamatan" : "Lopok",
+  "kelurahan" : "Lopok Beru",
+  "kodepos" : "84382"
+}, {
+  "kecamatan" : "Lopok",
+  "kelurahan" : "Lopok",
+  "kodepos" : "84382"
+}, {
+  "kecamatan" : "Lape (Lape Lopok)",
+  "kelurahan" : "Lape",
+  "kodepos" : "84382"
+}, {
+  "kecamatan" : "Lopok",
+  "kelurahan" : "Langam",
+  "kodepos" : "84382"
+}, {
+  "kecamatan" : "Lape (Lape Lopok)",
+  "kelurahan" : "Hijrah",
+  "kodepos" : "84382"
+}, {
+  "kecamatan" : "Lape (Lape Lopok)",
+  "kelurahan" : "Labuan Kuris",
+  "kodepos" : "84382"
+}, {
+  "kecamatan" : "Lape (Lape Lopok)",
+  "kelurahan" : "Dete",
+  "kodepos" : "84382"
+}, {
+  "kecamatan" : "Lopok",
+  "kelurahan" : "Berora",
+  "kodepos" : "84382"
+}, {
+  "kecamatan" : "Moyo Utara",
+  "kelurahan" : "Songkar",
+  "kodepos" : "84381"
+}, {
+  "kecamatan" : "Moyo Hilir",
+  "kelurahan" : "Serading",
+  "kodepos" : "84381"
+}, {
+  "kecamatan" : "Moyo Utara",
+  "kelurahan" : "Sebewe",
+  "kodepos" : "84381"
+}, {
+  "kecamatan" : "Moyo Hilir",
+  "kelurahan" : "Poto",
+  "kodepos" : "84381"
+}, {
+  "kecamatan" : "Moyo Utara",
+  "kelurahan" : "Penyaring",
+  "kodepos" : "84381"
+}, {
+  "kecamatan" : "Moyo Utara",
+  "kelurahan" : "Pungkit",
+  "kodepos" : "84381"
+}, {
+  "kecamatan" : "Moyo Hilir",
+  "kelurahan" : "Ngeru",
+  "kodepos" : "84381"
+}, {
+  "kecamatan" : "Moyo Hilir",
+  "kelurahan" : "Olat Rawa",
+  "kodepos" : "84381"
+}, {
+  "kecamatan" : "Moyo Hilir",
+  "kelurahan" : "Labuhan Ijuk",
+  "kodepos" : "84381"
+}, {
+  "kecamatan" : "Moyo Hilir",
+  "kelurahan" : "Moyo",
+  "kodepos" : "84381"
+}, {
+  "kecamatan" : "Moyo Hilir",
+  "kelurahan" : "Moyo Mekar",
+  "kodepos" : "84381"
+}, {
+  "kecamatan" : "Moyo Hilir",
+  "kelurahan" : "Kakiang",
+  "kodepos" : "84381"
+}, {
+  "kecamatan" : "Moyo Utara",
+  "kelurahan" : "Kukin",
+  "kodepos" : "84381"
+}, {
+  "kecamatan" : "Moyo Hilir",
+  "kelurahan" : "Batu Bangka",
+  "kodepos" : "84381"
+}, {
+  "kecamatan" : "Moyo Hilir",
+  "kelurahan" : "Berare",
+  "kodepos" : "84381"
+}, {
+  "kecamatan" : "Moyo Utara",
+  "kelurahan" : "Baru Tahan",
+  "kodepos" : "84381"
+}, {
+  "kecamatan" : "Lunyuk",
+  "kelurahan" : "Suka Maju",
+  "kodepos" : "84373"
+}, {
+  "kecamatan" : "Orong Telu",
+  "kelurahan" : "Senawang",
+  "kodepos" : "84373"
+}, {
+  "kecamatan" : "Lunyuk",
+  "kelurahan" : "Pada Suka",
+  "kodepos" : "84373"
+}, {
+  "kecamatan" : "Lunyuk",
+  "kelurahan" : "Perung",
+  "kodepos" : "84373"
+}, {
+  "kecamatan" : "Orong Telu",
+  "kelurahan" : "Sebeok",
+  "kodepos" : "84373"
+}, {
+  "kecamatan" : "Lunyuk",
+  "kelurahan" : "Lunyuk Ode",
+  "kodepos" : "84373"
+}, {
+  "kecamatan" : "Lunyuk",
+  "kelurahan" : "Lunyuk Rea",
+  "kodepos" : "84373"
+}, {
+  "kecamatan" : "Orong Telu",
+  "kelurahan" : "Mungkin",
+  "kodepos" : "84373"
+}, {
+  "kecamatan" : "Lunyuk",
+  "kelurahan" : "Jamu",
+  "kodepos" : "84373"
+}, {
+  "kecamatan" : "Orong Telu",
+  "kelurahan" : "Kelawis",
+  "kodepos" : "84373"
+}, {
+  "kecamatan" : "Lunyuk",
+  "kelurahan" : "Emang Lestari",
+  "kodepos" : "84373"
+}, {
+  "kecamatan" : "Lenangguar",
+  "kelurahan" : "Tatebal",
+  "kodepos" : "84372"
+}, {
+  "kecamatan" : "Lenangguar",
+  "kelurahan" : "Telaga",
+  "kodepos" : "84372"
+}, {
+  "kecamatan" : "Lantung",
+  "kelurahan" : "Sepukur",
+  "kodepos" : "84372"
+}, {
+  "kecamatan" : "Ropang",
+  "kelurahan" : "Ropang",
+  "kodepos" : "84372"
+}, {
+  "kecamatan" : "Lantung",
+  "kelurahan" : "Padesa",
+  "kodepos" : "84372"
+}, {
+  "kecamatan" : "Ropang",
+  "kelurahan" : "Ranan",
+  "kodepos" : "84372"
+}, {
+  "kecamatan" : "Lenangguar",
+  "kelurahan" : "Ledang",
+  "kodepos" : "84372"
+}, {
+  "kecamatan" : "Lenangguar",
+  "kelurahan" : "Lenangguar",
+  "kodepos" : "84372"
+}, {
+  "kecamatan" : "Ropang",
+  "kelurahan" : "Lebin",
+  "kodepos" : "84372"
+}, {
+  "kecamatan" : "Ropang",
+  "kelurahan" : "Lawin",
+  "kodepos" : "84372"
+}, {
+  "kecamatan" : "Ropang",
+  "kelurahan" : "Lebangkar",
+  "kodepos" : "84372"
+}, {
+  "kecamatan" : "Lantung",
+  "kelurahan" : "Ai Mual",
+  "kodepos" : "84372"
+}, {
+  "kecamatan" : "Lantung",
+  "kelurahan" : "Lantung",
+  "kodepos" : "84372"
+}, {
+  "kecamatan" : "Moyo Hulu",
+  "kelurahan" : "Semamung",
+  "kodepos" : "84371"
+}, {
+  "kecamatan" : "Moyo Hulu",
+  "kelurahan" : "Sempe",
+  "kodepos" : "84371"
+}, {
+  "kecamatan" : "Moyo Hulu",
+  "kelurahan" : "Sebasang",
+  "kodepos" : "84371"
+}, {
+  "kecamatan" : "Moyo Hulu",
+  "kelurahan" : "Pernek",
+  "kodepos" : "84371"
+}, {
+  "kecamatan" : "Moyo Hulu",
+  "kelurahan" : "Marga Karya",
+  "kodepos" : "84371"
+}, {
+  "kecamatan" : "Moyo Hulu",
+  "kelurahan" : "Mokong",
+  "kodepos" : "84371"
+}, {
+  "kecamatan" : "Moyo Hulu",
+  "kelurahan" : "Leseng",
+  "kodepos" : "84371"
+}, {
+  "kecamatan" : "Moyo Hulu",
+  "kelurahan" : "Lito",
+  "kodepos" : "84371"
+}, {
+  "kecamatan" : "Moyo Hulu",
+  "kelurahan" : "Maman",
+  "kodepos" : "84371"
+}, {
+  "kecamatan" : "Moyo Hulu",
+  "kelurahan" : "Batutering",
+  "kodepos" : "84371"
+}, {
+  "kecamatan" : "Moyo Hulu",
+  "kelurahan" : "Berang Rea",
+  "kodepos" : "84371"
+}, {
+  "kecamatan" : "Moyo Hulu",
+  "kelurahan" : "Batubulan",
+  "kodepos" : "84371"
+}, {
+  "kecamatan" : "Batulanteh",
+  "kelurahan" : "Kelungkung",
+  "kodepos" : "84361"
+}, {
+  "kecamatan" : "Batulanteh",
+  "kelurahan" : "Tangkampulit (Tangkan Pulit)",
+  "kodepos" : "84361"
+}, {
+  "kecamatan" : "Batulanteh",
+  "kelurahan" : "Tepal",
+  "kodepos" : "84361"
+}, {
+  "kecamatan" : "Batulanteh",
+  "kelurahan" : "Batudulang",
+  "kodepos" : "84361"
+}, {
+  "kecamatan" : "Batulanteh",
+  "kelurahan" : "Baturotok",
+  "kodepos" : "84361"
+}, {
+  "kecamatan" : "Batulanteh",
+  "kelurahan" : "Bao Desa",
+  "kodepos" : "84361"
+}, {
+  "kecamatan" : "Alas Barat",
+  "kelurahan" : "Usar Mapin",
+  "kodepos" : "84353"
+}, {
+  "kecamatan" : "Buer",
+  "kelurahan" : "Tarusa",
+  "kodepos" : "84353"
+}, {
+  "kecamatan" : "Alas",
+  "kelurahan" : "Pulau Bungin",
+  "kodepos" : "84353"
+}, {
+  "kecamatan" : "Buer",
+  "kelurahan" : "Pulau Kaung",
+  "kodepos" : "84353"
+}, {
+  "kecamatan" : "Alas Barat",
+  "kelurahan" : "Mapin Rea",
+  "kodepos" : "84353"
+}, {
+  "kecamatan" : "Alas",
+  "kelurahan" : "Marenteh",
+  "kodepos" : "84353"
+}, {
+  "kecamatan" : "Alas Barat",
+  "kelurahan" : "Mapin Baru",
+  "kodepos" : "84353"
+}, {
+  "kecamatan" : "Alas Barat",
+  "kelurahan" : "Mapin Kebak",
+  "kodepos" : "84353"
+}, {
+  "kecamatan" : "Alas",
+  "kelurahan" : "Luar",
+  "kodepos" : "84353"
+}, {
+  "kecamatan" : "Buer",
+  "kelurahan" : "Labuhan Burung",
+  "kodepos" : "84353"
+}, {
+  "kecamatan" : "Alas Barat",
+  "kelurahan" : "Lekong",
+  "kodepos" : "84353"
+}, {
+  "kecamatan" : "Alas Barat",
+  "kelurahan" : "Labuan Mapin",
+  "kodepos" : "84353"
+}, {
+  "kecamatan" : "Alas",
+  "kelurahan" : "Labuhan Alas",
+  "kodepos" : "84353"
+}, {
+  "kecamatan" : "Buer",
+  "kelurahan" : "Kalabeso",
+  "kodepos" : "84353"
+}, {
+  "kecamatan" : "Alas",
+  "kelurahan" : "Kalimango",
+  "kodepos" : "84353"
+}, {
+  "kecamatan" : "Alas Barat",
+  "kelurahan" : "Gontar Baru",
+  "kodepos" : "84353"
+}, {
+  "kecamatan" : "Alas",
+  "kelurahan" : "Juranalas",
+  "kodepos" : "84353"
+}, {
+  "kecamatan" : "Buer",
+  "kelurahan" : "Juru Mapin",
+  "kodepos" : "84353"
+}, {
+  "kecamatan" : "Alas Barat",
+  "kelurahan" : "Gontar",
+  "kodepos" : "84353"
+}, {
+  "kecamatan" : "Alas",
+  "kelurahan" : "Dalam",
+  "kodepos" : "84353"
+}, {
+  "kecamatan" : "Buer",
+  "kelurahan" : "Buin Baru",
+  "kodepos" : "84353"
+}, {
+  "kecamatan" : "Alas",
+  "kelurahan" : "Baru",
+  "kodepos" : "84353"
+}, {
+  "kecamatan" : "Utan",
+  "kelurahan" : "Stowe Brang",
+  "kodepos" : "84352"
+}, {
+  "kecamatan" : "Utan",
+  "kelurahan" : "Tengah",
+  "kodepos" : "84352"
+}, {
+  "kecamatan" : "Rhee",
+  "kelurahan" : "Rhee Loka",
+  "kodepos" : "84352"
+}, {
+  "kecamatan" : "Rhee",
+  "kelurahan" : "Sampe",
+  "kodepos" : "84352"
+}, {
+  "kecamatan" : "Utan",
+  "kelurahan" : "Sebedo (Sabedo)",
+  "kodepos" : "84352"
+}, {
+  "kecamatan" : "Rhee",
+  "kelurahan" : "Rhee",
+  "kodepos" : "84352"
+}, {
+  "kecamatan" : "Utan",
+  "kelurahan" : "Pukat",
+  "kodepos" : "84352"
+}, {
+  "kecamatan" : "Utan",
+  "kelurahan" : "Motong",
+  "kodepos" : "84352"
+}, {
+  "kecamatan" : "Utan",
+  "kelurahan" : "Orong Bawa",
+  "kodepos" : "84352"
+}, {
+  "kecamatan" : "Rhee",
+  "kelurahan" : "Luk",
+  "kodepos" : "84352"
+}, {
+  "kecamatan" : "Utan",
+  "kelurahan" : "Labuan Bajo",
+  "kodepos" : "84352"
+}, {
+  "kecamatan" : "Utan",
+  "kelurahan" : "Bale Brang",
+  "kodepos" : "84352"
+}, {
+  "kecamatan" : "Utan",
+  "kelurahan" : "Jorok",
+  "kodepos" : "84352"
+}, {
+  "kecamatan" : "Sumbawa",
+  "kelurahan" : "Uma Sima",
+  "kodepos" : "84317"
+}, {
+  "kecamatan" : "Sumbawa",
+  "kelurahan" : "Brang Biji",
+  "kodepos" : "84318"
+}, {
+  "kecamatan" : "Labuhan Badas",
+  "kelurahan" : "Sebotok",
+  "kodepos" : "84316"
+}, {
+  "kecamatan" : "Unter Iwes (Unterwiris)",
+  "kelurahan" : "Uma Beringin",
+  "kodepos" : "84316"
+}, {
+  "kecamatan" : "Sumbawa",
+  "kelurahan" : "Samapuin",
+  "kodepos" : "84316"
+}, {
+  "kecamatan" : "Unter Iwes (Unterwiris)",
+  "kelurahan" : "Pungka",
+  "kodepos" : "84316"
+}, {
+  "kecamatan" : "Unter Iwes (Unterwiris)",
+  "kelurahan" : "Pelat",
+  "kodepos" : "84316"
+}, {
+  "kecamatan" : "Labuhan Badas",
+  "kelurahan" : "Labuhan Badas",
+  "kodepos" : "84316"
+}, {
+  "kecamatan" : "Unter Iwes (Unterwiris)",
+  "kelurahan" : "Nijang",
+  "kodepos" : "84316"
+}, {
+  "kecamatan" : "Labuhan Badas",
+  "kelurahan" : "Labuan Aji",
+  "kodepos" : "84316"
+}, {
+  "kecamatan" : "Labuhan Badas",
+  "kelurahan" : "Labuan Sumbawa",
+  "kodepos" : "84316"
+}, {
+  "kecamatan" : "Unter Iwes (Unterwiris)",
+  "kelurahan" : "Kerato",
+  "kodepos" : "84316"
+}, {
+  "kecamatan" : "Unter Iwes (Unterwiris)",
+  "kelurahan" : "Kerekeh",
+  "kodepos" : "84316"
+}, {
+  "kecamatan" : "Labuhan Badas",
+  "kelurahan" : "Bugis Medang",
+  "kodepos" : "84316"
+}, {
+  "kecamatan" : "Labuhan Badas",
+  "kelurahan" : "Karang Dima",
+  "kodepos" : "84316"
+}, {
+  "kecamatan" : "Unter Iwes (Unterwiris)",
+  "kelurahan" : "Jorok",
+  "kodepos" : "84316"
+}, {
+  "kecamatan" : "Unter Iwes (Unterwiris)",
+  "kelurahan" : "Boak",
+  "kodepos" : "84316"
+}, {
+  "kecamatan" : "Labuhan Badas",
+  "kelurahan" : "Bajo Medang",
+  "kodepos" : "84316"
+}, {
+  "kecamatan" : "Sumbawa",
+  "kelurahan" : "Brang Bara",
+  "kodepos" : "84314"
+}, {
+  "kecamatan" : "Sumbawa",
+  "kelurahan" : "Pekat",
+  "kodepos" : "84315"
+}, {
+  "kecamatan" : "Sumbawa",
+  "kelurahan" : "Lempeh",
+  "kodepos" : "84312"
+}, {
+  "kecamatan" : "Sumbawa",
+  "kelurahan" : "Bugis",
+  "kodepos" : "84313"
+}, {
+  "kecamatan" : "Sumbawa",
+  "kelurahan" : "Seketeng",
+  "kodepos" : "84311"
+} ]

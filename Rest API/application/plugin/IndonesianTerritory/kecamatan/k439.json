@@ -1,0 +1,953 @@
+[ {
+  "kecamatan" : "Rambang Kuang",
+  "kelurahan" : "Ulak Segara",
+  "kodepos" : "30869"
+}, {
+  "kecamatan" : "Rambang Kuang",
+  "kelurahan" : "Tangai Sukananti",
+  "kodepos" : "30869"
+}, {
+  "kecamatan" : "Rambang Kuang",
+  "kelurahan" : "Tanjung Bulan",
+  "kodepos" : "30869"
+}, {
+  "kecamatan" : "Rambang Kuang",
+  "kelurahan" : "Tanjung Miring",
+  "kodepos" : "30869"
+}, {
+  "kecamatan" : "Rambang Kuang",
+  "kelurahan" : "Sukananti",
+  "kodepos" : "30869"
+}, {
+  "kecamatan" : "Rambang Kuang",
+  "kelurahan" : "Sunur",
+  "kodepos" : "30869"
+}, {
+  "kecamatan" : "Rambang Kuang",
+  "kelurahan" : "Tambang Rambang",
+  "kodepos" : "30869"
+}, {
+  "kecamatan" : "Rambang Kuang",
+  "kelurahan" : "Kuang Dalam Timur",
+  "kodepos" : "30869"
+}, {
+  "kecamatan" : "Rambang Kuang",
+  "kelurahan" : "Lubuk Tunggal",
+  "kodepos" : "30869"
+}, {
+  "kecamatan" : "Rambang Kuang",
+  "kelurahan" : "Ibul Dalam",
+  "kodepos" : "30869"
+}, {
+  "kecamatan" : "Rambang Kuang",
+  "kelurahan" : "Kayu Ara",
+  "kodepos" : "30869"
+}, {
+  "kecamatan" : "Rambang Kuang",
+  "kelurahan" : "Kuang Dalam Barat",
+  "kodepos" : "30869"
+}, {
+  "kecamatan" : "Lubuk Keliat",
+  "kelurahan" : "Talang Tengah Laut",
+  "kodepos" : "30868"
+}, {
+  "kecamatan" : "Lubuk Keliat",
+  "kelurahan" : "Ulak Kembahang",
+  "kodepos" : "30868"
+}, {
+  "kecamatan" : "Rambang Kuang",
+  "kelurahan" : "Beringin Dalam",
+  "kodepos" : "30869"
+}, {
+  "kecamatan" : "Lubuk Keliat",
+  "kelurahan" : "Lubuk Keliat",
+  "kodepos" : "30868"
+}, {
+  "kecamatan" : "Lubuk Keliat",
+  "kelurahan" : "Payalingkung",
+  "kodepos" : "30868"
+}, {
+  "kecamatan" : "Lubuk Keliat",
+  "kelurahan" : "Talang Tengah Darat",
+  "kodepos" : "30868"
+}, {
+  "kecamatan" : "Lubuk Keliat",
+  "kelurahan" : "Kasih Raja",
+  "kodepos" : "30868"
+}, {
+  "kecamatan" : "Lubuk Keliat",
+  "kelurahan" : "Ketiau",
+  "kodepos" : "30868"
+}, {
+  "kecamatan" : "Lubuk Keliat",
+  "kelurahan" : "Betung II",
+  "kodepos" : "30868"
+}, {
+  "kecamatan" : "Lubuk Keliat",
+  "kelurahan" : "Embacang",
+  "kodepos" : "30868"
+}, {
+  "kecamatan" : "Lubuk Keliat",
+  "kelurahan" : "Betung I",
+  "kodepos" : "30868"
+}, {
+  "kecamatan" : "Kandis",
+  "kelurahan" : "Santapan Barat",
+  "kodepos" : "30867"
+}, {
+  "kecamatan" : "Kandis",
+  "kelurahan" : "Santapan Timur",
+  "kodepos" : "30867"
+}, {
+  "kecamatan" : "Kandis",
+  "kelurahan" : "Tanjung Alai",
+  "kodepos" : "30867"
+}, {
+  "kecamatan" : "Kandis",
+  "kelurahan" : "Muara Kumbang",
+  "kodepos" : "30867"
+}, {
+  "kecamatan" : "Kandis",
+  "kelurahan" : "Pandan Arang",
+  "kodepos" : "30867"
+}, {
+  "kecamatan" : "Kandis",
+  "kelurahan" : "Lubuk Rukam",
+  "kodepos" : "30867"
+}, {
+  "kecamatan" : "Kandis",
+  "kelurahan" : "Lubuk Segonang",
+  "kodepos" : "30867"
+}, {
+  "kecamatan" : "Kandis",
+  "kelurahan" : "Miji",
+  "kodepos" : "30867"
+}, {
+  "kecamatan" : "Kandis",
+  "kelurahan" : "Kumbang Ulu",
+  "kodepos" : "30867"
+}, {
+  "kecamatan" : "Kandis",
+  "kelurahan" : "Kandis II",
+  "kodepos" : "30867"
+}, {
+  "kecamatan" : "Kandis",
+  "kelurahan" : "Kumbang Ilir",
+  "kodepos" : "30867"
+}, {
+  "kecamatan" : "Rantau Alai",
+  "kelurahan" : "Tanjung Mas",
+  "kodepos" : "30866"
+}, {
+  "kecamatan" : "Kandis",
+  "kelurahan" : "Kandis I",
+  "kodepos" : "30867"
+}, {
+  "kecamatan" : "Rantau Alai",
+  "kelurahan" : "Sukananti",
+  "kodepos" : "30866"
+}, {
+  "kecamatan" : "Rantau Alai",
+  "kelurahan" : "Sukananti Baru",
+  "kodepos" : "30866"
+}, {
+  "kecamatan" : "Rantau Alai",
+  "kelurahan" : "Talang Sari",
+  "kodepos" : "30866"
+}, {
+  "kecamatan" : "Rantau Alai",
+  "kelurahan" : "Sirah Pulau Kilip",
+  "kodepos" : "30866"
+}, {
+  "kecamatan" : "Rantau Alai",
+  "kelurahan" : "Suka Maju (Sukamuju)",
+  "kodepos" : "30866"
+}, {
+  "kecamatan" : "Rantau Alai",
+  "kelurahan" : "Sukamarga",
+  "kodepos" : "30866"
+}, {
+  "kecamatan" : "Rantau Alai",
+  "kelurahan" : "Rantau Alai",
+  "kodepos" : "30866"
+}, {
+  "kecamatan" : "Rantau Alai",
+  "kelurahan" : "Sanding Marga",
+  "kodepos" : "30866"
+}, {
+  "kecamatan" : "Rantau Alai",
+  "kelurahan" : "Lebung Bandung",
+  "kodepos" : "30866"
+}, {
+  "kecamatan" : "Rantau Alai",
+  "kelurahan" : "Mekar Sari",
+  "kodepos" : "30866"
+}, {
+  "kecamatan" : "Rantau Alai",
+  "kelurahan" : "Kelampaian",
+  "kodepos" : "30866"
+}, {
+  "kecamatan" : "Rantau Alai",
+  "kelurahan" : "Kertabayang",
+  "kodepos" : "30866"
+}, {
+  "kecamatan" : "Muara Kuang",
+  "kelurahan" : "Seri Menanti",
+  "kodepos" : "30865"
+}, {
+  "kecamatan" : "Muara Kuang",
+  "kelurahan" : "Suka Cinta",
+  "kodepos" : "30865"
+}, {
+  "kecamatan" : "Muara Kuang",
+  "kelurahan" : "Tanabang Ulu",
+  "kodepos" : "30865"
+}, {
+  "kecamatan" : "Muara Kuang",
+  "kelurahan" : "Rantau Sialang",
+  "kodepos" : "30865"
+}, {
+  "kecamatan" : "Muara Kuang",
+  "kelurahan" : "Seri Kembang",
+  "kodepos" : "30865"
+}, {
+  "kecamatan" : "Muara Kuang",
+  "kelurahan" : "Muara Kuang",
+  "kodepos" : "30865"
+}, {
+  "kecamatan" : "Muara Kuang",
+  "kelurahan" : "Munggu",
+  "kodepos" : "30865"
+}, {
+  "kecamatan" : "Muara Kuang",
+  "kelurahan" : "Nagasari",
+  "kodepos" : "30865"
+}, {
+  "kecamatan" : "Muara Kuang",
+  "kelurahan" : "Kuang Anyar",
+  "kodepos" : "30865"
+}, {
+  "kecamatan" : "Muara Kuang",
+  "kelurahan" : "Kalampadu (Kelampadu)",
+  "kodepos" : "30865"
+}, {
+  "kecamatan" : "Muara Kuang",
+  "kelurahan" : "Kasah",
+  "kodepos" : "30865"
+}, {
+  "kecamatan" : "Indralaya",
+  "kelurahan" : "Ulak Banding",
+  "kodepos" : "30862"
+}, {
+  "kecamatan" : "Indralaya",
+  "kelurahan" : "Ulak Bedil",
+  "kodepos" : "30862"
+}, {
+  "kecamatan" : "Indralaya",
+  "kelurahan" : "Ulak Segelung",
+  "kodepos" : "30862"
+}, {
+  "kecamatan" : "Indralaya Utara",
+  "kelurahan" : "Timbangan",
+  "kodepos" : "30862"
+}, {
+  "kecamatan" : "Indralaya",
+  "kelurahan" : "Tunas Aur",
+  "kodepos" : "30862"
+}, {
+  "kecamatan" : "Indralaya Utara",
+  "kelurahan" : "Tanjung Pule",
+  "kodepos" : "30862"
+}, {
+  "kecamatan" : "Indralaya Selatan",
+  "kelurahan" : "Tebing Gerinting Selatan",
+  "kodepos" : "30862"
+}, {
+  "kecamatan" : "Indralaya Selatan",
+  "kelurahan" : "Tebing Gerinting Utara",
+  "kodepos" : "30862"
+}, {
+  "kecamatan" : "Indralaya Selatan",
+  "kelurahan" : "Tanjung Dayang Utara",
+  "kodepos" : "30862"
+}, {
+  "kecamatan" : "Indralaya",
+  "kelurahan" : "Tanjung Gelam",
+  "kodepos" : "30862"
+}, {
+  "kecamatan" : "Indralaya Selatan",
+  "kelurahan" : "Tanjung Lubuk",
+  "kodepos" : "30862"
+}, {
+  "kecamatan" : "Indralaya Utara",
+  "kelurahan" : "Tanjung Baru",
+  "kodepos" : "30862"
+}, {
+  "kecamatan" : "Indralaya Selatan",
+  "kelurahan" : "Tanjung Dayang Selatan",
+  "kodepos" : "30862"
+}, {
+  "kecamatan" : "Indralaya",
+  "kelurahan" : "Tanjung Agung",
+  "kodepos" : "30862"
+}, {
+  "kecamatan" : "Indralaya Utara",
+  "kelurahan" : "Sungai Rambutan",
+  "kodepos" : "30862"
+}, {
+  "kecamatan" : "Indralaya",
+  "kelurahan" : "Talang Aur",
+  "kodepos" : "30862"
+}, {
+  "kecamatan" : "Indralaya Selatan",
+  "kelurahan" : "Sukaraja Baru",
+  "kodepos" : "30862"
+}, {
+  "kecamatan" : "Indralaya Selatan",
+  "kelurahan" : "Sukaraja Lama",
+  "kodepos" : "30862"
+}, {
+  "kecamatan" : "Indralaya Utara",
+  "kelurahan" : "Suka Mulia",
+  "kodepos" : "30862"
+}, {
+  "kecamatan" : "Indralaya Utara",
+  "kelurahan" : "Suak/Soak Batok",
+  "kodepos" : "30862"
+}, {
+  "kecamatan" : "Indralaya",
+  "kelurahan" : "Sudimampir",
+  "kodepos" : "30862"
+}, {
+  "kecamatan" : "Indralaya Utara",
+  "kelurahan" : "Purnajaya",
+  "kodepos" : "30862"
+}, {
+  "kecamatan" : "Indralaya",
+  "kelurahan" : "Sejaro Sakti",
+  "kodepos" : "30862"
+}, {
+  "kecamatan" : "Indralaya Utara",
+  "kelurahan" : "Permata Baru",
+  "kodepos" : "30862"
+}, {
+  "kecamatan" : "Indralaya Utara",
+  "kelurahan" : "Pulau Kabai",
+  "kodepos" : "30862"
+}, {
+  "kecamatan" : "Indralaya Utara",
+  "kelurahan" : "Pulau Semambu",
+  "kodepos" : "30862"
+}, {
+  "kecamatan" : "Indralaya Utara",
+  "kelurahan" : "Parit",
+  "kodepos" : "30862"
+}, {
+  "kecamatan" : "Indralaya",
+  "kelurahan" : "Penyandingan",
+  "kodepos" : "30862"
+}, {
+  "kecamatan" : "Indralaya Utara",
+  "kelurahan" : "Palem Raya",
+  "kodepos" : "30862"
+}, {
+  "kecamatan" : "Indralaya",
+  "kelurahan" : "Muara Penimbung Ulu",
+  "kodepos" : "30862"
+}, {
+  "kecamatan" : "Indralaya",
+  "kelurahan" : "Muara Penimbung Ilir",
+  "kodepos" : "30862"
+}, {
+  "kecamatan" : "Indralaya Selatan",
+  "kelurahan" : "Meranjat Ilir",
+  "kodepos" : "30862"
+}, {
+  "kecamatan" : "Indralaya Selatan",
+  "kelurahan" : "Meranjat II",
+  "kodepos" : "30862"
+}, {
+  "kecamatan" : "Indralaya Selatan",
+  "kelurahan" : "Meranjat III",
+  "kodepos" : "30862"
+}, {
+  "kecamatan" : "Indralaya Selatan",
+  "kelurahan" : "Mandiangin",
+  "kodepos" : "30862"
+}, {
+  "kecamatan" : "Indralaya",
+  "kelurahan" : "Lubuk Sakti",
+  "kodepos" : "30862"
+}, {
+  "kecamatan" : "Indralaya Selatan",
+  "kelurahan" : "Meranjat I",
+  "kodepos" : "30862"
+}, {
+  "kecamatan" : "Indralaya Utara",
+  "kelurahan" : "Lorok",
+  "kodepos" : "30862"
+}, {
+  "kecamatan" : "Indralaya",
+  "kelurahan" : "Indralaya Mulia",
+  "kodepos" : "30862"
+}, {
+  "kecamatan" : "Indralaya",
+  "kelurahan" : "Indralaya Raya",
+  "kodepos" : "30862"
+}, {
+  "kecamatan" : "Indralaya Utara",
+  "kelurahan" : "Bakung",
+  "kodepos" : "30862"
+}, {
+  "kecamatan" : "Indralaya",
+  "kelurahan" : "Indralaya Indah",
+  "kodepos" : "30862"
+}, {
+  "kecamatan" : "Indralaya Selatan",
+  "kelurahan" : "Beti",
+  "kodepos" : "30862"
+}, {
+  "kecamatan" : "Indralaya Selatan",
+  "kelurahan" : "Arisan Gading",
+  "kodepos" : "30862"
+}, {
+  "kecamatan" : "Indralaya",
+  "kelurahan" : "Sakatiga",
+  "kodepos" : "30816"
+}, {
+  "kecamatan" : "Indralaya",
+  "kelurahan" : "Tanjung Seteko",
+  "kodepos" : "30817"
+}, {
+  "kecamatan" : "Indralaya",
+  "kelurahan" : "Sakatiga Seberang",
+  "kodepos" : "30814"
+}, {
+  "kecamatan" : "Indralaya",
+  "kelurahan" : "Tanjung Sejaro",
+  "kodepos" : "30815"
+}, {
+  "kecamatan" : "Indralaya Utara",
+  "kelurahan" : "Payakabung",
+  "kodepos" : "30812"
+}, {
+  "kecamatan" : "Indralaya Utara",
+  "kelurahan" : "Tanjung Pering",
+  "kodepos" : "30813"
+}, {
+  "kecamatan" : "Payaraman",
+  "kelurahan" : "Tebedak II",
+  "kodepos" : "30664"
+}, {
+  "kecamatan" : "Payaraman",
+  "kelurahan" : "Tebedak I",
+  "kodepos" : "30664"
+}, {
+  "kecamatan" : "Tanjung Batu",
+  "kelurahan" : "Tanjung Tambak",
+  "kodepos" : "30664"
+}, {
+  "kecamatan" : "Tanjung Batu",
+  "kelurahan" : "Tanjung Tambak Baru",
+  "kodepos" : "30664"
+}, {
+  "kecamatan" : "Tanjung Batu",
+  "kelurahan" : "Tanjung Pinang I",
+  "kodepos" : "30664"
+}, {
+  "kecamatan" : "Tanjung Batu",
+  "kelurahan" : "Tanjung Pinang II",
+  "kodepos" : "30664"
+}, {
+  "kecamatan" : "Tanjung Batu",
+  "kelurahan" : "Tanjung Batu Timur",
+  "kodepos" : "30664"
+}, {
+  "kecamatan" : "Payaraman",
+  "kelurahan" : "Tanjung Lalang",
+  "kodepos" : "30664"
+}, {
+  "kecamatan" : "Tanjung Batu",
+  "kelurahan" : "Tanjung Laut",
+  "kodepos" : "30664"
+}, {
+  "kecamatan" : "Tanjung Batu",
+  "kelurahan" : "Tanjung Batu Seberang",
+  "kodepos" : "30664"
+}, {
+  "kecamatan" : "Tanjung Batu",
+  "kelurahan" : "Tanjung Atap Barat",
+  "kodepos" : "30664"
+}, {
+  "kecamatan" : "Tanjung Batu",
+  "kelurahan" : "Tanjung Baru Petai",
+  "kodepos" : "30664"
+}, {
+  "kecamatan" : "Tanjung Batu",
+  "kelurahan" : "Tanjung Batu",
+  "kodepos" : "30664"
+}, {
+  "kecamatan" : "Tanjung Batu",
+  "kelurahan" : "Tanjung Atap",
+  "kodepos" : "30664"
+}, {
+  "kecamatan" : "Payaraman",
+  "kelurahan" : "Talang Seleman",
+  "kodepos" : "30664"
+}, {
+  "kecamatan" : "Tanjung Batu",
+  "kelurahan" : "Seri Tanjung",
+  "kodepos" : "30664"
+}, {
+  "kecamatan" : "Payaraman",
+  "kelurahan" : "Seri Kembang III",
+  "kodepos" : "30664"
+}, {
+  "kecamatan" : "Payaraman",
+  "kelurahan" : "Seri Kembang I",
+  "kodepos" : "30664"
+}, {
+  "kecamatan" : "Payaraman",
+  "kelurahan" : "Seri Kembang II",
+  "kodepos" : "30664"
+}, {
+  "kecamatan" : "Tanjung Batu",
+  "kelurahan" : "Senuro Timur",
+  "kodepos" : "30664"
+}, {
+  "kecamatan" : "Tanjung Batu",
+  "kelurahan" : "Seri Bandung",
+  "kodepos" : "30664"
+}, {
+  "kecamatan" : "Tanjung Batu",
+  "kelurahan" : "Sentul",
+  "kodepos" : "30664"
+}, {
+  "kecamatan" : "Tanjung Batu",
+  "kelurahan" : "Senuro Barat",
+  "kodepos" : "30664"
+}, {
+  "kecamatan" : "Payaraman",
+  "kelurahan" : "Rengas I",
+  "kodepos" : "30664"
+}, {
+  "kecamatan" : "Payaraman",
+  "kelurahan" : "Rengas II",
+  "kodepos" : "30664"
+}, {
+  "kecamatan" : "Payaraman",
+  "kelurahan" : "Payaraman Barat",
+  "kodepos" : "30664"
+}, {
+  "kecamatan" : "Payaraman",
+  "kelurahan" : "Payaraman Timur",
+  "kodepos" : "30664"
+}, {
+  "kecamatan" : "Payaraman",
+  "kelurahan" : "Paya Besar",
+  "kodepos" : "30664"
+}, {
+  "kecamatan" : "Tanjung Batu",
+  "kelurahan" : "Pajar/Fajar Bulan",
+  "kodepos" : "30664"
+}, {
+  "kecamatan" : "Payaraman",
+  "kelurahan" : "Lubuk Bandung",
+  "kodepos" : "30664"
+}, {
+  "kecamatan" : "Tanjung Batu",
+  "kelurahan" : "Limbang Jaya II",
+  "kodepos" : "30664"
+}, {
+  "kecamatan" : "Tanjung Batu",
+  "kelurahan" : "Limbang Jaya I",
+  "kodepos" : "30664"
+}, {
+  "kecamatan" : "Tanjung Batu",
+  "kelurahan" : "Bangun Jaya",
+  "kodepos" : "30664"
+}, {
+  "kecamatan" : "Tanjung Batu",
+  "kelurahan" : "Burai",
+  "kodepos" : "30664"
+}, {
+  "kecamatan" : "Tanjung Raja",
+  "kelurahan" : "Ulak Kerbau Baru",
+  "kodepos" : "30661"
+}, {
+  "kecamatan" : "Tanjung Raja",
+  "kelurahan" : "Ulak Kerbau Lama",
+  "kodepos" : "30661"
+}, {
+  "kecamatan" : "Tanjung Raja",
+  "kelurahan" : "Tanjung Raja Utara",
+  "kodepos" : "30661"
+}, {
+  "kecamatan" : "Tanjung Raja",
+  "kelurahan" : "Tanjung Temiang",
+  "kodepos" : "30661"
+}, {
+  "kecamatan" : "Tanjung Raja",
+  "kelurahan" : "Tanjung Raja Selatan",
+  "kodepos" : "30661"
+}, {
+  "kecamatan" : "Tanjung Raja",
+  "kelurahan" : "Tanjung Raja Timur",
+  "kodepos" : "30661"
+}, {
+  "kecamatan" : "Tanjung Raja",
+  "kelurahan" : "Tanjung Raja Barat",
+  "kodepos" : "30661"
+}, {
+  "kecamatan" : "Tanjung Raja",
+  "kelurahan" : "Tanjung Raja",
+  "kodepos" : "30661"
+}, {
+  "kecamatan" : "Tanjung Raja",
+  "kelurahan" : "Tanjung Agas",
+  "kodepos" : "30661"
+}, {
+  "kecamatan" : "Tanjung Raja",
+  "kelurahan" : "Tanjung Harapan",
+  "kodepos" : "30661"
+}, {
+  "kecamatan" : "Tanjung Raja",
+  "kelurahan" : "Talang Balai Lama",
+  "kodepos" : "30661"
+}, {
+  "kecamatan" : "Sungai Pinang",
+  "kelurahan" : "Talang Dukun",
+  "kodepos" : "30661"
+}, {
+  "kecamatan" : "Tanjung Raja",
+  "kelurahan" : "Talang Balai Baru II",
+  "kodepos" : "30661"
+}, {
+  "kecamatan" : "Tanjung Raja",
+  "kelurahan" : "Talang Balai Baru I",
+  "kodepos" : "30661"
+}, {
+  "kecamatan" : "Sungai Pinang",
+  "kelurahan" : "Tajung Serian",
+  "kodepos" : "30661"
+}, {
+  "kecamatan" : "Sungai Pinang",
+  "kelurahan" : "Sungai Pinang Nibung",
+  "kodepos" : "30661"
+}, {
+  "kecamatan" : "Rantau Panjang",
+  "kelurahan" : "Sungai Rotan",
+  "kodepos" : "30661"
+}, {
+  "kecamatan" : "Sungai Pinang",
+  "kelurahan" : "Sungai Pinang II",
+  "kodepos" : "30661"
+}, {
+  "kecamatan" : "Sungai Pinang",
+  "kelurahan" : "Sungai Pinang III",
+  "kodepos" : "30661"
+}, {
+  "kecamatan" : "Sungai Pinang",
+  "kelurahan" : "Sungai Pinang Lagati",
+  "kodepos" : "30661"
+}, {
+  "kecamatan" : "Tanjung Raja",
+  "kelurahan" : "Suka Pindah",
+  "kodepos" : "30661"
+}, {
+  "kecamatan" : "Sungai Pinang",
+  "kelurahan" : "Sungai Pinang",
+  "kodepos" : "30661"
+}, {
+  "kecamatan" : "Sungai Pinang",
+  "kelurahan" : "Sungai Pinang I",
+  "kodepos" : "30661"
+}, {
+  "kecamatan" : "Tanjung Raja",
+  "kelurahan" : "Skonjing",
+  "kodepos" : "30661"
+}, {
+  "kecamatan" : "Tanjung Raja",
+  "kelurahan" : "Sridalam/Seri Dalam",
+  "kodepos" : "30661"
+}, {
+  "kecamatan" : "Tanjung Raja",
+  "kelurahan" : "Siring Alam",
+  "kodepos" : "30661"
+}, {
+  "kecamatan" : "Sungai Pinang",
+  "kelurahan" : "Serijabo Baru",
+  "kodepos" : "30661"
+}, {
+  "kecamatan" : "Sungai Pinang",
+  "kelurahan" : "Serijabo",
+  "kodepos" : "30661"
+}, {
+  "kecamatan" : "Rantau Panjang",
+  "kelurahan" : "Sejangko II",
+  "kodepos" : "30661"
+}, {
+  "kecamatan" : "Rantau Panjang",
+  "kelurahan" : "Rantau Panjang Ulu",
+  "kodepos" : "30661"
+}, {
+  "kecamatan" : "Rantau Panjang",
+  "kelurahan" : "Sejangko I",
+  "kodepos" : "30661"
+}, {
+  "kecamatan" : "Rantau Panjang",
+  "kelurahan" : "Rantau Panjang Ilir",
+  "kodepos" : "30661"
+}, {
+  "kecamatan" : "Sungai Pinang",
+  "kelurahan" : "Pinang Mas",
+  "kodepos" : "30661"
+}, {
+  "kecamatan" : "Sungai Pinang",
+  "kelurahan" : "Penyandingan",
+  "kodepos" : "30661"
+}, {
+  "kecamatan" : "Sungai Pinang",
+  "kelurahan" : "Pinang Jaya",
+  "kodepos" : "30661"
+}, {
+  "kecamatan" : "Rantau Panjang",
+  "kelurahan" : "Kota Daro I",
+  "kodepos" : "30661"
+}, {
+  "kecamatan" : "Rantau Panjang",
+  "kelurahan" : "Kota Daro II",
+  "kodepos" : "30661"
+}, {
+  "kecamatan" : "Rantau Panjang",
+  "kelurahan" : "Ketapang II",
+  "kodepos" : "30661"
+}, {
+  "kecamatan" : "Tanjung Raja",
+  "kelurahan" : "Kerinjing",
+  "kodepos" : "30661"
+}, {
+  "kecamatan" : "Rantau Panjang",
+  "kelurahan" : "Ketapang I",
+  "kodepos" : "30661"
+}, {
+  "kecamatan" : "Rantau Panjang",
+  "kelurahan" : "Jagarajo (Jaga Raya)",
+  "kodepos" : "30661"
+}, {
+  "kecamatan" : "Tanjung Raja",
+  "kelurahan" : "Belanti",
+  "kodepos" : "30661"
+}, {
+  "kecamatan" : "Rantau Panjang",
+  "kelurahan" : "Jagalano (Jagalana)",
+  "kodepos" : "30661"
+}, {
+  "kecamatan" : "Rantau Panjang",
+  "kelurahan" : "Arisan Deras",
+  "kodepos" : "30661"
+}, {
+  "kecamatan" : "Pemulutan Barat",
+  "kelurahan" : "Ulak Kembahang II",
+  "kodepos" : "30653"
+}, {
+  "kecamatan" : "Pemulutan Barat",
+  "kelurahan" : "Ulak Petangisan",
+  "kodepos" : "30653"
+}, {
+  "kecamatan" : "Pemulutan Barat",
+  "kelurahan" : "Ulak Kembahang I",
+  "kodepos" : "30653"
+}, {
+  "kecamatan" : "Pemulutan Selatan",
+  "kelurahan" : "Ulak Aur Standing",
+  "kodepos" : "30653"
+}, {
+  "kecamatan" : "Pemulutan",
+  "kelurahan" : "Tanjung Pasir",
+  "kodepos" : "30653"
+}, {
+  "kecamatan" : "Pemulutan",
+  "kelurahan" : "Teluk Kecapi",
+  "kodepos" : "30653"
+}, {
+  "kecamatan" : "Pemulutan Barat",
+  "kelurahan" : "Talang Pangeran Ilir",
+  "kodepos" : "30653"
+}, {
+  "kecamatan" : "Pemulutan Barat",
+  "kelurahan" : "Talang Pangeran Ulu",
+  "kodepos" : "30653"
+}, {
+  "kecamatan" : "Pemulutan",
+  "kelurahan" : "Sungai Rasau",
+  "kodepos" : "30653"
+}, {
+  "kecamatan" : "Pemulutan Selatan",
+  "kelurahan" : "Sungai Ondok",
+  "kodepos" : "30653"
+}, {
+  "kecamatan" : "Pemulutan Selatan",
+  "kelurahan" : "Sungai Lebung",
+  "kodepos" : "30653"
+}, {
+  "kecamatan" : "Pemulutan Selatan",
+  "kelurahan" : "Sungai Lembung Ulu",
+  "kodepos" : "30653"
+}, {
+  "kecamatan" : "Pemulutan Selatan",
+  "kelurahan" : "Sungai Keli",
+  "kodepos" : "30653"
+}, {
+  "kecamatan" : "Pemulutan Selatan",
+  "kelurahan" : "Sungai Keli",
+  "kodepos" : "30653"
+}, {
+  "kecamatan" : "Pemulutan",
+  "kelurahan" : "Sukarami",
+  "kodepos" : "30653"
+}, {
+  "kecamatan" : "Pemulutan Barat",
+  "kelurahan" : "Suka Merindu",
+  "kodepos" : "30653"
+}, {
+  "kecamatan" : "Pemulutan",
+  "kelurahan" : "Simpang Pelabuhan Dalam",
+  "kodepos" : "30653"
+}, {
+  "kecamatan" : "Pemulutan Barat",
+  "kelurahan" : "Seribanding (Seri Bandung)",
+  "kodepos" : "30653"
+}, {
+  "kecamatan" : "Pemulutan",
+  "kelurahan" : "Sembadak",
+  "kodepos" : "30653"
+}, {
+  "kecamatan" : "Pemulutan Barat",
+  "kelurahan" : "Saranglang",
+  "kodepos" : "30653"
+}, {
+  "kecamatan" : "Pemulutan Selatan",
+  "kelurahan" : "Segayam",
+  "kodepos" : "30653"
+}, {
+  "kecamatan" : "Pemulutan Barat",
+  "kelurahan" : "Pulau Negara",
+  "kodepos" : "30653"
+}, {
+  "kecamatan" : "Pemulutan",
+  "kelurahan" : "Rawajaya",
+  "kodepos" : "30653"
+}, {
+  "kecamatan" : "Pemulutan",
+  "kelurahan" : "Pemulutan Ilir",
+  "kodepos" : "30653"
+}, {
+  "kecamatan" : "Pemulutan",
+  "kelurahan" : "Pemulutan Ulu",
+  "kodepos" : "30653"
+}, {
+  "kecamatan" : "Pemulutan",
+  "kelurahan" : "Pipa Putih",
+  "kodepos" : "30653"
+}, {
+  "kecamatan" : "Pemulutan Selatan",
+  "kelurahan" : "Pematang Bungur",
+  "kodepos" : "30653"
+}, {
+  "kecamatan" : "Pemulutan",
+  "kelurahan" : "Pegayut",
+  "kodepos" : "30653"
+}, {
+  "kecamatan" : "Pemulutan",
+  "kelurahan" : "Pelabuhan Dalam",
+  "kodepos" : "30653"
+}, {
+  "kecamatan" : "Pemulutan Selatan",
+  "kelurahan" : "Pematang Bangsal",
+  "kodepos" : "30653"
+}, {
+  "kecamatan" : "Pemulutan",
+  "kelurahan" : "Palu",
+  "kodepos" : "30653"
+}, {
+  "kecamatan" : "Pemulutan Selatan",
+  "kelurahan" : "Naikan Tembakang",
+  "kodepos" : "30653"
+}, {
+  "kecamatan" : "Pemulutan",
+  "kelurahan" : "Muara Baru",
+  "kodepos" : "30653"
+}, {
+  "kecamatan" : "Pemulutan",
+  "kelurahan" : "Muara Dua",
+  "kodepos" : "30653"
+}, {
+  "kecamatan" : "Pemulutan Selatan",
+  "kelurahan" : "Maju Jaya",
+  "kodepos" : "30653"
+}, {
+  "kecamatan" : "Pemulutan Selatan",
+  "kelurahan" : "Mayapati",
+  "kodepos" : "30653"
+}, {
+  "kecamatan" : "Pemulutan",
+  "kelurahan" : "Mekarjaya",
+  "kodepos" : "30653"
+}, {
+  "kecamatan" : "Pemulutan",
+  "kelurahan" : "Lebung Jangkar",
+  "kodepos" : "30653"
+}, {
+  "kecamatan" : "Pemulutan Selatan",
+  "kelurahan" : "Lebak Pering",
+  "kodepos" : "30653"
+}, {
+  "kecamatan" : "Pemulutan Barat",
+  "kelurahan" : "Kamal",
+  "kodepos" : "30653"
+}, {
+  "kecamatan" : "Pemulutan",
+  "kelurahan" : "Kedukan Bujang",
+  "kodepos" : "30653"
+}, {
+  "kecamatan" : "Pemulutan Selatan",
+  "kelurahan" : "Kapuk",
+  "kodepos" : "30653"
+}, {
+  "kecamatan" : "Pemulutan",
+  "kelurahan" : "Ibul Besar II",
+  "kodepos" : "30653"
+}, {
+  "kecamatan" : "Pemulutan",
+  "kelurahan" : "Ibul Besar III",
+  "kodepos" : "30653"
+}, {
+  "kecamatan" : "Pemulutan",
+  "kelurahan" : "Ibul Besar I",
+  "kodepos" : "30653"
+}, {
+  "kecamatan" : "Pemulutan Selatan",
+  "kelurahan" : "Harimau Tandang",
+  "kodepos" : "30653"
+}, {
+  "kecamatan" : "Pemulutan",
+  "kelurahan" : "Harapan",
+  "kodepos" : "30653"
+}, {
+  "kecamatan" : "Pemulutan Selatan",
+  "kelurahan" : "Cahaya Marga",
+  "kodepos" : "30653"
+}, {
+  "kecamatan" : "Pemulutan",
+  "kelurahan" : "Babatan Saudagar",
+  "kodepos" : "30653"
+}, {
+  "kecamatan" : "Pemulutan",
+  "kelurahan" : "Aurstanding",
+  "kodepos" : "30653"
+}, {
+  "kecamatan" : "Pemulutan Barat",
+  "kelurahan" : "Arisan Jaya",
+  "kodepos" : "30653"
+} ]

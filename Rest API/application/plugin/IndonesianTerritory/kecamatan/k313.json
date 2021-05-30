@@ -1,0 +1,329 @@
+[ {
+  "kecamatan" : "Bibida",
+  "kelurahan" : "Ugidimi (Ugimiba)",
+  "kodepos" : "98782"
+}, {
+  "kecamatan" : "Dumadama",
+  "kelurahan" : "Duma",
+  "kodepos" : "98782"
+}, {
+  "kecamatan" : "Dumadama",
+  "kelurahan" : "Dogomo (Dogoma)",
+  "kodepos" : "98782"
+}, {
+  "kecamatan" : "Bibida",
+  "kelurahan" : "Bibida",
+  "kodepos" : "98782"
+}, {
+  "kecamatan" : "Bogobaida",
+  "kelurahan" : "Youtadi",
+  "kodepos" : "98769"
+}, {
+  "kecamatan" : "Bogobaida",
+  "kelurahan" : "Uwagi",
+  "kodepos" : "98769"
+}, {
+  "kecamatan" : "Bogobaida",
+  "kelurahan" : "Nawipauwo",
+  "kodepos" : "98769"
+}, {
+  "kecamatan" : "Bogobaida",
+  "kelurahan" : "Nomouwodide",
+  "kodepos" : "98769"
+}, {
+  "kecamatan" : "Bogobaida",
+  "kelurahan" : "Ipouwa",
+  "kodepos" : "98769"
+}, {
+  "kecamatan" : "Bogobaida",
+  "kelurahan" : "Bogobaida",
+  "kodepos" : "98769"
+}, {
+  "kecamatan" : "Aradide",
+  "kelurahan" : "Yabomaida",
+  "kodepos" : "98766"
+}, {
+  "kecamatan" : "Aradide",
+  "kelurahan" : "Toyaimoti",
+  "kodepos" : "98766"
+}, {
+  "kecamatan" : "Aradide",
+  "kelurahan" : "Tuguwai",
+  "kodepos" : "98766"
+}, {
+  "kecamatan" : "Aradide",
+  "kelurahan" : "Makidini",
+  "kodepos" : "98766"
+}, {
+  "kecamatan" : "Ekadide",
+  "kelurahan" : "Obaipugaida",
+  "kodepos" : "98766"
+}, {
+  "kecamatan" : "Ekadide",
+  "kelurahan" : "Pasir Putih",
+  "kodepos" : "98766"
+}, {
+  "kecamatan" : "Aradide",
+  "kelurahan" : "Deta",
+  "kodepos" : "98766"
+}, {
+  "kecamatan" : "Ekadide",
+  "kelurahan" : "Eyagitaida",
+  "kodepos" : "98766"
+}, {
+  "kecamatan" : "Ekadide",
+  "kelurahan" : "Geida",
+  "kodepos" : "98766"
+}, {
+  "kecamatan" : "Aradide",
+  "kelurahan" : "Dauwagu",
+  "kodepos" : "98766"
+}, {
+  "kecamatan" : "Aradide",
+  "kelurahan" : "Akoubaida",
+  "kodepos" : "98766"
+}, {
+  "kecamatan" : "Aradide",
+  "kelurahan" : "Baguwo",
+  "kodepos" : "98766"
+}, {
+  "kecamatan" : "Aradide",
+  "kelurahan" : "Agapo",
+  "kodepos" : "98766"
+}, {
+  "kecamatan" : "Ekadide",
+  "kelurahan" : "Agapo",
+  "kodepos" : "98766"
+}, {
+  "kecamatan" : "Aradide",
+  "kelurahan" : "Abatadi",
+  "kodepos" : "98766"
+}, {
+  "kecamatan" : "Paniai Barat",
+  "kelurahan" : "Totiyo",
+  "kodepos" : "98763"
+}, {
+  "kecamatan" : "Paniai Barat",
+  "kelurahan" : "Ukauwo",
+  "kodepos" : "98763"
+}, {
+  "kecamatan" : "Paniai Barat",
+  "kelurahan" : "Waipa",
+  "kodepos" : "98763"
+}, {
+  "kecamatan" : "Siriwo",
+  "kelurahan" : "Tadia (Kepi/Todia/Tadia Ayaikebo)",
+  "kodepos" : "98763"
+}, {
+  "kecamatan" : "Paniai Barat",
+  "kelurahan" : "Tipakotu",
+  "kodepos" : "98763"
+}, {
+  "kecamatan" : "Siriwo",
+  "kelurahan" : "Siriwo (Dadou)",
+  "kodepos" : "98763"
+}, {
+  "kecamatan" : "Paniai Barat",
+  "kelurahan" : "Okaitadi",
+  "kodepos" : "98763"
+}, {
+  "kecamatan" : "Paniai Barat",
+  "kelurahan" : "Muyetadi",
+  "kodepos" : "98763"
+}, {
+  "kecamatan" : "Paniai Barat",
+  "kelurahan" : "Obano",
+  "kodepos" : "98763"
+}, {
+  "kecamatan" : "Paniai Barat",
+  "kelurahan" : "Kegouda",
+  "kodepos" : "98763"
+}, {
+  "kecamatan" : "Paniai Barat",
+  "kelurahan" : "Kito",
+  "kodepos" : "98763"
+}, {
+  "kecamatan" : "Paniai Barat",
+  "kelurahan" : "Mogoya",
+  "kodepos" : "98763"
+}, {
+  "kecamatan" : "Paniai Barat",
+  "kelurahan" : "Geiketago",
+  "kodepos" : "98763"
+}, {
+  "kecamatan" : "Siriwo",
+  "kelurahan" : "Bua (Kotu/Ikotu)",
+  "kodepos" : "98763"
+}, {
+  "kecamatan" : "Paniai Barat",
+  "kelurahan" : "Epabutu",
+  "kodepos" : "98763"
+}, {
+  "kecamatan" : "Paniai Barat",
+  "kelurahan" : "Beko",
+  "kodepos" : "98763"
+}, {
+  "kecamatan" : "Yatamo",
+  "kelurahan" : "Wotai",
+  "kodepos" : "98726"
+}, {
+  "kecamatan" : "Yatamo",
+  "kelurahan" : "Keniapa (Udaigida)",
+  "kodepos" : "98726"
+}, {
+  "kecamatan" : "Yatamo",
+  "kelurahan" : "Epouto",
+  "kodepos" : "98725"
+}, {
+  "kecamatan" : "Paniai Timur",
+  "kelurahan" : "Mugimeketago",
+  "kodepos" : "98724"
+}, {
+  "kecamatan" : "Kebo",
+  "kelurahan" : "Panibagata",
+  "kodepos" : "98722"
+}, {
+  "kecamatan" : "Kebo",
+  "kelurahan" : "Pugaida (Daupaida)",
+  "kodepos" : "98723"
+}, {
+  "kecamatan" : "Paniai Timur",
+  "kelurahan" : "Obayaweta",
+  "kodepos" : "98722"
+}, {
+  "kecamatan" : "Kebo",
+  "kelurahan" : "Ipawa (Ipuwa)",
+  "kodepos" : "98721"
+}, {
+  "kecamatan" : "Kebo",
+  "kelurahan" : "Munayepa (Mujaiyepa)",
+  "kodepos" : "98721"
+}, {
+  "kecamatan" : "Kebo",
+  "kelurahan" : "Togowa",
+  "kodepos" : "98719"
+}, {
+  "kecamatan" : "Paniai Timur",
+  "kelurahan" : "Enarotali",
+  "kodepos" : "98719"
+}, {
+  "kecamatan" : "Kebo",
+  "kelurahan" : "Kebo I",
+  "kodepos" : "98718"
+}, {
+  "kecamatan" : "Kebo",
+  "kelurahan" : "Kebo II",
+  "kodepos" : "98718"
+}, {
+  "kecamatan" : "Kebo",
+  "kelurahan" : "Ibumaida (Ibomomaida)",
+  "kodepos" : "98717"
+}, {
+  "kecamatan" : "Kebo",
+  "kelurahan" : "Kagupago (Kagupagu)",
+  "kodepos" : "98718"
+}, {
+  "kecamatan" : "Paniai Timur",
+  "kelurahan" : "Oyaigo",
+  "kodepos" : "98716"
+}, {
+  "kecamatan" : "Paniai Timur",
+  "kelurahan" : "Dei",
+  "kodepos" : "98716"
+}, {
+  "kecamatan" : "Yatamo",
+  "kelurahan" : "Uwebutu (Unebutu)",
+  "kodepos" : "98715"
+}, {
+  "kecamatan" : "Kebo",
+  "kelurahan" : "Oyaigo (Ayaigo/Kagupaida)",
+  "kodepos" : "98715"
+}, {
+  "kecamatan" : "Paniai Timur",
+  "kelurahan" : "Uwamani",
+  "kodepos" : "98715"
+}, {
+  "kecamatan" : "Kebo",
+  "kelurahan" : "Awebutu",
+  "kodepos" : "98715"
+}, {
+  "kecamatan" : "Paniai Timur",
+  "kelurahan" : "Tuamakida",
+  "kodepos" : "98713"
+}, {
+  "kecamatan" : "Paniai Timur",
+  "kelurahan" : "Madi",
+  "kodepos" : "98714"
+}, {
+  "kecamatan" : "Paniai Timur",
+  "kelurahan" : "Awabutu",
+  "kodepos" : "98713"
+}, {
+  "kecamatan" : "Paniai Timur",
+  "kelurahan" : "Timida",
+  "kodepos" : "98713"
+}, {
+  "kecamatan" : "Paniai Timur",
+  "kelurahan" : "Wage",
+  "kodepos" : "98711"
+}, {
+  "kecamatan" : "Paniai Timur",
+  "kelurahan" : "Waidede",
+  "kodepos" : "98711"
+}, {
+  "kecamatan" : "Paniai Timur",
+  "kelurahan" : "Kopo",
+  "kodepos" : "98712"
+}, {
+  "kecamatan" : "Paniai Timur",
+  "kelurahan" : "Toko",
+  "kodepos" : "98711"
+}, {
+  "kecamatan" : "Paniai Timur",
+  "kelurahan" : "Uwibutu",
+  "kodepos" : "98711"
+}, {
+  "kecamatan" : "Paniai Timur",
+  "kelurahan" : "Pugo",
+  "kodepos" : "98711"
+}, {
+  "kecamatan" : "Paniai Timur",
+  "kelurahan" : "Kogekotu",
+  "kodepos" : "98711"
+}, {
+  "kecamatan" : "Paniai Timur",
+  "kelurahan" : "Kopaidagi",
+  "kodepos" : "98711"
+}, {
+  "kecamatan" : "Paniai Timur",
+  "kelurahan" : "Papato",
+  "kodepos" : "98711"
+}, {
+  "kecamatan" : "Paniai Timur",
+  "kelurahan" : "Kagupago",
+  "kodepos" : "98711"
+}, {
+  "kecamatan" : "Paniai Timur",
+  "kelurahan" : "Ipakiye",
+  "kodepos" : "98711"
+}, {
+  "kecamatan" : "Paniai Timur",
+  "kelurahan" : "Geibu",
+  "kodepos" : "98711"
+}, {
+  "kecamatan" : "Paniai Timur",
+  "kelurahan" : "Geko",
+  "kodepos" : "98711"
+}, {
+  "kecamatan" : "Paniai Timur",
+  "kelurahan" : "Aikai",
+  "kodepos" : "98711"
+}, {
+  "kecamatan" : "Paniai Timur",
+  "kelurahan" : "Badawo",
+  "kodepos" : "98711"
+}, {
+  "kecamatan" : "Paniai Timur",
+  "kelurahan" : "Dagouto",
+  "kodepos" : "98711"
+} ]

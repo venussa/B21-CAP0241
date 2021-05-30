@@ -1,0 +1,989 @@
+[ {
+  "kecamatan" : "Yal",
+  "kelurahan" : "Yimogi",
+  "kodepos" : "99571"
+}, {
+  "kecamatan" : "Mam",
+  "kelurahan" : "Yibi",
+  "kodepos" : "99571"
+}, {
+  "kecamatan" : "Mam",
+  "kelurahan" : "Yebandui",
+  "kodepos" : "99571"
+}, {
+  "kecamatan" : "Yal",
+  "kelurahan" : "Yal",
+  "kodepos" : "99571"
+}, {
+  "kecamatan" : "Yal",
+  "kelurahan" : "Yaba",
+  "kodepos" : "99571"
+}, {
+  "kecamatan" : "Mam",
+  "kelurahan" : "Wolmbam",
+  "kodepos" : "99571"
+}, {
+  "kecamatan" : "Mam",
+  "kelurahan" : "Wanduama",
+  "kodepos" : "99571"
+}, {
+  "kecamatan" : "Yal",
+  "kelurahan" : "Undo",
+  "kodepos" : "99571"
+}, {
+  "kecamatan" : "Yal",
+  "kelurahan" : "Suelama",
+  "kodepos" : "99571"
+}, {
+  "kecamatan" : "Yal",
+  "kelurahan" : "Sitdobo",
+  "kodepos" : "99571"
+}, {
+  "kecamatan" : "Yal",
+  "kelurahan" : "Samba",
+  "kodepos" : "99571"
+}, {
+  "kecamatan" : "Mam",
+  "kelurahan" : "Putdumu",
+  "kodepos" : "99571"
+}, {
+  "kecamatan" : "Mam",
+  "kelurahan" : "Pukle",
+  "kodepos" : "99571"
+}, {
+  "kecamatan" : "Mam",
+  "kelurahan" : "Paruarem",
+  "kodepos" : "99571"
+}, {
+  "kecamatan" : "Yal",
+  "kelurahan" : "Palpam",
+  "kodepos" : "99571"
+}, {
+  "kecamatan" : "Yal",
+  "kelurahan" : "Muruldumu",
+  "kodepos" : "99571"
+}, {
+  "kecamatan" : "Yal",
+  "kelurahan" : "Mugiarem",
+  "kodepos" : "99571"
+}, {
+  "kecamatan" : "Mam",
+  "kelurahan" : "Mam",
+  "kodepos" : "99571"
+}, {
+  "kecamatan" : "Mam",
+  "kelurahan" : "Laruid",
+  "kodepos" : "99571"
+}, {
+  "kecamatan" : "Yal",
+  "kelurahan" : "Lambule",
+  "kodepos" : "99571"
+}, {
+  "kecamatan" : "Mam",
+  "kelurahan" : "Lakda",
+  "kodepos" : "99571"
+}, {
+  "kecamatan" : "Mam",
+  "kelurahan" : "Kibo",
+  "kodepos" : "99571"
+}, {
+  "kecamatan" : "Mam",
+  "kelurahan" : "Kibiaren",
+  "kodepos" : "99571"
+}, {
+  "kecamatan" : "Yal",
+  "kelurahan" : "Gularem",
+  "kodepos" : "99571"
+}, {
+  "kecamatan" : "Yal",
+  "kelurahan" : "Girimnak",
+  "kodepos" : "99571"
+}, {
+  "kecamatan" : "Yal",
+  "kelurahan" : "Gimi",
+  "kodepos" : "99571"
+}, {
+  "kecamatan" : "Yal",
+  "kelurahan" : "Diringgama",
+  "kodepos" : "99571"
+}, {
+  "kecamatan" : "Yal",
+  "kelurahan" : "Dengpa",
+  "kodepos" : "99571"
+}, {
+  "kecamatan" : "Mam",
+  "kelurahan" : "Dendamba",
+  "kodepos" : "99571"
+}, {
+  "kecamatan" : "Mam",
+  "kelurahan" : "Darakma",
+  "kodepos" : "99571"
+}, {
+  "kecamatan" : "Yal",
+  "kelurahan" : "Dangenpem",
+  "kodepos" : "99571"
+}, {
+  "kecamatan" : "Yal",
+  "kelurahan" : "Biledumu",
+  "kodepos" : "99571"
+}, {
+  "kecamatan" : "Yal",
+  "kelurahan" : "Betbere",
+  "kodepos" : "99571"
+}, {
+  "kecamatan" : "Kenyam",
+  "kelurahan" : "Yunat",
+  "kodepos" : "99565"
+}, {
+  "kecamatan" : "Kenyam",
+  "kelurahan" : "Yike",
+  "kodepos" : "99565"
+}, {
+  "kecamatan" : "Embetpen",
+  "kelurahan" : "Yenai",
+  "kodepos" : "99565"
+}, {
+  "kecamatan" : "Moba",
+  "kelurahan" : "Yeretma",
+  "kodepos" : "99565"
+}, {
+  "kecamatan" : "Mbua Tengah",
+  "kelurahan" : "Yepma",
+  "kodepos" : "99565"
+}, {
+  "kecamatan" : "Kora",
+  "kelurahan" : "Wilimi",
+  "kodepos" : "99565"
+}, {
+  "kecamatan" : "Wusi",
+  "kelurahan" : "Wusi",
+  "kodepos" : "99565"
+}, {
+  "kecamatan" : "Embetpen",
+  "kelurahan" : "Wendama",
+  "kodepos" : "99565"
+}, {
+  "kecamatan" : "Gearek",
+  "kelurahan" : "Weneworarosa",
+  "kodepos" : "99565"
+}, {
+  "kecamatan" : "Kora",
+  "kelurahan" : "Wenam",
+  "kodepos" : "99565"
+}, {
+  "kecamatan" : "Mbua Tengah",
+  "kelurahan" : "Urugi",
+  "kodepos" : "99565"
+}, {
+  "kecamatan" : "Kenyam",
+  "kelurahan" : "Ulunmu",
+  "kodepos" : "99565"
+}, {
+  "kecamatan" : "Gearek",
+  "kelurahan" : "Tribit (Tribid)",
+  "kodepos" : "99565"
+}, {
+  "kecamatan" : "Gearek",
+  "kelurahan" : "Tribit (Tribid)",
+  "kodepos" : "99565"
+}, {
+  "kecamatan" : "Mbua Tengah",
+  "kelurahan" : "Tombisik",
+  "kodepos" : "99565"
+}, {
+  "kecamatan" : "Mbua Tengah",
+  "kelurahan" : "Sokore",
+  "kodepos" : "99565"
+}, {
+  "kecamatan" : "Mbua Tengah",
+  "kelurahan" : "Tobonggom",
+  "kodepos" : "99565"
+}, {
+  "kecamatan" : "Kenyam",
+  "kelurahan" : "Sralala",
+  "kodepos" : "99565"
+}, {
+  "kecamatan" : "Pija",
+  "kelurahan" : "Sitgama",
+  "kodepos" : "99565"
+}, {
+  "kecamatan" : "Wosak",
+  "kelurahan" : "Sitpogol",
+  "kodepos" : "99565"
+}, {
+  "kecamatan" : "Mbua Tengah",
+  "kelurahan" : "Simie",
+  "kodepos" : "99565"
+}, {
+  "kecamatan" : "Krepkuri",
+  "kelurahan" : "Sagapusatu",
+  "kodepos" : "99565"
+}, {
+  "kecamatan" : "Pija",
+  "kelurahan" : "Siat",
+  "kodepos" : "99565"
+}, {
+  "kecamatan" : "Mbua Tengah",
+  "kelurahan" : "Pirim-Pirim",
+  "kodepos" : "99565"
+}, {
+  "kecamatan" : "Mbua Tengah",
+  "kelurahan" : "Rapa",
+  "kodepos" : "99565"
+}, {
+  "kecamatan" : "Wosak",
+  "kelurahan" : "Pilini",
+  "kodepos" : "99565"
+}, {
+  "kecamatan" : "Moba",
+  "kelurahan" : "Pijama",
+  "kodepos" : "99565"
+}, {
+  "kecamatan" : "Wusi",
+  "kelurahan" : "Pijemae",
+  "kodepos" : "99565"
+}, {
+  "kecamatan" : "Pasir Putih",
+  "kelurahan" : "Pasir Putih",
+  "kodepos" : "99565"
+}, {
+  "kecamatan" : "Pija",
+  "kelurahan" : "Pija",
+  "kodepos" : "99565"
+}, {
+  "kecamatan" : "Mbua Tengah",
+  "kelurahan" : "Paris",
+  "kodepos" : "99565"
+}, {
+  "kecamatan" : "Pija",
+  "kelurahan" : "Nganai",
+  "kodepos" : "99565"
+}, {
+  "kecamatan" : "Kora",
+  "kelurahan" : "Nanggoal",
+  "kodepos" : "99565"
+}, {
+  "kecamatan" : "Wosak",
+  "kelurahan" : "Ndugwa (Ndukwa)",
+  "kodepos" : "99565"
+}, {
+  "kecamatan" : "Pija",
+  "kelurahan" : "Murupbaye",
+  "kodepos" : "99565"
+}, {
+  "kecamatan" : "Krepkuri",
+  "kelurahan" : "Mumugu",
+  "kodepos" : "99565"
+}, {
+  "kecamatan" : "Moba",
+  "kelurahan" : "Moba",
+  "kodepos" : "99565"
+}, {
+  "kecamatan" : "Moba",
+  "kelurahan" : "Moba Dua",
+  "kodepos" : "99565"
+}, {
+  "kecamatan" : "Pasir Putih",
+  "kelurahan" : "Mandala",
+  "kodepos" : "99565"
+}, {
+  "kecamatan" : "Moba",
+  "kelurahan" : "Langpang",
+  "kodepos" : "99565"
+}, {
+  "kecamatan" : "Krepkuri",
+  "kelurahan" : "Krepkuri",
+  "kodepos" : "99565"
+}, {
+  "kecamatan" : "Moba",
+  "kelurahan" : "Kwegono",
+  "kodepos" : "99565"
+}, {
+  "kecamatan" : "Gearek",
+  "kelurahan" : "Kibid",
+  "kodepos" : "99565"
+}, {
+  "kecamatan" : "Kora",
+  "kelurahan" : "Kora",
+  "kodepos" : "99565"
+}, {
+  "kecamatan" : "Kenyam",
+  "kelurahan" : "Kemali",
+  "kodepos" : "99565"
+}, {
+  "kecamatan" : "Kenyam",
+  "kelurahan" : "Kenyam",
+  "kodepos" : "99565"
+}, {
+  "kecamatan" : "Moba",
+  "kelurahan" : "Gunea (Gunia)",
+  "kodepos" : "99565"
+}, {
+  "kecamatan" : "Wusi",
+  "kelurahan" : "Ginigit",
+  "kodepos" : "99565"
+}, {
+  "kecamatan" : "Wusi",
+  "kelurahan" : "Gimigip",
+  "kodepos" : "99565"
+}, {
+  "kecamatan" : "Krepkuri",
+  "kelurahan" : "Ginid",
+  "kodepos" : "99565"
+}, {
+  "kecamatan" : "Gearek",
+  "kelurahan" : "Gebem",
+  "kodepos" : "99565"
+}, {
+  "kecamatan" : "Gearek",
+  "kelurahan" : "Gilingga",
+  "kodepos" : "99565"
+}, {
+  "kecamatan" : "Gearek",
+  "kelurahan" : "Gearek",
+  "kodepos" : "99565"
+}, {
+  "kecamatan" : "Kenyam",
+  "kelurahan" : "Dim",
+  "kodepos" : "99565"
+}, {
+  "kecamatan" : "Gearek",
+  "kelurahan" : "Gearek",
+  "kodepos" : "99565"
+}, {
+  "kecamatan" : "Kenyam",
+  "kelurahan" : "Delpel",
+  "kodepos" : "99565"
+}, {
+  "kecamatan" : "Embetpen",
+  "kelurahan" : "Digilimu",
+  "kodepos" : "99565"
+}, {
+  "kecamatan" : "Kora",
+  "kelurahan" : "Brutnai",
+  "kodepos" : "99565"
+}, {
+  "kecamatan" : "Gearek",
+  "kelurahan" : "Bomegi",
+  "kodepos" : "99565"
+}, {
+  "kecamatan" : "Kenyam",
+  "kelurahan" : "Bombam",
+  "kodepos" : "99565"
+}, {
+  "kecamatan" : "Embetpen",
+  "kelurahan" : "Bisikimu",
+  "kodepos" : "99565"
+}, {
+  "kecamatan" : "Wosak",
+  "kelurahan" : "Biala",
+  "kodepos" : "99565"
+}, {
+  "kecamatan" : "Pasir Putih",
+  "kelurahan" : "Benggem",
+  "kodepos" : "99565"
+}, {
+  "kecamatan" : "Wosak",
+  "kelurahan" : "Bambisik",
+  "kodepos" : "99565"
+}, {
+  "kecamatan" : "Krepkuri",
+  "kelurahan" : "Banggabeak",
+  "kodepos" : "99565"
+}, {
+  "kecamatan" : "Moba",
+  "kelurahan" : "Anggulpa",
+  "kodepos" : "99565"
+}, {
+  "kecamatan" : "Krepkuri",
+  "kelurahan" : "Alguru",
+  "kodepos" : "99565"
+}, {
+  "kecamatan" : "Kilmid",
+  "kelurahan" : "Yutpul",
+  "kodepos" : "99564"
+}, {
+  "kecamatan" : "Mebarok",
+  "kelurahan" : "Yuguru",
+  "kodepos" : "99564"
+}, {
+  "kecamatan" : "Mapenduma",
+  "kelurahan" : "Yoe",
+  "kodepos" : "99564"
+}, {
+  "kecamatan" : "Mugi",
+  "kelurahan" : "Yelsengge",
+  "kodepos" : "99564"
+}, {
+  "kecamatan" : "Yigi",
+  "kelurahan" : "Yigi",
+  "kodepos" : "99564"
+}, {
+  "kecamatan" : "Yenggelo",
+  "kelurahan" : "Yenggelo",
+  "kodepos" : "99564"
+}, {
+  "kecamatan" : "Yigi",
+  "kelurahan" : "Yebadolma",
+  "kodepos" : "99564"
+}, {
+  "kecamatan" : "Wutpaga",
+  "kelurahan" : "Wutpaga",
+  "kodepos" : "99564"
+}, {
+  "kecamatan" : "Mugi",
+  "kelurahan" : "Wundui",
+  "kodepos" : "99564"
+}, {
+  "kecamatan" : "Wutpaga",
+  "kelurahan" : "Wuone",
+  "kodepos" : "99564"
+}, {
+  "kecamatan" : "Inikgal",
+  "kelurahan" : "Wumaga",
+  "kodepos" : "99564"
+}, {
+  "kecamatan" : "Yenggelo",
+  "kelurahan" : "Wuarem",
+  "kodepos" : "99564"
+}, {
+  "kecamatan" : "Nenggeagin",
+  "kelurahan" : "Wulagumi",
+  "kodepos" : "99564"
+}, {
+  "kecamatan" : "Mugi",
+  "kelurahan" : "Womsit",
+  "kodepos" : "99564"
+}, {
+  "kecamatan" : "Yigi",
+  "kelurahan" : "Wiritlak",
+  "kodepos" : "99564"
+}, {
+  "kecamatan" : "Kegayem",
+  "kelurahan" : "Wipdumu",
+  "kodepos" : "99564"
+}, {
+  "kecamatan" : "Wutpaga",
+  "kelurahan" : "Wangun",
+  "kodepos" : "99564"
+}, {
+  "kecamatan" : "Nenggeagin",
+  "kelurahan" : "Wenggenambut",
+  "kodepos" : "99564"
+}, {
+  "kecamatan" : "Nirkuri",
+  "kelurahan" : "Uenoma",
+  "kodepos" : "99564"
+}, {
+  "kecamatan" : "Inikgal",
+  "kelurahan" : "Urugom",
+  "kodepos" : "99564"
+}, {
+  "kecamatan" : "Mugi",
+  "kelurahan" : "Unue",
+  "kodepos" : "99564"
+}, {
+  "kecamatan" : "Wutpaga",
+  "kelurahan" : "Tinigele",
+  "kodepos" : "99564"
+}, {
+  "kecamatan" : "Mbulmu Yalma",
+  "kelurahan" : "Uburu",
+  "kodepos" : "99564"
+}, {
+  "kecamatan" : "Mebarok",
+  "kelurahan" : "Talpam",
+  "kodepos" : "99564"
+}, {
+  "kecamatan" : "Geselma (Geselema)",
+  "kelurahan" : "Talem",
+  "kodepos" : "99564"
+}, {
+  "kecamatan" : "Paro",
+  "kelurahan" : "Tawelma",
+  "kodepos" : "99564"
+}, {
+  "kecamatan" : "Yigi",
+  "kelurahan" : "Sumbo",
+  "kodepos" : "99564"
+}, {
+  "kecamatan" : "Yigi",
+  "kelurahan" : "Suwenem",
+  "kodepos" : "99564"
+}, {
+  "kecamatan" : "Yigi",
+  "kelurahan" : "Sirit",
+  "kodepos" : "99564"
+}, {
+  "kecamatan" : "Iniye",
+  "kelurahan" : "Simiye",
+  "kodepos" : "99564"
+}, {
+  "kecamatan" : "Dal",
+  "kelurahan" : "Silankuru",
+  "kodepos" : "99564"
+}, {
+  "kecamatan" : "Dal",
+  "kelurahan" : "Silan",
+  "kodepos" : "99564"
+}, {
+  "kecamatan" : "Mebarok",
+  "kelurahan" : "Siginimarem",
+  "kodepos" : "99564"
+}, {
+  "kecamatan" : "Nirkuri",
+  "kelurahan" : "Sigmie",
+  "kodepos" : "99564"
+}, {
+  "kecamatan" : "Mebarok",
+  "kelurahan" : "Setmit",
+  "kodepos" : "99564"
+}, {
+  "kecamatan" : "Kegayem",
+  "kelurahan" : "Sigimbut",
+  "kodepos" : "99564"
+}, {
+  "kecamatan" : "Mugi",
+  "kelurahan" : "Sarit",
+  "kodepos" : "99564"
+}, {
+  "kecamatan" : "Kegayem",
+  "kelurahan" : "Sanwaruk",
+  "kodepos" : "99564"
+}, {
+  "kecamatan" : "Mugi",
+  "kelurahan" : "Sambua",
+  "kodepos" : "99564"
+}, {
+  "kecamatan" : "Mebarok",
+  "kelurahan" : "Sabiem",
+  "kodepos" : "99564"
+}, {
+  "kecamatan" : "Kilmid",
+  "kelurahan" : "Puruwa",
+  "kodepos" : "99564"
+}, {
+  "kecamatan" : "Kegayem",
+  "kelurahan" : "Peya-Peya",
+  "kodepos" : "99564"
+}, {
+  "kecamatan" : "Mebarok",
+  "kelurahan" : "Pereki",
+  "kodepos" : "99564"
+}, {
+  "kecamatan" : "Koroptak",
+  "kelurahan" : "Pesat",
+  "kodepos" : "99564"
+}, {
+  "kecamatan" : "Paro",
+  "kelurahan" : "Paro",
+  "kodepos" : "99564"
+}, {
+  "kecamatan" : "Nirkuri",
+  "kelurahan" : "Pasebem",
+  "kodepos" : "99564"
+}, {
+  "kecamatan" : "Mugi",
+  "kelurahan" : "Paru",
+  "kodepos" : "99564"
+}, {
+  "kecamatan" : "Mbua (Mbuga)",
+  "kelurahan" : "Otalama",
+  "kodepos" : "99564"
+}, {
+  "kecamatan" : "Mapenduma",
+  "kelurahan" : "Palsam",
+  "kodepos" : "99564"
+}, {
+  "kecamatan" : "Mbua (Mbuga)",
+  "kelurahan" : "Opmu",
+  "kodepos" : "99564"
+}, {
+  "kecamatan" : "Kegayem",
+  "kelurahan" : "Osama",
+  "kodepos" : "99564"
+}, {
+  "kecamatan" : "Nirkuri",
+  "kelurahan" : "Oldobo",
+  "kodepos" : "99564"
+}, {
+  "kecamatan" : "Mapenduma",
+  "kelurahan" : "Nowomlusu",
+  "kodepos" : "99564"
+}, {
+  "kecamatan" : "Mebarok",
+  "kelurahan" : "Olunmu",
+  "kodepos" : "99564"
+}, {
+  "kecamatan" : "Yenggelo",
+  "kelurahan" : "Nolo",
+  "kodepos" : "99564"
+}, {
+  "kecamatan" : "Alama",
+  "kelurahan" : "Nolit",
+  "kodepos" : "99564"
+}, {
+  "kecamatan" : "Nirkuri",
+  "kelurahan" : "Nirigimbirik",
+  "kodepos" : "99564"
+}, {
+  "kecamatan" : "Nirkuri",
+  "kelurahan" : "Nirkuri",
+  "kodepos" : "99564"
+}, {
+  "kecamatan" : "Nenggeagin",
+  "kelurahan" : "Neggea",
+  "kodepos" : "99564"
+}, {
+  "kecamatan" : "Nenggeagin",
+  "kelurahan" : "Nenggeagin",
+  "kodepos" : "99564"
+}, {
+  "kecamatan" : "Mebarok",
+  "kelurahan" : "Ngenamba",
+  "kodepos" : "99564"
+}, {
+  "kecamatan" : "Kegayem",
+  "kelurahan" : "Narugu",
+  "kodepos" : "99564"
+}, {
+  "kecamatan" : "Mebarok",
+  "kelurahan" : "Narugum",
+  "kodepos" : "99564"
+}, {
+  "kecamatan" : "Wutpaga",
+  "kelurahan" : "Muli",
+  "kodepos" : "99564"
+}, {
+  "kecamatan" : "Mugi",
+  "kelurahan" : "Mirikil",
+  "kodepos" : "99564"
+}, {
+  "kecamatan" : "Mugi",
+  "kelurahan" : "Mugi",
+  "kodepos" : "99564"
+}, {
+  "kecamatan" : "Koroptak",
+  "kelurahan" : "Miniem",
+  "kodepos" : "99564"
+}, {
+  "kecamatan" : "Mugi",
+  "kelurahan" : "Miri",
+  "kodepos" : "99564"
+}, {
+  "kecamatan" : "Mbua (Mbuga)",
+  "kelurahan" : "Mbua (Mbuwa)",
+  "kodepos" : "99564"
+}, {
+  "kecamatan" : "Mebarok",
+  "kelurahan" : "Meborok",
+  "kodepos" : "99564"
+}, {
+  "kecamatan" : "Yenggelo",
+  "kelurahan" : "Maima",
+  "kodepos" : "99564"
+}, {
+  "kecamatan" : "Mugi",
+  "kelurahan" : "Manet",
+  "kodepos" : "99564"
+}, {
+  "kecamatan" : "Mapenduma",
+  "kelurahan" : "Mapenduma",
+  "kodepos" : "99564"
+}, {
+  "kecamatan" : "Mapenduma",
+  "kelurahan" : "Lunggadumu",
+  "kodepos" : "99564"
+}, {
+  "kecamatan" : "Yigi",
+  "kelurahan" : "Lumbukdumu",
+  "kodepos" : "99564"
+}, {
+  "kecamatan" : "Wutpaga",
+  "kelurahan" : "Luaren",
+  "kodepos" : "99564"
+}, {
+  "kecamatan" : "Paro",
+  "kelurahan" : "Loaraba",
+  "kodepos" : "99564"
+}, {
+  "kecamatan" : "Paro",
+  "kelurahan" : "Lombrik",
+  "kodepos" : "99564"
+}, {
+  "kecamatan" : "Nirkuri",
+  "kelurahan" : "Likubuk",
+  "kodepos" : "99564"
+}, {
+  "kecamatan" : "Mapenduma",
+  "kelurahan" : "Litkui",
+  "kodepos" : "99564"
+}, {
+  "kecamatan" : "Kegayem",
+  "kelurahan" : "Kusit",
+  "kodepos" : "99564"
+}, {
+  "kecamatan" : "Mbulmu Yalma",
+  "kelurahan" : "Labrik",
+  "kodepos" : "99564"
+}, {
+  "kecamatan" : "Mebarok",
+  "kelurahan" : "Lemurak",
+  "kodepos" : "99564"
+}, {
+  "kecamatan" : "Nirkuri",
+  "kelurahan" : "Kurigi",
+  "kodepos" : "99564"
+}, {
+  "kecamatan" : "Kegayem",
+  "kelurahan" : "Kumbuklema",
+  "kodepos" : "99564"
+}, {
+  "kecamatan" : "Kegayem",
+  "kelurahan" : "Kumbun",
+  "kodepos" : "99564"
+}, {
+  "kecamatan" : "Alama",
+  "kelurahan" : "Kulesa",
+  "kodepos" : "99564"
+}, {
+  "kecamatan" : "Geselma (Geselema)",
+  "kelurahan" : "Kosolpem",
+  "kodepos" : "99564"
+}, {
+  "kecamatan" : "Koroptak",
+  "kelurahan" : "Kroptak (Koroptak)",
+  "kodepos" : "99564"
+}, {
+  "kecamatan" : "Koroptak",
+  "kelurahan" : "Komoroam",
+  "kodepos" : "99564"
+}, {
+  "kecamatan" : "Nenggeagin",
+  "kelurahan" : "Kombama",
+  "kodepos" : "99564"
+}, {
+  "kecamatan" : "Iniye",
+  "kelurahan" : "Kosobak",
+  "kodepos" : "99564"
+}, {
+  "kecamatan" : "Mbulmu Yalma",
+  "kelurahan" : "Kolma",
+  "kodepos" : "99564"
+}, {
+  "kecamatan" : "Mbua (Mbuga)",
+  "kelurahan" : "Kogomaru",
+  "kodepos" : "99564"
+}, {
+  "kecamatan" : "Nirkuri",
+  "kelurahan" : "Kokujondumu",
+  "kodepos" : "99564"
+}, {
+  "kecamatan" : "Mbulmu Yalma",
+  "kelurahan" : "Klabypma (Kiabypma)",
+  "kodepos" : "99564"
+}, {
+  "kecamatan" : "Kilmid",
+  "kelurahan" : "Kilmid",
+  "kodepos" : "99564"
+}, {
+  "kecamatan" : "Mbulmu Yalma",
+  "kelurahan" : "Kibisim",
+  "kodepos" : "99564"
+}, {
+  "kecamatan" : "Inikgal",
+  "kelurahan" : "Kigam",
+  "kodepos" : "99564"
+}, {
+  "kecamatan" : "Mugi",
+  "kelurahan" : "Kemamburu",
+  "kodepos" : "99564"
+}, {
+  "kecamatan" : "Mugi",
+  "kelurahan" : "Keret Anggoma",
+  "kodepos" : "99564"
+}, {
+  "kecamatan" : "Iniye",
+  "kelurahan" : "Kibendumu",
+  "kodepos" : "99564"
+}, {
+  "kecamatan" : "Mapenduma",
+  "kelurahan" : "Kelapa Dua",
+  "kodepos" : "99564"
+}, {
+  "kecamatan" : "Yigi",
+  "kelurahan" : "Karunggame",
+  "kodepos" : "99564"
+}, {
+  "kecamatan" : "Kegayem",
+  "kelurahan" : "Kagayem",
+  "kodepos" : "99564"
+}, {
+  "kecamatan" : "Mbulmu Yalma",
+  "kelurahan" : "Kabolilangen",
+  "kodepos" : "99564"
+}, {
+  "kecamatan" : "Mbulmu Yalma",
+  "kelurahan" : "Kabolilangen",
+  "kodepos" : "99564"
+}, {
+  "kecamatan" : "Iniye",
+  "kelurahan" : "Iniye",
+  "kodepos" : "99564"
+}, {
+  "kecamatan" : "Kegayem",
+  "kelurahan" : "Ininkwaning",
+  "kodepos" : "99564"
+}, {
+  "kecamatan" : "Mugi",
+  "kelurahan" : "Isiklak",
+  "kodepos" : "99564"
+}, {
+  "kecamatan" : "Dal",
+  "kelurahan" : "Gurumbe",
+  "kodepos" : "99564"
+}, {
+  "kecamatan" : "Inikgal",
+  "kelurahan" : "Gulama",
+  "kodepos" : "99564"
+}, {
+  "kecamatan" : "Dal",
+  "kelurahan" : "Grinbun",
+  "kodepos" : "99564"
+}, {
+  "kecamatan" : "Koroptak",
+  "kelurahan" : "Go",
+  "kodepos" : "99564"
+}, {
+  "kecamatan" : "Koroptak",
+  "kelurahan" : "Golparek",
+  "kodepos" : "99564"
+}, {
+  "kecamatan" : "Mugi",
+  "kelurahan" : "Gisarok",
+  "kodepos" : "99564"
+}, {
+  "kecamatan" : "Alama",
+  "kelurahan" : "Gin",
+  "kodepos" : "99564"
+}, {
+  "kecamatan" : "Kegayem",
+  "kelurahan" : "Gilpid",
+  "kodepos" : "99564"
+}, {
+  "kecamatan" : "Geselma (Geselema)",
+  "kelurahan" : "Geselma (Geselema)",
+  "kodepos" : "99564"
+}, {
+  "kecamatan" : "Kilmid",
+  "kelurahan" : "Gemam",
+  "kodepos" : "99564"
+}, {
+  "kecamatan" : "Mebarok",
+  "kelurahan" : "Eregenmanggal",
+  "kodepos" : "99564"
+}, {
+  "kecamatan" : "Mapenduma",
+  "kelurahan" : "Endumu",
+  "kodepos" : "99564"
+}, {
+  "kecamatan" : "Iniye",
+  "kelurahan" : "Embuklem",
+  "kodepos" : "99564"
+}, {
+  "kecamatan" : "Yigi",
+  "kelurahan" : "Ekilapok (Ekilapo)",
+  "kodepos" : "99564"
+}, {
+  "kecamatan" : "Mapenduma",
+  "kelurahan" : "Dumdum",
+  "kodepos" : "99564"
+}, {
+  "kecamatan" : "Mapenduma",
+  "kelurahan" : "Duma",
+  "kodepos" : "99564"
+}, {
+  "kecamatan" : "Mugi",
+  "kelurahan" : "Dondoklema",
+  "kodepos" : "99564"
+}, {
+  "kecamatan" : "Mugi",
+  "kelurahan" : "Dobopem",
+  "kodepos" : "99564"
+}, {
+  "kecamatan" : "Yigi",
+  "kelurahan" : "Disendobo",
+  "kodepos" : "99564"
+}, {
+  "kecamatan" : "Mbua (Mbuga)",
+  "kelurahan" : "Digilimu",
+  "kodepos" : "99564"
+}, {
+  "kecamatan" : "Yigi",
+  "kelurahan" : "Delsa",
+  "kodepos" : "99564"
+}, {
+  "kecamatan" : "Mugi",
+  "kelurahan" : "Delit",
+  "kodepos" : "99564"
+}, {
+  "kecamatan" : "Dal",
+  "kelurahan" : "Dal",
+  "kodepos" : "99564"
+}, {
+  "kecamatan" : "Mbulmu Yalma",
+  "kelurahan" : "Brambel",
+  "kodepos" : "99564"
+}, {
+  "kecamatan" : "Inikgal",
+  "kelurahan" : "Dakbri",
+  "kodepos" : "99564"
+}, {
+  "kecamatan" : "Yigi",
+  "kelurahan" : "Borot",
+  "kodepos" : "99564"
+}, {
+  "kecamatan" : "Inikgal",
+  "kelurahan" : "Biripem",
+  "kodepos" : "99564"
+}, {
+  "kecamatan" : "Mebarok",
+  "kelurahan" : "Bone",
+  "kodepos" : "99564"
+}, {
+  "kecamatan" : "Nirkuri",
+  "kelurahan" : "Binime",
+  "kodepos" : "99564"
+}, {
+  "kecamatan" : "Kegayem",
+  "kelurahan" : "Bambi",
+  "kodepos" : "99564"
+}, {
+  "kecamatan" : "Iniye",
+  "kelurahan" : "Baklema",
+  "kodepos" : "99564"
+}, {
+  "kecamatan" : "Mbua (Mbuga)",
+  "kelurahan" : "Arugia",
+  "kodepos" : "99564"
+}, {
+  "kecamatan" : "Inikgal",
+  "kelurahan" : "Area",
+  "kodepos" : "99564"
+}, {
+  "kecamatan" : "Mebarok",
+  "kelurahan" : "Aptam",
+  "kodepos" : "99564"
+}, {
+  "kecamatan" : "Paro",
+  "kelurahan" : "Animarem",
+  "kodepos" : "99564"
+}, {
+  "kecamatan" : "Alama",
+  "kelurahan" : "Alama",
+  "kodepos" : "99564"
+}, {
+  "kecamatan" : "Inikgal",
+  "kelurahan" : "Abualak",
+  "kodepos" : "99564"
+} ]

@@ -1,0 +1,741 @@
+[ {
+  "kecamatan" : "Sururey",
+  "kelurahan" : "Tomstera",
+  "kodepos" : "98359"
+}, {
+  "kecamatan" : "Sururey",
+  "kelurahan" : "Tuhubea (Duhubeya)",
+  "kodepos" : "98359"
+}, {
+  "kecamatan" : "Didohu",
+  "kelurahan" : "Tomsir",
+  "kodepos" : "98359"
+}, {
+  "kecamatan" : "Sururey",
+  "kelurahan" : "Sungedes (Sungudes)",
+  "kodepos" : "98359"
+}, {
+  "kecamatan" : "Didohu",
+  "kelurahan" : "Sneraner (Sneremer)",
+  "kodepos" : "98359"
+}, {
+  "kecamatan" : "Sururey",
+  "kelurahan" : "Sururey (Sururai)",
+  "kodepos" : "98359"
+}, {
+  "kecamatan" : "Didohu",
+  "kelurahan" : "Sirgemeih (Sergemeh)",
+  "kodepos" : "98359"
+}, {
+  "kecamatan" : "Didohu",
+  "kelurahan" : "Miseda",
+  "kodepos" : "98359"
+}, {
+  "kecamatan" : "Sururey",
+  "kelurahan" : "Saugemeba",
+  "kodepos" : "98359"
+}, {
+  "kecamatan" : "Didohu",
+  "kelurahan" : "Kusmenau",
+  "kodepos" : "98359"
+}, {
+  "kecamatan" : "Sururey",
+  "kelurahan" : "Menesrij",
+  "kodepos" : "98359"
+}, {
+  "kecamatan" : "Sururey",
+  "kelurahan" : "Kopo",
+  "kodepos" : "98359"
+}, {
+  "kecamatan" : "Sururey",
+  "kelurahan" : "Kostera",
+  "kodepos" : "98359"
+}, {
+  "kecamatan" : "Sururey",
+  "kelurahan" : "Kobrey",
+  "kodepos" : "98359"
+}, {
+  "kecamatan" : "Didohu",
+  "kelurahan" : "Iranmeba",
+  "kodepos" : "98359"
+}, {
+  "kecamatan" : "Sururey",
+  "kelurahan" : "Inyaub",
+  "kodepos" : "98359"
+}, {
+  "kecamatan" : "Didohu",
+  "kelurahan" : "Gedeira",
+  "kodepos" : "98359"
+}, {
+  "kecamatan" : "Sururey",
+  "kelurahan" : "Duguhani (Dugahani)",
+  "kodepos" : "98359"
+}, {
+  "kecamatan" : "Didohu",
+  "kelurahan" : "Dugrimog",
+  "kodepos" : "98359"
+}, {
+  "kecamatan" : "Didohu",
+  "kelurahan" : "Desra (Disra)",
+  "kodepos" : "98359"
+}, {
+  "kecamatan" : "Didohu",
+  "kelurahan" : "Debetik (Dibetik)",
+  "kodepos" : "98359"
+}, {
+  "kecamatan" : "Didohu",
+  "kelurahan" : "Demdamei",
+  "kodepos" : "98359"
+}, {
+  "kecamatan" : "Didohu",
+  "kelurahan" : "Cirnohu",
+  "kodepos" : "98359"
+}, {
+  "kecamatan" : "Didohu",
+  "kelurahan" : "Danmou",
+  "kodepos" : "98359"
+}, {
+  "kecamatan" : "Didohu",
+  "kelurahan" : "Cigera",
+  "kodepos" : "98359"
+}, {
+  "kecamatan" : "Sururey",
+  "kelurahan" : "Anuk",
+  "kodepos" : "98359"
+}, {
+  "kecamatan" : "Menyambouw (Minyambouw)",
+  "kelurahan" : "Ungga",
+  "kodepos" : "98358"
+}, {
+  "kecamatan" : "Menyambouw (Minyambouw)",
+  "kelurahan" : "Waminda (Wamminda)",
+  "kodepos" : "98358"
+}, {
+  "kecamatan" : "Catubouw",
+  "kelurahan" : "Unti",
+  "kodepos" : "98358"
+}, {
+  "kecamatan" : "Menyambouw (Minyambouw)",
+  "kelurahan" : "Umpug",
+  "kodepos" : "98358"
+}, {
+  "kecamatan" : "Menyambouw (Minyambouw)",
+  "kelurahan" : "Ugjehek (Ujeheg)",
+  "kodepos" : "98358"
+}, {
+  "kecamatan" : "Catubouw",
+  "kelurahan" : "Sugemah (Sugemeh)",
+  "kodepos" : "98358"
+}, {
+  "kecamatan" : "Catubouw",
+  "kelurahan" : "Timtou (Timtouw)",
+  "kodepos" : "98358"
+}, {
+  "kecamatan" : "Catubouw",
+  "kelurahan" : "Soudin",
+  "kodepos" : "98358"
+}, {
+  "kecamatan" : "Menyambouw (Minyambouw)",
+  "kelurahan" : "Smainggi (Smaingei/Smanggei)",
+  "kodepos" : "98358"
+}, {
+  "kecamatan" : "Catubouw",
+  "kelurahan" : "Slomiou",
+  "kodepos" : "98358"
+}, {
+  "kecamatan" : "Menyambouw (Minyambouw)",
+  "kelurahan" : "Siyau (Syou)",
+  "kodepos" : "98358"
+}, {
+  "kecamatan" : "Menyambouw (Minyambouw)",
+  "kelurahan" : "Simerbei",
+  "kodepos" : "98358"
+}, {
+  "kecamatan" : "Menyambouw (Minyambouw)",
+  "kelurahan" : "Sinaitousi (Sinaytoisi/Sinitousi)",
+  "kodepos" : "98358"
+}, {
+  "kecamatan" : "Menyambouw (Minyambouw)",
+  "kelurahan" : "Njuar",
+  "kodepos" : "98358"
+}, {
+  "kecamatan" : "Menyambouw (Minyambouw)",
+  "kelurahan" : "Piyausi (Pinyausi)",
+  "kodepos" : "98358"
+}, {
+  "kecamatan" : "Menyambouw (Minyambouw)",
+  "kelurahan" : "Sigim",
+  "kodepos" : "98358"
+}, {
+  "kecamatan" : "Catubouw",
+  "kelurahan" : "Ndabouw",
+  "kodepos" : "98358"
+}, {
+  "kecamatan" : "Menyambouw (Minyambouw)",
+  "kelurahan" : "Nimbiau",
+  "kodepos" : "98358"
+}, {
+  "kecamatan" : "Menyambouw (Minyambouw)",
+  "kelurahan" : "Ninsimoi",
+  "kodepos" : "98358"
+}, {
+  "kecamatan" : "Menyambouw (Minyambouw)",
+  "kelurahan" : "Mnoubei (Minogbei/Minogbey/Minbey)",
+  "kodepos" : "98358"
+}, {
+  "kecamatan" : "Menyambouw (Minyambouw)",
+  "kelurahan" : "Mokwam",
+  "kodepos" : "98358"
+}, {
+  "kecamatan" : "Menyambouw (Minyambouw)",
+  "kelurahan" : "Mitiede",
+  "kodepos" : "98358"
+}, {
+  "kecamatan" : "Menyambouw (Minyambouw)",
+  "kelurahan" : "Misapngoisi (Misangoisi)",
+  "kodepos" : "98358"
+}, {
+  "kecamatan" : "Menyambouw (Minyambouw)",
+  "kelurahan" : "Misadwer",
+  "kodepos" : "98358"
+}, {
+  "kecamatan" : "Catubouw",
+  "kelurahan" : "Minmo",
+  "kodepos" : "98358"
+}, {
+  "kecamatan" : "Menyambouw (Minyambouw)",
+  "kelurahan" : "Minggre (Mingre)",
+  "kodepos" : "98358"
+}, {
+  "kecamatan" : "Catubouw",
+  "kelurahan" : "Minhou (Mihou)",
+  "kodepos" : "98358"
+}, {
+  "kecamatan" : "Menyambouw (Minyambouw)",
+  "kelurahan" : "Miconti (Micomti)",
+  "kodepos" : "98358"
+}, {
+  "kecamatan" : "Catubouw",
+  "kelurahan" : "Mieicomti (Miey Comty/Mieycomti)",
+  "kodepos" : "98358"
+}, {
+  "kecamatan" : "Catubouw",
+  "kelurahan" : "Mihij",
+  "kodepos" : "98358"
+}, {
+  "kecamatan" : "Menyambouw (Minyambouw)",
+  "kelurahan" : "Micadiwor",
+  "kodepos" : "98358"
+}, {
+  "kecamatan" : "Menyambouw (Minyambouw)",
+  "kelurahan" : "Mbigma (Mbingma)",
+  "kodepos" : "98358"
+}, {
+  "kecamatan" : "Menyambouw (Minyambouw)",
+  "kelurahan" : "Memanker (Memangker)",
+  "kodepos" : "98358"
+}, {
+  "kecamatan" : "Menyambouw (Minyambouw)",
+  "kelurahan" : "Menyambouw (Minyambouw)",
+  "kodepos" : "98358"
+}, {
+  "kecamatan" : "Menyambouw (Minyambouw)",
+  "kelurahan" : "Mainda",
+  "kodepos" : "98358"
+}, {
+  "kecamatan" : "Catubouw",
+  "kelurahan" : "Manggesuk",
+  "kodepos" : "98358"
+}, {
+  "kecamatan" : "Menyambouw (Minyambouw)",
+  "kelurahan" : "Kwau",
+  "kodepos" : "98358"
+}, {
+  "kecamatan" : "Menyambouw (Minyambouw)",
+  "kelurahan" : "Kibauw (Kipouw)",
+  "kodepos" : "98358"
+}, {
+  "kecamatan" : "Catubouw",
+  "kelurahan" : "Jim",
+  "kodepos" : "98358"
+}, {
+  "kecamatan" : "Catubouw",
+  "kelurahan" : "Kaungwam",
+  "kodepos" : "98358"
+}, {
+  "kecamatan" : "Menyambouw (Minyambouw)",
+  "kelurahan" : "Inggrahim (Inggramhim)",
+  "kodepos" : "98358"
+}, {
+  "kecamatan" : "Menyambouw (Minyambouw)",
+  "kelurahan" : "Injuar",
+  "kodepos" : "98358"
+}, {
+  "kecamatan" : "Menyambouw (Minyambouw)",
+  "kelurahan" : "Ipingoisi (Ipingosi)",
+  "kodepos" : "98358"
+}, {
+  "kecamatan" : "Menyambouw (Minyambouw)",
+  "kelurahan" : "Indonbey (Indobey/Indondey)",
+  "kodepos" : "98358"
+}, {
+  "kecamatan" : "Menyambouw (Minyambouw)",
+  "kelurahan" : "Imbrekti",
+  "kodepos" : "98358"
+}, {
+  "kecamatan" : "Menyambouw (Minyambouw)",
+  "kelurahan" : "Indabri",
+  "kodepos" : "98358"
+}, {
+  "kecamatan" : "Menyambouw (Minyambouw)",
+  "kelurahan" : "Imbenti",
+  "kodepos" : "98358"
+}, {
+  "kecamatan" : "Menyambouw (Minyambouw)",
+  "kelurahan" : "Imbonggun",
+  "kodepos" : "98358"
+}, {
+  "kecamatan" : "Catubouw",
+  "kelurahan" : "Imandrigo",
+  "kodepos" : "98358"
+}, {
+  "kecamatan" : "Catubouw",
+  "kelurahan" : "Idemai",
+  "kodepos" : "98358"
+}, {
+  "kecamatan" : "Catubouw",
+  "kelurahan" : "Ijigrek (Ijigreg)",
+  "kodepos" : "98358"
+}, {
+  "kecamatan" : "Menyambouw (Minyambouw)",
+  "kelurahan" : "Driye",
+  "kodepos" : "98358"
+}, {
+  "kecamatan" : "Menyambouw (Minyambouw)",
+  "kelurahan" : "Handuk",
+  "kodepos" : "98358"
+}, {
+  "kecamatan" : "Menyambouw (Minyambouw)",
+  "kelurahan" : "Demaisi",
+  "kodepos" : "98358"
+}, {
+  "kecamatan" : "Catubouw",
+  "kelurahan" : "Catubouw",
+  "kodepos" : "98358"
+}, {
+  "kecamatan" : "Catubouw",
+  "kelurahan" : "Coijut (Coijud)",
+  "kodepos" : "98358"
+}, {
+  "kecamatan" : "Menyambouw (Minyambouw)",
+  "kelurahan" : "Coisi",
+  "kodepos" : "98358"
+}, {
+  "kecamatan" : "Menyambouw (Minyambouw)",
+  "kelurahan" : "Bingwoyud (Bingywoyut)",
+  "kodepos" : "98358"
+}, {
+  "kecamatan" : "Menyambouw (Minyambouw)",
+  "kelurahan" : "Bueibei (Dueibei)",
+  "kodepos" : "98358"
+}, {
+  "kecamatan" : "Catubouw",
+  "kelurahan" : "Bingrayud (Binggarud)",
+  "kodepos" : "98358"
+}, {
+  "kecamatan" : "Catubouw",
+  "kelurahan" : "Bingwaimod (Bigwaimud)",
+  "kodepos" : "98358"
+}, {
+  "kecamatan" : "Menyambouw (Minyambouw)",
+  "kelurahan" : "Bahamyenti",
+  "kodepos" : "98358"
+}, {
+  "kecamatan" : "Menyambouw (Minyambouw)",
+  "kelurahan" : "Awibehey (Awibehei)",
+  "kodepos" : "98358"
+}, {
+  "kecamatan" : "Menyambouw (Minyambouw)",
+  "kelurahan" : "Ayau",
+  "kodepos" : "98358"
+}, {
+  "kecamatan" : "Menyambouw (Minyambouw)",
+  "kelurahan" : "Apui",
+  "kodepos" : "98358"
+}, {
+  "kecamatan" : "Menyambouw (Minyambouw)",
+  "kelurahan" : "Asarbey (Asarbei)",
+  "kodepos" : "98358"
+}, {
+  "kecamatan" : "Menyambouw (Minyambouw)",
+  "kelurahan" : "Andang",
+  "kodepos" : "98358"
+}, {
+  "kecamatan" : "Menyambouw (Minyambouw)",
+  "kelurahan" : "Anggra",
+  "kodepos" : "98358"
+}, {
+  "kecamatan" : "Catubouw",
+  "kelurahan" : "Aiga",
+  "kodepos" : "98358"
+}, {
+  "kecamatan" : "Menyambouw (Minyambouw)",
+  "kelurahan" : "Aiwou (Aywou)",
+  "kodepos" : "98358"
+}, {
+  "kecamatan" : "Menyambouw (Minyambouw)",
+  "kelurahan" : "Amber",
+  "kodepos" : "98358"
+}, {
+  "kecamatan" : "Menyambouw (Minyambouw)",
+  "kelurahan" : "Aduer",
+  "kodepos" : "98358"
+}, {
+  "kecamatan" : "Hingk",
+  "kelurahan" : "Urwong",
+  "kodepos" : "98357"
+}, {
+  "kecamatan" : "Hingk",
+  "kelurahan" : "Tumbeibehei",
+  "kodepos" : "98357"
+}, {
+  "kecamatan" : "Hingk",
+  "kelurahan" : "Umcep",
+  "kodepos" : "98357"
+}, {
+  "kecamatan" : "Hingk",
+  "kelurahan" : "Tigau Comti",
+  "kodepos" : "98357"
+}, {
+  "kecamatan" : "Hingk",
+  "kelurahan" : "Tingkwoikio (Tingwoikiou)",
+  "kodepos" : "98357"
+}, {
+  "kecamatan" : "Hingk",
+  "kelurahan" : "Tingkwoikio (Tingwoikiou)",
+  "kodepos" : "98357"
+}, {
+  "kecamatan" : "Hingk",
+  "kelurahan" : "Sopnyai",
+  "kodepos" : "98357"
+}, {
+  "kecamatan" : "Hingk",
+  "kelurahan" : "Punggung (Pungug)",
+  "kodepos" : "98357"
+}, {
+  "kecamatan" : "Hingk",
+  "kelurahan" : "Nungkimor",
+  "kodepos" : "98357"
+}, {
+  "kecamatan" : "Hingk",
+  "kelurahan" : "Penibut",
+  "kodepos" : "98357"
+}, {
+  "kecamatan" : "Hingk",
+  "kelurahan" : "Ntap",
+  "kodepos" : "98357"
+}, {
+  "kecamatan" : "Hingk",
+  "kelurahan" : "Ngimoubre (Ngimoubri)",
+  "kodepos" : "98357"
+}, {
+  "kecamatan" : "Hingk",
+  "kelurahan" : "Monut",
+  "kodepos" : "98357"
+}, {
+  "kecamatan" : "Hingk",
+  "kelurahan" : "Minggot (Manggot)",
+  "kodepos" : "98357"
+}, {
+  "kecamatan" : "Hingk",
+  "kelurahan" : "Minyeimemut (Minyeimemud)",
+  "kodepos" : "98357"
+}, {
+  "kecamatan" : "Hingk",
+  "kelurahan" : "Mbrande",
+  "kodepos" : "98357"
+}, {
+  "kecamatan" : "Hingk",
+  "kelurahan" : "Mbegau",
+  "kodepos" : "98357"
+}, {
+  "kecamatan" : "Hingk",
+  "kelurahan" : "Leiheak (Liehak)",
+  "kodepos" : "98357"
+}, {
+  "kecamatan" : "Hingk",
+  "kelurahan" : "Kwok II (Kwokwisngung)",
+  "kodepos" : "98357"
+}, {
+  "kecamatan" : "Hingk",
+  "kelurahan" : "Kwok I",
+  "kodepos" : "98357"
+}, {
+  "kecamatan" : "Hingk",
+  "kelurahan" : "Kwaiyehep",
+  "kodepos" : "98357"
+}, {
+  "kecamatan" : "Hingk",
+  "kelurahan" : "Kisap",
+  "kodepos" : "98357"
+}, {
+  "kecamatan" : "Hingk",
+  "kelurahan" : "Ikimabow (Ikimabou)",
+  "kodepos" : "98357"
+}, {
+  "kecamatan" : "Hingk",
+  "kelurahan" : "Humeysi (Humeisi)",
+  "kodepos" : "98357"
+}, {
+  "kecamatan" : "Hingk",
+  "kelurahan" : "Gweipingbai (Gueipinbai)",
+  "kodepos" : "98357"
+}, {
+  "kecamatan" : "Hingk",
+  "kelurahan" : "Heatie Bouw (Haktiebou)",
+  "kodepos" : "98357"
+}, {
+  "kecamatan" : "Hingk",
+  "kelurahan" : "Guweuti (Gueiuti/Guwei Uti)",
+  "kodepos" : "98357"
+}, {
+  "kecamatan" : "Hingk",
+  "kelurahan" : "Demunti",
+  "kodepos" : "98357"
+}, {
+  "kecamatan" : "Hingk",
+  "kelurahan" : "Cangoisi",
+  "kodepos" : "98357"
+}, {
+  "kecamatan" : "Testega",
+  "kelurahan" : "Asai II (Asay II)",
+  "kodepos" : "98357"
+}, {
+  "kecamatan" : "Hingk",
+  "kelurahan" : "Arion (Aryon)",
+  "kodepos" : "98357"
+}, {
+  "kecamatan" : "Membey",
+  "kelurahan" : "Usti",
+  "kodepos" : "98354"
+}, {
+  "kecamatan" : "Anggi",
+  "kelurahan" : "Uper",
+  "kodepos" : "98354"
+}, {
+  "kecamatan" : "Taige",
+  "kelurahan" : "Ubeisa",
+  "kodepos" : "98354"
+}, {
+  "kecamatan" : "Anggi Gida",
+  "kelurahan" : "Tubyam (Tuabyam)",
+  "kodepos" : "98354"
+}, {
+  "kecamatan" : "Anggi",
+  "kelurahan" : "Ulong (Ullong)",
+  "kodepos" : "98354"
+}, {
+  "kecamatan" : "Taige",
+  "kelurahan" : "Tridaga",
+  "kodepos" : "98354"
+}, {
+  "kecamatan" : "Anggi Gida",
+  "kelurahan" : "Tombrok",
+  "kodepos" : "98354"
+}, {
+  "kecamatan" : "Taige",
+  "kelurahan" : "Taiga (Taige)",
+  "kodepos" : "98354"
+}, {
+  "kecamatan" : "Anggi",
+  "kelurahan" : "Suteibei (Suteibey)",
+  "kodepos" : "98354"
+}, {
+  "kecamatan" : "Anggi",
+  "kelurahan" : "Testega Pamaha",
+  "kodepos" : "98354"
+}, {
+  "kecamatan" : "Anggi",
+  "kelurahan" : "Spiyougup",
+  "kodepos" : "98354"
+}, {
+  "kecamatan" : "Anggi",
+  "kelurahan" : "Srubey",
+  "kodepos" : "98354"
+}, {
+  "kecamatan" : "Anggi",
+  "kelurahan" : "Susi",
+  "kodepos" : "98354"
+}, {
+  "kecamatan" : "Membey",
+  "kelurahan" : "Sisrang (Seseran)",
+  "kodepos" : "98354"
+}, {
+  "kecamatan" : "Taige",
+  "kelurahan" : "Siskedouw (Siskedowo)",
+  "kodepos" : "98354"
+}, {
+  "kecamatan" : "Anggi Gida",
+  "kelurahan" : "Sakumi (Sakuni/Sakurai)",
+  "kodepos" : "98354"
+}, {
+  "kecamatan" : "Anggi Gida",
+  "kelurahan" : "Sibiogud",
+  "kodepos" : "98354"
+}, {
+  "kecamatan" : "Anggi",
+  "kelurahan" : "Mentubei (Mentubey)",
+  "kodepos" : "98354"
+}, {
+  "kecamatan" : "Anggi",
+  "kelurahan" : "Pamaha",
+  "kodepos" : "98354"
+}, {
+  "kecamatan" : "Anggi Gida",
+  "kelurahan" : "Ngisrow (Ingisrow)",
+  "kodepos" : "98354"
+}, {
+  "kecamatan" : "Membey",
+  "kelurahan" : "Membey",
+  "kodepos" : "98354"
+}, {
+  "kecamatan" : "Membey",
+  "kelurahan" : "Memti",
+  "kodepos" : "98354"
+}, {
+  "kecamatan" : "Anggi Gida",
+  "kelurahan" : "Krobut (Kiwot)",
+  "kodepos" : "98354"
+}, {
+  "kecamatan" : "Membey",
+  "kelurahan" : "Koney",
+  "kodepos" : "98354"
+}, {
+  "kecamatan" : "Anggi Gida",
+  "kelurahan" : "Itkau",
+  "kodepos" : "98354"
+}, {
+  "kecamatan" : "Membey",
+  "kelurahan" : "Inyebow (Inyebouw)",
+  "kodepos" : "98354"
+}, {
+  "kecamatan" : "Anggi",
+  "kelurahan" : "Iraiweri",
+  "kodepos" : "98354"
+}, {
+  "kecamatan" : "Taige",
+  "kelurahan" : "Irbos",
+  "kodepos" : "98354"
+}, {
+  "kecamatan" : "Membey",
+  "kelurahan" : "Imbeisaba",
+  "kodepos" : "98354"
+}, {
+  "kecamatan" : "Anggi",
+  "kelurahan" : "Igmbai (Igembai/Imbeisba)",
+  "kodepos" : "98354"
+}, {
+  "kecamatan" : "Anggi",
+  "kelurahan" : "Imbai",
+  "kodepos" : "98354"
+}, {
+  "kecamatan" : "Taige",
+  "kelurahan" : "Horeta",
+  "kodepos" : "98354"
+}, {
+  "kecamatan" : "Anggi",
+  "kelurahan" : "Hungku",
+  "kodepos" : "98354"
+}, {
+  "kecamatan" : "Taige",
+  "kelurahan" : "Genyu",
+  "kodepos" : "98354"
+}, {
+  "kecamatan" : "Taige",
+  "kelurahan" : "Disura",
+  "kodepos" : "98354"
+}, {
+  "kecamatan" : "Anggi",
+  "kelurahan" : "Ayau (Ayaubey)",
+  "kodepos" : "98354"
+}, {
+  "kecamatan" : "Taige",
+  "kelurahan" : "Deroubu (Deuroba)",
+  "kodepos" : "98354"
+}, {
+  "kecamatan" : "Taige",
+  "kelurahan" : "Asum (Ansum)",
+  "kodepos" : "98354"
+}, {
+  "kecamatan" : "Taige",
+  "kelurahan" : "Awigau (Awaikum/Awaigau)",
+  "kodepos" : "98354"
+}, {
+  "kecamatan" : "Testega",
+  "kelurahan" : "Cening",
+  "kodepos" : "98352"
+}, {
+  "kecamatan" : "Testega",
+  "kelurahan" : "Testega",
+  "kodepos" : "98315"
+}, {
+  "kecamatan" : "Testega",
+  "kelurahan" : "Testega",
+  "kodepos" : "98315"
+}, {
+  "kecamatan" : "Testega",
+  "kelurahan" : "Mofoukeda",
+  "kodepos" : "98315"
+}, {
+  "kecamatan" : "Testega",
+  "kelurahan" : "Morumfeyi",
+  "kodepos" : "98315"
+}, {
+  "kecamatan" : "Testega",
+  "kelurahan" : "Mengehena (Meigehenawu)",
+  "kodepos" : "98315"
+}, {
+  "kecamatan" : "Testega",
+  "kelurahan" : "Menjugiji (Mejugiji)",
+  "kodepos" : "98315"
+}, {
+  "kecamatan" : "Testega",
+  "kelurahan" : "Meifowoska",
+  "kodepos" : "98315"
+}, {
+  "kecamatan" : "Testega",
+  "kelurahan" : "Meimersa",
+  "kodepos" : "98315"
+}, {
+  "kecamatan" : "Testega",
+  "kelurahan" : "Meksi",
+  "kodepos" : "98315"
+}, {
+  "kecamatan" : "Testega",
+  "kelurahan" : "Meidogda",
+  "kodepos" : "98315"
+}, {
+  "kecamatan" : "Testega",
+  "kelurahan" : "Meifekeni",
+  "kodepos" : "98315"
+}, {
+  "kecamatan" : "Testega",
+  "kelurahan" : "Jigja (Jijga)",
+  "kodepos" : "98315"
+}, {
+  "kecamatan" : "Testega",
+  "kelurahan" : "Iba",
+  "kodepos" : "98315"
+}, {
+  "kecamatan" : "Menyambouw (Minyambouw)",
+  "kelurahan" : "Figoud",
+  "kodepos" : "98315"
+}, {
+  "kecamatan" : "Testega",
+  "kelurahan" : "Dumbre (Dumbrey)",
+  "kodepos" : "98315"
+}, {
+  "kecamatan" : "Testega",
+  "kelurahan" : "Demoura (Demuora)",
+  "kodepos" : "98315"
+} ]

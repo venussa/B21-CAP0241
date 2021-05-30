@@ -1,0 +1,989 @@
+[ {
+  "kecamatan" : "Abung Timur",
+  "kelurahan" : "Sumber Agung",
+  "kodepos" : "34583"
+}, {
+  "kecamatan" : "Abung Timur",
+  "kelurahan" : "Surakarta",
+  "kodepos" : "34583"
+}, {
+  "kecamatan" : "Abung Timur",
+  "kelurahan" : "Rejo Mulyo",
+  "kodepos" : "34583"
+}, {
+  "kecamatan" : "Abung Timur",
+  "kelurahan" : "Sidomukti",
+  "kodepos" : "34583"
+}, {
+  "kecamatan" : "Abung Timur",
+  "kelurahan" : "Peraduan Waras",
+  "kodepos" : "34583"
+}, {
+  "kecamatan" : "Abung Timur",
+  "kelurahan" : "Pungguk Lama",
+  "kodepos" : "34583"
+}, {
+  "kecamatan" : "Abung Timur",
+  "kelurahan" : "Penagan Ratu",
+  "kodepos" : "34583"
+}, {
+  "kecamatan" : "Abung Timur",
+  "kelurahan" : "Papan Rejo",
+  "kodepos" : "34583"
+}, {
+  "kecamatan" : "Abung Timur",
+  "kelurahan" : "Gedung Nyapah",
+  "kodepos" : "34583"
+}, {
+  "kecamatan" : "Abung Timur",
+  "kelurahan" : "Bumi Jaya",
+  "kodepos" : "34583"
+}, {
+  "kecamatan" : "Abung Timur",
+  "kelurahan" : "Bumi Agung Marga",
+  "kodepos" : "34583"
+}, {
+  "kecamatan" : "Abung Timur",
+  "kelurahan" : "Banjar Agung",
+  "kodepos" : "34583"
+}, {
+  "kecamatan" : "Abung Pekurun",
+  "kelurahan" : "Sumber Tani",
+  "kodepos" : "34582"
+}, {
+  "kecamatan" : "Abung Tengah",
+  "kelurahan" : "Subik",
+  "kodepos" : "34582"
+}, {
+  "kecamatan" : "Abung Pekurun",
+  "kelurahan" : "Sinar Gunung",
+  "kodepos" : "34582"
+}, {
+  "kecamatan" : "Abung Tengah",
+  "kelurahan" : "Sri Bandung",
+  "kodepos" : "34582"
+}, {
+  "kecamatan" : "Abung Tengah",
+  "kelurahan" : "Pekurun Utara",
+  "kodepos" : "34582"
+}, {
+  "kecamatan" : "Abung Pekurun",
+  "kelurahan" : "Pekurun Udik",
+  "kodepos" : "34582"
+}, {
+  "kecamatan" : "Abung Pekurun",
+  "kelurahan" : "Pekurun Tengah",
+  "kodepos" : "34582"
+}, {
+  "kecamatan" : "Abung Tengah",
+  "kelurahan" : "Pekurun Selatan",
+  "kodepos" : "34582"
+}, {
+  "kecamatan" : "Abung Tengah",
+  "kelurahan" : "Pekurun Barat",
+  "kodepos" : "34582"
+}, {
+  "kecamatan" : "Abung Pekurun",
+  "kelurahan" : "Pekurun",
+  "kodepos" : "34582"
+}, {
+  "kecamatan" : "Abung Pekurun",
+  "kelurahan" : "Ogan Campang",
+  "kodepos" : "34582"
+}, {
+  "kecamatan" : "Abung Pekurun",
+  "kelurahan" : "Ogan Jaya",
+  "kodepos" : "34582"
+}, {
+  "kecamatan" : "Abung Tengah",
+  "kelurahan" : "Negla Sari",
+  "kodepos" : "34582"
+}, {
+  "kecamatan" : "Abung Pekurun",
+  "kelurahan" : "Nyapah Banyu",
+  "kodepos" : "34582"
+}, {
+  "kecamatan" : "Abung Tengah",
+  "kelurahan" : "Kedaton",
+  "kodepos" : "34582"
+}, {
+  "kecamatan" : "Abung Tengah",
+  "kelurahan" : "Kinciran",
+  "kodepos" : "34582"
+}, {
+  "kecamatan" : "Abung Tengah",
+  "kelurahan" : "Gunung Gijul",
+  "kodepos" : "34582"
+}, {
+  "kecamatan" : "Abung Tengah",
+  "kelurahan" : "Gunung Sadar",
+  "kodepos" : "34582"
+}, {
+  "kecamatan" : "Abung Tengah",
+  "kelurahan" : "Gunung Besar",
+  "kodepos" : "34582"
+}, {
+  "kecamatan" : "Abung Pekurun",
+  "kelurahan" : "Campang Gijul",
+  "kodepos" : "34582"
+}, {
+  "kecamatan" : "Abung Selatan",
+  "kelurahan" : "Way Lunik",
+  "kodepos" : "34581"
+}, {
+  "kecamatan" : "Blambangan Pagar",
+  "kelurahan" : "Tulung Singkip",
+  "kodepos" : "34581"
+}, {
+  "kecamatan" : "Abung Selatan",
+  "kelurahan" : "Trimodadi",
+  "kodepos" : "34581"
+}, {
+  "kecamatan" : "Abung Surakarta",
+  "kelurahan" : "Tata Karya",
+  "kodepos" : "34581"
+}, {
+  "kecamatan" : "Abung Surakarta",
+  "kelurahan" : "Sukoharjo",
+  "kodepos" : "34581"
+}, {
+  "kecamatan" : "Blambangan Pagar",
+  "kelurahan" : "Tanjungiman",
+  "kodepos" : "34581"
+}, {
+  "kecamatan" : "Abung Semuli",
+  "kelurahan" : "Sukamaju",
+  "kodepos" : "34581"
+}, {
+  "kecamatan" : "Abung Semuli",
+  "kelurahan" : "Sido Rahayu",
+  "kodepos" : "34581"
+}, {
+  "kecamatan" : "Abung Selatan",
+  "kelurahan" : "Sinar Ogan",
+  "kodepos" : "34581"
+}, {
+  "kecamatan" : "Abung Semuli",
+  "kelurahan" : "Semuli Jaya",
+  "kodepos" : "34581"
+}, {
+  "kecamatan" : "Abung Semuli",
+  "kelurahan" : "Semuli Raya",
+  "kodepos" : "34581"
+}, {
+  "kecamatan" : "Abung Selatan",
+  "kelurahan" : "Ratu Abung",
+  "kodepos" : "34581"
+}, {
+  "kecamatan" : "Abung Semuli",
+  "kelurahan" : "Papan Asri",
+  "kodepos" : "34581"
+}, {
+  "kecamatan" : "Abung Surakarta",
+  "kelurahan" : "Purba Sakti",
+  "kodepos" : "34581"
+}, {
+  "kecamatan" : "Blambangan Pagar",
+  "kelurahan" : "Pagar",
+  "kodepos" : "34581"
+}, {
+  "kecamatan" : "Blambangan Pagar",
+  "kelurahan" : "Pagar Gading",
+  "kodepos" : "34581"
+}, {
+  "kecamatan" : "Abung Selatan",
+  "kelurahan" : "Kembang Tanjung",
+  "kodepos" : "34581"
+}, {
+  "kecamatan" : "Abung Selatan",
+  "kelurahan" : "Kemalo Abung",
+  "kodepos" : "34581"
+}, {
+  "kecamatan" : "Abung Selatan",
+  "kelurahan" : "Kembang Gading",
+  "kodepos" : "34581"
+}, {
+  "kecamatan" : "Abung Surakarta",
+  "kelurahan" : "Karya Sakti",
+  "kodepos" : "34581"
+}, {
+  "kecamatan" : "Abung Selatan",
+  "kelurahan" : "Kalibening Raya",
+  "kodepos" : "34581"
+}, {
+  "kecamatan" : "Abung Selatan",
+  "kelurahan" : "Kalibalangan",
+  "kodepos" : "34581"
+}, {
+  "kecamatan" : "Blambangan Pagar",
+  "kelurahan" : "Jagang",
+  "kodepos" : "34581"
+}, {
+  "kecamatan" : "Abung Semuli",
+  "kelurahan" : "Gunung Sari",
+  "kodepos" : "34581"
+}, {
+  "kecamatan" : "Abung Semuli",
+  "kelurahan" : "Gunung Kramat",
+  "kodepos" : "34581"
+}, {
+  "kecamatan" : "Abung Selatan",
+  "kelurahan" : "Cabang Empat",
+  "kodepos" : "34581"
+}, {
+  "kecamatan" : "Abung Selatan",
+  "kelurahan" : "Candi Mas",
+  "kodepos" : "34581"
+}, {
+  "kecamatan" : "Abung Selatan",
+  "kelurahan" : "Gilih Sukanegeri",
+  "kodepos" : "34581"
+}, {
+  "kecamatan" : "Abung Selatan",
+  "kelurahan" : "Cabang Abung Raya",
+  "kodepos" : "34581"
+}, {
+  "kecamatan" : "Blambangan Pagar",
+  "kelurahan" : "Buring Kencana",
+  "kodepos" : "34581"
+}, {
+  "kecamatan" : "Abung Surakarta",
+  "kelurahan" : "Bumi Restu",
+  "kodepos" : "34581"
+}, {
+  "kecamatan" : "Abung Selatan",
+  "kelurahan" : "Bumi Raya Pemekaran",
+  "kodepos" : "34581"
+}, {
+  "kecamatan" : "Abung Surakarta",
+  "kelurahan" : "Bumi Raharja",
+  "kodepos" : "34581"
+}, {
+  "kecamatan" : "Abung Surakarta",
+  "kelurahan" : "Bangun Sari",
+  "kodepos" : "34581"
+}, {
+  "kecamatan" : "Blambangan Pagar",
+  "kelurahan" : "Blambangan",
+  "kodepos" : "34581"
+}, {
+  "kecamatan" : "Abung Surakarta",
+  "kelurahan" : "Bandar Sakti",
+  "kodepos" : "34581"
+}, {
+  "kecamatan" : "Abung Surakarta",
+  "kelurahan" : "Bandar Agung",
+  "kodepos" : "34581"
+}, {
+  "kecamatan" : "Abung Selatan",
+  "kelurahan" : "Bandar Kagungan Raya",
+  "kodepos" : "34581"
+}, {
+  "kecamatan" : "Abung Selatan",
+  "kelurahan" : "Abung Jayo",
+  "kodepos" : "34581"
+}, {
+  "kecamatan" : "Muara Sungkai",
+  "kelurahan" : "Sumber Agung",
+  "kodepos" : "34559"
+}, {
+  "kecamatan" : "Muara Sungkai",
+  "kelurahan" : "Pakuan Agung",
+  "kodepos" : "34559"
+}, {
+  "kecamatan" : "Muara Sungkai",
+  "kelurahan" : "Negeri Ujung Karang",
+  "kodepos" : "34559"
+}, {
+  "kecamatan" : "Muara Sungkai",
+  "kelurahan" : "Karang Sakti",
+  "kodepos" : "34559"
+}, {
+  "kecamatan" : "Muara Sungkai",
+  "kelurahan" : "Karang Sari",
+  "kodepos" : "34559"
+}, {
+  "kecamatan" : "Muara Sungkai",
+  "kelurahan" : "Negeri Ratu",
+  "kodepos" : "34559"
+}, {
+  "kecamatan" : "Muara Sungkai",
+  "kelurahan" : "Karang Mulyo",
+  "kodepos" : "34559"
+}, {
+  "kecamatan" : "Muara Sungkai",
+  "kelurahan" : "Karang Rejo II",
+  "kodepos" : "34559"
+}, {
+  "kecamatan" : "Muara Sungkai",
+  "kelurahan" : "Banjar Ratu",
+  "kodepos" : "34559"
+}, {
+  "kecamatan" : "Muara Sungkai",
+  "kelurahan" : "Bandar Agung",
+  "kodepos" : "34559"
+}, {
+  "kecamatan" : "Muara Sungkai",
+  "kelurahan" : "Banjar Negeri",
+  "kodepos" : "34559"
+}, {
+  "kecamatan" : "Abung Barat",
+  "kelurahan" : "Way Wakak",
+  "kodepos" : "34558"
+}, {
+  "kecamatan" : "Abung Kunang",
+  "kelurahan" : "Way Perancang",
+  "kodepos" : "34558"
+}, {
+  "kecamatan" : "Sungkai Barat",
+  "kelurahan" : "Way Isem",
+  "kodepos" : "34558"
+}, {
+  "kecamatan" : "Abung Barat",
+  "kelurahan" : "Tanjung Harta",
+  "kodepos" : "34558"
+}, {
+  "kecamatan" : "Abung Kunang",
+  "kelurahan" : "Talang Jembatan",
+  "kodepos" : "34558"
+}, {
+  "kecamatan" : "Abung Barat",
+  "kelurahan" : "Simpang Abung/Agung",
+  "kodepos" : "34558"
+}, {
+  "kecamatan" : "Abung Barat",
+  "kelurahan" : "Pengaringan",
+  "kodepos" : "34558"
+}, {
+  "kecamatan" : "Abung Kunang",
+  "kelurahan" : "Sabuk Empat",
+  "kodepos" : "34558"
+}, {
+  "kecamatan" : "Abung Kunang",
+  "kelurahan" : "Sabuk Indah",
+  "kodepos" : "34558"
+}, {
+  "kecamatan" : "Sungkai Barat",
+  "kelurahan" : "Negeri Batin Jaya",
+  "kodepos" : "34558"
+}, {
+  "kecamatan" : "Abung Barat",
+  "kelurahan" : "Ogan Lima",
+  "kodepos" : "34558"
+}, {
+  "kecamatan" : "Abung Barat",
+  "kelurahan" : "Pematang Kasih",
+  "kodepos" : "34558"
+}, {
+  "kecamatan" : "Abung Barat",
+  "kelurahan" : "Kistang",
+  "kodepos" : "34558"
+}, {
+  "kecamatan" : "Abung Barat",
+  "kelurahan" : "Lepang Besar",
+  "kodepos" : "34558"
+}, {
+  "kecamatan" : "Abung Barat",
+  "kelurahan" : "Kemplas/Kamplas",
+  "kodepos" : "34558"
+}, {
+  "kecamatan" : "Abung Barat",
+  "kelurahan" : "Hujan Mas",
+  "kodepos" : "34558"
+}, {
+  "kecamatan" : "Sungkai Barat",
+  "kelurahan" : "Gunung Maknibai",
+  "kodepos" : "34558"
+}, {
+  "kecamatan" : "Abung Barat",
+  "kelurahan" : "Gunung Betuah",
+  "kodepos" : "34558"
+}, {
+  "kecamatan" : "Sungkai Barat",
+  "kelurahan" : "Comok Sinar Jaya",
+  "kodepos" : "34558"
+}, {
+  "kecamatan" : "Abung Barat",
+  "kelurahan" : "Cahaya Negeri",
+  "kodepos" : "34558"
+}, {
+  "kecamatan" : "Abung Barat",
+  "kelurahan" : "Bumi Nabung",
+  "kodepos" : "34558"
+}, {
+  "kecamatan" : "Sungkai Barat",
+  "kelurahan" : "Cahaya Mas",
+  "kodepos" : "34558"
+}, {
+  "kecamatan" : "Abung Barat",
+  "kelurahan" : "Bumi Mandiri",
+  "kodepos" : "34558"
+}, {
+  "kecamatan" : "Abung Kunang",
+  "kelurahan" : "Bindu",
+  "kodepos" : "34558"
+}, {
+  "kecamatan" : "Abung Kunang",
+  "kelurahan" : "Beringin",
+  "kodepos" : "34558"
+}, {
+  "kecamatan" : "Tanjung Raja",
+  "kelurahan" : "Ulak Ata",
+  "kodepos" : "34557"
+}, {
+  "kecamatan" : "Abung Kunang",
+  "kelurahan" : "Aji Kagungan",
+  "kodepos" : "34558"
+}, {
+  "kecamatan" : "Tanjung Raja",
+  "kelurahan" : "Tulung Balak",
+  "kodepos" : "34557"
+}, {
+  "kecamatan" : "Tanjung Raja",
+  "kelurahan" : "Tanjung Riang",
+  "kodepos" : "34557"
+}, {
+  "kecamatan" : "Tanjung Raja",
+  "kelurahan" : "Tanjung Beringin",
+  "kodepos" : "34557"
+}, {
+  "kecamatan" : "Tanjung Raja",
+  "kelurahan" : "Tanjung Raja",
+  "kodepos" : "34557"
+}, {
+  "kecamatan" : "Tanjung Raja",
+  "kelurahan" : "Suka Mulya",
+  "kodepos" : "34557"
+}, {
+  "kecamatan" : "Tanjung Raja",
+  "kelurahan" : "Sukasari",
+  "kodepos" : "34557"
+}, {
+  "kecamatan" : "Tanjung Raja",
+  "kelurahan" : "Sri Menanti",
+  "kodepos" : "34557"
+}, {
+  "kecamatan" : "Tanjung Raja",
+  "kelurahan" : "Sindang Agung",
+  "kodepos" : "34557"
+}, {
+  "kecamatan" : "Tanjung Raja",
+  "kelurahan" : "Sindang Marga",
+  "kodepos" : "34557"
+}, {
+  "kecamatan" : "Tanjung Raja",
+  "kelurahan" : "Sinarmulya",
+  "kodepos" : "34557"
+}, {
+  "kecamatan" : "Tanjung Raja",
+  "kelurahan" : "Sinar Jaya",
+  "kodepos" : "34557"
+}, {
+  "kecamatan" : "Tanjung Raja",
+  "kelurahan" : "Priangan Ratu",
+  "kodepos" : "34557"
+}, {
+  "kecamatan" : "Tanjung Raja",
+  "kelurahan" : "Sido Mulyo",
+  "kodepos" : "34557"
+}, {
+  "kecamatan" : "Tanjung Raja",
+  "kelurahan" : "Mekar Jaya",
+  "kodepos" : "34557"
+}, {
+  "kecamatan" : "Tanjung Raja",
+  "kelurahan" : "Merambung",
+  "kodepos" : "34557"
+}, {
+  "kecamatan" : "Tanjung Raja",
+  "kelurahan" : "Kemala Raja",
+  "kodepos" : "34557"
+}, {
+  "kecamatan" : "Tanjung Raja",
+  "kelurahan" : "Karang Waringin",
+  "kodepos" : "34557"
+}, {
+  "kecamatan" : "Tanjung Raja",
+  "kelurahan" : "Gunung Katon",
+  "kodepos" : "34557"
+}, {
+  "kecamatan" : "Bukit Kemuning",
+  "kelurahan" : "Tanjung Waras",
+  "kodepos" : "34556"
+}, {
+  "kecamatan" : "Abung Tinggi",
+  "kelurahan" : "Ulak Rengas",
+  "kodepos" : "34556"
+}, {
+  "kecamatan" : "Bukit Kemuning",
+  "kelurahan" : "Tanjung Baru Timur",
+  "kodepos" : "34556"
+}, {
+  "kecamatan" : "Bukit Kemuning",
+  "kelurahan" : "Suka Menanti",
+  "kodepos" : "34556"
+}, {
+  "kecamatan" : "Bukit Kemuning",
+  "kelurahan" : "Tanjung Baru",
+  "kodepos" : "34556"
+}, {
+  "kecamatan" : "Abung Tinggi",
+  "kelurahan" : "Suka Marga",
+  "kodepos" : "34556"
+}, {
+  "kecamatan" : "Bukit Kemuning",
+  "kelurahan" : "Sidomulyo",
+  "kodepos" : "34556"
+}, {
+  "kecamatan" : "Abung Tinggi",
+  "kelurahan" : "Suka Maju",
+  "kodepos" : "34556"
+}, {
+  "kecamatan" : "Abung Tinggi",
+  "kelurahan" : "Sekipi",
+  "kodepos" : "34556"
+}, {
+  "kecamatan" : "Abung Tinggi",
+  "kelurahan" : "Sido Kayo",
+  "kodepos" : "34556"
+}, {
+  "kecamatan" : "Abung Tinggi",
+  "kelurahan" : "Pulau Panggung",
+  "kodepos" : "34556"
+}, {
+  "kecamatan" : "Abung Tinggi",
+  "kelurahan" : "Muara Dua",
+  "kodepos" : "34556"
+}, {
+  "kecamatan" : "Bukit Kemuning",
+  "kelurahan" : "Muara Aman",
+  "kodepos" : "34556"
+}, {
+  "kecamatan" : "Abung Tinggi",
+  "kelurahan" : "Kebun Dalam",
+  "kodepos" : "34556"
+}, {
+  "kecamatan" : "Bukit Kemuning",
+  "kelurahan" : "Bukit Kemuning",
+  "kodepos" : "34556"
+}, {
+  "kecamatan" : "Bukit Kemuning",
+  "kelurahan" : "Dwikora",
+  "kodepos" : "34556"
+}, {
+  "kecamatan" : "Hulu Sungkai",
+  "kelurahan" : "Tanjung Harapan",
+  "kodepos" : "34555"
+}, {
+  "kecamatan" : "Hulu Sungkai",
+  "kelurahan" : "Tulung Buyut",
+  "kodepos" : "34555"
+}, {
+  "kecamatan" : "Bunga Mayang",
+  "kelurahan" : "Sukadana Udik",
+  "kodepos" : "34555"
+}, {
+  "kecamatan" : "Bunga Mayang",
+  "kelurahan" : "Tanah Abang",
+  "kodepos" : "34555"
+}, {
+  "kecamatan" : "Bunga Mayang",
+  "kelurahan" : "Sukadana Ilir",
+  "kodepos" : "34555"
+}, {
+  "kecamatan" : "Sungkai Tengah",
+  "kelurahan" : "Ratu Jaya",
+  "kodepos" : "34555"
+}, {
+  "kecamatan" : "Sungkai Utara",
+  "kelurahan" : "Padang Ratu",
+  "kodepos" : "34555"
+}, {
+  "kecamatan" : "Sungkai Tengah",
+  "kelurahan" : "Pampang Tanggub/Tangguk Jaya",
+  "kodepos" : "34555"
+}, {
+  "kecamatan" : "Sungkai Utara",
+  "kelurahan" : "Negeri Sakti",
+  "kodepos" : "34555"
+}, {
+  "kecamatan" : "Sungkai Utara",
+  "kelurahan" : "Ogan Jaya",
+  "kodepos" : "34555"
+}, {
+  "kecamatan" : "Sungkai Utara",
+  "kelurahan" : "Negeri Ratu",
+  "kodepos" : "34555"
+}, {
+  "kecamatan" : "Sungkai Tengah",
+  "kelurahan" : "Negeri Campang Jaya",
+  "kodepos" : "34555"
+}, {
+  "kecamatan" : "Sungkai Tengah",
+  "kelurahan" : "Negeri Galih/Galik Rejo",
+  "kodepos" : "34555"
+}, {
+  "kecamatan" : "Bunga Mayang",
+  "kelurahan" : "Negara Tulang Bawang Baru",
+  "kodepos" : "34555"
+}, {
+  "kecamatan" : "Bunga Mayang",
+  "kelurahan" : "Negara Tulang Bawang",
+  "kodepos" : "34555"
+}, {
+  "kecamatan" : "Sungkai Utara",
+  "kelurahan" : "Negara Ratu",
+  "kodepos" : "34555"
+}, {
+  "kecamatan" : "Sungkai Utara",
+  "kelurahan" : "Negara Batin II",
+  "kodepos" : "34555"
+}, {
+  "kecamatan" : "Hulu Sungkai",
+  "kelurahan" : "Negara Kemakmuran",
+  "kodepos" : "34555"
+}, {
+  "kecamatan" : "Sungkai Utara",
+  "kelurahan" : "Negara Batin II",
+  "kodepos" : "34555"
+}, {
+  "kecamatan" : "Bunga Mayang",
+  "kelurahan" : "Mulyo Rejo II",
+  "kodepos" : "34555"
+}, {
+  "kecamatan" : "Sungkai Utara",
+  "kelurahan" : "Negara Batin",
+  "kodepos" : "34555"
+}, {
+  "kecamatan" : "Sungkai Tengah",
+  "kelurahan" : "Melungun Ratu",
+  "kodepos" : "34555"
+}, {
+  "kecamatan" : "Bunga Mayang",
+  "kelurahan" : "Mulyo Rejo I",
+  "kodepos" : "34555"
+}, {
+  "kecamatan" : "Hulu Sungkai",
+  "kelurahan" : "Lubuk Rukam",
+  "kodepos" : "34555"
+}, {
+  "kecamatan" : "Sungkai Tengah",
+  "kelurahan" : "Mekar Asri",
+  "kodepos" : "34555"
+}, {
+  "kecamatan" : "Sungkai Utara",
+  "kelurahan" : "Kota Negara",
+  "kodepos" : "34555"
+}, {
+  "kecamatan" : "Sungkai Utara",
+  "kelurahan" : "Kota Negara Ilir",
+  "kodepos" : "34555"
+}, {
+  "kecamatan" : "Bunga Mayang",
+  "kelurahan" : "Kota Napal",
+  "kodepos" : "34555"
+}, {
+  "kecamatan" : "Bunga Mayang",
+  "kelurahan" : "Isorejo",
+  "kodepos" : "34555"
+}, {
+  "kecamatan" : "Hulu Sungkai",
+  "kelurahan" : "Hibul/Ibul Jaya",
+  "kodepos" : "34555"
+}, {
+  "kecamatan" : "Sungkai Utara",
+  "kelurahan" : "Hanakau Jaya",
+  "kodepos" : "34555"
+}, {
+  "kecamatan" : "Bunga Mayang",
+  "kelurahan" : "Haduyang Ratu",
+  "kodepos" : "34555"
+}, {
+  "kecamatan" : "Hulu Sungkai",
+  "kelurahan" : "Gedung Raja",
+  "kodepos" : "34555"
+}, {
+  "kecamatan" : "Hulu Sungkai",
+  "kelurahan" : "Gedung Makrifat",
+  "kodepos" : "34555"
+}, {
+  "kecamatan" : "Hulu Sungkai",
+  "kelurahan" : "Gedung Negara",
+  "kodepos" : "34555"
+}, {
+  "kecamatan" : "Sungkai Utara",
+  "kelurahan" : "Ciamis",
+  "kodepos" : "34555"
+}, {
+  "kecamatan" : "Bunga Mayang",
+  "kelurahan" : "Bunga Maju",
+  "kodepos" : "34555"
+}, {
+  "kecamatan" : "Sungkai Utara",
+  "kelurahan" : "Gedung Batin",
+  "kodepos" : "34555"
+}, {
+  "kecamatan" : "Hulu Sungkai",
+  "kelurahan" : "Beringin Jaya",
+  "kodepos" : "34555"
+}, {
+  "kecamatan" : "Hulu Sungkai",
+  "kelurahan" : "Bunglay Tengah (Bunglao/Bonglai)",
+  "kodepos" : "34555"
+}, {
+  "kecamatan" : "Sungkai Utara",
+  "kelurahan" : "Bumi Raharya",
+  "kodepos" : "34555"
+}, {
+  "kecamatan" : "Sungkai Utara",
+  "kelurahan" : "Batu Raja",
+  "kodepos" : "34555"
+}, {
+  "kecamatan" : "Sungkai Tengah",
+  "kelurahan" : "Batu Nangkop",
+  "kodepos" : "34555"
+}, {
+  "kecamatan" : "Sungkai Utara",
+  "kelurahan" : "Bangun Jaya",
+  "kodepos" : "34555"
+}, {
+  "kecamatan" : "Sungkai Barat",
+  "kelurahan" : "Tanjung Jaya",
+  "kodepos" : "34554"
+}, {
+  "kecamatan" : "Sungkai Jaya",
+  "kelurahan" : "Sri Jaya",
+  "kodepos" : "34554"
+}, {
+  "kecamatan" : "Sungkai Jaya",
+  "kelurahan" : "Sukajaya",
+  "kodepos" : "34554"
+}, {
+  "kecamatan" : "Sungkai Jaya",
+  "kelurahan" : "Sri Agung",
+  "kodepos" : "34554"
+}, {
+  "kecamatan" : "Sungkai Selatan",
+  "kelurahan" : "Sirna Galih",
+  "kodepos" : "34554"
+}, {
+  "kecamatan" : "Sungkai Barat",
+  "kelurahan" : "Sinar Harapan",
+  "kodepos" : "34554"
+}, {
+  "kecamatan" : "Sungkai Selatan",
+  "kelurahan" : "Sidodadi",
+  "kodepos" : "34554"
+}, {
+  "kecamatan" : "Sungkai Barat",
+  "kelurahan" : "Negeri Sakti",
+  "kodepos" : "34554"
+}, {
+  "kecamatan" : "Sungkai Jaya",
+  "kelurahan" : "Negara Agung",
+  "kodepos" : "34554"
+}, {
+  "kecamatan" : "Sungkai Selatan",
+  "kelurahan" : "Labuhan Ratu Pasar",
+  "kodepos" : "34554"
+}, {
+  "kecamatan" : "Sungkai Jaya",
+  "kelurahan" : "Lepang/Lempang Tengah",
+  "kodepos" : "34554"
+}, {
+  "kecamatan" : "Sungkai Selatan",
+  "kelurahan" : "Labuhan Ratu Kp",
+  "kodepos" : "34554"
+}, {
+  "kecamatan" : "Sungkai Barat",
+  "kelurahan" : "Kubuhitu",
+  "kodepos" : "34554"
+}, {
+  "kecamatan" : "Sungkai Selatan",
+  "kelurahan" : "Kota Agung",
+  "kodepos" : "34554"
+}, {
+  "kecamatan" : "Sungkai Selatan",
+  "kelurahan" : "Karang Rejo",
+  "kodepos" : "34554"
+}, {
+  "kecamatan" : "Sungkai Barat",
+  "kelurahan" : "Gunung Raja",
+  "kodepos" : "34554"
+}, {
+  "kecamatan" : "Sungkai Selatan",
+  "kelurahan" : "Ketapang",
+  "kodepos" : "34554"
+}, {
+  "kecamatan" : "Sungkai Selatan",
+  "kelurahan" : "Gedung Ketapang",
+  "kodepos" : "34554"
+}, {
+  "kecamatan" : "Sungkai Selatan",
+  "kelurahan" : "Gunung Labuan",
+  "kodepos" : "34554"
+}, {
+  "kecamatan" : "Sungkai Jaya",
+  "kelurahan" : "Cempaka Barat",
+  "kodepos" : "34554"
+}, {
+  "kecamatan" : "Sungkai Jaya",
+  "kelurahan" : "Cempaka Timur",
+  "kodepos" : "34554"
+}, {
+  "kecamatan" : "Sungkai Jaya",
+  "kelurahan" : "Cempaka",
+  "kodepos" : "34554"
+}, {
+  "kecamatan" : "Sungkai Jaya",
+  "kelurahan" : "Cahaya Makmur",
+  "kodepos" : "34554"
+}, {
+  "kecamatan" : "Sungkai Selatan",
+  "kelurahan" : "Bumi Ratu",
+  "kodepos" : "34554"
+}, {
+  "kecamatan" : "Sungkai Selatan",
+  "kelurahan" : "Banjar Ketapang",
+  "kodepos" : "34554"
+}, {
+  "kecamatan" : "Kotabumi Selatan",
+  "kelurahan" : "Kota Alam",
+  "kodepos" : "34519"
+}, {
+  "kecamatan" : "Kotabumi",
+  "kelurahan" : "Kotabumi Udik",
+  "kodepos" : "34518"
+}, {
+  "kecamatan" : "Kotabumi",
+  "kelurahan" : "Kotabumi Pasar",
+  "kodepos" : "34518"
+}, {
+  "kecamatan" : "Kotabumi",
+  "kelurahan" : "Kotabumi Ilir",
+  "kodepos" : "34517"
+}, {
+  "kecamatan" : "Kotabumi",
+  "kelurahan" : "Sindang Sari",
+  "kodepos" : "34517"
+}, {
+  "kecamatan" : "Kotabumi",
+  "kelurahan" : "Kotabumi Tengah",
+  "kodepos" : "34516"
+}, {
+  "kecamatan" : "Kotabumi",
+  "kelurahan" : "Kotabumi Tengah Barat",
+  "kodepos" : "34516"
+}, {
+  "kecamatan" : "Kotabumi",
+  "kelurahan" : "Cempedak",
+  "kodepos" : "34516"
+}, {
+  "kecamatan" : "Kotabumi",
+  "kelurahan" : "Sribasuki",
+  "kodepos" : "34515"
+}, {
+  "kecamatan" : "Kotabumi",
+  "kelurahan" : "Rejosari",
+  "kodepos" : "34514"
+}, {
+  "kecamatan" : "Kotabumi Selatan",
+  "kelurahan" : "Kelapa Tujuh",
+  "kodepos" : "34513"
+}, {
+  "kecamatan" : "Kotabumi Utara",
+  "kelurahan" : "Wonomarto",
+  "kodepos" : "34511"
+}, {
+  "kecamatan" : "Kotabumi Selatan",
+  "kelurahan" : "Way Melan",
+  "kodepos" : "34511"
+}, {
+  "kecamatan" : "Kotabumi Selatan",
+  "kelurahan" : "Tanjung Senang",
+  "kodepos" : "34511"
+}, {
+  "kecamatan" : "Kotabumi Selatan",
+  "kelurahan" : "Tanjung Harapan",
+  "kodepos" : "34511"
+}, {
+  "kecamatan" : "Kotabumi Selatan",
+  "kelurahan" : "Tanjung Aman",
+  "kodepos" : "34511"
+}, {
+  "kecamatan" : "Kotabumi Selatan",
+  "kelurahan" : "Taman Jaya",
+  "kodepos" : "34511"
+}, {
+  "kecamatan" : "Kotabumi Utara",
+  "kelurahan" : "Talang Jali",
+  "kodepos" : "34511"
+}, {
+  "kecamatan" : "Kotabumi",
+  "kelurahan" : "Talang Bojong",
+  "kodepos" : "34511"
+}, {
+  "kecamatan" : "Kotabumi Selatan",
+  "kelurahan" : "Sinar Mas Alam",
+  "kodepos" : "34511"
+}, {
+  "kecamatan" : "Kotabumi",
+  "kelurahan" : "Sumber Arum",
+  "kodepos" : "34511"
+}, {
+  "kecamatan" : "Kotabumi Utara",
+  "kelurahan" : "Sawo Jajar",
+  "kodepos" : "34511"
+}, {
+  "kecamatan" : "Kotabumi Utara",
+  "kelurahan" : "Margorejo",
+  "kodepos" : "34511"
+}, {
+  "kecamatan" : "Kotabumi Selatan",
+  "kelurahan" : "Mulang Maya",
+  "kodepos" : "34511"
+}, {
+  "kecamatan" : "Kotabumi Utara",
+  "kelurahan" : "Madukoro Baru",
+  "kodepos" : "34511"
+}, {
+  "kecamatan" : "Kotabumi Utara",
+  "kelurahan" : "Madukoro",
+  "kodepos" : "34511"
+}, {
+  "kecamatan" : "Kotabumi",
+  "kelurahan" : "Kota Gapura",
+  "kodepos" : "34511"
+}, {
+  "kecamatan" : "Kotabumi Selatan",
+  "kelurahan" : "Karang Agung",
+  "kodepos" : "34511"
+}, {
+  "kecamatan" : "Kotabumi Utara",
+  "kelurahan" : "Kali Cinta",
+  "kodepos" : "34511"
+}, {
+  "kecamatan" : "Kotabumi Selatan",
+  "kelurahan" : "Jerangkang",
+  "kodepos" : "34511"
+}, {
+  "kecamatan" : "Kotabumi Selatan",
+  "kelurahan" : "Curup Guruh Kagungan",
+  "kodepos" : "34511"
+}, {
+  "kecamatan" : "Kotabumi",
+  "kelurahan" : "Bojong Barat",
+  "kodepos" : "34511"
+}, {
+  "kecamatan" : "Kotabumi Utara",
+  "kelurahan" : "Banjar Wangi",
+  "kodepos" : "34511"
+}, {
+  "kecamatan" : "Kotabumi Selatan",
+  "kelurahan" : "Bandar Putih",
+  "kodepos" : "34511"
+}, {
+  "kecamatan" : "Kotabumi Selatan",
+  "kelurahan" : "Alam Jaya",
+  "kodepos" : "34511"
+} ]

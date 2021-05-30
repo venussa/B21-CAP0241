@@ -1,0 +1,593 @@
+[ {
+  "kecamatan" : "Telaga Langsat",
+  "kelurahan" : "Pakuan Timur",
+  "kodepos" : "71292"
+}, {
+  "kecamatan" : "Telaga Langsat",
+  "kelurahan" : "Pandulangan",
+  "kodepos" : "71292"
+}, {
+  "kecamatan" : "Telaga Langsat",
+  "kelurahan" : "Telaga Langsat",
+  "kodepos" : "71292"
+}, {
+  "kecamatan" : "Telaga Langsat",
+  "kelurahan" : "Longawang",
+  "kodepos" : "71292"
+}, {
+  "kecamatan" : "Telaga Langsat",
+  "kelurahan" : "Mandala",
+  "kodepos" : "71292"
+}, {
+  "kecamatan" : "Telaga Langsat",
+  "kelurahan" : "Hamak Timur",
+  "kodepos" : "71292"
+}, {
+  "kecamatan" : "Telaga Langsat",
+  "kelurahan" : "Hamak Utara",
+  "kodepos" : "71292"
+}, {
+  "kecamatan" : "Telaga Langsat",
+  "kelurahan" : "Lok Binuang",
+  "kodepos" : "71292"
+}, {
+  "kecamatan" : "Telaga Langsat",
+  "kelurahan" : "Gumbil",
+  "kodepos" : "71292"
+}, {
+  "kecamatan" : "Telaga Langsat",
+  "kelurahan" : "Hamak",
+  "kodepos" : "71292"
+}, {
+  "kecamatan" : "Angkinang",
+  "kelurahan" : "Telaga Sili Sili",
+  "kodepos" : "71291"
+}, {
+  "kecamatan" : "Telaga Langsat",
+  "kelurahan" : "Ambutun",
+  "kodepos" : "71292"
+}, {
+  "kecamatan" : "Angkinang",
+  "kelurahan" : "Taniran Selatan",
+  "kodepos" : "71291"
+}, {
+  "kecamatan" : "Angkinang",
+  "kelurahan" : "Tawia",
+  "kodepos" : "71291"
+}, {
+  "kecamatan" : "Angkinang",
+  "kelurahan" : "Taniran Kubah",
+  "kodepos" : "71291"
+}, {
+  "kecamatan" : "Angkinang",
+  "kelurahan" : "Kayu Abang",
+  "kodepos" : "71291"
+}, {
+  "kecamatan" : "Angkinang",
+  "kelurahan" : "Bamban Selatan",
+  "kodepos" : "71291"
+}, {
+  "kecamatan" : "Angkinang",
+  "kelurahan" : "Bamban Utara",
+  "kodepos" : "71291"
+}, {
+  "kecamatan" : "Angkinang",
+  "kelurahan" : "Angkinang Selatan",
+  "kodepos" : "71291"
+}, {
+  "kecamatan" : "Angkinang",
+  "kelurahan" : "Bakarung",
+  "kodepos" : "71291"
+}, {
+  "kecamatan" : "Angkinang",
+  "kelurahan" : "Bamban",
+  "kodepos" : "71291"
+}, {
+  "kecamatan" : "Angkinang",
+  "kelurahan" : "Angkinang",
+  "kodepos" : "71291"
+}, {
+  "kecamatan" : "Loksado",
+  "kelurahan" : "Tumingki",
+  "kodepos" : "71282"
+}, {
+  "kecamatan" : "Loksado",
+  "kelurahan" : "Ulang (Muara Ulang)",
+  "kodepos" : "71282"
+}, {
+  "kecamatan" : "Loksado",
+  "kelurahan" : "Lumpangi",
+  "kodepos" : "71282"
+}, {
+  "kecamatan" : "Loksado",
+  "kelurahan" : "Malinau",
+  "kodepos" : "71282"
+}, {
+  "kecamatan" : "Loksado",
+  "kelurahan" : "Panggungan",
+  "kodepos" : "71282"
+}, {
+  "kecamatan" : "Loksado",
+  "kelurahan" : "Loksado",
+  "kodepos" : "71282"
+}, {
+  "kecamatan" : "Loksado",
+  "kelurahan" : "Kamawakan",
+  "kodepos" : "71282"
+}, {
+  "kecamatan" : "Loksado",
+  "kelurahan" : "Lok Lahung",
+  "kodepos" : "71282"
+}, {
+  "kecamatan" : "Loksado",
+  "kelurahan" : "Hulu Banyu",
+  "kodepos" : "71282"
+}, {
+  "kecamatan" : "Loksado",
+  "kelurahan" : "Haratai",
+  "kodepos" : "71282"
+}, {
+  "kecamatan" : "Loksado",
+  "kelurahan" : "Halunuk",
+  "kodepos" : "71282"
+}, {
+  "kecamatan" : "Padang Batung",
+  "kelurahan" : "Tabihi",
+  "kodepos" : "71281"
+}, {
+  "kecamatan" : "Padang Batung",
+  "kelurahan" : "Padang Batung",
+  "kodepos" : "71281"
+}, {
+  "kecamatan" : "Padang Batung",
+  "kelurahan" : "Pahampangan",
+  "kodepos" : "71281"
+}, {
+  "kecamatan" : "Padang Batung",
+  "kelurahan" : "Pandulangan",
+  "kodepos" : "71281"
+}, {
+  "kecamatan" : "Padang Batung",
+  "kelurahan" : "Malutu",
+  "kodepos" : "71281"
+}, {
+  "kecamatan" : "Padang Batung",
+  "kelurahan" : "Mawangi",
+  "kodepos" : "71281"
+}, {
+  "kecamatan" : "Padang Batung",
+  "kelurahan" : "Malilingin",
+  "kodepos" : "71281"
+}, {
+  "kecamatan" : "Padang Batung",
+  "kelurahan" : "Karang Jawa Muka",
+  "kodepos" : "71281"
+}, {
+  "kecamatan" : "Padang Batung",
+  "kelurahan" : "Madang",
+  "kodepos" : "71281"
+}, {
+  "kecamatan" : "Padang Batung",
+  "kelurahan" : "Kaliring",
+  "kodepos" : "71281"
+}, {
+  "kecamatan" : "Padang Batung",
+  "kelurahan" : "Karang Jawa",
+  "kodepos" : "71281"
+}, {
+  "kecamatan" : "Padang Batung",
+  "kelurahan" : "Jalatang",
+  "kodepos" : "71281"
+}, {
+  "kecamatan" : "Padang Batung",
+  "kelurahan" : "Jambu Hulu",
+  "kodepos" : "71281"
+}, {
+  "kecamatan" : "Padang Batung",
+  "kelurahan" : "Jembatan Merah",
+  "kodepos" : "71281"
+}, {
+  "kecamatan" : "Padang Batung",
+  "kelurahan" : "Batu Laki",
+  "kodepos" : "71281"
+}, {
+  "kecamatan" : "Padang Batung",
+  "kelurahan" : "Durian Rabung",
+  "kodepos" : "71281"
+}, {
+  "kecamatan" : "Sungai Raya",
+  "kelurahan" : "Telaga Bidadari",
+  "kodepos" : "71271"
+}, {
+  "kecamatan" : "Padang Batung",
+  "kelurahan" : "Batu Bini",
+  "kodepos" : "71281"
+}, {
+  "kecamatan" : "Sungai Raya",
+  "kelurahan" : "Tamiyang",
+  "kodepos" : "71271"
+}, {
+  "kecamatan" : "Sungai Raya",
+  "kelurahan" : "Tanah Bangkang",
+  "kodepos" : "71271"
+}, {
+  "kecamatan" : "Sungai Raya",
+  "kelurahan" : "Sei/Sungai Raya Selatan",
+  "kodepos" : "71271"
+}, {
+  "kecamatan" : "Sungai Raya",
+  "kelurahan" : "Sei/Sungai Raya Utara",
+  "kodepos" : "71271"
+}, {
+  "kecamatan" : "Sungai Raya",
+  "kelurahan" : "Sei/Sungai Kali",
+  "kodepos" : "71271"
+}, {
+  "kecamatan" : "Sungai Raya",
+  "kelurahan" : "Karasikan",
+  "kodepos" : "71271"
+}, {
+  "kecamatan" : "Sungai Raya",
+  "kelurahan" : "Paring Agung",
+  "kodepos" : "71271"
+}, {
+  "kecamatan" : "Sungai Raya",
+  "kelurahan" : "Sarang Halang",
+  "kodepos" : "71271"
+}, {
+  "kecamatan" : "Sungai Raya",
+  "kelurahan" : "Hariti",
+  "kodepos" : "71271"
+}, {
+  "kecamatan" : "Sungai Raya",
+  "kelurahan" : "Ida Manggala",
+  "kodepos" : "71271"
+}, {
+  "kecamatan" : "Sungai Raya",
+  "kelurahan" : "Bumi Barkat",
+  "kodepos" : "71271"
+}, {
+  "kecamatan" : "Sungai Raya",
+  "kelurahan" : "Hamalau",
+  "kodepos" : "71271"
+}, {
+  "kecamatan" : "Sungai Raya",
+  "kelurahan" : "Batang Kulur Kanan",
+  "kodepos" : "71271"
+}, {
+  "kecamatan" : "Sungai Raya",
+  "kelurahan" : "Batang Kulur Kiri",
+  "kodepos" : "71271"
+}, {
+  "kecamatan" : "Sungai Raya",
+  "kelurahan" : "Batang Kulur Tengah",
+  "kodepos" : "71271"
+}, {
+  "kecamatan" : "Sungai Raya",
+  "kelurahan" : "Asam",
+  "kodepos" : "71271"
+}, {
+  "kecamatan" : "Sungai Raya",
+  "kelurahan" : "Baru",
+  "kodepos" : "71271"
+}, {
+  "kecamatan" : "Kalumpang (Kelumpang)",
+  "kelurahan" : "Tambingkar",
+  "kodepos" : "71262"
+}, {
+  "kecamatan" : "Kalumpang (Kelumpang)",
+  "kelurahan" : "Sirih",
+  "kodepos" : "71262"
+}, {
+  "kecamatan" : "Kalumpang (Kelumpang)",
+  "kelurahan" : "Sirih Hulu",
+  "kodepos" : "71262"
+}, {
+  "kecamatan" : "Kalumpang (Kelumpang)",
+  "kelurahan" : "Kalumpang (Kelumpang)",
+  "kodepos" : "71262"
+}, {
+  "kecamatan" : "Kalumpang (Kelumpang)",
+  "kelurahan" : "Kalumpang (Kelumpang)",
+  "kodepos" : "71262"
+}, {
+  "kecamatan" : "Kalumpang (Kelumpang)",
+  "kelurahan" : "Karang Bulan",
+  "kodepos" : "71262"
+}, {
+  "kecamatan" : "Kalumpang (Kelumpang)",
+  "kelurahan" : "Balanti",
+  "kodepos" : "71262"
+}, {
+  "kecamatan" : "Kalumpang (Kelumpang)",
+  "kelurahan" : "Balimau",
+  "kodepos" : "71262"
+}, {
+  "kecamatan" : "Simpur",
+  "kelurahan" : "Wasah Tengah",
+  "kodepos" : "71261"
+}, {
+  "kecamatan" : "Kalumpang (Kelumpang)",
+  "kelurahan" : "Bago Tanggul",
+  "kodepos" : "71262"
+}, {
+  "kecamatan" : "Simpur",
+  "kelurahan" : "Wasah Hilir",
+  "kodepos" : "71261"
+}, {
+  "kecamatan" : "Simpur",
+  "kelurahan" : "Wasah Hulu",
+  "kodepos" : "71261"
+}, {
+  "kecamatan" : "Simpur",
+  "kelurahan" : "Ulin",
+  "kodepos" : "71261"
+}, {
+  "kecamatan" : "Simpur",
+  "kelurahan" : "Simpur",
+  "kodepos" : "71261"
+}, {
+  "kecamatan" : "Simpur",
+  "kelurahan" : "Tebing Tinggi",
+  "kodepos" : "71261"
+}, {
+  "kecamatan" : "Simpur",
+  "kelurahan" : "Kapuh",
+  "kodepos" : "71261"
+}, {
+  "kecamatan" : "Simpur",
+  "kelurahan" : "Panjampang Bahagia",
+  "kodepos" : "71261"
+}, {
+  "kecamatan" : "Simpur",
+  "kelurahan" : "Pantai Ulin",
+  "kodepos" : "71261"
+}, {
+  "kecamatan" : "Simpur",
+  "kelurahan" : "Amparaya",
+  "kodepos" : "71261"
+}, {
+  "kecamatan" : "Simpur",
+  "kelurahan" : "Garunggang",
+  "kodepos" : "71261"
+}, {
+  "kecamatan" : "Daha Utara",
+  "kelurahan" : "Tambak Bitin",
+  "kodepos" : "71253"
+}, {
+  "kecamatan" : "Daha Utara",
+  "kelurahan" : "Teluk Labak",
+  "kodepos" : "71253"
+}, {
+  "kecamatan" : "Daha Utara",
+  "kelurahan" : "Sei/Sungai Mandala",
+  "kodepos" : "71253"
+}, {
+  "kecamatan" : "Daha Utara",
+  "kelurahan" : "Taluk Haur",
+  "kodepos" : "71253"
+}, {
+  "kecamatan" : "Daha Utara",
+  "kelurahan" : "Pasungkan",
+  "kodepos" : "71253"
+}, {
+  "kecamatan" : "Daha Utara",
+  "kelurahan" : "Sei/Sungai Garuda",
+  "kodepos" : "71253"
+}, {
+  "kecamatan" : "Daha Utara",
+  "kelurahan" : "Paramaian",
+  "kodepos" : "71253"
+}, {
+  "kecamatan" : "Daha Utara",
+  "kelurahan" : "Pandak Daun",
+  "kodepos" : "71253"
+}, {
+  "kecamatan" : "Daha Utara",
+  "kelurahan" : "Panggandingan",
+  "kodepos" : "71253"
+}, {
+  "kecamatan" : "Daha Utara",
+  "kelurahan" : "Pakan Dalam",
+  "kodepos" : "71253"
+}, {
+  "kecamatan" : "Daha Utara",
+  "kelurahan" : "Pakapuran Kecil",
+  "kodepos" : "71253"
+}, {
+  "kecamatan" : "Daha Utara",
+  "kelurahan" : "Mandala Murung Mesjid",
+  "kodepos" : "71253"
+}, {
+  "kecamatan" : "Daha Utara",
+  "kelurahan" : "Murung Raya",
+  "kodepos" : "71253"
+}, {
+  "kecamatan" : "Daha Utara",
+  "kelurahan" : "Paharangan",
+  "kodepos" : "71253"
+}, {
+  "kecamatan" : "Daha Utara",
+  "kelurahan" : "Hakurung",
+  "kodepos" : "71253"
+}, {
+  "kecamatan" : "Daha Utara",
+  "kelurahan" : "Hamayung",
+  "kodepos" : "71253"
+}, {
+  "kecamatan" : "Daha Utara",
+  "kelurahan" : "Hamayung Utara",
+  "kodepos" : "71253"
+}, {
+  "kecamatan" : "Daha Utara",
+  "kelurahan" : "Baruh Kembang",
+  "kodepos" : "71253"
+}, {
+  "kecamatan" : "Daha Utara",
+  "kelurahan" : "Belah Paikat",
+  "kodepos" : "71253"
+}, {
+  "kecamatan" : "Daha Selatan",
+  "kelurahan" : "Tumbukan Banyu",
+  "kodepos" : "71252"
+}, {
+  "kecamatan" : "Daha Selatan",
+  "kelurahan" : "Tambangan",
+  "kodepos" : "71252"
+}, {
+  "kecamatan" : "Daha Barat",
+  "kelurahan" : "Tanjung Selor",
+  "kodepos" : "71252"
+}, {
+  "kecamatan" : "Daha Selatan",
+  "kelurahan" : "Sei/Sungai Pinang",
+  "kodepos" : "71252"
+}, {
+  "kecamatan" : "Daha Barat",
+  "kelurahan" : "Siang Gantung",
+  "kodepos" : "71252"
+}, {
+  "kecamatan" : "Daha Selatan",
+  "kelurahan" : "Parigi",
+  "kodepos" : "71252"
+}, {
+  "kecamatan" : "Daha Selatan",
+  "kelurahan" : "Pihanin Raya",
+  "kodepos" : "71252"
+}, {
+  "kecamatan" : "Daha Selatan",
+  "kelurahan" : "Samuda",
+  "kodepos" : "71252"
+}, {
+  "kecamatan" : "Daha Selatan",
+  "kelurahan" : "Muning Tengah",
+  "kodepos" : "71252"
+}, {
+  "kecamatan" : "Daha Selatan",
+  "kelurahan" : "Pandan Sari",
+  "kodepos" : "71252"
+}, {
+  "kecamatan" : "Daha Selatan",
+  "kelurahan" : "Habirau Tengah",
+  "kodepos" : "71252"
+}, {
+  "kecamatan" : "Daha Selatan",
+  "kelurahan" : "Muning Baru",
+  "kodepos" : "71252"
+}, {
+  "kecamatan" : "Daha Selatan",
+  "kelurahan" : "Muning Dalam",
+  "kodepos" : "71252"
+}, {
+  "kecamatan" : "Daha Selatan",
+  "kelurahan" : "Bayanan",
+  "kodepos" : "71252"
+}, {
+  "kecamatan" : "Daha Selatan",
+  "kelurahan" : "Habirau",
+  "kodepos" : "71252"
+}, {
+  "kecamatan" : "Daha Selatan",
+  "kelurahan" : "Baruh Jaya",
+  "kodepos" : "71252"
+}, {
+  "kecamatan" : "Daha Barat",
+  "kelurahan" : "Baru",
+  "kodepos" : "71252"
+}, {
+  "kecamatan" : "Daha Selatan",
+  "kelurahan" : "Banjar Baru",
+  "kodepos" : "71252"
+}, {
+  "kecamatan" : "Daha Selatan",
+  "kelurahan" : "Banua Hanyar",
+  "kodepos" : "71252"
+}, {
+  "kecamatan" : "Daha Barat",
+  "kelurahan" : "Bajayau Tengah",
+  "kodepos" : "71252"
+}, {
+  "kecamatan" : "Daha Barat",
+  "kelurahan" : "Badaun",
+  "kodepos" : "71252"
+}, {
+  "kecamatan" : "Daha Barat",
+  "kelurahan" : "Bajayau",
+  "kodepos" : "71252"
+}, {
+  "kecamatan" : "Daha Barat",
+  "kelurahan" : "Bajayau Lama",
+  "kodepos" : "71252"
+}, {
+  "kecamatan" : "Kandangan",
+  "kelurahan" : "Sei/Sungai Kupang",
+  "kodepos" : "71217"
+}, {
+  "kecamatan" : "Kandangan",
+  "kelurahan" : "Baluti",
+  "kodepos" : "71217"
+}, {
+  "kecamatan" : "Kandangan",
+  "kelurahan" : "Bangkau",
+  "kodepos" : "71217"
+}, {
+  "kecamatan" : "Kandangan",
+  "kelurahan" : "Gambah Luar Muka",
+  "kodepos" : "71216"
+}, {
+  "kecamatan" : "Kandangan",
+  "kelurahan" : "Gambah Dalam Barat",
+  "kodepos" : "71215"
+}, {
+  "kecamatan" : "Kandangan",
+  "kelurahan" : "Gambah Luar",
+  "kodepos" : "71216"
+}, {
+  "kecamatan" : "Kandangan",
+  "kelurahan" : "Tibung Raya",
+  "kodepos" : "71214"
+}, {
+  "kecamatan" : "Kandangan",
+  "kelurahan" : "Gambah Dalam",
+  "kodepos" : "71215"
+}, {
+  "kecamatan" : "Kandangan",
+  "kelurahan" : "Jambu Hilir",
+  "kodepos" : "71214"
+}, {
+  "kecamatan" : "Kandangan",
+  "kelurahan" : "Kandangan Utara",
+  "kodepos" : "71214"
+}, {
+  "kecamatan" : "Kandangan",
+  "kelurahan" : "Lungau",
+  "kodepos" : "71213"
+}, {
+  "kecamatan" : "Kandangan",
+  "kelurahan" : "Sei/Sungai Paring",
+  "kodepos" : "71213"
+}, {
+  "kecamatan" : "Kandangan",
+  "kelurahan" : "Bariang",
+  "kodepos" : "71213"
+}, {
+  "kecamatan" : "Kandangan",
+  "kelurahan" : "Kandangan Barat",
+  "kodepos" : "71213"
+}, {
+  "kecamatan" : "Kandangan",
+  "kelurahan" : "Amawang Kiri",
+  "kodepos" : "71213"
+}, {
+  "kecamatan" : "Kandangan",
+  "kelurahan" : "Amawang Kiri Muka",
+  "kodepos" : "71213"
+}, {
+  "kecamatan" : "Kandangan",
+  "kelurahan" : "Amawang Kanan",
+  "kodepos" : "71213"
+}, {
+  "kecamatan" : "Kandangan",
+  "kelurahan" : "Kandangan Kota",
+  "kodepos" : "71211"
+} ]

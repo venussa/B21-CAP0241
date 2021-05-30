@@ -1,0 +1,889 @@
+[ {
+  "kecamatan" : "Beutong",
+  "kelurahan" : "Tuwi Bunta",
+  "kodepos" : "23672"
+}, {
+  "kecamatan" : "Beutong",
+  "kelurahan" : "Ujong Blang",
+  "kodepos" : "23672"
+}, {
+  "kecamatan" : "Beutong",
+  "kelurahan" : "Panton Bayam",
+  "kodepos" : "23672"
+}, {
+  "kecamatan" : "Beutong",
+  "kelurahan" : "Meunasah Teungoh",
+  "kodepos" : "23672"
+}, {
+  "kecamatan" : "Beutong",
+  "kelurahan" : "Pante Ara",
+  "kodepos" : "23672"
+}, {
+  "kecamatan" : "Beutong",
+  "kelurahan" : "Meunasah Krueng",
+  "kodepos" : "23672"
+}, {
+  "kecamatan" : "Beutong",
+  "kelurahan" : "Meunasah Pante",
+  "kodepos" : "23672"
+}, {
+  "kecamatan" : "Beutong",
+  "kelurahan" : "Lhok Seumot",
+  "kodepos" : "23672"
+}, {
+  "kecamatan" : "Beutong",
+  "kelurahan" : "Meunasah Dayah",
+  "kodepos" : "23672"
+}, {
+  "kecamatan" : "Beutong Ateuh Banggalang",
+  "kelurahan" : "Kuta Teungoh",
+  "kodepos" : "23672"
+}, {
+  "kecamatan" : "Beutong",
+  "kelurahan" : "Kulam Jeurneh (Jeureuneh)",
+  "kodepos" : "23672"
+}, {
+  "kecamatan" : "Beutong",
+  "kelurahan" : "Kuta Jeumpa",
+  "kodepos" : "23672"
+}, {
+  "kecamatan" : "Beutong",
+  "kelurahan" : "Keude Seumot",
+  "kodepos" : "23672"
+}, {
+  "kecamatan" : "Beutong",
+  "kelurahan" : "Krueng Cut",
+  "kodepos" : "23672"
+}, {
+  "kecamatan" : "Beutong",
+  "kelurahan" : "Gunung Nagan",
+  "kodepos" : "23672"
+}, {
+  "kecamatan" : "Beutong",
+  "kelurahan" : "Blang Seumot",
+  "kodepos" : "23672"
+}, {
+  "kecamatan" : "Beutong",
+  "kelurahan" : "Blang Seunong",
+  "kodepos" : "23672"
+}, {
+  "kecamatan" : "Beutong",
+  "kelurahan" : "Bumi Sari",
+  "kodepos" : "23672"
+}, {
+  "kecamatan" : "Beutong Ateuh Banggalang",
+  "kelurahan" : "Blang Puuk",
+  "kodepos" : "23672"
+}, {
+  "kecamatan" : "Beutong",
+  "kelurahan" : "Blang Neuang",
+  "kodepos" : "23672"
+}, {
+  "kecamatan" : "Beutong",
+  "kelurahan" : "Blang Mesjid",
+  "kodepos" : "23672"
+}, {
+  "kecamatan" : "Beutong Ateuh Banggalang",
+  "kelurahan" : "Blang Meurandeh",
+  "kodepos" : "23672"
+}, {
+  "kecamatan" : "Beutong",
+  "kelurahan" : "Blang Dalam",
+  "kodepos" : "23672"
+}, {
+  "kecamatan" : "Beutong",
+  "kelurahan" : "Blang Leumak",
+  "kodepos" : "23672"
+}, {
+  "kecamatan" : "Beutong",
+  "kelurahan" : "Blang Baro Pulo Raga",
+  "kodepos" : "23672"
+}, {
+  "kecamatan" : "Beutong",
+  "kelurahan" : "Blang Baro Rambong",
+  "kodepos" : "23672"
+}, {
+  "kecamatan" : "Beutong",
+  "kelurahan" : "Babah Krueng",
+  "kodepos" : "23672"
+}, {
+  "kecamatan" : "Beutong Ateuh Banggalang",
+  "kelurahan" : "Babah Suak",
+  "kodepos" : "23672"
+}, {
+  "kecamatan" : "Seunagan Timur",
+  "kelurahan" : "Tuwi Meuleusong",
+  "kodepos" : "23671"
+}, {
+  "kecamatan" : "Seunagan Timur",
+  "kelurahan" : "Uteun Pulo",
+  "kodepos" : "23671"
+}, {
+  "kecamatan" : "Suka Makmue",
+  "kelurahan" : "Suak Bilie",
+  "kodepos" : "23671"
+}, {
+  "kecamatan" : "Seunagan Timur",
+  "kelurahan" : "Suak Peureubong",
+  "kodepos" : "23671"
+}, {
+  "kecamatan" : "Suka Makmue",
+  "kelurahan" : "Seumambek",
+  "kodepos" : "23671"
+}, {
+  "kecamatan" : "Seunagan Timur",
+  "kelurahan" : "Sawang Mane",
+  "kodepos" : "23671"
+}, {
+  "kecamatan" : "Seunagan",
+  "kelurahan" : "Sapek",
+  "kodepos" : "23671"
+}, {
+  "kecamatan" : "Seunagan Timur",
+  "kelurahan" : "Sapeng",
+  "kodepos" : "23671"
+}, {
+  "kecamatan" : "Seunagan",
+  "kelurahan" : "Rambong Rayeuk",
+  "kodepos" : "23671"
+}, {
+  "kecamatan" : "Seunagan Timur",
+  "kelurahan" : "Pulo Teungoh",
+  "kodepos" : "23671"
+}, {
+  "kecamatan" : "Seunagan",
+  "kelurahan" : "Rambong Cut",
+  "kodepos" : "23671"
+}, {
+  "kecamatan" : "Seunagan",
+  "kelurahan" : "Peureulak",
+  "kodepos" : "23671"
+}, {
+  "kecamatan" : "Seunagan",
+  "kelurahan" : "Paya Undan",
+  "kodepos" : "23671"
+}, {
+  "kecamatan" : "Seunagan Timur",
+  "kelurahan" : "Peuleukung",
+  "kodepos" : "23671"
+}, {
+  "kecamatan" : "Seunagan",
+  "kelurahan" : "Paya Udeung",
+  "kodepos" : "23671"
+}, {
+  "kecamatan" : "Seunagan Timur",
+  "kelurahan" : "Paya",
+  "kodepos" : "23671"
+}, {
+  "kecamatan" : "Seunagan",
+  "kelurahan" : "Padang",
+  "kodepos" : "23671"
+}, {
+  "kecamatan" : "Seunagan",
+  "kelurahan" : "Pante Cermin (Ceureumen)",
+  "kodepos" : "23671"
+}, {
+  "kecamatan" : "Seunagan",
+  "kelurahan" : "Parom",
+  "kodepos" : "23671"
+}, {
+  "kecamatan" : "Seunagan",
+  "kelurahan" : "Nigan",
+  "kodepos" : "23671"
+}, {
+  "kecamatan" : "Seunagan Timur",
+  "kelurahan" : "Mon Bateung",
+  "kodepos" : "23671"
+}, {
+  "kecamatan" : "Suka Makmue",
+  "kelurahan" : "Meureubo",
+  "kodepos" : "23671"
+}, {
+  "kecamatan" : "Seunagan Timur",
+  "kelurahan" : "Meugat Meh",
+  "kodepos" : "23671"
+}, {
+  "kecamatan" : "Seunagan Timur",
+  "kelurahan" : "Meurandeh Suak",
+  "kodepos" : "23671"
+}, {
+  "kecamatan" : "Suka Makmue",
+  "kelurahan" : "Macah",
+  "kodepos" : "23671"
+}, {
+  "kecamatan" : "Suka Makmue",
+  "kelurahan" : "Lhok Rameun",
+  "kodepos" : "23671"
+}, {
+  "kecamatan" : "Suka Makmue",
+  "kelurahan" : "Lueng Baro",
+  "kodepos" : "23671"
+}, {
+  "kecamatan" : "Seunagan",
+  "kelurahan" : "Lhok Padang",
+  "kodepos" : "23671"
+}, {
+  "kecamatan" : "Seunagan",
+  "kelurahan" : "Lhok Parom",
+  "kodepos" : "23671"
+}, {
+  "kecamatan" : "Seunagan Timur",
+  "kelurahan" : "Lhok Pange",
+  "kodepos" : "23671"
+}, {
+  "kecamatan" : "Seunagan Timur",
+  "kelurahan" : "Lhok Mesjid",
+  "kodepos" : "23671"
+}, {
+  "kecamatan" : "Suka Makmue",
+  "kelurahan" : "Lhok Beutong",
+  "kodepos" : "23671"
+}, {
+  "kecamatan" : "Seunagan",
+  "kelurahan" : "Kuta Sayeh",
+  "kodepos" : "23671"
+}, {
+  "kecamatan" : "Seunagan",
+  "kelurahan" : "Latong",
+  "kodepos" : "23671"
+}, {
+  "kecamatan" : "Seunagan",
+  "kelurahan" : "Kuta Kumbang",
+  "kodepos" : "23671"
+}, {
+  "kecamatan" : "Seunagan",
+  "kelurahan" : "Kuta Paya",
+  "kodepos" : "23671"
+}, {
+  "kecamatan" : "Suka Makmue",
+  "kelurahan" : "Kuta Padang",
+  "kodepos" : "23671"
+}, {
+  "kecamatan" : "Seunagan",
+  "kelurahan" : "Kuta Baro Jeuram",
+  "kodepos" : "23671"
+}, {
+  "kecamatan" : "Suka Makmue",
+  "kelurahan" : "Kuta Baro Blang Mulieng",
+  "kodepos" : "23671"
+}, {
+  "kecamatan" : "Seunagan",
+  "kelurahan" : "Kulu",
+  "kodepos" : "23671"
+}, {
+  "kecamatan" : "Seunagan",
+  "kelurahan" : "Kuta Aceh",
+  "kodepos" : "23671"
+}, {
+  "kecamatan" : "Seunagan",
+  "kelurahan" : "Krueng Mangkom",
+  "kodepos" : "23671"
+}, {
+  "kecamatan" : "Seunagan Timur",
+  "kelurahan" : "Krueng Kulu",
+  "kodepos" : "23671"
+}, {
+  "kecamatan" : "Suka Makmue",
+  "kelurahan" : "Krak Tampai",
+  "kodepos" : "23671"
+}, {
+  "kecamatan" : "Seunagan",
+  "kelurahan" : "Krueng Ceh/Cheh",
+  "kodepos" : "23671"
+}, {
+  "kecamatan" : "Seunagan",
+  "kelurahan" : "Krueng Ceukou",
+  "kodepos" : "23671"
+}, {
+  "kecamatan" : "Seunagan Timur",
+  "kelurahan" : "Keude Linteung",
+  "kodepos" : "23671"
+}, {
+  "kecamatan" : "Seunagan Timur",
+  "kelurahan" : "Keude Neulop",
+  "kodepos" : "23671"
+}, {
+  "kecamatan" : "Seunagan Timur",
+  "kelurahan" : "Kila",
+  "kodepos" : "23671"
+}, {
+  "kecamatan" : "Seunagan Timur",
+  "kelurahan" : "Kabu Tunong",
+  "kodepos" : "23671"
+}, {
+  "kecamatan" : "Seunagan Timur",
+  "kelurahan" : "Kandeh",
+  "kodepos" : "23671"
+}, {
+  "kecamatan" : "Seunagan Timur",
+  "kelurahan" : "Kabu Baroh",
+  "kodepos" : "23671"
+}, {
+  "kecamatan" : "Suka Makmue",
+  "kelurahan" : "Kabu Blang Sapek",
+  "kodepos" : "23671"
+}, {
+  "kecamatan" : "Seunagan Timur",
+  "kelurahan" : "Ie Beudoh",
+  "kodepos" : "23671"
+}, {
+  "kecamatan" : "Suka Makmue",
+  "kelurahan" : "Gampong Teungoh",
+  "kodepos" : "23671"
+}, {
+  "kecamatan" : "Seunagan",
+  "kelurahan" : "Jeuram",
+  "kodepos" : "23671"
+}, {
+  "kecamatan" : "Seunagan Timur",
+  "kelurahan" : "Cot Teuku Dek",
+  "kodepos" : "23671"
+}, {
+  "kecamatan" : "Seunagan",
+  "kelurahan" : "Gampong Cot",
+  "kodepos" : "23671"
+}, {
+  "kecamatan" : "Suka Makmue",
+  "kelurahan" : "Cot Peradi/Peuradi",
+  "kodepos" : "23671"
+}, {
+  "kecamatan" : "Seunagan Timur",
+  "kelurahan" : "Cot Manyang",
+  "kodepos" : "23671"
+}, {
+  "kecamatan" : "Seunagan Timur",
+  "kelurahan" : "Cot Punti",
+  "kodepos" : "23671"
+}, {
+  "kecamatan" : "Suka Makmue",
+  "kelurahan" : "Cot Kuta",
+  "kodepos" : "23671"
+}, {
+  "kecamatan" : "Seunagan",
+  "kelurahan" : "Cot Lele (Lhe Lhe)",
+  "kodepos" : "23671"
+}, {
+  "kecamatan" : "Seunagan",
+  "kelurahan" : "Cot Kumbang",
+  "kodepos" : "23671"
+}, {
+  "kecamatan" : "Seunagan Timur",
+  "kelurahan" : "Cot Dirui",
+  "kodepos" : "23671"
+}, {
+  "kecamatan" : "Seunagan Timur",
+  "kelurahan" : "Cot Gud",
+  "kodepos" : "23671"
+}, {
+  "kecamatan" : "Suka Makmue",
+  "kelurahan" : "Blang Sapek",
+  "kodepos" : "23671"
+}, {
+  "kecamatan" : "Seunagan Timur",
+  "kelurahan" : "Blang Teungku",
+  "kodepos" : "23671"
+}, {
+  "kecamatan" : "Seunagan",
+  "kelurahan" : "Blang Puuk Nigan",
+  "kodepos" : "23671"
+}, {
+  "kecamatan" : "Seunagan",
+  "kelurahan" : "Blang Puuk Kulu",
+  "kodepos" : "23671"
+}, {
+  "kecamatan" : "Seunagan Timur",
+  "kelurahan" : "Blang Penyang",
+  "kodepos" : "23671"
+}, {
+  "kecamatan" : "Seunagan Timur",
+  "kelurahan" : "Blang Preh",
+  "kodepos" : "23671"
+}, {
+  "kecamatan" : "Seunagan",
+  "kelurahan" : "Blang Murong",
+  "kodepos" : "23671"
+}, {
+  "kecamatan" : "Seunagan",
+  "kelurahan" : "Blang Pateuk",
+  "kodepos" : "23671"
+}, {
+  "kecamatan" : "Suka Makmue",
+  "kelurahan" : "Blang Mulieng",
+  "kodepos" : "23671"
+}, {
+  "kecamatan" : "Seunagan Timur",
+  "kelurahan" : "Blang Geudong",
+  "kodepos" : "23671"
+}, {
+  "kecamatan" : "Seunagan Timur",
+  "kelurahan" : "Blang Lango",
+  "kodepos" : "23671"
+}, {
+  "kecamatan" : "Seunagan Timur",
+  "kelurahan" : "Blang Bayu",
+  "kodepos" : "23671"
+}, {
+  "kecamatan" : "Seunagan",
+  "kelurahan" : "Blang Baro",
+  "kodepos" : "23671"
+}, {
+  "kecamatan" : "Seunagan Timur",
+  "kelurahan" : "Blang Ara Keude",
+  "kodepos" : "23671"
+}, {
+  "kecamatan" : "Seunagan",
+  "kelurahan" : "Bantan",
+  "kodepos" : "23671"
+}, {
+  "kecamatan" : "Seunagan Timur",
+  "kelurahan" : "Blang Ara Gampong",
+  "kodepos" : "23671"
+}, {
+  "kecamatan" : "Seunagan",
+  "kelurahan" : "Alue Tho",
+  "kodepos" : "23671"
+}, {
+  "kecamatan" : "Suka Makmue",
+  "kelurahan" : "Alue Peusaja",
+  "kodepos" : "23671"
+}, {
+  "kecamatan" : "Seunagan",
+  "kelurahan" : "Alue Dodok",
+  "kodepos" : "23671"
+}, {
+  "kecamatan" : "Suka Makmue",
+  "kelurahan" : "Alue Gajah",
+  "kodepos" : "23671"
+}, {
+  "kecamatan" : "Suka Makmue",
+  "kelurahan" : "Alue Kambuk/Kambuek",
+  "kodepos" : "23671"
+}, {
+  "kecamatan" : "Seunagan",
+  "kelurahan" : "Alue Buloh",
+  "kodepos" : "23671"
+}, {
+  "kecamatan" : "Darul Makmur",
+  "kelurahan" : "Ujong Tanjong",
+  "kodepos" : "23662"
+}, {
+  "kecamatan" : "Tripa Makmur",
+  "kelurahan" : "Ujong Krueng",
+  "kodepos" : "23662"
+}, {
+  "kecamatan" : "Darul Makmur",
+  "kelurahan" : "Ujong Lamie",
+  "kodepos" : "23662"
+}, {
+  "kecamatan" : "Darul Makmur",
+  "kelurahan" : "Sumber Makmur",
+  "kodepos" : "23662"
+}, {
+  "kecamatan" : "Darul Makmur",
+  "kelurahan" : "Tuwi Buya",
+  "kodepos" : "23662"
+}, {
+  "kecamatan" : "Darul Makmur",
+  "kelurahan" : "Suka Mulia",
+  "kodepos" : "23662"
+}, {
+  "kecamatan" : "Darul Makmur",
+  "kelurahan" : "Suka Raja",
+  "kodepos" : "23662"
+}, {
+  "kecamatan" : "Darul Makmur",
+  "kelurahan" : "Suka Ramai",
+  "kodepos" : "23662"
+}, {
+  "kecamatan" : "Darul Makmur",
+  "kelurahan" : "Suka Jadi",
+  "kodepos" : "23662"
+}, {
+  "kecamatan" : "Darul Makmur",
+  "kelurahan" : "Suak Palembang",
+  "kodepos" : "23662"
+}, {
+  "kecamatan" : "Darul Makmur",
+  "kelurahan" : "Simpang Dua",
+  "kodepos" : "23662"
+}, {
+  "kecamatan" : "Darul Makmur",
+  "kelurahan" : "Sp. Deli Kampong",
+  "kodepos" : "23662"
+}, {
+  "kecamatan" : "Darul Makmur",
+  "kelurahan" : "Sp. Deli Kilang",
+  "kodepos" : "23662"
+}, {
+  "kecamatan" : "Darul Makmur",
+  "kelurahan" : "Serba Jadi",
+  "kodepos" : "23662"
+}, {
+  "kecamatan" : "Darul Makmur",
+  "kelurahan" : "Sido Jadi",
+  "kodepos" : "23662"
+}, {
+  "kecamatan" : "Darul Makmur",
+  "kelurahan" : "Pulo Kruet",
+  "kodepos" : "23662"
+}, {
+  "kecamatan" : "Darul Makmur",
+  "kelurahan" : "Pulo Teungoh",
+  "kodepos" : "23662"
+}, {
+  "kecamatan" : "Darul Makmur",
+  "kelurahan" : "Serba Guna",
+  "kodepos" : "23662"
+}, {
+  "kecamatan" : "Darul Makmur",
+  "kelurahan" : "Pulo Ie",
+  "kodepos" : "23662"
+}, {
+  "kecamatan" : "Tripa Makmur",
+  "kelurahan" : "Panton Pange",
+  "kodepos" : "23662"
+}, {
+  "kecamatan" : "Tripa Makmur",
+  "kelurahan" : "Panton Pange",
+  "kodepos" : "23662"
+}, {
+  "kecamatan" : "Tripa Makmur",
+  "kelurahan" : "Pasie Keube Dom",
+  "kodepos" : "23662"
+}, {
+  "kecamatan" : "Tripa Makmur",
+  "kelurahan" : "Neubok Yee PK",
+  "kodepos" : "23662"
+}, {
+  "kecamatan" : "Tripa Makmur",
+  "kelurahan" : "Neubok Yee PP",
+  "kodepos" : "23662"
+}, {
+  "kecamatan" : "Tripa Makmur",
+  "kelurahan" : "Lueng Keube Jagat/Jagad",
+  "kodepos" : "23662"
+}, {
+  "kecamatan" : "Tripa Makmur",
+  "kelurahan" : "Mon Dua",
+  "kodepos" : "23662"
+}, {
+  "kecamatan" : "Darul Makmur",
+  "kelurahan" : "Makarti Jaya",
+  "kodepos" : "23662"
+}, {
+  "kecamatan" : "Darul Makmur",
+  "kelurahan" : "Ladang Baro",
+  "kodepos" : "23662"
+}, {
+  "kecamatan" : "Darul Makmur",
+  "kelurahan" : "Lamie",
+  "kodepos" : "23662"
+}, {
+  "kecamatan" : "Tripa Makmur",
+  "kelurahan" : "Kuala Teripa/Tripa",
+  "kodepos" : "23662"
+}, {
+  "kecamatan" : "Darul Makmur",
+  "kelurahan" : "Kuta Trieng",
+  "kodepos" : "23662"
+}, {
+  "kecamatan" : "Darul Makmur",
+  "kelurahan" : "Krueng Seumanyam",
+  "kodepos" : "23662"
+}, {
+  "kecamatan" : "Darul Makmur",
+  "kelurahan" : "Kuala Seumanyam",
+  "kodepos" : "23662"
+}, {
+  "kecamatan" : "Darul Makmur",
+  "kelurahan" : "Kayee Unoe",
+  "kodepos" : "23662"
+}, {
+  "kecamatan" : "Darul Makmur",
+  "kelurahan" : "Krueng Alem",
+  "kodepos" : "23662"
+}, {
+  "kecamatan" : "Tripa Makmur",
+  "kelurahan" : "Kabu",
+  "kodepos" : "23662"
+}, {
+  "kecamatan" : "Darul Makmur",
+  "kelurahan" : "Gunong Cut",
+  "kodepos" : "23662"
+}, {
+  "kecamatan" : "Darul Makmur",
+  "kelurahan" : "Karang Anyer",
+  "kodepos" : "23662"
+}, {
+  "kecamatan" : "Darul Makmur",
+  "kelurahan" : "Blang Luah",
+  "kodepos" : "23662"
+}, {
+  "kecamatan" : "Tripa Makmur",
+  "kelurahan" : "Drien Tujoh",
+  "kodepos" : "23662"
+}, {
+  "kecamatan" : "Darul Makmur",
+  "kelurahan" : "Gelanggang Gajah",
+  "kodepos" : "23662"
+}, {
+  "kecamatan" : "Darul Makmur",
+  "kelurahan" : "Blang Baro",
+  "kodepos" : "23662"
+}, {
+  "kecamatan" : "Tripa Makmur",
+  "kelurahan" : "Babah Lueng",
+  "kodepos" : "23662"
+}, {
+  "kecamatan" : "Darul Makmur",
+  "kelurahan" : "Alue Raya",
+  "kodepos" : "23662"
+}, {
+  "kecamatan" : "Darul Makmur",
+  "kelurahan" : "Alue Waki",
+  "kodepos" : "23662"
+}, {
+  "kecamatan" : "Darul Makmur",
+  "kelurahan" : "Alue Rambot",
+  "kodepos" : "23662"
+}, {
+  "kecamatan" : "Darul Makmur",
+  "kelurahan" : "Alue Kuyun",
+  "kodepos" : "23662"
+}, {
+  "kecamatan" : "Darul Makmur",
+  "kelurahan" : "Alue Geutah",
+  "kodepos" : "23662"
+}, {
+  "kecamatan" : "Darul Makmur",
+  "kelurahan" : "Alue Jampak",
+  "kodepos" : "23662"
+}, {
+  "kecamatan" : "Kuala",
+  "kelurahan" : "Ujong Sikuneng",
+  "kodepos" : "23661"
+}, {
+  "kecamatan" : "Darul Makmur",
+  "kelurahan" : "Alue Bateung Brok",
+  "kodepos" : "23662"
+}, {
+  "kecamatan" : "Darul Makmur",
+  "kelurahan" : "Alue Bilie",
+  "kodepos" : "23662"
+}, {
+  "kecamatan" : "Kuala",
+  "kelurahan" : "Ujong Padang",
+  "kodepos" : "23661"
+}, {
+  "kecamatan" : "Kuala",
+  "kelurahan" : "Ujong Pasi",
+  "kodepos" : "23661"
+}, {
+  "kecamatan" : "Kuala",
+  "kelurahan" : "Ujong Fatihah",
+  "kodepos" : "23661"
+}, {
+  "kecamatan" : "Tadu Raya",
+  "kelurahan" : "Sumber Daya",
+  "kodepos" : "23661"
+}, {
+  "kecamatan" : "Kuala",
+  "kelurahan" : "Simpang Peut",
+  "kodepos" : "23661"
+}, {
+  "kecamatan" : "Kuala Pesisir",
+  "kelurahan" : "Suak Puntong",
+  "kodepos" : "23661"
+}, {
+  "kecamatan" : "Tadu Raya",
+  "kelurahan" : "Sarah Mantok",
+  "kodepos" : "23661"
+}, {
+  "kecamatan" : "Tadu Raya",
+  "kelurahan" : "Simpang Jaya",
+  "kodepos" : "23661"
+}, {
+  "kecamatan" : "Kuala",
+  "kelurahan" : "Purworejo",
+  "kodepos" : "23661"
+}, {
+  "kecamatan" : "Tadu Raya",
+  "kelurahan" : "Rantau Selamat",
+  "kodepos" : "23661"
+}, {
+  "kecamatan" : "Kuala Pesisir",
+  "kelurahan" : "Purwosari",
+  "kodepos" : "23661"
+}, {
+  "kecamatan" : "Kuala",
+  "kelurahan" : "Pulo Ie",
+  "kodepos" : "23661"
+}, {
+  "kecamatan" : "Kuala Pesisir",
+  "kelurahan" : "Purwodadi",
+  "kodepos" : "23661"
+}, {
+  "kecamatan" : "Tadu Raya",
+  "kelurahan" : "Pasi Luah",
+  "kodepos" : "23661"
+}, {
+  "kecamatan" : "Kuala Pesisir",
+  "kelurahan" : "Pulo",
+  "kodepos" : "23661"
+}, {
+  "kecamatan" : "Kuala Pesisir",
+  "kelurahan" : "Lueng T Ben",
+  "kodepos" : "23661"
+}, {
+  "kecamatan" : "Kuala Pesisir",
+  "kelurahan" : "Padang Panyang",
+  "kodepos" : "23661"
+}, {
+  "kecamatan" : "Kuala Pesisir",
+  "kelurahan" : "Padang Rubeek",
+  "kodepos" : "23661"
+}, {
+  "kecamatan" : "Kuala",
+  "kelurahan" : "Lawa Batu",
+  "kodepos" : "23661"
+}, {
+  "kecamatan" : "Kuala Pesisir",
+  "kelurahan" : "Langkak",
+  "kodepos" : "23661"
+}, {
+  "kecamatan" : "Kuala",
+  "kelurahan" : "Kuta Makmur",
+  "kodepos" : "23661"
+}, {
+  "kecamatan" : "Kuala Pesisir",
+  "kelurahan" : "Kuala Tuha",
+  "kodepos" : "23661"
+}, {
+  "kecamatan" : "Kuala Pesisir",
+  "kelurahan" : "Kuala Trang",
+  "kodepos" : "23661"
+}, {
+  "kecamatan" : "Tadu Raya",
+  "kelurahan" : "Kuala Tadu",
+  "kodepos" : "23661"
+}, {
+  "kecamatan" : "Kuala Pesisir",
+  "kelurahan" : "Kuala Baro",
+  "kodepos" : "23661"
+}, {
+  "kecamatan" : "Tadu Raya",
+  "kelurahan" : "Krueng Itam",
+  "kodepos" : "23661"
+}, {
+  "kecamatan" : "Kuala",
+  "kelurahan" : "Jogja/Jokja",
+  "kodepos" : "23661"
+}, {
+  "kecamatan" : "Tadu Raya",
+  "kelurahan" : "Gunong Sapek",
+  "kodepos" : "23661"
+}, {
+  "kecamatan" : "Tadu Raya",
+  "kelurahan" : "Gunong Sapek",
+  "kodepos" : "23661"
+}, {
+  "kecamatan" : "Kuala",
+  "kelurahan" : "Gunong Reubo",
+  "kodepos" : "23661"
+}, {
+  "kecamatan" : "Tadu Raya",
+  "kelurahan" : "Gunong Pungkie",
+  "kodepos" : "23661"
+}, {
+  "kecamatan" : "Tadu Raya",
+  "kelurahan" : "Gunong Gulungo (Geulugo)",
+  "kodepos" : "23661"
+}, {
+  "kecamatan" : "Tadu Raya",
+  "kelurahan" : "Gunong Kupok",
+  "kodepos" : "23661"
+}, {
+  "kecamatan" : "Kuala Pesisir",
+  "kelurahan" : "Gubang Gajah",
+  "kodepos" : "23661"
+}, {
+  "kecamatan" : "Tadu Raya",
+  "kelurahan" : "Gapa Garu",
+  "kodepos" : "23661"
+}, {
+  "kecamatan" : "Kuala Pesisir",
+  "kelurahan" : "Gampong Lhok",
+  "kodepos" : "23661"
+}, {
+  "kecamatan" : "Kuala Pesisir",
+  "kelurahan" : "Cot Rambong (Cot Me)",
+  "kodepos" : "23661"
+}, {
+  "kecamatan" : "Tadu Raya",
+  "kelurahan" : "Cot Mue",
+  "kodepos" : "23661"
+}, {
+  "kecamatan" : "Tadu Raya",
+  "kelurahan" : "Cot Mee",
+  "kodepos" : "23661"
+}, {
+  "kecamatan" : "Kuala",
+  "kelurahan" : "Blang Teungoh",
+  "kodepos" : "23661"
+}, {
+  "kecamatan" : "Kuala",
+  "kelurahan" : "Cot Kumbang",
+  "kodepos" : "23661"
+}, {
+  "kecamatan" : "Kuala",
+  "kelurahan" : "Blang Muko",
+  "kodepos" : "23661"
+}, {
+  "kecamatan" : "Kuala",
+  "kelurahan" : "Blang Bintang",
+  "kodepos" : "23661"
+}, {
+  "kecamatan" : "Kuala",
+  "kelurahan" : "Blang Baro",
+  "kodepos" : "23661"
+}, {
+  "kecamatan" : "Tadu Raya",
+  "kelurahan" : "Babah Rot",
+  "kodepos" : "23661"
+}, {
+  "kecamatan" : "Tadu Raya",
+  "kelurahan" : "Batu Raja",
+  "kodepos" : "23661"
+}, {
+  "kecamatan" : "Tadu Raya",
+  "kelurahan" : "Babah Dua",
+  "kodepos" : "23661"
+}, {
+  "kecamatan" : "Kuala Pesisir",
+  "kelurahan" : "Arongan",
+  "kodepos" : "23661"
+}, {
+  "kecamatan" : "Tadu Raya",
+  "kelurahan" : "Alue Siron",
+  "kodepos" : "23661"
+}, {
+  "kecamatan" : "Tadu Raya",
+  "kelurahan" : "Alue Labue",
+  "kodepos" : "23661"
+}, {
+  "kecamatan" : "Tadu Raya",
+  "kelurahan" : "Alue Sepeng (Seupeung)",
+  "kodepos" : "23661"
+}, {
+  "kecamatan" : "Kuala",
+  "kelurahan" : "Alue Ie Mameh",
+  "kodepos" : "23661"
+}, {
+  "kecamatan" : "Tadu Raya",
+  "kelurahan" : "Alue Gajah",
+  "kodepos" : "23661"
+}, {
+  "kecamatan" : "Tadu Raya",
+  "kelurahan" : "Alue Bata",
+  "kodepos" : "23661"
+} ]

@@ -1,0 +1,605 @@
+[ {
+  "kecamatan" : "Medan Labuhan",
+  "kelurahan" : "Nelayan Indah",
+  "kodepos" : "20524"
+}, {
+  "kecamatan" : "Medan Labuhan",
+  "kelurahan" : "Tangkahan",
+  "kodepos" : "20525"
+}, {
+  "kecamatan" : "Medan Belawan Kota",
+  "kelurahan" : "Belawan Bahagia",
+  "kodepos" : "20415"
+}, {
+  "kecamatan" : "Medan Belawan Kota",
+  "kelurahan" : "Belawan Bahari",
+  "kodepos" : "20414"
+}, {
+  "kecamatan" : "Medan Belawan Kota",
+  "kelurahan" : "Belawan Sicanang",
+  "kodepos" : "20412"
+}, {
+  "kecamatan" : "Medan Belawan Kota",
+  "kelurahan" : "Bagan Deli",
+  "kodepos" : "20414"
+}, {
+  "kecamatan" : "Medan Belawan Kota",
+  "kelurahan" : "Belawan I",
+  "kodepos" : "20411"
+}, {
+  "kecamatan" : "Medan Belawan Kota",
+  "kelurahan" : "Belawan II",
+  "kodepos" : "20412"
+}, {
+  "kecamatan" : "Medan Marelan",
+  "kelurahan" : "Terjun",
+  "kodepos" : "20256"
+}, {
+  "kecamatan" : "Medan Marelan",
+  "kelurahan" : "Labuhan Deli",
+  "kodepos" : "20254"
+}, {
+  "kecamatan" : "Medan Marelan",
+  "kelurahan" : "Rengas Pulau",
+  "kodepos" : "20255"
+}, {
+  "kecamatan" : "Medan Labuhan",
+  "kelurahan" : "Sei Mati",
+  "kodepos" : "20252"
+}, {
+  "kecamatan" : "Medan Labuhan",
+  "kelurahan" : "Pekan Labuhan",
+  "kodepos" : "20253"
+}, {
+  "kecamatan" : "Medan Labuhan",
+  "kelurahan" : "Martubung",
+  "kodepos" : "20252"
+}, {
+  "kecamatan" : "Medan Labuhan",
+  "kelurahan" : "Besar",
+  "kodepos" : "20251"
+}, {
+  "kecamatan" : "Medan Marelan",
+  "kelurahan" : "Paya Pasir",
+  "kodepos" : "20250"
+}, {
+  "kecamatan" : "Medan Marelan",
+  "kelurahan" : "Tanah Enam Ratus",
+  "kodepos" : "20245"
+}, {
+  "kecamatan" : "Medan Deli",
+  "kelurahan" : "Titi Papan",
+  "kodepos" : "20244"
+}, {
+  "kecamatan" : "Medan Deli",
+  "kelurahan" : "Kota Bangun",
+  "kodepos" : "20243"
+}, {
+  "kecamatan" : "Medan Deli",
+  "kelurahan" : "Mabar Hilir",
+  "kodepos" : "20242"
+}, {
+  "kecamatan" : "Medan Deli",
+  "kelurahan" : "Tanjung Mulia Hilir",
+  "kodepos" : "20241"
+}, {
+  "kecamatan" : "Medan Deli",
+  "kelurahan" : "Mabar",
+  "kodepos" : "20242"
+}, {
+  "kecamatan" : "Medan Deli",
+  "kelurahan" : "Tanjung Mulia",
+  "kodepos" : "20241"
+}, {
+  "kecamatan" : "Medan Timur",
+  "kelurahan" : "Pulo Brayan Darat II",
+  "kodepos" : "20239"
+}, {
+  "kecamatan" : "Medan Timur",
+  "kelurahan" : "Pulo Brayan Darat I",
+  "kodepos" : "20239"
+}, {
+  "kecamatan" : "Medan Timur",
+  "kelurahan" : "Pulo Brayan Bengkel Baru",
+  "kodepos" : "20239"
+}, {
+  "kecamatan" : "Medan Timur",
+  "kelurahan" : "Glugur Darat II",
+  "kodepos" : "20238"
+}, {
+  "kecamatan" : "Medan Timur",
+  "kelurahan" : "Pulo Brayan Bengkel",
+  "kodepos" : "20239"
+}, {
+  "kecamatan" : "Medan Timur",
+  "kelurahan" : "Glugur Darat I",
+  "kodepos" : "20238"
+}, {
+  "kecamatan" : "Medan Perjuangan",
+  "kelurahan" : "Tegal Rejo",
+  "kodepos" : "20237"
+}, {
+  "kecamatan" : "Medan Perjuangan",
+  "kelurahan" : "Sidorame Barat II",
+  "kodepos" : "20236"
+}, {
+  "kecamatan" : "Medan Perjuangan",
+  "kelurahan" : "Sidorame Timur",
+  "kodepos" : "20236"
+}, {
+  "kecamatan" : "Medan Perjuangan",
+  "kelurahan" : "Sidorame Barat I",
+  "kodepos" : "20236"
+}, {
+  "kecamatan" : "Medan Timur",
+  "kelurahan" : "Gaharu",
+  "kodepos" : "20235"
+}, {
+  "kecamatan" : "Medan Timur",
+  "kelurahan" : "Durian",
+  "kodepos" : "20235"
+}, {
+  "kecamatan" : "Medan Timur",
+  "kelurahan" : "Sidodadi",
+  "kodepos" : "20234"
+}, {
+  "kecamatan" : "Medan Perjuangan",
+  "kelurahan" : "Sei Kerah Hilir II",
+  "kodepos" : "20233"
+}, {
+  "kecamatan" : "Medan Perjuangan",
+  "kelurahan" : "Sei Kera Hulu",
+  "kodepos" : "20233"
+}, {
+  "kecamatan" : "Medan Perjuangan",
+  "kelurahan" : "Sei Kerah Hilir I",
+  "kodepos" : "20233"
+}, {
+  "kecamatan" : "Medan Perjuangan",
+  "kelurahan" : "Pahlawan",
+  "kodepos" : "20233"
+}, {
+  "kecamatan" : "Medan Perjuangan",
+  "kelurahan" : "Pandau Hilir",
+  "kodepos" : "20232"
+}, {
+  "kecamatan" : "Medan Timur",
+  "kelurahan" : "Perintis",
+  "kodepos" : "20231"
+}, {
+  "kecamatan" : "Medan Timur",
+  "kelurahan" : "Gang Buntu",
+  "kodepos" : "20231"
+}, {
+  "kecamatan" : "Medan Amplas",
+  "kelurahan" : "Amplas",
+  "kodepos" : "20229"
+}, {
+  "kecamatan" : "Medan Denai",
+  "kelurahan" : "Medan Tenggara",
+  "kodepos" : "20228"
+}, {
+  "kecamatan" : "Medan Denai",
+  "kelurahan" : "Binjai",
+  "kodepos" : "20228"
+}, {
+  "kecamatan" : "Medan Denai",
+  "kelurahan" : "Tegal Sari Mandala III",
+  "kodepos" : "20226"
+}, {
+  "kecamatan" : "Medan Denai",
+  "kelurahan" : "Denai",
+  "kodepos" : "20227"
+}, {
+  "kecamatan" : "Medan Denai",
+  "kelurahan" : "Tegal Sari Mandala II",
+  "kodepos" : "20226"
+}, {
+  "kecamatan" : "Medan Denai",
+  "kelurahan" : "Tegal Sari Mandala I",
+  "kodepos" : "20226"
+}, {
+  "kecamatan" : "Medan Tembung",
+  "kelurahan" : "Tembung",
+  "kodepos" : "20225"
+}, {
+  "kecamatan" : "Medan Tembung",
+  "kelurahan" : "Bantan Timur",
+  "kodepos" : "20224"
+}, {
+  "kecamatan" : "Medan Tembung",
+  "kelurahan" : "Bantan",
+  "kodepos" : "20224"
+}, {
+  "kecamatan" : "Medan Tembung",
+  "kelurahan" : "Bandar Selamat",
+  "kodepos" : "20223"
+}, {
+  "kecamatan" : "Medan Tembung",
+  "kelurahan" : "Sidorejo Hilir",
+  "kodepos" : "20222"
+}, {
+  "kecamatan" : "Medan Tembung",
+  "kelurahan" : "Indra Kasih",
+  "kodepos" : "20221"
+}, {
+  "kecamatan" : "Medan Tembung",
+  "kelurahan" : "Sidorejo",
+  "kodepos" : "20222"
+}, {
+  "kecamatan" : "Medan Amplas",
+  "kelurahan" : "Sitirejo II",
+  "kodepos" : "20219"
+}, {
+  "kecamatan" : "Medan Amplas",
+  "kelurahan" : "Sitirejo III",
+  "kodepos" : "20219"
+}, {
+  "kecamatan" : "Medan Kota",
+  "kelurahan" : "Siti Rejo I",
+  "kodepos" : "20219"
+}, {
+  "kecamatan" : "Medan Kota",
+  "kelurahan" : "Sudi Rejo I",
+  "kodepos" : "20218"
+}, {
+  "kecamatan" : "Medan Kota",
+  "kelurahan" : "Sudi Rejo II",
+  "kodepos" : "20218"
+}, {
+  "kecamatan" : "Medan Kota",
+  "kelurahan" : "Teladan Barat",
+  "kodepos" : "20217"
+}, {
+  "kecamatan" : "Medan Kota",
+  "kelurahan" : "Teladan Timur",
+  "kodepos" : "20217"
+}, {
+  "kecamatan" : "Medan Kota",
+  "kelurahan" : "Pasar Merah Barat",
+  "kodepos" : "20217"
+}, {
+  "kecamatan" : "Medan Area",
+  "kelurahan" : "Tegal Sari III",
+  "kodepos" : "20216"
+}, {
+  "kecamatan" : "Medan Area",
+  "kelurahan" : "Pasar Merah Timur",
+  "kodepos" : "20217"
+}, {
+  "kecamatan" : "Medan Area",
+  "kelurahan" : "Tegal Sari I",
+  "kodepos" : "20216"
+}, {
+  "kecamatan" : "Medan Area",
+  "kelurahan" : "Tegal Sari II",
+  "kodepos" : "20216"
+}, {
+  "kecamatan" : "Medan Area",
+  "kelurahan" : "Sukaramai I",
+  "kodepos" : "20216"
+}, {
+  "kecamatan" : "Medan Area",
+  "kelurahan" : "Sukaramai II",
+  "kodepos" : "20216"
+}, {
+  "kecamatan" : "Medan Area",
+  "kelurahan" : "Kota Matsum IV",
+  "kodepos" : "20215"
+}, {
+  "kecamatan" : "Medan Kota",
+  "kelurahan" : "Kota Matsum III",
+  "kodepos" : "20215"
+}, {
+  "kecamatan" : "Medan Area",
+  "kelurahan" : "Kota Matsum I",
+  "kodepos" : "20215"
+}, {
+  "kecamatan" : "Medan Area",
+  "kelurahan" : "Kota Matsum II",
+  "kodepos" : "20215"
+}, {
+  "kecamatan" : "Medan Area",
+  "kelurahan" : "Sei Rengas Permata",
+  "kodepos" : "20214"
+}, {
+  "kecamatan" : "Medan Area",
+  "kelurahan" : "Sei Rengas II",
+  "kodepos" : "20214"
+}, {
+  "kecamatan" : "Medan Kota",
+  "kelurahan" : "Sei Rengas I",
+  "kodepos" : "20214"
+}, {
+  "kecamatan" : "Medan Kota",
+  "kelurahan" : "Pusat Pasar",
+  "kodepos" : "20212"
+}, {
+  "kecamatan" : "Medan Kota",
+  "kelurahan" : "Mesjid",
+  "kodepos" : "20213"
+}, {
+  "kecamatan" : "Medan Area",
+  "kelurahan" : "Pandau Hulu II",
+  "kodepos" : "20211"
+}, {
+  "kecamatan" : "Medan Kota",
+  "kelurahan" : "Pasar Baru",
+  "kodepos" : "20212"
+}, {
+  "kecamatan" : "Medan Kota",
+  "kelurahan" : "Pandau Hulu I",
+  "kodepos" : "20211"
+}, {
+  "kecamatan" : "Medan Maimun",
+  "kelurahan" : "Suka Raja",
+  "kodepos" : "20159"
+}, {
+  "kecamatan" : "Medan Maimun",
+  "kelurahan" : "Kampung Baru",
+  "kodepos" : "20158"
+}, {
+  "kecamatan" : "Medan Maimun",
+  "kelurahan" : "Sei Mati",
+  "kodepos" : "20159"
+}, {
+  "kecamatan" : "Medan Polonia",
+  "kelurahan" : "Sari Rejo",
+  "kodepos" : "20157"
+}, {
+  "kecamatan" : "Medan Polonia",
+  "kelurahan" : "Suka Damai",
+  "kodepos" : "20157"
+}, {
+  "kecamatan" : "Medan Polonia",
+  "kelurahan" : "Polonia",
+  "kodepos" : "20157"
+}, {
+  "kecamatan" : "Medan Baru",
+  "kelurahan" : "Titi Rantai/Rante",
+  "kodepos" : "20156"
+}, {
+  "kecamatan" : "Medan Baru",
+  "kelurahan" : "Merdeka",
+  "kodepos" : "20154"
+}, {
+  "kecamatan" : "Medan Baru",
+  "kelurahan" : "Padang Bulan",
+  "kodepos" : "20155"
+}, {
+  "kecamatan" : "Medan Baru",
+  "kelurahan" : "Babura",
+  "kodepos" : "20154"
+}, {
+  "kecamatan" : "Medan Baru",
+  "kelurahan" : "Darat",
+  "kodepos" : "20153"
+}, {
+  "kecamatan" : "Medan Baru",
+  "kelurahan" : "Petisah Hulu",
+  "kodepos" : "20153"
+}, {
+  "kecamatan" : "Medan Polonia",
+  "kelurahan" : "Madras Hulu",
+  "kodepos" : "20152"
+}, {
+  "kecamatan" : "Medan Maimun",
+  "kelurahan" : "Jati",
+  "kodepos" : "20152"
+}, {
+  "kecamatan" : "Medan Maimun",
+  "kelurahan" : "Hamdan",
+  "kodepos" : "20151"
+}, {
+  "kecamatan" : "Medan Polonia",
+  "kelurahan" : "Anggrung",
+  "kodepos" : "20152"
+}, {
+  "kecamatan" : "Medan Maimun",
+  "kelurahan" : "Aur",
+  "kodepos" : "20151"
+}, {
+  "kecamatan" : "Medan Amplas",
+  "kelurahan" : "Timbang Deli",
+  "kodepos" : "20148"
+}, {
+  "kecamatan" : "Medan Amplas",
+  "kelurahan" : "Bangun Mulia",
+  "kodepos" : "20149"
+}, {
+  "kecamatan" : "Medan Amplas",
+  "kelurahan" : "Harjosari II",
+  "kodepos" : "20147"
+}, {
+  "kecamatan" : "Medan Johor",
+  "kelurahan" : "Titi Kuning",
+  "kodepos" : "20146"
+}, {
+  "kecamatan" : "Medan Amplas",
+  "kelurahan" : "Harjosari I",
+  "kodepos" : "20147"
+}, {
+  "kecamatan" : "Medan Johor",
+  "kelurahan" : "Kedai Durian",
+  "kodepos" : "20145"
+}, {
+  "kecamatan" : "Medan Johor",
+  "kelurahan" : "Suka Maju",
+  "kodepos" : "20146"
+}, {
+  "kecamatan" : "Medan Johor",
+  "kelurahan" : "Pangkalan Masyhur",
+  "kodepos" : "20143"
+}, {
+  "kecamatan" : "Medan Johor",
+  "kelurahan" : "Gedung Johor",
+  "kodepos" : "20144"
+}, {
+  "kecamatan" : "Medan Tuntungan",
+  "kelurahan" : "Mangga",
+  "kodepos" : "20141"
+}, {
+  "kecamatan" : "Medan Johor",
+  "kelurahan" : "Kwala Bekala",
+  "kodepos" : "20142"
+}, {
+  "kecamatan" : "Medan Tuntungan",
+  "kelurahan" : "Sidomulyo",
+  "kodepos" : "20137"
+}, {
+  "kecamatan" : "Medan Tuntungan",
+  "kelurahan" : "Ladang Bambu",
+  "kodepos" : "20138"
+}, {
+  "kecamatan" : "Medan Tuntungan",
+  "kelurahan" : "Lau Cih",
+  "kodepos" : "20136"
+}, {
+  "kecamatan" : "Medan Tuntungan",
+  "kelurahan" : "Namu Gajah",
+  "kodepos" : "20136"
+}, {
+  "kecamatan" : "Medan Tuntungan",
+  "kelurahan" : "Simalingkar B",
+  "kodepos" : "20135"
+}, {
+  "kecamatan" : "Medan Tuntungan",
+  "kelurahan" : "Simpang Selayang",
+  "kodepos" : "20135"
+}, {
+  "kecamatan" : "Medan Tuntungan",
+  "kelurahan" : "Kemenangan Tani",
+  "kodepos" : "20136"
+}, {
+  "kecamatan" : "Medan Selayang",
+  "kelurahan" : "Tanjung Sari",
+  "kodepos" : "20132"
+}, {
+  "kecamatan" : "Medan Selayang",
+  "kelurahan" : "Asam Kumbang",
+  "kodepos" : "20133"
+}, {
+  "kecamatan" : "Medan Tuntungan",
+  "kelurahan" : "Tanjung Selamat",
+  "kodepos" : "20134"
+}, {
+  "kecamatan" : "Medan Selayang",
+  "kelurahan" : "Padang Bulan Selayang II",
+  "kodepos" : "20131"
+}, {
+  "kecamatan" : "Medan Selayang",
+  "kelurahan" : "Sempakata",
+  "kodepos" : "20132"
+}, {
+  "kecamatan" : "Medan Selayang",
+  "kelurahan" : "Beringin",
+  "kodepos" : "20131"
+}, {
+  "kecamatan" : "Medan Selayang",
+  "kelurahan" : "Padang Bulan Selayang I",
+  "kodepos" : "20131"
+}, {
+  "kecamatan" : "Medan Sunggal",
+  "kelurahan" : "Lalang",
+  "kodepos" : "20127"
+}, {
+  "kecamatan" : "Medan Sunggal",
+  "kelurahan" : "Sunggal",
+  "kodepos" : "20128"
+}, {
+  "kecamatan" : "Medan Helvetia",
+  "kelurahan" : "Tanjung Gusta",
+  "kodepos" : "20125"
+}, {
+  "kecamatan" : "Medan Helvetia",
+  "kelurahan" : "Helvetia",
+  "kodepos" : "20124"
+}, {
+  "kecamatan" : "Medan Helvetia",
+  "kelurahan" : "Cinta Damai",
+  "kodepos" : "20126"
+}, {
+  "kecamatan" : "Medan Helvetia",
+  "kelurahan" : "Dwi Kora",
+  "kodepos" : "20123"
+}, {
+  "kecamatan" : "Medan Helvetia",
+  "kelurahan" : "Helvetia Tengah",
+  "kodepos" : "20124"
+}, {
+  "kecamatan" : "Medan Sunggal",
+  "kelurahan" : "Tanjung Rejo",
+  "kodepos" : "20122"
+}, {
+  "kecamatan" : "Medan Helvetia",
+  "kelurahan" : "Helvetia Timur",
+  "kodepos" : "20124"
+}, {
+  "kecamatan" : "Medan Sunggal",
+  "kelurahan" : "Sei Sikambing B",
+  "kodepos" : "20122"
+}, {
+  "kecamatan" : "Medan Helvetia",
+  "kelurahan" : "Sei Sikambing C II",
+  "kodepos" : "20123"
+}, {
+  "kecamatan" : "Medan Sunggal",
+  "kelurahan" : "Simpang Tanjung",
+  "kodepos" : "20122"
+}, {
+  "kecamatan" : "Medan Sunggal",
+  "kelurahan" : "Babura Sunggal",
+  "kodepos" : "20121"
+}, {
+  "kecamatan" : "Medan Petisah",
+  "kelurahan" : "Sei Putih Timur II",
+  "kodepos" : "20118"
+}, {
+  "kecamatan" : "Medan Petisah",
+  "kelurahan" : "Sei Sikambing D",
+  "kodepos" : "20119"
+}, {
+  "kecamatan" : "Medan Petisah",
+  "kelurahan" : "Sei Putih Tengah",
+  "kodepos" : "20118"
+}, {
+  "kecamatan" : "Medan Petisah",
+  "kelurahan" : "Sei Putih Timur I",
+  "kodepos" : "20118"
+}, {
+  "kecamatan" : "Medan Barat",
+  "kelurahan" : "Sei Agul",
+  "kodepos" : "20117"
+}, {
+  "kecamatan" : "Medan Petisah",
+  "kelurahan" : "Sei Putih Barat",
+  "kodepos" : "20118"
+}, {
+  "kecamatan" : "Medan Barat",
+  "kelurahan" : "Glugur Kota",
+  "kodepos" : "20115"
+}, {
+  "kecamatan" : "Medan Barat",
+  "kelurahan" : "Pulo Brayan Kota",
+  "kodepos" : "20116"
+}, {
+  "kecamatan" : "Medan Barat",
+  "kelurahan" : "Karang Berombak",
+  "kodepos" : "20117"
+}, {
+  "kecamatan" : "Medan Barat",
+  "kelurahan" : "Silalas",
+  "kodepos" : "20114"
+}, {
+  "kecamatan" : "Medan Petisah",
+  "kelurahan" : "Petisah Tengah",
+  "kodepos" : "20112"
+}, {
+  "kecamatan" : "Medan Petisah",
+  "kelurahan" : "Sekip",
+  "kodepos" : "20113"
+}, {
+  "kecamatan" : "Medan Barat",
+  "kelurahan" : "Kesawan",
+  "kodepos" : "20111"
+} ]

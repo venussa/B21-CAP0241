@@ -1,0 +1,597 @@
+[ {
+  "kecamatan" : "Medang Deras",
+  "kelurahan" : "Tanjung Sigoni",
+  "kodepos" : "21258"
+}, {
+  "kecamatan" : "Medang Deras",
+  "kelurahan" : "Sidomulyo",
+  "kodepos" : "21258"
+}, {
+  "kecamatan" : "Medang Deras",
+  "kelurahan" : "Sei Rakyat",
+  "kodepos" : "21258"
+}, {
+  "kecamatan" : "Medang Deras",
+  "kelurahan" : "Sei Raja",
+  "kodepos" : "21258"
+}, {
+  "kecamatan" : "Medang Deras",
+  "kelurahan" : "Sei Buah Keras",
+  "kodepos" : "21258"
+}, {
+  "kecamatan" : "Medang Deras",
+  "kelurahan" : "Pematang Nibung",
+  "kodepos" : "21258"
+}, {
+  "kecamatan" : "Medang Deras",
+  "kelurahan" : "Pematang Cengkering",
+  "kodepos" : "21258"
+}, {
+  "kecamatan" : "Medang Deras",
+  "kelurahan" : "Pangkalan Dodek Baru",
+  "kodepos" : "21258"
+}, {
+  "kecamatan" : "Medang Deras",
+  "kelurahan" : "Pakam Raya Selatan",
+  "kodepos" : "21258"
+}, {
+  "kecamatan" : "Medang Deras",
+  "kelurahan" : "Pangkalan Dodek",
+  "kodepos" : "21258"
+}, {
+  "kecamatan" : "Medang Deras",
+  "kelurahan" : "Pakam Raya",
+  "kodepos" : "21258"
+}, {
+  "kecamatan" : "Medang Deras",
+  "kelurahan" : "Pakam",
+  "kodepos" : "21258"
+}, {
+  "kecamatan" : "Medang Deras",
+  "kelurahan" : "Pagurawan",
+  "kodepos" : "21258"
+}, {
+  "kecamatan" : "Medang Deras",
+  "kelurahan" : "Nenas Siam",
+  "kodepos" : "21258"
+}, {
+  "kecamatan" : "Medang Deras",
+  "kelurahan" : "Medang Baru",
+  "kodepos" : "21258"
+}, {
+  "kecamatan" : "Medang Deras",
+  "kelurahan" : "Medang",
+  "kodepos" : "21258"
+}, {
+  "kecamatan" : "Medang Deras",
+  "kelurahan" : "Mandarsah",
+  "kodepos" : "21258"
+}, {
+  "kecamatan" : "Medang Deras",
+  "kelurahan" : "Lalang",
+  "kodepos" : "21258"
+}, {
+  "kecamatan" : "Medang Deras",
+  "kelurahan" : "Durian",
+  "kodepos" : "21258"
+}, {
+  "kecamatan" : "Medang Deras",
+  "kelurahan" : "Cengkering Pekan",
+  "kodepos" : "21258"
+}, {
+  "kecamatan" : "Medang Deras",
+  "kelurahan" : "Aek Nauli",
+  "kodepos" : "21258"
+}, {
+  "kecamatan" : "Sei Suka",
+  "kelurahan" : "Tanjunggading",
+  "kodepos" : "21257"
+}, {
+  "kecamatan" : "Sei Suka",
+  "kelurahan" : "Tanjung Prapat/Parapat",
+  "kodepos" : "21257"
+}, {
+  "kecamatan" : "Sei Suka",
+  "kelurahan" : "Tanjung Seri",
+  "kodepos" : "21257"
+}, {
+  "kecamatan" : "Sei Suka",
+  "kelurahan" : "Simpang Kopi",
+  "kodepos" : "21257"
+}, {
+  "kecamatan" : "Sei Suka",
+  "kelurahan" : "Tanjung Kasau",
+  "kodepos" : "21257"
+}, {
+  "kecamatan" : "Sei Suka",
+  "kelurahan" : "Simodong",
+  "kodepos" : "21257"
+}, {
+  "kecamatan" : "Sei Suka",
+  "kelurahan" : "Sei Suka Deras",
+  "kodepos" : "21257"
+}, {
+  "kecamatan" : "Sei Suka",
+  "kelurahan" : "Perkebunan Tanjung Kasau",
+  "kodepos" : "21257"
+}, {
+  "kecamatan" : "Sei Suka",
+  "kelurahan" : "Sei Simujur",
+  "kodepos" : "21257"
+}, {
+  "kecamatan" : "Sei Suka",
+  "kelurahan" : "Pematang Kuning",
+  "kodepos" : "21257"
+}, {
+  "kecamatan" : "Sei Suka",
+  "kelurahan" : "Perkebunan Sipare-Pare",
+  "kodepos" : "21257"
+}, {
+  "kecamatan" : "Sei Suka",
+  "kelurahan" : "Pelanggiran Laut Tador",
+  "kodepos" : "21257"
+}, {
+  "kecamatan" : "Sei Suka",
+  "kelurahan" : "Pematang Jering",
+  "kodepos" : "21257"
+}, {
+  "kecamatan" : "Sei Suka",
+  "kelurahan" : "Laut Tador",
+  "kodepos" : "21257"
+}, {
+  "kecamatan" : "Sei Suka",
+  "kelurahan" : "Mekar Sari",
+  "kodepos" : "21257"
+}, {
+  "kecamatan" : "Sei Suka",
+  "kelurahan" : "Kwala/Kuala Indah",
+  "kodepos" : "21257"
+}, {
+  "kecamatan" : "Sei Suka",
+  "kelurahan" : "Kwala/Kuala Tanjung",
+  "kodepos" : "21257"
+}, {
+  "kecamatan" : "Sei Suka",
+  "kelurahan" : "Dwi Sri",
+  "kodepos" : "21257"
+}, {
+  "kecamatan" : "Sei Suka",
+  "kelurahan" : "Kandangan",
+  "kodepos" : "21257"
+}, {
+  "kecamatan" : "Air Putih",
+  "kelurahan" : "Titi Payung",
+  "kodepos" : "21256"
+}, {
+  "kecamatan" : "Sei Suka",
+  "kelurahan" : "Brohol",
+  "kodepos" : "21257"
+}, {
+  "kecamatan" : "Air Putih",
+  "kelurahan" : "Tanjung Kubah",
+  "kodepos" : "21256"
+}, {
+  "kecamatan" : "Air Putih",
+  "kelurahan" : "Tanjung Muda",
+  "kodepos" : "21256"
+}, {
+  "kecamatan" : "Air Putih",
+  "kelurahan" : "Tanjungmulya",
+  "kodepos" : "21256"
+}, {
+  "kecamatan" : "Air Putih",
+  "kelurahan" : "Tanjung Harapan",
+  "kodepos" : "21256"
+}, {
+  "kecamatan" : "Air Putih",
+  "kelurahan" : "Tanah Tinggi",
+  "kodepos" : "21256"
+}, {
+  "kecamatan" : "Air Putih",
+  "kelurahan" : "Sukaraja",
+  "kodepos" : "21256"
+}, {
+  "kecamatan" : "Air Putih",
+  "kelurahan" : "Tanah Merah",
+  "kodepos" : "21256"
+}, {
+  "kecamatan" : "Air Putih",
+  "kelurahan" : "Tanah Rendah",
+  "kodepos" : "21256"
+}, {
+  "kecamatan" : "Air Putih",
+  "kelurahan" : "Perkotaan",
+  "kodepos" : "21256"
+}, {
+  "kecamatan" : "Air Putih",
+  "kelurahan" : "Sipare-Pare",
+  "kodepos" : "21256"
+}, {
+  "kecamatan" : "Air Putih",
+  "kelurahan" : "Pasar Lapan",
+  "kodepos" : "21256"
+}, {
+  "kecamatan" : "Air Putih",
+  "kelurahan" : "Pematang Panjang",
+  "kodepos" : "21256"
+}, {
+  "kecamatan" : "Air Putih",
+  "kelurahan" : "Kampung Kelapa",
+  "kodepos" : "21256"
+}, {
+  "kecamatan" : "Air Putih",
+  "kelurahan" : "Limau Sundai",
+  "kodepos" : "21256"
+}, {
+  "kecamatan" : "Air Putih",
+  "kelurahan" : "Indrasakti",
+  "kodepos" : "21256"
+}, {
+  "kecamatan" : "Air Putih",
+  "kelurahan" : "Aras",
+  "kodepos" : "21256"
+}, {
+  "kecamatan" : "Air Putih",
+  "kelurahan" : "Indrapura Kota",
+  "kodepos" : "21256"
+}, {
+  "kecamatan" : "Limapuluh",
+  "kelurahan" : "Sumber Rejo",
+  "kodepos" : "21255"
+}, {
+  "kecamatan" : "Limapuluh",
+  "kelurahan" : "Titi Merah",
+  "kodepos" : "21255"
+}, {
+  "kecamatan" : "Limapuluh",
+  "kelurahan" : "Titi Putih",
+  "kodepos" : "21255"
+}, {
+  "kecamatan" : "Limapuluh",
+  "kelurahan" : "Sumber Makmur",
+  "kodepos" : "21255"
+}, {
+  "kecamatan" : "Limapuluh",
+  "kelurahan" : "Sumber Padi",
+  "kodepos" : "21255"
+}, {
+  "kecamatan" : "Limapuluh",
+  "kelurahan" : "Pulau Sejuk",
+  "kodepos" : "21255"
+}, {
+  "kecamatan" : "Limapuluh",
+  "kelurahan" : "Simpang Dolok",
+  "kodepos" : "21255"
+}, {
+  "kecamatan" : "Limapuluh",
+  "kelurahan" : "Simpang Gambus",
+  "kodepos" : "21255"
+}, {
+  "kecamatan" : "Limapuluh",
+  "kelurahan" : "Perupuk",
+  "kodepos" : "21255"
+}, {
+  "kecamatan" : "Limapuluh",
+  "kelurahan" : "Perkebunan Tanah Itam Hilir",
+  "kodepos" : "21255"
+}, {
+  "kecamatan" : "Limapuluh",
+  "kelurahan" : "Perkebunan Tanah Itam Hulu",
+  "kodepos" : "21255"
+}, {
+  "kecamatan" : "Limapuluh",
+  "kelurahan" : "Perkebunan Tanah Gambus",
+  "kodepos" : "21255"
+}, {
+  "kecamatan" : "Limapuluh",
+  "kelurahan" : "Perkebunan Kwala Gunung",
+  "kodepos" : "21255"
+}, {
+  "kecamatan" : "Limapuluh",
+  "kelurahan" : "Perkebunan Lima Puluh",
+  "kodepos" : "21255"
+}, {
+  "kecamatan" : "Limapuluh",
+  "kelurahan" : "Perkebunan Limau Manis",
+  "kodepos" : "21255"
+}, {
+  "kecamatan" : "Limapuluh",
+  "kelurahan" : "Pematang Tengah",
+  "kodepos" : "21255"
+}, {
+  "kecamatan" : "Limapuluh",
+  "kelurahan" : "Perkebunan Dolok",
+  "kodepos" : "21255"
+}, {
+  "kecamatan" : "Limapuluh",
+  "kelurahan" : "Mangkai Lama",
+  "kodepos" : "21255"
+}, {
+  "kecamatan" : "Limapuluh",
+  "kelurahan" : "Pasir Permit",
+  "kodepos" : "21255"
+}, {
+  "kecamatan" : "Limapuluh",
+  "kelurahan" : "Pematang Panjang",
+  "kodepos" : "21255"
+}, {
+  "kecamatan" : "Limapuluh",
+  "kelurahan" : "Lubuk Hulu",
+  "kodepos" : "21255"
+}, {
+  "kecamatan" : "Limapuluh",
+  "kelurahan" : "Kwala/Kuala Gunung",
+  "kodepos" : "21255"
+}, {
+  "kecamatan" : "Limapuluh",
+  "kelurahan" : "Mangkai Baru",
+  "kodepos" : "21255"
+}, {
+  "kecamatan" : "Limapuluh",
+  "kelurahan" : "Empat Negeri",
+  "kodepos" : "21255"
+}, {
+  "kecamatan" : "Limapuluh",
+  "kelurahan" : "Lima Puluh Kota",
+  "kodepos" : "21255"
+}, {
+  "kecamatan" : "Limapuluh",
+  "kelurahan" : "Gambus Laut",
+  "kodepos" : "21255"
+}, {
+  "kecamatan" : "Limapuluh",
+  "kelurahan" : "Lubuk Besar",
+  "kodepos" : "21255"
+}, {
+  "kecamatan" : "Limapuluh",
+  "kelurahan" : "Guntung",
+  "kodepos" : "21255"
+}, {
+  "kecamatan" : "Limapuluh",
+  "kelurahan" : "Lubuk Cuik",
+  "kodepos" : "21255"
+}, {
+  "kecamatan" : "Limapuluh",
+  "kelurahan" : "Barung-Barung",
+  "kodepos" : "21255"
+}, {
+  "kecamatan" : "Limapuluh",
+  "kelurahan" : "Gunung Bandung",
+  "kodepos" : "21255"
+}, {
+  "kecamatan" : "Limapuluh",
+  "kelurahan" : "Bulan-Bulan",
+  "kodepos" : "21255"
+}, {
+  "kecamatan" : "Limapuluh",
+  "kelurahan" : "Cahaya Pardomuan",
+  "kodepos" : "21255"
+}, {
+  "kecamatan" : "Limapuluh",
+  "kelurahan" : "Air Hitam",
+  "kodepos" : "21255"
+}, {
+  "kecamatan" : "Limapuluh",
+  "kelurahan" : "Antara",
+  "kodepos" : "21255"
+}, {
+  "kecamatan" : "Talawi",
+  "kelurahan" : "Petatal",
+  "kodepos" : "21254"
+}, {
+  "kecamatan" : "Talawi",
+  "kelurahan" : "Sei Muka",
+  "kodepos" : "21254"
+}, {
+  "kecamatan" : "Talawi",
+  "kelurahan" : "Sumber Tani",
+  "kodepos" : "21254"
+}, {
+  "kecamatan" : "Talawi",
+  "kelurahan" : "Perkebunan Petatal",
+  "kodepos" : "21254"
+}, {
+  "kecamatan" : "Talawi",
+  "kelurahan" : "Perkebunan Tanah Datar",
+  "kodepos" : "21254"
+}, {
+  "kecamatan" : "Talawi",
+  "kelurahan" : "Padang Genting",
+  "kodepos" : "21254"
+}, {
+  "kecamatan" : "Talawi",
+  "kelurahan" : "Gunung Rante",
+  "kodepos" : "21254"
+}, {
+  "kecamatan" : "Talawi",
+  "kelurahan" : "Pahang",
+  "kodepos" : "21254"
+}, {
+  "kecamatan" : "Talawi",
+  "kelurahan" : "Indra Yaman",
+  "kodepos" : "21254"
+}, {
+  "kecamatan" : "Talawi",
+  "kelurahan" : "Panjang",
+  "kodepos" : "21254"
+}, {
+  "kecamatan" : "Talawi",
+  "kelurahan" : "Karang Baru",
+  "kodepos" : "21254"
+}, {
+  "kecamatan" : "Talawi",
+  "kelurahan" : "Labuhan Ruku",
+  "kodepos" : "21254"
+}, {
+  "kecamatan" : "Talawi",
+  "kelurahan" : "Dahari Selebar",
+  "kodepos" : "21254"
+}, {
+  "kecamatan" : "Talawi",
+  "kelurahan" : "Mekar Baru",
+  "kodepos" : "21254"
+}, {
+  "kecamatan" : "Talawi",
+  "kelurahan" : "Glugur Makmur",
+  "kodepos" : "21254"
+}, {
+  "kecamatan" : "Talawi",
+  "kelurahan" : "Mesjid Lama",
+  "kodepos" : "21254"
+}, {
+  "kecamatan" : "Talawi",
+  "kelurahan" : "Benteng",
+  "kodepos" : "21254"
+}, {
+  "kecamatan" : "Talawi",
+  "kelurahan" : "Binjai Baru",
+  "kodepos" : "21254"
+}, {
+  "kecamatan" : "Talawi",
+  "kelurahan" : "Dahari Indah",
+  "kodepos" : "21254"
+}, {
+  "kecamatan" : "Tanjung Tiram",
+  "kelurahan" : "Ujung Kubu",
+  "kodepos" : "21253"
+}, {
+  "kecamatan" : "Talawi",
+  "kelurahan" : "Bangun Sari",
+  "kodepos" : "21254"
+}, {
+  "kecamatan" : "Tanjung Tiram",
+  "kelurahan" : "Tali Air Permai",
+  "kodepos" : "21253"
+}, {
+  "kecamatan" : "Tanjung Tiram",
+  "kelurahan" : "Tanjungmulia",
+  "kodepos" : "21253"
+}, {
+  "kecamatan" : "Tanjung Tiram",
+  "kelurahan" : "Tanjungtiram",
+  "kodepos" : "21253"
+}, {
+  "kecamatan" : "Tanjung Tiram",
+  "kelurahan" : "Sei Mentaram",
+  "kodepos" : "21253"
+}, {
+  "kecamatan" : "Tanjung Tiram",
+  "kelurahan" : "Suka Jaya",
+  "kodepos" : "21253"
+}, {
+  "kecamatan" : "Tanjung Tiram",
+  "kelurahan" : "Suka Maju",
+  "kodepos" : "21253"
+}, {
+  "kecamatan" : "Tanjung Tiram",
+  "kelurahan" : "Pahlawan",
+  "kodepos" : "21253"
+}, {
+  "kecamatan" : "Tanjung Tiram",
+  "kelurahan" : "Pematang Rambe",
+  "kodepos" : "21253"
+}, {
+  "kecamatan" : "Tanjung Tiram",
+  "kelurahan" : "Kapal Merah",
+  "kodepos" : "21253"
+}, {
+  "kecamatan" : "Tanjung Tiram",
+  "kelurahan" : "Lima Laras",
+  "kodepos" : "21253"
+}, {
+  "kecamatan" : "Tanjung Tiram",
+  "kelurahan" : "Mekar Laras",
+  "kodepos" : "21253"
+}, {
+  "kecamatan" : "Tanjung Tiram",
+  "kelurahan" : "Jati Mulia",
+  "kodepos" : "21253"
+}, {
+  "kecamatan" : "Tanjung Tiram",
+  "kelurahan" : "Kampung Lalang",
+  "kodepos" : "21253"
+}, {
+  "kecamatan" : "Tanjung Tiram",
+  "kelurahan" : "Bandar Sono",
+  "kodepos" : "21253"
+}, {
+  "kecamatan" : "Tanjung Tiram",
+  "kelurahan" : "Bogak",
+  "kodepos" : "21253"
+}, {
+  "kecamatan" : "Tanjung Tiram",
+  "kelurahan" : "Guntung",
+  "kodepos" : "21253"
+}, {
+  "kecamatan" : "Tanjung Tiram",
+  "kelurahan" : "Bagan Dalam",
+  "kodepos" : "21253"
+}, {
+  "kecamatan" : "Tanjung Tiram",
+  "kelurahan" : "Bandar Rahmat",
+  "kodepos" : "21253"
+}, {
+  "kecamatan" : "Tanjung Tiram",
+  "kelurahan" : "Bagan Baru",
+  "kodepos" : "21253"
+}, {
+  "kecamatan" : "Sei Balai",
+  "kelurahan" : "Tanah Timbul",
+  "kodepos" : "21252"
+}, {
+  "kecamatan" : "Tanjung Tiram",
+  "kelurahan" : "Bagan Arya",
+  "kodepos" : "21253"
+}, {
+  "kecamatan" : "Sei Balai",
+  "kelurahan" : "Suko Rejo",
+  "kodepos" : "21252"
+}, {
+  "kecamatan" : "Sei Balai",
+  "kelurahan" : "Suka Ramai",
+  "kodepos" : "21252"
+}, {
+  "kecamatan" : "Sei Balai",
+  "kelurahan" : "Sei Balai",
+  "kodepos" : "21252"
+}, {
+  "kecamatan" : "Sei Balai",
+  "kelurahan" : "Siajam",
+  "kodepos" : "21252"
+}, {
+  "kecamatan" : "Sei Balai",
+  "kelurahan" : "Sidomulio",
+  "kodepos" : "21252"
+}, {
+  "kecamatan" : "Sei Balai",
+  "kelurahan" : "Perkebunan Sei Balai",
+  "kodepos" : "21252"
+}, {
+  "kecamatan" : "Sei Balai",
+  "kelurahan" : "Perkebunan Sei Bejangkar",
+  "kodepos" : "21252"
+}, {
+  "kecamatan" : "Sei Balai",
+  "kelurahan" : "Mekar Baru",
+  "kodepos" : "21252"
+}, {
+  "kecamatan" : "Sei Balai",
+  "kelurahan" : "Mekar Mulio",
+  "kodepos" : "21252"
+}, {
+  "kecamatan" : "Sei Balai",
+  "kelurahan" : "Perjuangan",
+  "kodepos" : "21252"
+}, {
+  "kecamatan" : "Sei Balai",
+  "kelurahan" : "Durian",
+  "kodepos" : "21252"
+}, {
+  "kecamatan" : "Sei Balai",
+  "kelurahan" : "Kwala Sikasim",
+  "kodepos" : "21252"
+}, {
+  "kecamatan" : "Sei Balai",
+  "kelurahan" : "Benteng Jaya",
+  "kodepos" : "21252"
+} ]

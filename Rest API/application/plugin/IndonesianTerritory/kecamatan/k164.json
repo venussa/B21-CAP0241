@@ -1,0 +1,541 @@
+[ {
+  "kecamatan" : "Piani",
+  "kelurahan" : "Miawa",
+  "kodepos" : "71191"
+}, {
+  "kecamatan" : "Piani",
+  "kelurahan" : "Pipitak Jaya",
+  "kodepos" : "71191"
+}, {
+  "kecamatan" : "Piani",
+  "kelurahan" : "Buni In Jaya",
+  "kodepos" : "71191"
+}, {
+  "kecamatan" : "Piani",
+  "kelurahan" : "Harakit",
+  "kodepos" : "71191"
+}, {
+  "kecamatan" : "Piani",
+  "kelurahan" : "Batu Ampar",
+  "kodepos" : "71191"
+}, {
+  "kecamatan" : "Piani",
+  "kelurahan" : "Batung",
+  "kodepos" : "71191"
+}, {
+  "kecamatan" : "Piani",
+  "kelurahan" : "Balawaian",
+  "kodepos" : "71191"
+}, {
+  "kecamatan" : "Piani",
+  "kelurahan" : "Baramban",
+  "kodepos" : "71191"
+}, {
+  "kecamatan" : "Salam Babaris",
+  "kelurahan" : "Suato Baru",
+  "kodepos" : "71185"
+}, {
+  "kecamatan" : "Salam Babaris",
+  "kelurahan" : "Suato Lama",
+  "kodepos" : "71185"
+}, {
+  "kecamatan" : "Salam Babaris",
+  "kelurahan" : "Pantai Cabe",
+  "kodepos" : "71185"
+}, {
+  "kecamatan" : "Salam Babaris",
+  "kelurahan" : "Salam Babaris",
+  "kodepos" : "71185"
+}, {
+  "kecamatan" : "Salam Babaris",
+  "kelurahan" : "Kambang Habang Baru",
+  "kodepos" : "71185"
+}, {
+  "kecamatan" : "Salam Babaris",
+  "kelurahan" : "Kambang Habang Lama",
+  "kodepos" : "71185"
+}, {
+  "kecamatan" : "Hatungun",
+  "kelurahan" : "Kambang Kuning",
+  "kodepos" : "71184"
+}, {
+  "kecamatan" : "Hatungun",
+  "kelurahan" : "Matang Batas",
+  "kodepos" : "71184"
+}, {
+  "kecamatan" : "Hatungun",
+  "kelurahan" : "Tarungin",
+  "kodepos" : "71184"
+}, {
+  "kecamatan" : "Hatungun",
+  "kelurahan" : "Burakai",
+  "kodepos" : "71184"
+}, {
+  "kecamatan" : "Hatungun",
+  "kelurahan" : "Hatungun",
+  "kodepos" : "71184"
+}, {
+  "kecamatan" : "Hatungun",
+  "kelurahan" : "Batu Hapu",
+  "kodepos" : "71184"
+}, {
+  "kecamatan" : "Hatungun",
+  "kelurahan" : "Bagak",
+  "kodepos" : "71184"
+}, {
+  "kecamatan" : "Binuang",
+  "kelurahan" : "Tungkap",
+  "kodepos" : "71183"
+}, {
+  "kecamatan" : "Hatungun",
+  "kelurahan" : "Asam Randah",
+  "kodepos" : "71184"
+}, {
+  "kecamatan" : "Binuang",
+  "kelurahan" : "Pulau Pinang Utara",
+  "kodepos" : "71183"
+}, {
+  "kecamatan" : "Binuang",
+  "kelurahan" : "Raya Belanti",
+  "kodepos" : "71183"
+}, {
+  "kecamatan" : "Binuang",
+  "kelurahan" : "Pualam Sari",
+  "kodepos" : "71183"
+}, {
+  "kecamatan" : "Binuang",
+  "kelurahan" : "Pulau Pinang",
+  "kodepos" : "71183"
+}, {
+  "kecamatan" : "Binuang",
+  "kelurahan" : "Mekarsari",
+  "kodepos" : "71183"
+}, {
+  "kecamatan" : "Binuang",
+  "kelurahan" : "Padang Sari",
+  "kodepos" : "71183"
+}, {
+  "kecamatan" : "Binuang",
+  "kelurahan" : "Binuang",
+  "kodepos" : "71183"
+}, {
+  "kecamatan" : "Binuang",
+  "kelurahan" : "Gunung Batu",
+  "kodepos" : "71183"
+}, {
+  "kecamatan" : "Binuang",
+  "kelurahan" : "Karang Putih",
+  "kodepos" : "71183"
+}, {
+  "kecamatan" : "Binuang",
+  "kelurahan" : "A Yani Pura",
+  "kodepos" : "71183"
+}, {
+  "kecamatan" : "Tapin Selatan",
+  "kelurahan" : "Tatakan",
+  "kodepos" : "71181"
+}, {
+  "kecamatan" : "Tapin Selatan",
+  "kelurahan" : "Timbaan",
+  "kodepos" : "71181"
+}, {
+  "kecamatan" : "Tapin Selatan",
+  "kelurahan" : "Tambarangan",
+  "kodepos" : "71181"
+}, {
+  "kecamatan" : "Tapin Selatan",
+  "kelurahan" : "Tandui",
+  "kodepos" : "71181"
+}, {
+  "kecamatan" : "Tapin Selatan",
+  "kelurahan" : "Sawang",
+  "kodepos" : "71181"
+}, {
+  "kecamatan" : "Tapin Selatan",
+  "kelurahan" : "Suato Tatakan",
+  "kodepos" : "71181"
+}, {
+  "kecamatan" : "Tapin Selatan",
+  "kelurahan" : "Lawahan",
+  "kodepos" : "71181"
+}, {
+  "kecamatan" : "Tapin Selatan",
+  "kelurahan" : "Rumintin",
+  "kodepos" : "71181"
+}, {
+  "kecamatan" : "Tapin Selatan",
+  "kelurahan" : "Harapan Masa",
+  "kodepos" : "71181"
+}, {
+  "kecamatan" : "Tapin Selatan",
+  "kelurahan" : "Hatiwin",
+  "kodepos" : "71181"
+}, {
+  "kecamatan" : "Candi Laras Utara",
+  "kelurahan" : "Teluk Haur",
+  "kodepos" : "71171"
+}, {
+  "kecamatan" : "Tapin Selatan",
+  "kelurahan" : "Cempaka",
+  "kodepos" : "71181"
+}, {
+  "kecamatan" : "Candi Laras Utara",
+  "kelurahan" : "Sei/Sungai Puting",
+  "kodepos" : "71171"
+}, {
+  "kecamatan" : "Candi Laras Utara",
+  "kelurahan" : "Sei/Sungai Salai",
+  "kodepos" : "71171"
+}, {
+  "kecamatan" : "Candi Laras Utara",
+  "kelurahan" : "Sei/Sungai Salai Hilir",
+  "kodepos" : "71171"
+}, {
+  "kecamatan" : "Candi Laras Utara",
+  "kelurahan" : "Rawana Hulu",
+  "kodepos" : "71171"
+}, {
+  "kecamatan" : "Candi Laras Utara",
+  "kelurahan" : "Sawaja",
+  "kodepos" : "71171"
+}, {
+  "kecamatan" : "Candi Laras Utara",
+  "kelurahan" : "Margasari Ilir",
+  "kodepos" : "71171"
+}, {
+  "kecamatan" : "Candi Laras Utara",
+  "kelurahan" : "Pariok",
+  "kodepos" : "71171"
+}, {
+  "kecamatan" : "Candi Laras Utara",
+  "kelurahan" : "Rawana",
+  "kodepos" : "71171"
+}, {
+  "kecamatan" : "Candi Laras Utara",
+  "kelurahan" : "Buas Buas Hilir",
+  "kodepos" : "71171"
+}, {
+  "kecamatan" : "Candi Laras Utara",
+  "kelurahan" : "Kaladan",
+  "kodepos" : "71171"
+}, {
+  "kecamatan" : "Candi Laras Utara",
+  "kelurahan" : "Batalas",
+  "kodepos" : "71171"
+}, {
+  "kecamatan" : "Candi Laras Utara",
+  "kelurahan" : "Buas Buas",
+  "kodepos" : "71171"
+}, {
+  "kecamatan" : "Candi Laras Selatan",
+  "kelurahan" : "Pabaungan Pantai",
+  "kodepos" : "71162"
+}, {
+  "kecamatan" : "Candi Laras Selatan",
+  "kelurahan" : "Sei/Sungai Rutas",
+  "kodepos" : "71162"
+}, {
+  "kecamatan" : "Candi Laras Selatan",
+  "kelurahan" : "Sei/Sungai Rutas Hulu",
+  "kodepos" : "71162"
+}, {
+  "kecamatan" : "Candi Laras Selatan",
+  "kelurahan" : "Pabaungan Hilir",
+  "kodepos" : "71162"
+}, {
+  "kecamatan" : "Candi Laras Selatan",
+  "kelurahan" : "Pabaungan Hulu",
+  "kodepos" : "71162"
+}, {
+  "kecamatan" : "Candi Laras Selatan",
+  "kelurahan" : "Marampiau Hilir",
+  "kodepos" : "71162"
+}, {
+  "kecamatan" : "Candi Laras Selatan",
+  "kelurahan" : "Margasari Ulu",
+  "kodepos" : "71162"
+}, {
+  "kecamatan" : "Candi Laras Selatan",
+  "kelurahan" : "Candi Laras",
+  "kodepos" : "71162"
+}, {
+  "kecamatan" : "Candi Laras Selatan",
+  "kelurahan" : "Marampiau",
+  "kodepos" : "71162"
+}, {
+  "kecamatan" : "Candi Laras Selatan",
+  "kelurahan" : "Baringin B",
+  "kodepos" : "71162"
+}, {
+  "kecamatan" : "Candi Laras Selatan",
+  "kelurahan" : "Baulin",
+  "kodepos" : "71162"
+}, {
+  "kecamatan" : "Candi Laras Selatan",
+  "kelurahan" : "Baringin A",
+  "kodepos" : "71162"
+}, {
+  "kecamatan" : "Tapin Tengah",
+  "kelurahan" : "Tirik",
+  "kodepos" : "71161"
+}, {
+  "kecamatan" : "Tapin Tengah",
+  "kelurahan" : "Serawi",
+  "kodepos" : "71161"
+}, {
+  "kecamatan" : "Tapin Tengah",
+  "kelurahan" : "Sukaramai",
+  "kodepos" : "71161"
+}, {
+  "kecamatan" : "Tapin Tengah",
+  "kelurahan" : "Pematang Karangan Hulu",
+  "kodepos" : "71161"
+}, {
+  "kecamatan" : "Tapin Tengah",
+  "kelurahan" : "Sei/Sungai Bahalang",
+  "kodepos" : "71161"
+}, {
+  "kecamatan" : "Tapin Tengah",
+  "kelurahan" : "Papagan Makmur",
+  "kodepos" : "71161"
+}, {
+  "kecamatan" : "Tapin Tengah",
+  "kelurahan" : "Pematang Karangan",
+  "kodepos" : "71161"
+}, {
+  "kecamatan" : "Tapin Tengah",
+  "kelurahan" : "Pematang Karangan Hilir",
+  "kodepos" : "71161"
+}, {
+  "kecamatan" : "Tapin Tengah",
+  "kelurahan" : "Pandahan",
+  "kodepos" : "71161"
+}, {
+  "kecamatan" : "Tapin Tengah",
+  "kelurahan" : "Pandulangan",
+  "kodepos" : "71161"
+}, {
+  "kecamatan" : "Tapin Tengah",
+  "kelurahan" : "Mandurian",
+  "kodepos" : "71161"
+}, {
+  "kecamatan" : "Tapin Tengah",
+  "kelurahan" : "Mandurian Hilir",
+  "kodepos" : "71161"
+}, {
+  "kecamatan" : "Tapin Tengah",
+  "kelurahan" : "Labung",
+  "kodepos" : "71161"
+}, {
+  "kecamatan" : "Tapin Tengah",
+  "kelurahan" : "Hiyung",
+  "kodepos" : "71161"
+}, {
+  "kecamatan" : "Tapin Tengah",
+  "kelurahan" : "Kepayang",
+  "kodepos" : "71161"
+}, {
+  "kecamatan" : "Tapin Tengah",
+  "kelurahan" : "Batang Lantik",
+  "kodepos" : "71161"
+}, {
+  "kecamatan" : "Lokpaikat",
+  "kelurahan" : "Puncak Harapan",
+  "kodepos" : "71154"
+}, {
+  "kecamatan" : "Tapin Tengah",
+  "kelurahan" : "Andhika",
+  "kodepos" : "71161"
+}, {
+  "kecamatan" : "Lokpaikat",
+  "kelurahan" : "Lokpaikat",
+  "kodepos" : "71154"
+}, {
+  "kecamatan" : "Lokpaikat",
+  "kelurahan" : "Parandakan",
+  "kodepos" : "71154"
+}, {
+  "kecamatan" : "Lokpaikat",
+  "kelurahan" : "Bitahan Baru",
+  "kodepos" : "71154"
+}, {
+  "kecamatan" : "Lokpaikat",
+  "kelurahan" : "Budi Mulya",
+  "kodepos" : "71154"
+}, {
+  "kecamatan" : "Lokpaikat",
+  "kelurahan" : "Binderang",
+  "kodepos" : "71154"
+}, {
+  "kecamatan" : "Lokpaikat",
+  "kelurahan" : "Bitahan",
+  "kodepos" : "71154"
+}, {
+  "kecamatan" : "Lokpaikat",
+  "kelurahan" : "Ayunan Papan",
+  "kodepos" : "71154"
+}, {
+  "kecamatan" : "Lokpaikat",
+  "kelurahan" : "Bataratat",
+  "kodepos" : "71154"
+}, {
+  "kecamatan" : "Bungur",
+  "kelurahan" : "Shabah",
+  "kodepos" : "71153"
+}, {
+  "kecamatan" : "Bungur",
+  "kelurahan" : "Timbung",
+  "kodepos" : "71153"
+}, {
+  "kecamatan" : "Bungur",
+  "kelurahan" : "Purut",
+  "kodepos" : "71153"
+}, {
+  "kecamatan" : "Bungur",
+  "kelurahan" : "Rantau Bujur",
+  "kodepos" : "71153"
+}, {
+  "kecamatan" : "Bungur",
+  "kelurahan" : "Paring Guling",
+  "kodepos" : "71153"
+}, {
+  "kecamatan" : "Bungur",
+  "kelurahan" : "Linuh",
+  "kodepos" : "71153"
+}, {
+  "kecamatan" : "Bungur",
+  "kelurahan" : "Hangui",
+  "kodepos" : "71153"
+}, {
+  "kecamatan" : "Bungur",
+  "kelurahan" : "Kalumpang",
+  "kodepos" : "71153"
+}, {
+  "kecamatan" : "Bungur",
+  "kelurahan" : "Bungur",
+  "kodepos" : "71153"
+}, {
+  "kecamatan" : "Bungur",
+  "kelurahan" : "Bungur Baru",
+  "kodepos" : "71153"
+}, {
+  "kecamatan" : "Bungur",
+  "kelurahan" : "Banua Padang",
+  "kodepos" : "71153"
+}, {
+  "kecamatan" : "Bungur",
+  "kelurahan" : "Banua Padang Hilir",
+  "kodepos" : "71153"
+}, {
+  "kecamatan" : "Bakarangan",
+  "kelurahan" : "Tangkawang Baru",
+  "kodepos" : "71152"
+}, {
+  "kecamatan" : "Bakarangan",
+  "kelurahan" : "Waringin",
+  "kodepos" : "71152"
+}, {
+  "kecamatan" : "Bakarangan",
+  "kelurahan" : "Tangkawang",
+  "kodepos" : "71152"
+}, {
+  "kecamatan" : "Bakarangan",
+  "kelurahan" : "Parigi Kecil",
+  "kodepos" : "71152"
+}, {
+  "kecamatan" : "Bakarangan",
+  "kelurahan" : "Paul",
+  "kodepos" : "71152"
+}, {
+  "kecamatan" : "Bakarangan",
+  "kelurahan" : "Masta",
+  "kodepos" : "71152"
+}, {
+  "kecamatan" : "Bakarangan",
+  "kelurahan" : "Parigi",
+  "kodepos" : "71152"
+}, {
+  "kecamatan" : "Bakarangan",
+  "kelurahan" : "Gadung",
+  "kodepos" : "71152"
+}, {
+  "kecamatan" : "Bakarangan",
+  "kelurahan" : "Gadung Karamat",
+  "kodepos" : "71152"
+}, {
+  "kecamatan" : "Bakarangan",
+  "kelurahan" : "Ketapang",
+  "kodepos" : "71152"
+}, {
+  "kecamatan" : "Bakarangan",
+  "kelurahan" : "Bakarangan",
+  "kodepos" : "71152"
+}, {
+  "kecamatan" : "Bakarangan",
+  "kelurahan" : "Bundung",
+  "kodepos" : "71152"
+}, {
+  "kecamatan" : "Tapin Utara",
+  "kelurahan" : "Rangda Malingkung",
+  "kodepos" : "71114"
+}, {
+  "kecamatan" : "Tapin Utara",
+  "kelurahan" : "Lumbu Raya",
+  "kodepos" : "71114"
+}, {
+  "kecamatan" : "Tapin Utara",
+  "kelurahan" : "Perintis Raya",
+  "kodepos" : "71114"
+}, {
+  "kecamatan" : "Tapin Utara",
+  "kelurahan" : "Jingah Babaris",
+  "kodepos" : "71114"
+}, {
+  "kecamatan" : "Tapin Utara",
+  "kelurahan" : "Kakaran",
+  "kodepos" : "71114"
+}, {
+  "kecamatan" : "Tapin Utara",
+  "kelurahan" : "Keramat",
+  "kodepos" : "71114"
+}, {
+  "kecamatan" : "Tapin Utara",
+  "kelurahan" : "Banua Hanyar Hulu",
+  "kodepos" : "71114"
+}, {
+  "kecamatan" : "Tapin Utara",
+  "kelurahan" : "Banua Halat Kiri",
+  "kodepos" : "71114"
+}, {
+  "kecamatan" : "Tapin Utara",
+  "kelurahan" : "Banua Hanyar",
+  "kodepos" : "71114"
+}, {
+  "kecamatan" : "Tapin Utara",
+  "kelurahan" : "Badaun",
+  "kodepos" : "71114"
+}, {
+  "kecamatan" : "Tapin Utara",
+  "kelurahan" : "Banua Halat Kanan",
+  "kodepos" : "71114"
+}, {
+  "kecamatan" : "Tapin Utara",
+  "kelurahan" : "Antasari",
+  "kodepos" : "71114"
+}, {
+  "kecamatan" : "Tapin Utara",
+  "kelurahan" : "Antasari Hilir",
+  "kodepos" : "71114"
+}, {
+  "kecamatan" : "Tapin Utara",
+  "kelurahan" : "Kupang",
+  "kodepos" : "71113"
+}, {
+  "kecamatan" : "Tapin Utara",
+  "kelurahan" : "Rantau Kanan",
+  "kodepos" : "71112"
+}, {
+  "kecamatan" : "Tapin Utara",
+  "kelurahan" : "Rantau Kiwa",
+  "kodepos" : "71111"
+} ]

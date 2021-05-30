@@ -1,0 +1,953 @@
+[ {
+  "kecamatan" : "Long Hubung",
+  "kelurahan" : "Tripati Makmur",
+  "kodepos" : "75779"
+}, {
+  "kecamatan" : "Long Hubung",
+  "kelurahan" : "Wana Pariq",
+  "kodepos" : "75779"
+}, {
+  "kecamatan" : "Long Hubung",
+  "kelurahan" : "Sirau",
+  "kodepos" : "75779"
+}, {
+  "kecamatan" : "Laham",
+  "kelurahan" : "Nyaribungan",
+  "kodepos" : "75779"
+}, {
+  "kecamatan" : "Long Hubung",
+  "kelurahan" : "Memahak Teboq",
+  "kodepos" : "75779"
+}, {
+  "kecamatan" : "Laham",
+  "kelurahan" : "Muara Ratah",
+  "kodepos" : "75779"
+}, {
+  "kecamatan" : "Long Hubung",
+  "kelurahan" : "Long Hubung",
+  "kodepos" : "75779"
+}, {
+  "kecamatan" : "Long Hubung",
+  "kelurahan" : "Lutan",
+  "kodepos" : "75779"
+}, {
+  "kecamatan" : "Long Hubung",
+  "kelurahan" : "Mata Libaq",
+  "kodepos" : "75779"
+}, {
+  "kecamatan" : "Laham",
+  "kelurahan" : "Long Gelawang",
+  "kodepos" : "75779"
+}, {
+  "kecamatan" : "Long Hubung",
+  "kelurahan" : "Datah Bilang Ulu",
+  "kodepos" : "75779"
+}, {
+  "kecamatan" : "Laham",
+  "kelurahan" : "Laham",
+  "kodepos" : "75779"
+}, {
+  "kecamatan" : "Long Hubung",
+  "kelurahan" : "Datah Bilang Ilir",
+  "kodepos" : "75779"
+}, {
+  "kecamatan" : "Long Hubung",
+  "kelurahan" : "Datah Bilang Baru",
+  "kodepos" : "75779"
+}, {
+  "kecamatan" : "Laham",
+  "kelurahan" : "Danum Paroy/Paroi",
+  "kodepos" : "75779"
+}, {
+  "kecamatan" : "Bentian Besar",
+  "kelurahan" : "Tuquk/Tukuq",
+  "kodepos" : "75778"
+}, {
+  "kecamatan" : "Bentian Besar",
+  "kelurahan" : "Suakong",
+  "kodepos" : "75778"
+}, {
+  "kecamatan" : "Bentian Besar",
+  "kelurahan" : "Tende",
+  "kodepos" : "75778"
+}, {
+  "kecamatan" : "Bentian Besar",
+  "kelurahan" : "Randa Empas",
+  "kodepos" : "75778"
+}, {
+  "kecamatan" : "Bentian Besar",
+  "kelurahan" : "Sambung",
+  "kodepos" : "75778"
+}, {
+  "kecamatan" : "Bentian Besar",
+  "kelurahan" : "Dilang Puti",
+  "kodepos" : "75778"
+}, {
+  "kecamatan" : "Bentian Besar",
+  "kelurahan" : "Jelmu Sibak",
+  "kodepos" : "75778"
+}, {
+  "kecamatan" : "Bentian Besar",
+  "kelurahan" : "Penarung",
+  "kodepos" : "75778"
+}, {
+  "kecamatan" : "Bentian Besar",
+  "kelurahan" : "Anan Jaya",
+  "kodepos" : "75778"
+}, {
+  "kecamatan" : "Damai",
+  "kelurahan" : "Sempatn",
+  "kodepos" : "75777"
+}, {
+  "kecamatan" : "Nyuatan",
+  "kelurahan" : "Temula",
+  "kodepos" : "75777"
+}, {
+  "kecamatan" : "Damai",
+  "kelurahan" : "Tepulang",
+  "kodepos" : "75777"
+}, {
+  "kecamatan" : "Nyuatan",
+  "kelurahan" : "Sembuan",
+  "kodepos" : "75777"
+}, {
+  "kecamatan" : "Damai",
+  "kelurahan" : "Muara Tokong",
+  "kodepos" : "75777"
+}, {
+  "kecamatan" : "Damai",
+  "kelurahan" : "Muara Nilik",
+  "kodepos" : "75777"
+}, {
+  "kecamatan" : "Damai",
+  "kelurahan" : "Muara Nyahing",
+  "kodepos" : "75777"
+}, {
+  "kecamatan" : "Damai",
+  "kelurahan" : "Mendika",
+  "kodepos" : "75777"
+}, {
+  "kecamatan" : "Damai",
+  "kelurahan" : "Muara Bomboy",
+  "kodepos" : "75777"
+}, {
+  "kecamatan" : "Damai",
+  "kelurahan" : "Lumpat Dahuq",
+  "kodepos" : "75777"
+}, {
+  "kecamatan" : "Damai",
+  "kelurahan" : "Mantar",
+  "kodepos" : "75777"
+}, {
+  "kecamatan" : "Damai",
+  "kelurahan" : "Keay",
+  "kodepos" : "75777"
+}, {
+  "kecamatan" : "Nyuatan",
+  "kelurahan" : "Jontai",
+  "kodepos" : "75777"
+}, {
+  "kecamatan" : "Damai",
+  "kelurahan" : "Jengan Danum",
+  "kodepos" : "75777"
+}, {
+  "kecamatan" : "Nyuatan",
+  "kelurahan" : "Intu Lingau",
+  "kodepos" : "75777"
+}, {
+  "kecamatan" : "Damai",
+  "kelurahan" : "Damai Seberang",
+  "kodepos" : "75777"
+}, {
+  "kecamatan" : "Nyuatan",
+  "kelurahan" : "Dempar",
+  "kodepos" : "75777"
+}, {
+  "kecamatan" : "Damai",
+  "kelurahan" : "Damai Kota",
+  "kodepos" : "75777"
+}, {
+  "kecamatan" : "Damai",
+  "kelurahan" : "Bermai",
+  "kodepos" : "75777"
+}, {
+  "kecamatan" : "Damai",
+  "kelurahan" : "Besiq (Besik)",
+  "kodepos" : "75777"
+}, {
+  "kecamatan" : "Damai",
+  "kelurahan" : "Benung",
+  "kodepos" : "75777"
+}, {
+  "kecamatan" : "Barong Tongkok",
+  "kelurahan" : "Sumber Sari",
+  "kodepos" : "75776"
+}, {
+  "kecamatan" : "Nyuatan",
+  "kelurahan" : "Terajuk",
+  "kodepos" : "75776"
+}, {
+  "kecamatan" : "Barong Tongkok",
+  "kelurahan" : "Sendawar",
+  "kodepos" : "75776"
+}, {
+  "kecamatan" : "Barong Tongkok",
+  "kelurahan" : "Simpang Raya",
+  "kodepos" : "75776"
+}, {
+  "kecamatan" : "Nyuatan",
+  "kelurahan" : "Sentalar",
+  "kodepos" : "75776"
+}, {
+  "kecamatan" : "Barong Tongkok",
+  "kelurahan" : "Pepas Eheng",
+  "kodepos" : "75776"
+}, {
+  "kecamatan" : "Barong Tongkok",
+  "kelurahan" : "Pepas/Pepes Asa",
+  "kodepos" : "75776"
+}, {
+  "kecamatan" : "Barong Tongkok",
+  "kelurahan" : "Rejo Basuki",
+  "kodepos" : "75776"
+}, {
+  "kecamatan" : "Barong Tongkok",
+  "kelurahan" : "Ombau Asa",
+  "kodepos" : "75776"
+}, {
+  "kecamatan" : "Barong Tongkok",
+  "kelurahan" : "Ongko Asa",
+  "kodepos" : "75776"
+}, {
+  "kecamatan" : "Barong Tongkok",
+  "kelurahan" : "Muara Asa",
+  "kodepos" : "75776"
+}, {
+  "kecamatan" : "Barong Tongkok",
+  "kelurahan" : "Ngenyan Asa",
+  "kodepos" : "75776"
+}, {
+  "kecamatan" : "Nyuatan",
+  "kelurahan" : "Mu&#8217;ut",
+  "kodepos" : "75776"
+}, {
+  "kecamatan" : "Nyuatan",
+  "kelurahan" : "Lakan Bilem",
+  "kodepos" : "75776"
+}, {
+  "kecamatan" : "Barong Tongkok",
+  "kelurahan" : "Juhan Asa",
+  "kodepos" : "75776"
+}, {
+  "kecamatan" : "Barong Tongkok",
+  "kelurahan" : "Mencimai",
+  "kodepos" : "75776"
+}, {
+  "kecamatan" : "Barong Tongkok",
+  "kelurahan" : "Gemuhan Asa",
+  "kodepos" : "75776"
+}, {
+  "kecamatan" : "Barong Tongkok",
+  "kelurahan" : "Juaq Asa",
+  "kodepos" : "75776"
+}, {
+  "kecamatan" : "Barong Tongkok",
+  "kelurahan" : "Engkuni Pasek",
+  "kodepos" : "75776"
+}, {
+  "kecamatan" : "Barong Tongkok",
+  "kelurahan" : "Geleo Asa",
+  "kodepos" : "75776"
+}, {
+  "kecamatan" : "Barong Tongkok",
+  "kelurahan" : "Geleo Baru",
+  "kodepos" : "75776"
+}, {
+  "kecamatan" : "Barong Tongkok",
+  "kelurahan" : "Barong Tongkok",
+  "kodepos" : "75776"
+}, {
+  "kecamatan" : "Barong Tongkok",
+  "kelurahan" : "Belempung Ulaq",
+  "kodepos" : "75776"
+}, {
+  "kecamatan" : "Barong Tongkok",
+  "kelurahan" : "Balok Asa",
+  "kodepos" : "75776"
+}, {
+  "kecamatan" : "Nyuatan",
+  "kelurahan" : "Awai",
+  "kodepos" : "75776"
+}, {
+  "kecamatan" : "Barong Tongkok",
+  "kelurahan" : "Asa",
+  "kodepos" : "75776"
+}, {
+  "kecamatan" : "Muara Lawa",
+  "kelurahan" : "Payang",
+  "kodepos" : "75775"
+}, {
+  "kecamatan" : "Muara Lawa",
+  "kelurahan" : "Muara Lawa",
+  "kodepos" : "75775"
+}, {
+  "kecamatan" : "Muara Lawa",
+  "kelurahan" : "Muara Begai",
+  "kodepos" : "75775"
+}, {
+  "kecamatan" : "Muara Lawa",
+  "kelurahan" : "Lambing",
+  "kodepos" : "75775"
+}, {
+  "kecamatan" : "Muara Lawa",
+  "kelurahan" : "Lataq/Lotaq",
+  "kodepos" : "75775"
+}, {
+  "kecamatan" : "Muara Lawa",
+  "kelurahan" : "Cempedas",
+  "kodepos" : "75775"
+}, {
+  "kecamatan" : "Muara Pahu",
+  "kelurahan" : "Tepian Ulaq",
+  "kodepos" : "75774"
+}, {
+  "kecamatan" : "Muara Lawa",
+  "kelurahan" : "Dingin",
+  "kodepos" : "75775"
+}, {
+  "kecamatan" : "Siluq Ngurai",
+  "kelurahan" : "Tendiq",
+  "kodepos" : "75774"
+}, {
+  "kecamatan" : "Muara Lawa",
+  "kelurahan" : "Benggeris",
+  "kodepos" : "75775"
+}, {
+  "kecamatan" : "Muara Pahu",
+  "kelurahan" : "Teluk Tempudau",
+  "kodepos" : "75774"
+}, {
+  "kecamatan" : "Muara Pahu",
+  "kelurahan" : "Tanjung Pagar",
+  "kodepos" : "75774"
+}, {
+  "kecamatan" : "Siluq Ngurai",
+  "kelurahan" : "Tebisaq",
+  "kodepos" : "75774"
+}, {
+  "kecamatan" : "Muara Pahu",
+  "kelurahan" : "Tanjung Laong",
+  "kodepos" : "75774"
+}, {
+  "kecamatan" : "Siluq Ngurai",
+  "kelurahan" : "Tanah Mea (Tana Mea)",
+  "kodepos" : "75774"
+}, {
+  "kecamatan" : "Muara Pahu",
+  "kelurahan" : "Sebelang",
+  "kodepos" : "75774"
+}, {
+  "kecamatan" : "Siluq Ngurai",
+  "kelurahan" : "Rikong",
+  "kodepos" : "75774"
+}, {
+  "kecamatan" : "Siluq Ngurai",
+  "kelurahan" : "Sang Sang (Sansang)",
+  "kodepos" : "75774"
+}, {
+  "kecamatan" : "Manor Bulatin (Mook Manaar Bulatn)",
+  "kelurahan" : "Rembayan / Rambayan",
+  "kodepos" : "75774"
+}, {
+  "kecamatan" : "Siluq Ngurai",
+  "kelurahan" : "Penawang",
+  "kodepos" : "75774"
+}, {
+  "kecamatan" : "Siluq Ngurai",
+  "kelurahan" : "Muhur",
+  "kodepos" : "75774"
+}, {
+  "kecamatan" : "Siluq Ngurai",
+  "kelurahan" : "Muara Kelawit",
+  "kodepos" : "75774"
+}, {
+  "kecamatan" : "Siluq Ngurai",
+  "kelurahan" : "Muara Ponaq",
+  "kodepos" : "75774"
+}, {
+  "kecamatan" : "Manor Bulatin (Mook Manaar Bulatn)",
+  "kelurahan" : "Muara Jawaq",
+  "kodepos" : "75774"
+}, {
+  "kecamatan" : "Muara Pahu",
+  "kelurahan" : "Muara Baroh",
+  "kodepos" : "75774"
+}, {
+  "kecamatan" : "Muara Pahu",
+  "kelurahan" : "Muara Beloan",
+  "kodepos" : "75774"
+}, {
+  "kecamatan" : "Muara Pahu",
+  "kelurahan" : "Mendung",
+  "kodepos" : "75774"
+}, {
+  "kecamatan" : "Siluq Ngurai",
+  "kelurahan" : "Lendian Liang Nayuk/Nayung",
+  "kodepos" : "75774"
+}, {
+  "kecamatan" : "Siluq Ngurai",
+  "kelurahan" : "Kenyanyan",
+  "kodepos" : "75774"
+}, {
+  "kecamatan" : "Siluq Ngurai",
+  "kelurahan" : "Kiaq",
+  "kodepos" : "75774"
+}, {
+  "kecamatan" : "Siluq Ngurai",
+  "kelurahan" : "Kaliq",
+  "kodepos" : "75774"
+}, {
+  "kecamatan" : "Siluq Ngurai",
+  "kelurahan" : "Kendisiq",
+  "kodepos" : "75774"
+}, {
+  "kecamatan" : "Muara Pahu",
+  "kelurahan" : "Jerang Dayak",
+  "kodepos" : "75774"
+}, {
+  "kecamatan" : "Muara Pahu",
+  "kelurahan" : "Jerang Melayu",
+  "kodepos" : "75774"
+}, {
+  "kecamatan" : "Muara Pahu",
+  "kelurahan" : "Dasaq",
+  "kodepos" : "75774"
+}, {
+  "kecamatan" : "Muara Pahu",
+  "kelurahan" : "Gunung Bayan",
+  "kodepos" : "75774"
+}, {
+  "kecamatan" : "Siluq Ngurai",
+  "kelurahan" : "Bentas",
+  "kodepos" : "75774"
+}, {
+  "kecamatan" : "Siluq Ngurai",
+  "kelurahan" : "Betung",
+  "kodepos" : "75774"
+}, {
+  "kecamatan" : "Manor Bulatin (Mook Manaar Bulatn)",
+  "kelurahan" : "Abit",
+  "kodepos" : "75774"
+}, {
+  "kecamatan" : "Jempang",
+  "kelurahan" : "Tanjung Jan",
+  "kodepos" : "75773"
+}, {
+  "kecamatan" : "Jempang",
+  "kelurahan" : "Tanjung Jone",
+  "kodepos" : "75773"
+}, {
+  "kecamatan" : "Jempang",
+  "kelurahan" : "Pulau Lanting",
+  "kodepos" : "75773"
+}, {
+  "kecamatan" : "Jempang",
+  "kelurahan" : "Tanjung Isuy",
+  "kodepos" : "75773"
+}, {
+  "kecamatan" : "Jempang",
+  "kelurahan" : "Muara Tae",
+  "kodepos" : "75773"
+}, {
+  "kecamatan" : "Jempang",
+  "kelurahan" : "Pentat",
+  "kodepos" : "75773"
+}, {
+  "kecamatan" : "Jempang",
+  "kelurahan" : "Perigiq",
+  "kodepos" : "75773"
+}, {
+  "kecamatan" : "Jempang",
+  "kelurahan" : "Mancong",
+  "kodepos" : "75773"
+}, {
+  "kecamatan" : "Jempang",
+  "kelurahan" : "Muara Nayan",
+  "kodepos" : "75773"
+}, {
+  "kecamatan" : "Jempang",
+  "kelurahan" : "Muara Ohong",
+  "kodepos" : "75773"
+}, {
+  "kecamatan" : "Jempang",
+  "kelurahan" : "Bekokong Makmur (Resak Bekokong)",
+  "kodepos" : "75773"
+}, {
+  "kecamatan" : "Jempang",
+  "kelurahan" : "Lembonah",
+  "kodepos" : "75773"
+}, {
+  "kecamatan" : "Bongan",
+  "kelurahan" : "Tanjung Sari",
+  "kodepos" : "75772"
+}, {
+  "kecamatan" : "Bongan",
+  "kelurahan" : "Tanjung Soke",
+  "kodepos" : "75772"
+}, {
+  "kecamatan" : "Bongan",
+  "kelurahan" : "Resak",
+  "kodepos" : "75772"
+}, {
+  "kecamatan" : "Bongan",
+  "kelurahan" : "Penawai",
+  "kodepos" : "75772"
+}, {
+  "kecamatan" : "Bongan",
+  "kelurahan" : "Pereng Talik",
+  "kodepos" : "75772"
+}, {
+  "kecamatan" : "Bongan",
+  "kelurahan" : "Muaram Siram I (Siram Makmur)",
+  "kodepos" : "75772"
+}, {
+  "kecamatan" : "Bongan",
+  "kelurahan" : "Muaram Siram II (Siram Jaya)",
+  "kodepos" : "75772"
+}, {
+  "kecamatan" : "Bongan",
+  "kelurahan" : "Muara Kedang",
+  "kodepos" : "75772"
+}, {
+  "kecamatan" : "Bongan",
+  "kelurahan" : "Muara Siram",
+  "kodepos" : "75772"
+}, {
+  "kecamatan" : "Bongan",
+  "kelurahan" : "Lemper",
+  "kodepos" : "75772"
+}, {
+  "kecamatan" : "Bongan",
+  "kelurahan" : "Muara Gusik",
+  "kodepos" : "75772"
+}, {
+  "kecamatan" : "Bongan",
+  "kelurahan" : "Jambuk",
+  "kodepos" : "75772"
+}, {
+  "kecamatan" : "Bongan",
+  "kelurahan" : "Jambuk Makmur",
+  "kodepos" : "75772"
+}, {
+  "kecamatan" : "Bongan",
+  "kelurahan" : "Gerunggung",
+  "kodepos" : "75772"
+}, {
+  "kecamatan" : "Bongan",
+  "kelurahan" : "Bukit Harapan",
+  "kodepos" : "75772"
+}, {
+  "kecamatan" : "Bongan",
+  "kelurahan" : "Deraya",
+  "kodepos" : "75772"
+}, {
+  "kecamatan" : "Long Apari",
+  "kelurahan" : "Tiong Ohang",
+  "kodepos" : "75769"
+}, {
+  "kecamatan" : "Long Apari",
+  "kelurahan" : "Tiong Buu",
+  "kodepos" : "75769"
+}, {
+  "kecamatan" : "Long Apari",
+  "kelurahan" : "Noha Tifab (Naha Tifab)",
+  "kodepos" : "75769"
+}, {
+  "kecamatan" : "Long Apari",
+  "kelurahan" : "Long Penaneh Tiga",
+  "kodepos" : "75769"
+}, {
+  "kecamatan" : "Long Apari",
+  "kelurahan" : "Naha Buan",
+  "kodepos" : "75769"
+}, {
+  "kecamatan" : "Long Apari",
+  "kelurahan" : "Noha Silat",
+  "kodepos" : "75769"
+}, {
+  "kecamatan" : "Long Apari",
+  "kelurahan" : "Long Kerioq/Keriok",
+  "kodepos" : "75769"
+}, {
+  "kecamatan" : "Long Apari",
+  "kelurahan" : "Long Penaneh Dua",
+  "kodepos" : "75769"
+}, {
+  "kecamatan" : "Long Apari",
+  "kelurahan" : "Long Penaneh Satu",
+  "kodepos" : "75769"
+}, {
+  "kecamatan" : "Long Apari",
+  "kelurahan" : "Long Apari",
+  "kodepos" : "75769"
+}, {
+  "kecamatan" : "Long Pahangai",
+  "kelurahan" : "Long Tuyoq",
+  "kodepos" : "75768"
+}, {
+  "kecamatan" : "Long Pahangai",
+  "kelurahan" : "Naha Aru",
+  "kodepos" : "75768"
+}, {
+  "kecamatan" : "Long Pahangai",
+  "kelurahan" : "Long Pakaq Baru",
+  "kodepos" : "75768"
+}, {
+  "kecamatan" : "Long Pahangai",
+  "kelurahan" : "Long Pahangai Satu",
+  "kodepos" : "75768"
+}, {
+  "kecamatan" : "Long Pahangai",
+  "kelurahan" : "Long Pakaq",
+  "kodepos" : "75768"
+}, {
+  "kecamatan" : "Long Pahangai",
+  "kelurahan" : "Long Lunuk",
+  "kodepos" : "75768"
+}, {
+  "kecamatan" : "Long Pahangai",
+  "kelurahan" : "Lirung Ubing",
+  "kodepos" : "75768"
+}, {
+  "kecamatan" : "Long Pahangai",
+  "kelurahan" : "Long Lunuk Baru",
+  "kodepos" : "75768"
+}, {
+  "kecamatan" : "Long Bagun",
+  "kelurahan" : "Ujoh Bilang",
+  "kodepos" : "75767"
+}, {
+  "kecamatan" : "Long Pahangai",
+  "kelurahan" : "Long Pahangai Dua",
+  "kodepos" : "75768"
+}, {
+  "kecamatan" : "Long Pahangai",
+  "kelurahan" : "Datah Naha",
+  "kodepos" : "75768"
+}, {
+  "kecamatan" : "Long Pahangai",
+  "kelurahan" : "Liu Mulang",
+  "kodepos" : "75768"
+}, {
+  "kecamatan" : "Long Bagun",
+  "kelurahan" : "Mamahak Ulu",
+  "kodepos" : "75767"
+}, {
+  "kecamatan" : "Long Pahangai",
+  "kelurahan" : "Long Isun",
+  "kodepos" : "75768"
+}, {
+  "kecamatan" : "Long Bagun",
+  "kelurahan" : "Rukun Damai",
+  "kodepos" : "75767"
+}, {
+  "kecamatan" : "Long Pahangai",
+  "kelurahan" : "Delang Kerohong",
+  "kodepos" : "75768"
+}, {
+  "kecamatan" : "Long Bagun",
+  "kelurahan" : "Long Merah",
+  "kodepos" : "75767"
+}, {
+  "kecamatan" : "Long Bagun",
+  "kelurahan" : "Mamahak Ilir",
+  "kodepos" : "75767"
+}, {
+  "kecamatan" : "Long Bagun",
+  "kelurahan" : "Long Hurai",
+  "kodepos" : "75767"
+}, {
+  "kecamatan" : "Long Bagun",
+  "kelurahan" : "Long Melaham",
+  "kodepos" : "75767"
+}, {
+  "kecamatan" : "Long Bagun",
+  "kelurahan" : "Long Bagun Ilir",
+  "kodepos" : "75767"
+}, {
+  "kecamatan" : "Long Bagun",
+  "kelurahan" : "Long Bagun Ulu",
+  "kodepos" : "75767"
+}, {
+  "kecamatan" : "Long Bagun",
+  "kelurahan" : "Batoq Kelo (Batu Kelau)",
+  "kodepos" : "75767"
+}, {
+  "kecamatan" : "Tering",
+  "kelurahan" : "Purworejo",
+  "kodepos" : "75766"
+}, {
+  "kecamatan" : "Long Bagun",
+  "kelurahan" : "Batu Majang",
+  "kodepos" : "75767"
+}, {
+  "kecamatan" : "Tering",
+  "kelurahan" : "Muyub/Muyup Ilir",
+  "kodepos" : "75766"
+}, {
+  "kecamatan" : "Long Iram",
+  "kelurahan" : "Ujoh Halang",
+  "kodepos" : "75766"
+}, {
+  "kecamatan" : "Tering",
+  "kelurahan" : "Muyub/Muyup Ulu",
+  "kodepos" : "75766"
+}, {
+  "kecamatan" : "Tering",
+  "kelurahan" : "Tukul",
+  "kodepos" : "75766"
+}, {
+  "kecamatan" : "Tering",
+  "kelurahan" : "Muara Mujan",
+  "kodepos" : "75766"
+}, {
+  "kecamatan" : "Tering",
+  "kelurahan" : "Tering Baru",
+  "kodepos" : "75766"
+}, {
+  "kecamatan" : "Tering",
+  "kelurahan" : "Muyub/Muyup Aket",
+  "kodepos" : "75766"
+}, {
+  "kecamatan" : "Tering",
+  "kelurahan" : "Tering Lama",
+  "kodepos" : "75766"
+}, {
+  "kecamatan" : "Long Iram",
+  "kelurahan" : "Muara Leban",
+  "kodepos" : "75766"
+}, {
+  "kecamatan" : "Tering",
+  "kelurahan" : "Tering Seberang",
+  "kodepos" : "75766"
+}, {
+  "kecamatan" : "Long Iram",
+  "kelurahan" : "Long Iram Kota",
+  "kodepos" : "75766"
+}, {
+  "kecamatan" : "Long Iram",
+  "kelurahan" : "Suko Mulyo",
+  "kodepos" : "75766"
+}, {
+  "kecamatan" : "Long Iram",
+  "kelurahan" : "Longiram Seberang",
+  "kodepos" : "75766"
+}, {
+  "kecamatan" : "Tering",
+  "kelurahan" : "Tering",
+  "kodepos" : "75766"
+}, {
+  "kecamatan" : "Long Iram",
+  "kelurahan" : "Long Daliq",
+  "kodepos" : "75766"
+}, {
+  "kecamatan" : "Long Iram",
+  "kelurahan" : "Long Iram Bayan",
+  "kodepos" : "75766"
+}, {
+  "kecamatan" : "Long Iram",
+  "kelurahan" : "Long Iram Ilir",
+  "kodepos" : "75766"
+}, {
+  "kecamatan" : "Tering",
+  "kelurahan" : "Kelubaq",
+  "kodepos" : "75766"
+}, {
+  "kecamatan" : "Tering",
+  "kelurahan" : "Kelian Dalam",
+  "kodepos" : "75766"
+}, {
+  "kecamatan" : "Long Iram",
+  "kelurahan" : "Keliway",
+  "kodepos" : "75766"
+}, {
+  "kecamatan" : "Long Iram",
+  "kelurahan" : "Kalian Luar",
+  "kodepos" : "75766"
+}, {
+  "kecamatan" : "Sekolaq Darat",
+  "kelurahan" : "Sri Mulyo",
+  "kodepos" : "75765"
+}, {
+  "kecamatan" : "Tering",
+  "kelurahan" : "Jelemuq/Jelmuq",
+  "kodepos" : "75766"
+}, {
+  "kecamatan" : "Sekolaq Darat",
+  "kelurahan" : "Sekolaq Joleq",
+  "kodepos" : "75765"
+}, {
+  "kecamatan" : "Long Iram",
+  "kelurahan" : "Anah",
+  "kodepos" : "75766"
+}, {
+  "kecamatan" : "Sekolaq Darat",
+  "kelurahan" : "Sekolaq Muliaq",
+  "kodepos" : "75765"
+}, {
+  "kecamatan" : "Sekolaq Darat",
+  "kelurahan" : "Sumber Bangun",
+  "kodepos" : "75765"
+}, {
+  "kecamatan" : "Manor Bulatin (Mook Manaar Bulatn)",
+  "kelurahan" : "Sakaq Tada",
+  "kodepos" : "75765"
+}, {
+  "kecamatan" : "Sekolaq Darat",
+  "kelurahan" : "Sumber Rejo",
+  "kodepos" : "75765"
+}, {
+  "kecamatan" : "Sekolaq Darat",
+  "kelurahan" : "Sekolaq Darat",
+  "kodepos" : "75765"
+}, {
+  "kecamatan" : "Sekolaq Darat",
+  "kelurahan" : "Sekolaq Oday",
+  "kodepos" : "75765"
+}, {
+  "kecamatan" : "Manor Bulatin (Mook Manaar Bulatn)",
+  "kelurahan" : "Muara Kalaq",
+  "kodepos" : "75765"
+}, {
+  "kecamatan" : "Manor Bulatin (Mook Manaar Bulatn)",
+  "kelurahan" : "Sakaq Lotoq",
+  "kodepos" : "75765"
+}, {
+  "kecamatan" : "Melak",
+  "kelurahan" : "Muara Benangaq",
+  "kodepos" : "75765"
+}, {
+  "kecamatan" : "Melak",
+  "kelurahan" : "Muara Bunyut",
+  "kodepos" : "75765"
+}, {
+  "kecamatan" : "Manor Bulatin (Mook Manaar Bulatn)",
+  "kelurahan" : "Merayaq",
+  "kodepos" : "75765"
+}, {
+  "kecamatan" : "Manor Bulatin (Mook Manaar Bulatn)",
+  "kelurahan" : "Muara Batuq",
+  "kodepos" : "75765"
+}, {
+  "kecamatan" : "Melak",
+  "kelurahan" : "Melak Ilir",
+  "kodepos" : "75765"
+}, {
+  "kecamatan" : "Melak",
+  "kelurahan" : "Melak Ulu",
+  "kodepos" : "75765"
+}, {
+  "kecamatan" : "Manor Bulatin (Mook Manaar Bulatn)",
+  "kelurahan" : "Kelumpang",
+  "kodepos" : "75765"
+}, {
+  "kecamatan" : "Manor Bulatin (Mook Manaar Bulatn)",
+  "kelurahan" : "Linggang Marimun",
+  "kodepos" : "75765"
+}, {
+  "kecamatan" : "Manor Bulatin (Mook Manaar Bulatn)",
+  "kelurahan" : "Jengan",
+  "kodepos" : "75765"
+}, {
+  "kecamatan" : "Manor Bulatin (Mook Manaar Bulatn)",
+  "kelurahan" : "Karangan",
+  "kodepos" : "75765"
+}, {
+  "kecamatan" : "Manor Bulatin (Mook Manaar Bulatn)",
+  "kelurahan" : "Gunung Rampah",
+  "kodepos" : "75765"
+}, {
+  "kecamatan" : "Manor Bulatin (Mook Manaar Bulatn)",
+  "kelurahan" : "Gemuruh",
+  "kodepos" : "75765"
+}, {
+  "kecamatan" : "Manor Bulatin (Mook Manaar Bulatn)",
+  "kelurahan" : "Gadur",
+  "kodepos" : "75765"
+}, {
+  "kecamatan" : "Melak",
+  "kelurahan" : "Empakuq",
+  "kodepos" : "75765"
+}, {
+  "kecamatan" : "Melak",
+  "kelurahan" : "Empas",
+  "kodepos" : "75765"
+}, {
+  "kecamatan" : "Penyinggahan",
+  "kelurahan" : "Penyinggahan Ulu",
+  "kodepos" : "75763"
+}, {
+  "kecamatan" : "Penyinggahan",
+  "kelurahan" : "Tanjung Haur",
+  "kodepos" : "75763"
+}, {
+  "kecamatan" : "Penyinggahan",
+  "kelurahan" : "Minta",
+  "kodepos" : "75763"
+}, {
+  "kecamatan" : "Penyinggahan",
+  "kelurahan" : "Penyinggahan Ilir",
+  "kodepos" : "75763"
+}, {
+  "kecamatan" : "Penyinggahan",
+  "kelurahan" : "Bakung",
+  "kodepos" : "75763"
+}, {
+  "kecamatan" : "Penyinggahan",
+  "kelurahan" : "Loa Deras",
+  "kodepos" : "75763"
+}, {
+  "kecamatan" : "Linggang Bigung",
+  "kelurahan" : "Purwadadi",
+  "kodepos" : "75576"
+}, {
+  "kecamatan" : "Linggang Bigung",
+  "kelurahan" : "Tutuh (Tutung)",
+  "kodepos" : "75576"
+}, {
+  "kecamatan" : "Linggang Bigung",
+  "kelurahan" : "Melapeh Baru",
+  "kodepos" : "75576"
+}, {
+  "kecamatan" : "Linggang Bigung",
+  "kelurahan" : "Linggang Mapan",
+  "kodepos" : "75576"
+}, {
+  "kecamatan" : "Linggang Bigung",
+  "kelurahan" : "Linggang Melapeh",
+  "kodepos" : "75576"
+}, {
+  "kecamatan" : "Linggang Bigung",
+  "kelurahan" : "Linggang Mencelew",
+  "kodepos" : "75576"
+}, {
+  "kecamatan" : "Linggang Bigung",
+  "kelurahan" : "Linggang Bigung",
+  "kodepos" : "75576"
+}, {
+  "kecamatan" : "Linggang Bigung",
+  "kelurahan" : "Linggang Kebut",
+  "kodepos" : "75576"
+}, {
+  "kecamatan" : "Linggang Bigung",
+  "kelurahan" : "Bigung Baru",
+  "kodepos" : "75576"
+}, {
+  "kecamatan" : "Linggang Bigung",
+  "kelurahan" : "Linggang Amer",
+  "kodepos" : "75576"
+}, {
+  "kecamatan" : "Linggang Bigung",
+  "kelurahan" : "Bangun Sari",
+  "kodepos" : "75576"
+} ]

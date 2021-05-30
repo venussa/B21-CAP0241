@@ -1,0 +1,809 @@
+[ {
+  "kecamatan" : "Sei Kepayang Timur",
+  "kelurahan" : "Sei Tempurung",
+  "kodepos" : "21381"
+}, {
+  "kecamatan" : "Sei Kepayang Barat",
+  "kelurahan" : "Sei Tualang Pandau",
+  "kodepos" : "21381"
+}, {
+  "kecamatan" : "Sei Kepayang Timur",
+  "kelurahan" : "Sei Sembilang",
+  "kodepos" : "21381"
+}, {
+  "kecamatan" : "Sei Kepayang Barat",
+  "kelurahan" : "Sei Serindan",
+  "kodepos" : "21381"
+}, {
+  "kecamatan" : "Sei Kepayang Timur",
+  "kelurahan" : "Sei Pasir",
+  "kodepos" : "21381"
+}, {
+  "kecamatan" : "Sei Kepayang",
+  "kelurahan" : "Sei Paham",
+  "kodepos" : "21381"
+}, {
+  "kecamatan" : "Sei Kepayang Timur",
+  "kelurahan" : "Sei Lunang",
+  "kodepos" : "21381"
+}, {
+  "kecamatan" : "Sei Kepayang Barat",
+  "kelurahan" : "Sei Lendir",
+  "kodepos" : "21381"
+}, {
+  "kecamatan" : "Sei Kepayang Barat",
+  "kelurahan" : "Sei Nangka",
+  "kodepos" : "21381"
+}, {
+  "kecamatan" : "Sei Kepayang Barat",
+  "kelurahan" : "Sei Kepayang Kiri",
+  "kodepos" : "21381"
+}, {
+  "kecamatan" : "Sei Kepayang",
+  "kelurahan" : "Sei Kepayang Kanan",
+  "kodepos" : "21381"
+}, {
+  "kecamatan" : "Sei Kepayang",
+  "kelurahan" : "Sei Kepayang Tengah",
+  "kodepos" : "21381"
+}, {
+  "kecamatan" : "Sei Kepayang Timur",
+  "kelurahan" : "Sarang Helang",
+  "kodepos" : "21381"
+}, {
+  "kecamatan" : "Sei Kepayang Barat",
+  "kelurahan" : "Sei Jawi-Jawi",
+  "kodepos" : "21381"
+}, {
+  "kecamatan" : "Sei Kepayang",
+  "kelurahan" : "Bangun Baru",
+  "kodepos" : "21381"
+}, {
+  "kecamatan" : "Sei Kepayang",
+  "kelurahan" : "Perbangunan",
+  "kodepos" : "21381"
+}, {
+  "kecamatan" : "Sei Kepayang",
+  "kelurahan" : "Pertahanan",
+  "kodepos" : "21381"
+}, {
+  "kecamatan" : "Tanjung Balai",
+  "kelurahan" : "Sei/Sungai Apung Jaya",
+  "kodepos" : "21352"
+}, {
+  "kecamatan" : "Tanjung Balai",
+  "kelurahan" : "Sei/Sungai Apung",
+  "kodepos" : "21352"
+}, {
+  "kecamatan" : "Tanjung Balai",
+  "kelurahan" : "Kapias Batu VIII",
+  "kodepos" : "21352"
+}, {
+  "kecamatan" : "Tanjung Balai",
+  "kelurahan" : "Pematang Sungai/Sei Baru",
+  "kodepos" : "21352"
+}, {
+  "kecamatan" : "Tanjung Balai",
+  "kelurahan" : "Bagan Asahan Baru",
+  "kodepos" : "21352"
+}, {
+  "kecamatan" : "Tanjung Balai",
+  "kelurahan" : "Bagan Asahan Pekan",
+  "kodepos" : "21352"
+}, {
+  "kecamatan" : "Tanjung Balai",
+  "kelurahan" : "Asahan Mati",
+  "kodepos" : "21352"
+}, {
+  "kecamatan" : "Tanjung Balai",
+  "kelurahan" : "Bagan Asahan",
+  "kodepos" : "21352"
+}, {
+  "kecamatan" : "Aek Songsongan",
+  "kelurahan" : "Tangga",
+  "kodepos" : "21274"
+}, {
+  "kecamatan" : "Aek Songsongan",
+  "kelurahan" : "Situnjak",
+  "kodepos" : "21274"
+}, {
+  "kecamatan" : "Rahuning",
+  "kelurahan" : "Rahuning I",
+  "kodepos" : "21274"
+}, {
+  "kecamatan" : "Rahuning",
+  "kelurahan" : "Rahuning II",
+  "kodepos" : "21274"
+}, {
+  "kecamatan" : "Rahuning",
+  "kelurahan" : "Rahuning",
+  "kodepos" : "21274"
+}, {
+  "kecamatan" : "Bandar Pulau",
+  "kelurahan" : "Perkebunan Padang Pulau",
+  "kodepos" : "21274"
+}, {
+  "kecamatan" : "Aek Songsongan",
+  "kelurahan" : "Perkebunan Bandar Pulau",
+  "kodepos" : "21274"
+}, {
+  "kecamatan" : "Aek Songsongan",
+  "kelurahan" : "Perkebunan Bandar Selamat",
+  "kodepos" : "21274"
+}, {
+  "kecamatan" : "Rahuning",
+  "kelurahan" : "Perkebunan Gunung Melayu",
+  "kodepos" : "21274"
+}, {
+  "kecamatan" : "Rahuning",
+  "kelurahan" : "Perkebunan Aek Nagaga",
+  "kodepos" : "21274"
+}, {
+  "kecamatan" : "Bandar Pulau",
+  "kelurahan" : "Perkebunan Aek Tarum",
+  "kodepos" : "21274"
+}, {
+  "kecamatan" : "Aek Songsongan",
+  "kelurahan" : "Mekar Marjanji",
+  "kodepos" : "21274"
+}, {
+  "kecamatan" : "Bandar Pulau",
+  "kelurahan" : "Padang Pulau",
+  "kodepos" : "21274"
+}, {
+  "kecamatan" : "Bandar Pulau",
+  "kelurahan" : "Huta Rao",
+  "kodepos" : "21274"
+}, {
+  "kecamatan" : "Aek Songsongan",
+  "kelurahan" : "Lobu Rappa",
+  "kodepos" : "21274"
+}, {
+  "kecamatan" : "Aek Songsongan",
+  "kelurahan" : "Marjanji Aceh",
+  "kodepos" : "21274"
+}, {
+  "kecamatan" : "Rahuning",
+  "kelurahan" : "Gunung Melayu",
+  "kodepos" : "21274"
+}, {
+  "kecamatan" : "Bandar Pulau",
+  "kelurahan" : "Gonting Malaha",
+  "kodepos" : "21274"
+}, {
+  "kecamatan" : "Bandar Pulau",
+  "kelurahan" : "Gunung Berkat",
+  "kodepos" : "21274"
+}, {
+  "kecamatan" : "Bandar Pulau",
+  "kelurahan" : "Buntu Maraja",
+  "kodepos" : "21274"
+}, {
+  "kecamatan" : "Bandar Pulau",
+  "kelurahan" : "Gajah Sakti",
+  "kodepos" : "21274"
+}, {
+  "kecamatan" : "Bandar Pulau",
+  "kelurahan" : "Bandar Pulau Pekan",
+  "kodepos" : "21274"
+}, {
+  "kecamatan" : "Rahuning",
+  "kelurahan" : "Batu Anam",
+  "kodepos" : "21274"
+}, {
+  "kecamatan" : "Bandar Pulau",
+  "kelurahan" : "Aek Nagali",
+  "kodepos" : "21274"
+}, {
+  "kecamatan" : "Aek Songsongan",
+  "kelurahan" : "Aek Songsongan",
+  "kodepos" : "21274"
+}, {
+  "kecamatan" : "Pulau Rakyat",
+  "kelurahan" : "Tunggul Empat Lima (45)",
+  "kodepos" : "21273"
+}, {
+  "kecamatan" : "Aek Songsongan",
+  "kelurahan" : "Aek Bamban",
+  "kodepos" : "21274"
+}, {
+  "kecamatan" : "Aek Kuasan",
+  "kelurahan" : "Sengon Sari",
+  "kodepos" : "21273"
+}, {
+  "kecamatan" : "Pulau Rakyat",
+  "kelurahan" : "Sei Piring",
+  "kodepos" : "21273"
+}, {
+  "kecamatan" : "Pulau Rakyat",
+  "kelurahan" : "Pulau Rakyat Tua",
+  "kodepos" : "21273"
+}, {
+  "kecamatan" : "Aek Kuasan",
+  "kelurahan" : "Rawa Sari",
+  "kodepos" : "21273"
+}, {
+  "kecamatan" : "Pulau Rakyat",
+  "kelurahan" : "Persatuan",
+  "kodepos" : "21273"
+}, {
+  "kecamatan" : "Pulau Rakyat",
+  "kelurahan" : "Pulau Rakyat Pekan",
+  "kodepos" : "21273"
+}, {
+  "kecamatan" : "Aek Ledong",
+  "kelurahan" : "Padang Sipirok",
+  "kodepos" : "21273"
+}, {
+  "kecamatan" : "Pulau Rakyat",
+  "kelurahan" : "Ofa Padang Mahondang",
+  "kodepos" : "21273"
+}, {
+  "kecamatan" : "Pulau Rakyat",
+  "kelurahan" : "Orika",
+  "kodepos" : "21273"
+}, {
+  "kecamatan" : "Pulau Rakyat",
+  "kelurahan" : "Padang Mahondang",
+  "kodepos" : "21273"
+}, {
+  "kecamatan" : "Pulau Rakyat",
+  "kelurahan" : "Manis",
+  "kodepos" : "21273"
+}, {
+  "kecamatan" : "Aek Kuasan",
+  "kelurahan" : "Lobbu Jior (Lobu Jiur)",
+  "kodepos" : "21273"
+}, {
+  "kecamatan" : "Aek Ledong",
+  "kelurahan" : "Ledong Barat",
+  "kodepos" : "21273"
+}, {
+  "kecamatan" : "Aek Ledong",
+  "kelurahan" : "Ledong Timur",
+  "kodepos" : "21273"
+}, {
+  "kecamatan" : "Pulau Rakyat",
+  "kelurahan" : "Bangun",
+  "kodepos" : "21273"
+}, {
+  "kecamatan" : "Pulau Rakyat",
+  "kelurahan" : "Baru",
+  "kodepos" : "21273"
+}, {
+  "kecamatan" : "Aek Ledong",
+  "kelurahan" : "Aek Nabuntu",
+  "kodepos" : "21273"
+}, {
+  "kecamatan" : "Aek Kuasan",
+  "kelurahan" : "Alang Bombon (Bonbon)",
+  "kodepos" : "21273"
+}, {
+  "kecamatan" : "Aek Kuasan",
+  "kelurahan" : "Aek Loba",
+  "kodepos" : "21273"
+}, {
+  "kecamatan" : "Aek Kuasan",
+  "kelurahan" : "Aek Loba Afdeling I",
+  "kodepos" : "21273"
+}, {
+  "kecamatan" : "Aek Kuasan",
+  "kelurahan" : "Aek Loba Pekan",
+  "kodepos" : "21273"
+}, {
+  "kecamatan" : "Aek Ledong",
+  "kelurahan" : "Aek Korsik",
+  "kodepos" : "21273"
+}, {
+  "kecamatan" : "Aek Ledong",
+  "kelurahan" : "Aek Ledong",
+  "kodepos" : "21273"
+}, {
+  "kecamatan" : "Sei Dadap",
+  "kelurahan" : "Tanjung Asri",
+  "kodepos" : "21272"
+}, {
+  "kecamatan" : "Aek Ledong",
+  "kelurahan" : "Aek Bange",
+  "kodepos" : "21273"
+}, {
+  "kecamatan" : "Sei Dadap",
+  "kelurahan" : "Tanjung Alam",
+  "kodepos" : "21272"
+}, {
+  "kecamatan" : "Air Batu",
+  "kelurahan" : "Sei/Sungai Alim Ulu",
+  "kodepos" : "21272"
+}, {
+  "kecamatan" : "Air Batu",
+  "kelurahan" : "Sijabut Teratai",
+  "kodepos" : "21272"
+}, {
+  "kecamatan" : "Sei Dadap",
+  "kelurahan" : "Sei Kamah II",
+  "kodepos" : "21272"
+}, {
+  "kecamatan" : "Sei Dadap",
+  "kelurahan" : "Sei Kamah Baru",
+  "kodepos" : "21272"
+}, {
+  "kecamatan" : "Sei Dadap",
+  "kelurahan" : "Sei Kamah II",
+  "kodepos" : "21272"
+}, {
+  "kecamatan" : "Air Batu",
+  "kelurahan" : "Pulau Pule",
+  "kodepos" : "21272"
+}, {
+  "kecamatan" : "Sei Dadap",
+  "kelurahan" : "Sei Alim Hasak",
+  "kodepos" : "21272"
+}, {
+  "kecamatan" : "Air Batu",
+  "kelurahan" : "Pinanggiripan",
+  "kodepos" : "21272"
+}, {
+  "kecamatan" : "Sei Dadap",
+  "kelurahan" : "Perkebunan Sei Dadap I-II",
+  "kodepos" : "21272"
+}, {
+  "kecamatan" : "Sei Dadap",
+  "kelurahan" : "Perkebunan Sei Dadap III-IV",
+  "kodepos" : "21272"
+}, {
+  "kecamatan" : "Air Batu",
+  "kelurahan" : "Perkebunan Air Batu III-IV",
+  "kodepos" : "21272"
+}, {
+  "kecamatan" : "Air Batu",
+  "kelurahan" : "Perkebunan Pulahan",
+  "kodepos" : "21272"
+}, {
+  "kecamatan" : "Air Batu",
+  "kelurahan" : "Perkebunan Air Batu I-II",
+  "kodepos" : "21272"
+}, {
+  "kecamatan" : "Sei Dadap",
+  "kelurahan" : "Pasiran",
+  "kodepos" : "21272"
+}, {
+  "kecamatan" : "Air Batu",
+  "kelurahan" : "Hessa Perlompongan",
+  "kodepos" : "21272"
+}, {
+  "kecamatan" : "Sei Dadap",
+  "kelurahan" : "Bahung Sibatu-Batu",
+  "kodepos" : "21272"
+}, {
+  "kecamatan" : "Air Batu",
+  "kelurahan" : "Danau Sijabut",
+  "kodepos" : "21272"
+}, {
+  "kecamatan" : "Air Batu",
+  "kelurahan" : "Hessa Air Genting",
+  "kodepos" : "21272"
+}, {
+  "kecamatan" : "Air Batu",
+  "kelurahan" : "Air Teluk Hessa",
+  "kodepos" : "21272"
+}, {
+  "kecamatan" : "Teluk Dalam",
+  "kelurahan" : "Teluk Dalam",
+  "kodepos" : "21271"
+}, {
+  "kecamatan" : "Air Batu",
+  "kelurahan" : "Air Genting",
+  "kodepos" : "21272"
+}, {
+  "kecamatan" : "Simpang Empat",
+  "kelurahan" : "Simpang Empat",
+  "kodepos" : "21271"
+}, {
+  "kecamatan" : "Simpang Empat",
+  "kelurahan" : "Sipaku Area",
+  "kodepos" : "21271"
+}, {
+  "kecamatan" : "Simpang Empat",
+  "kelurahan" : "Sei Dua Hulu",
+  "kodepos" : "21271"
+}, {
+  "kecamatan" : "Simpang Empat",
+  "kelurahan" : "Sei/Sungai Lama",
+  "kodepos" : "21271"
+}, {
+  "kecamatan" : "Simpang Empat",
+  "kelurahan" : "Silomlom",
+  "kodepos" : "21271"
+}, {
+  "kecamatan" : "Teluk Dalam",
+  "kelurahan" : "Pulau Tanjung",
+  "kodepos" : "21271"
+}, {
+  "kecamatan" : "Teluk Dalam",
+  "kelurahan" : "Perkebunan Teluk Dalam",
+  "kodepos" : "21271"
+}, {
+  "kecamatan" : "Teluk Dalam",
+  "kelurahan" : "Pulau Maria",
+  "kodepos" : "21271"
+}, {
+  "kecamatan" : "Simpang Empat",
+  "kelurahan" : "Perkebunan Hessa",
+  "kodepos" : "21271"
+}, {
+  "kecamatan" : "Simpang Empat",
+  "kelurahan" : "Perkebunan Suka Raja",
+  "kodepos" : "21271"
+}, {
+  "kecamatan" : "Teluk Dalam",
+  "kelurahan" : "Mekar Tanjung",
+  "kodepos" : "21271"
+}, {
+  "kecamatan" : "Simpang Empat",
+  "kelurahan" : "Anjung Gadang",
+  "kodepos" : "21271"
+}, {
+  "kecamatan" : "Pulo Bandring",
+  "kelurahan" : "Tanah Rakyat",
+  "kodepos" : "21264"
+}, {
+  "kecamatan" : "Teluk Dalam",
+  "kelurahan" : "Air Teluk Kiri",
+  "kodepos" : "21271"
+}, {
+  "kecamatan" : "Pulo Bandring",
+  "kelurahan" : "Taman Sari",
+  "kodepos" : "21264"
+}, {
+  "kecamatan" : "Meranti",
+  "kelurahan" : "Sukajadi",
+  "kodepos" : "21264"
+}, {
+  "kecamatan" : "Pulo Bandring",
+  "kelurahan" : "Suka Damai",
+  "kodepos" : "21264"
+}, {
+  "kecamatan" : "Pulo Bandring",
+  "kelurahan" : "Suka Damai Barat",
+  "kodepos" : "21264"
+}, {
+  "kecamatan" : "Pulo Bandring",
+  "kelurahan" : "Suka Makmur",
+  "kodepos" : "21264"
+}, {
+  "kecamatan" : "Meranti",
+  "kelurahan" : "Serdang",
+  "kodepos" : "21264"
+}, {
+  "kecamatan" : "Pulo Bandring",
+  "kelurahan" : "Sidomulyo",
+  "kodepos" : "21264"
+}, {
+  "kecamatan" : "Meranti",
+  "kelurahan" : "Sei Beluru",
+  "kodepos" : "21264"
+}, {
+  "kecamatan" : "Rawang Panca Arga",
+  "kelurahan" : "Rawang Pasar VI",
+  "kodepos" : "21264"
+}, {
+  "kecamatan" : "Rawang Panca Arga",
+  "kelurahan" : "Rawang Pasar IV",
+  "kodepos" : "21264"
+}, {
+  "kecamatan" : "Rawang Panca Arga",
+  "kelurahan" : "Rawang Pasar V",
+  "kodepos" : "21264"
+}, {
+  "kecamatan" : "Rawang Panca Arga",
+  "kelurahan" : "Rawang Baru",
+  "kodepos" : "21264"
+}, {
+  "kecamatan" : "Rawang Panca Arga",
+  "kelurahan" : "Rawang Lama",
+  "kodepos" : "21264"
+}, {
+  "kecamatan" : "Pulo Bandring",
+  "kelurahan" : "Pulo Bandring",
+  "kodepos" : "21264"
+}, {
+  "kecamatan" : "Rawang Panca Arga",
+  "kelurahan" : "Pondok Bungur",
+  "kodepos" : "21264"
+}, {
+  "kecamatan" : "Pulo Bandring",
+  "kelurahan" : "Perhutaan Silau",
+  "kodepos" : "21264"
+}, {
+  "kecamatan" : "Rawang Panca Arga",
+  "kelurahan" : "Panca Arga",
+  "kodepos" : "21264"
+}, {
+  "kecamatan" : "Meranti",
+  "kelurahan" : "Perkebunan Sei Balai (Baleh)",
+  "kodepos" : "21264"
+}, {
+  "kecamatan" : "Meranti",
+  "kelurahan" : "Meranti",
+  "kodepos" : "21264"
+}, {
+  "kecamatan" : "Pulo Bandring",
+  "kelurahan" : "Gedangan",
+  "kodepos" : "21264"
+}, {
+  "kecamatan" : "Meranti",
+  "kelurahan" : "Gajah",
+  "kodepos" : "21264"
+}, {
+  "kecamatan" : "Pulo Bandring",
+  "kelurahan" : "Bunut Seberang",
+  "kodepos" : "21264"
+}, {
+  "kecamatan" : "Air Joman",
+  "kelurahan" : "Subur",
+  "kodepos" : "21263"
+}, {
+  "kecamatan" : "Silau Laut",
+  "kelurahan" : "Silo Lama",
+  "kodepos" : "21263"
+}, {
+  "kecamatan" : "Meranti",
+  "kelurahan" : "Air Putih",
+  "kodepos" : "21264"
+}, {
+  "kecamatan" : "Air Joman",
+  "kelurahan" : "Punggulan",
+  "kodepos" : "21263"
+}, {
+  "kecamatan" : "Silau Laut",
+  "kelurahan" : "Silo Baru",
+  "kodepos" : "21263"
+}, {
+  "kecamatan" : "Silau Laut",
+  "kelurahan" : "Silo Bonto",
+  "kodepos" : "21263"
+}, {
+  "kecamatan" : "Silau Laut",
+  "kelurahan" : "Lubuk Palas",
+  "kodepos" : "21263"
+}, {
+  "kecamatan" : "Air Joman",
+  "kelurahan" : "Pasar Lembu",
+  "kodepos" : "21263"
+}, {
+  "kecamatan" : "Air Joman",
+  "kelurahan" : "Banjar",
+  "kodepos" : "21263"
+}, {
+  "kecamatan" : "Air Joman",
+  "kelurahan" : "Binjai Serbangan",
+  "kodepos" : "21263"
+}, {
+  "kecamatan" : "Silau Laut",
+  "kelurahan" : "Bangun Sari",
+  "kodepos" : "21263"
+}, {
+  "kecamatan" : "Bandar Pasir Mandoge",
+  "kelurahan" : "Suka Makmur",
+  "kodepos" : "21262"
+}, {
+  "kecamatan" : "Air Joman",
+  "kelurahan" : "Air Joman",
+  "kodepos" : "21263"
+}, {
+  "kecamatan" : "Air Joman",
+  "kelurahan" : "Air Joman Baru",
+  "kodepos" : "21263"
+}, {
+  "kecamatan" : "Bandar Pasir Mandoge",
+  "kelurahan" : "Sei Nadoras",
+  "kodepos" : "21262"
+}, {
+  "kecamatan" : "Bandar Pasir Mandoge",
+  "kelurahan" : "Silau Jawa",
+  "kodepos" : "21262"
+}, {
+  "kecamatan" : "Bandar Pasir Mandoge",
+  "kelurahan" : "Huta Bagasan",
+  "kodepos" : "21262"
+}, {
+  "kecamatan" : "Bandar Pasir Mandoge",
+  "kelurahan" : "Huta Padang",
+  "kodepos" : "21262"
+}, {
+  "kecamatan" : "Bandar Pasir Mandoge",
+  "kelurahan" : "Sei Kopas",
+  "kodepos" : "21262"
+}, {
+  "kecamatan" : "Bandar Pasir Mandoge",
+  "kelurahan" : "Bandar Pasir Mandoge",
+  "kodepos" : "21262"
+}, {
+  "kecamatan" : "Bandar Pasir Mandoge",
+  "kelurahan" : "Gotting Sidodadi",
+  "kodepos" : "21262"
+}, {
+  "kecamatan" : "Tinggi Raja",
+  "kelurahan" : "Tinggi Raja",
+  "kodepos" : "21261"
+}, {
+  "kecamatan" : "Setia Janji",
+  "kelurahan" : "Urung Pane",
+  "kodepos" : "21261"
+}, {
+  "kecamatan" : "Tinggi Raja",
+  "kelurahan" : "Teladan",
+  "kodepos" : "21261"
+}, {
+  "kecamatan" : "Tinggi Raja",
+  "kelurahan" : "Terusan Tengah",
+  "kodepos" : "21261"
+}, {
+  "kecamatan" : "Buntu Pane",
+  "kelurahan" : "Sionggang",
+  "kodepos" : "21261"
+}, {
+  "kecamatan" : "Setia Janji",
+  "kelurahan" : "Silau Maraja",
+  "kodepos" : "21261"
+}, {
+  "kecamatan" : "Tinggi Raja",
+  "kelurahan" : "Sumber Harapan",
+  "kodepos" : "21261"
+}, {
+  "kecamatan" : "Tinggi Raja",
+  "kelurahan" : "Sidomulyo",
+  "kodepos" : "21261"
+}, {
+  "kecamatan" : "Setia Janji",
+  "kelurahan" : "Sei Silau Tua",
+  "kodepos" : "21261"
+}, {
+  "kecamatan" : "Buntu Pane",
+  "kelurahan" : "Sei Silau Timur",
+  "kodepos" : "21261"
+}, {
+  "kecamatan" : "Buntu Pane",
+  "kelurahan" : "Prapat Janji",
+  "kodepos" : "21261"
+}, {
+  "kecamatan" : "Setia Janji",
+  "kelurahan" : "Sei Silau Barat",
+  "kodepos" : "21261"
+}, {
+  "kecamatan" : "Tinggi Raja",
+  "kelurahan" : "Piasa Ulu",
+  "kodepos" : "21261"
+}, {
+  "kecamatan" : "Buntu Pane",
+  "kelurahan" : "Perkebunan Sei Silau",
+  "kodepos" : "21261"
+}, {
+  "kecamatan" : "Tinggi Raja",
+  "kelurahan" : "Padang Sari",
+  "kodepos" : "21261"
+}, {
+  "kecamatan" : "Buntu Pane",
+  "kelurahan" : "Mekar Sari",
+  "kodepos" : "21261"
+}, {
+  "kecamatan" : "Buntu Pane",
+  "kelurahan" : "Lestari",
+  "kodepos" : "21261"
+}, {
+  "kecamatan" : "Buntu Pane",
+  "kelurahan" : "Karya Ambalutu",
+  "kodepos" : "21261"
+}, {
+  "kecamatan" : "Buntu Pane",
+  "kelurahan" : "Buntu Pane",
+  "kodepos" : "21261"
+}, {
+  "kecamatan" : "Setia Janji",
+  "kelurahan" : "Bangun Sari",
+  "kodepos" : "21261"
+}, {
+  "kecamatan" : "Buntu Pane",
+  "kelurahan" : "Ambalutu",
+  "kodepos" : "21261"
+}, {
+  "kecamatan" : "Kisaran Timur Kota",
+  "kelurahan" : "Karang Anyer",
+  "kodepos" : "21229"
+}, {
+  "kecamatan" : "Kisaran Timur Kota",
+  "kelurahan" : "Selawan",
+  "kodepos" : "21228"
+}, {
+  "kecamatan" : "Kisaran Timur Kota",
+  "kelurahan" : "Siumbut Baru",
+  "kodepos" : "21226"
+}, {
+  "kecamatan" : "Kisaran Timur Kota",
+  "kelurahan" : "Kedai Ledang",
+  "kodepos" : "21227"
+}, {
+  "kecamatan" : "Kisaran Timur Kota",
+  "kelurahan" : "Siumbut-Umbut",
+  "kodepos" : "21225"
+}, {
+  "kecamatan" : "Kisaran Timur Kota",
+  "kelurahan" : "Mutiara",
+  "kodepos" : "21223"
+}, {
+  "kecamatan" : "Kisaran Timur Kota",
+  "kelurahan" : "Sentang",
+  "kodepos" : "21224"
+}, {
+  "kecamatan" : "Kisaran Timur Kota",
+  "kelurahan" : "Kisaran Timur",
+  "kodepos" : "21222"
+}, {
+  "kecamatan" : "Kisaran Timur Kota",
+  "kelurahan" : "Teladan",
+  "kodepos" : "21222"
+}, {
+  "kecamatan" : "Kisaran Timur Kota",
+  "kelurahan" : "Kisaran Naga",
+  "kodepos" : "21219"
+}, {
+  "kecamatan" : "Kisaran Timur Kota",
+  "kelurahan" : "Gambir Baru",
+  "kodepos" : "21221"
+}, {
+  "kecamatan" : "Kisaran Timur Kota",
+  "kelurahan" : "Lestari",
+  "kodepos" : "21221"
+}, {
+  "kecamatan" : "Kisaran Barat Kota",
+  "kelurahan" : "Sendang Sari",
+  "kodepos" : "21218"
+}, {
+  "kecamatan" : "Kisaran Barat Kota",
+  "kelurahan" : "Tegal Sari",
+  "kodepos" : "21218"
+}, {
+  "kecamatan" : "Kisaran Barat Kota",
+  "kelurahan" : "Sidomukti",
+  "kodepos" : "21217"
+}, {
+  "kecamatan" : "Kisaran Barat Kota",
+  "kelurahan" : "Kisaran Baru",
+  "kodepos" : "21216"
+}, {
+  "kecamatan" : "Kisaran Barat Kota",
+  "kelurahan" : "Mekar Baru",
+  "kodepos" : "21216"
+}, {
+  "kecamatan" : "Kisaran Barat Kota",
+  "kelurahan" : "Kisaran Barat",
+  "kodepos" : "21214"
+}, {
+  "kecamatan" : "Kisaran Barat Kota",
+  "kelurahan" : "Kisaran Kota",
+  "kodepos" : "21215"
+}, {
+  "kecamatan" : "Kisaran Barat Kota",
+  "kelurahan" : "Tebing Kisaran",
+  "kodepos" : "21215"
+}, {
+  "kecamatan" : "Kisaran Barat Kota",
+  "kelurahan" : "Sidodadi",
+  "kodepos" : "21212"
+}, {
+  "kecamatan" : "Kisaran Barat Kota",
+  "kelurahan" : "Sei Renggas",
+  "kodepos" : "21213"
+}, {
+  "kecamatan" : "Kisaran Barat Kota",
+  "kelurahan" : "Bunut Barat",
+  "kodepos" : "21211"
+}, {
+  "kecamatan" : "Kisaran Barat Kota",
+  "kelurahan" : "Dadi Mulyo",
+  "kodepos" : "21212"
+}, {
+  "kecamatan" : "Kisaran Barat Kota",
+  "kelurahan" : "Bunut",
+  "kodepos" : "21211"
+} ]

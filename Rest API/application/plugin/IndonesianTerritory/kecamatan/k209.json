@@ -1,0 +1,501 @@
+[ {
+  "kecamatan" : "Panjang",
+  "kelurahan" : "Ketapang Kuala",
+  "kodepos" : "35246"
+}, {
+  "kecamatan" : "Sukabumi",
+  "kelurahan" : "Way Laga",
+  "kodepos" : "35245"
+}, {
+  "kecamatan" : "Panjang",
+  "kelurahan" : "Ketapang",
+  "kodepos" : "35245"
+}, {
+  "kecamatan" : "Panjang",
+  "kelurahan" : "Karang Maritim",
+  "kodepos" : "35245"
+}, {
+  "kecamatan" : "Panjang",
+  "kelurahan" : "Way Lunik",
+  "kodepos" : "35244"
+}, {
+  "kecamatan" : "Sukabumi",
+  "kelurahan" : "Way Gubak",
+  "kodepos" : "35244"
+}, {
+  "kecamatan" : "Panjang",
+  "kelurahan" : "Panjang Selatan",
+  "kodepos" : "35243"
+}, {
+  "kecamatan" : "Panjang",
+  "kelurahan" : "Pidada",
+  "kodepos" : "35241"
+}, {
+  "kecamatan" : "Panjang",
+  "kelurahan" : "Srengsem",
+  "kodepos" : "35242"
+}, {
+  "kecamatan" : "Panjang",
+  "kelurahan" : "Panjang Utara",
+  "kodepos" : "35241"
+}, {
+  "kecamatan" : "Telukbetung Barat",
+  "kelurahan" : "Bakung",
+  "kodepos" : "35238"
+}, {
+  "kecamatan" : "Telukbetung Barat",
+  "kelurahan" : "Batu Putuk",
+  "kodepos" : "35239"
+}, {
+  "kecamatan" : "Telukbetung Timur",
+  "kelurahan" : "Perwata",
+  "kodepos" : "35237"
+}, {
+  "kecamatan" : "Telukbetung Timur",
+  "kelurahan" : "Sukamaju",
+  "kodepos" : "35236"
+}, {
+  "kecamatan" : "Telukbetung Timur",
+  "kelurahan" : "Way Tataan",
+  "kodepos" : "35236"
+}, {
+  "kecamatan" : "Telukbetung Timur",
+  "kelurahan" : "Keteguhan",
+  "kodepos" : "35235"
+}, {
+  "kecamatan" : "Telukbetung Barat",
+  "kelurahan" : "Negeri Olok Gading",
+  "kodepos" : "35233"
+}, {
+  "kecamatan" : "Telukbetung Barat",
+  "kelurahan" : "Sukarame II",
+  "kodepos" : "35234"
+}, {
+  "kecamatan" : "Telukbetung Barat",
+  "kelurahan" : "Kuripan",
+  "kodepos" : "35232"
+}, {
+  "kecamatan" : "Telukbetung Timur",
+  "kelurahan" : "Kota Karang",
+  "kodepos" : "35231"
+}, {
+  "kecamatan" : "Telukbetung Timur",
+  "kelurahan" : "Kota Karang Raya",
+  "kodepos" : "35231"
+}, {
+  "kecamatan" : "Telukbetung Selatan",
+  "kelurahan" : "Talang",
+  "kodepos" : "35229"
+}, {
+  "kecamatan" : "Bumi Waras",
+  "kelurahan" : "Garuntang",
+  "kodepos" : "35227"
+}, {
+  "kecamatan" : "Bumi Waras",
+  "kelurahan" : "Bumi Raya",
+  "kodepos" : "35228"
+}, {
+  "kecamatan" : "Bumi Waras",
+  "kelurahan" : "Sukaraja",
+  "kodepos" : "35226"
+}, {
+  "kecamatan" : "Bumi Waras",
+  "kelurahan" : "Bumi Waras",
+  "kodepos" : "35225"
+}, {
+  "kecamatan" : "Bumi Waras",
+  "kelurahan" : "Kangkung",
+  "kodepos" : "35224"
+}, {
+  "kecamatan" : "Telukbetung Selatan",
+  "kelurahan" : "Pesawahan",
+  "kodepos" : "35223"
+}, {
+  "kecamatan" : "Telukbetung Selatan",
+  "kelurahan" : "Gedong Pakuan/Pakuon",
+  "kodepos" : "35222"
+}, {
+  "kecamatan" : "Telukbetung Selatan",
+  "kelurahan" : "Teluk Betung",
+  "kodepos" : "35221"
+}, {
+  "kecamatan" : "Telukbetung Selatan",
+  "kelurahan" : "Sumur Putri",
+  "kodepos" : "35215"
+}, {
+  "kecamatan" : "Telukbetung Utara",
+  "kelurahan" : "Sumur Batu",
+  "kodepos" : "35214"
+}, {
+  "kecamatan" : "Telukbetung Utara",
+  "kelurahan" : "Pengajaran",
+  "kodepos" : "35215"
+}, {
+  "kecamatan" : "Telukbetung Utara",
+  "kelurahan" : "Gulak Galik",
+  "kodepos" : "35214"
+}, {
+  "kecamatan" : "Enggal",
+  "kelurahan" : "Pahoman",
+  "kodepos" : "35213"
+}, {
+  "kecamatan" : "Telukbetung Utara",
+  "kelurahan" : "Kupang Teba",
+  "kodepos" : "35212"
+}, {
+  "kecamatan" : "Telukbetung Utara",
+  "kelurahan" : "Kupang Raya",
+  "kodepos" : "35212"
+}, {
+  "kecamatan" : "Telukbetung Selatan",
+  "kelurahan" : "Gunung Mas",
+  "kodepos" : "35211"
+}, {
+  "kecamatan" : "Telukbetung Utara",
+  "kelurahan" : "Kupang Kota",
+  "kodepos" : "35211"
+}, {
+  "kecamatan" : "Kemiling",
+  "kelurahan" : "Sumber Agung",
+  "kodepos" : "35158"
+}, {
+  "kecamatan" : "Tanjung Karang Barat",
+  "kelurahan" : "Kelapa Tiga Permai",
+  "kodepos" : "35159"
+}, {
+  "kecamatan" : "Kemiling",
+  "kelurahan" : "Pinang Jaya",
+  "kodepos" : "35158"
+}, {
+  "kecamatan" : "Kemiling",
+  "kelurahan" : "Kemiling Permai",
+  "kodepos" : "35158"
+}, {
+  "kecamatan" : "Kemiling",
+  "kelurahan" : "Kemiling Raya",
+  "kodepos" : "35158"
+}, {
+  "kecamatan" : "Kemiling",
+  "kelurahan" : "Kedaung",
+  "kodepos" : "35158"
+}, {
+  "kecamatan" : "Kemiling",
+  "kelurahan" : "Beringin Raya",
+  "kodepos" : "35158"
+}, {
+  "kecamatan" : "Tanjung Karang Barat",
+  "kelurahan" : "Sukadana Ham",
+  "kodepos" : "35156"
+}, {
+  "kecamatan" : "Langkapura",
+  "kelurahan" : "Gunung Agung",
+  "kodepos" : "35157"
+}, {
+  "kecamatan" : "Tanjung Karang Barat",
+  "kelurahan" : "Susunan Baru",
+  "kodepos" : "35155"
+}, {
+  "kecamatan" : "Langkapura",
+  "kelurahan" : "Bilabong Jaya",
+  "kodepos" : "35155"
+}, {
+  "kecamatan" : "Langkapura",
+  "kelurahan" : "Langka Pura",
+  "kodepos" : "35154"
+}, {
+  "kecamatan" : "Langkapura",
+  "kelurahan" : "Langka Pura Baru",
+  "kodepos" : "35154"
+}, {
+  "kecamatan" : "Kemiling",
+  "kelurahan" : "Sumber Rejo",
+  "kodepos" : "35153"
+}, {
+  "kecamatan" : "Kemiling",
+  "kelurahan" : "Sumber Rejo Sejahtera",
+  "kodepos" : "35153"
+}, {
+  "kecamatan" : "Tanjung Karang Barat",
+  "kelurahan" : "Segala Mider",
+  "kodepos" : "35152"
+}, {
+  "kecamatan" : "Tanjung Karang Barat",
+  "kelurahan" : "Sukajawa Baru",
+  "kodepos" : "35151"
+}, {
+  "kecamatan" : "Langkapura",
+  "kelurahan" : "Gunung Terang",
+  "kodepos" : "35152"
+}, {
+  "kecamatan" : "Tanjung Karang Barat",
+  "kelurahan" : "Gedong Air",
+  "kodepos" : "35151"
+}, {
+  "kecamatan" : "Tanjung Karang Barat",
+  "kelurahan" : "Suka Jawa",
+  "kodepos" : "35151"
+}, {
+  "kecamatan" : "Labuhan Ratu",
+  "kelurahan" : "Kampung Baru Raya",
+  "kodepos" : "35149"
+}, {
+  "kecamatan" : "Kedaton",
+  "kelurahan" : "Surabaya",
+  "kodepos" : "35148"
+}, {
+  "kecamatan" : "Labuhan Ratu",
+  "kelurahan" : "Kampung Baru",
+  "kodepos" : "35149"
+}, {
+  "kecamatan" : "Labuhan Ratu",
+  "kelurahan" : "Kota Sepang",
+  "kodepos" : "35148"
+}, {
+  "kecamatan" : "Labuhan Ratu",
+  "kelurahan" : "Sepang Jaya",
+  "kodepos" : "35148"
+}, {
+  "kecamatan" : "Kedaton",
+  "kelurahan" : "Sidodadi",
+  "kodepos" : "35147"
+}, {
+  "kecamatan" : "Kedaton",
+  "kelurahan" : "Sukamenanti",
+  "kodepos" : "35146"
+}, {
+  "kecamatan" : "Kedaton",
+  "kelurahan" : "Sukamenanti Baru",
+  "kodepos" : "35146"
+}, {
+  "kecamatan" : "Rajabasa",
+  "kelurahan" : "Gedong Meneng",
+  "kodepos" : "35145"
+}, {
+  "kecamatan" : "Rajabasa",
+  "kelurahan" : "Gedong Meneng Baru",
+  "kodepos" : "35145"
+}, {
+  "kecamatan" : "Rajabasa",
+  "kelurahan" : "Rajabasa Raya",
+  "kodepos" : "35144"
+}, {
+  "kecamatan" : "Rajabasa",
+  "kelurahan" : "Rajabasa Nunyai",
+  "kodepos" : "35144"
+}, {
+  "kecamatan" : "Rajabasa",
+  "kelurahan" : "Rajabasa Pemuka",
+  "kodepos" : "35144"
+}, {
+  "kecamatan" : "Rajabasa",
+  "kelurahan" : "Rajabasa Jaya",
+  "kodepos" : "35144"
+}, {
+  "kecamatan" : "Rajabasa",
+  "kelurahan" : "Rajabasa",
+  "kodepos" : "35144"
+}, {
+  "kecamatan" : "Tanjung Senang",
+  "kelurahan" : "Way Kandis",
+  "kodepos" : "35143"
+}, {
+  "kecamatan" : "Labuhan Ratu",
+  "kelurahan" : "Labuhan Ratu",
+  "kodepos" : "35142"
+}, {
+  "kecamatan" : "Labuhan Ratu",
+  "kelurahan" : "Labuhan Ratu Raya",
+  "kodepos" : "35142"
+}, {
+  "kecamatan" : "Tanjung Senang",
+  "kelurahan" : "Labuhan Dalam",
+  "kodepos" : "35142"
+}, {
+  "kecamatan" : "Tanjung Senang",
+  "kelurahan" : "Perumnas Way Kandis",
+  "kodepos" : "35141"
+}, {
+  "kecamatan" : "Tanjung Senang",
+  "kelurahan" : "Tanjung Senang",
+  "kodepos" : "35141"
+}, {
+  "kecamatan" : "Way Halim",
+  "kelurahan" : "Perumnas Way Halim",
+  "kodepos" : "35141"
+}, {
+  "kecamatan" : "Tanjung Senang",
+  "kelurahan" : "Pematang Wangi",
+  "kodepos" : "35141"
+}, {
+  "kecamatan" : "Kedaton",
+  "kelurahan" : "Kedaton",
+  "kodepos" : "35141"
+}, {
+  "kecamatan" : "Way Halim",
+  "kelurahan" : "Gunung Sulah",
+  "kodepos" : "35136"
+}, {
+  "kecamatan" : "Way Halim",
+  "kelurahan" : "Way Halim Permai",
+  "kodepos" : "35135"
+}, {
+  "kecamatan" : "Sukabumi",
+  "kelurahan" : "Sukabumi",
+  "kodepos" : "35134"
+}, {
+  "kecamatan" : "Sukabumi",
+  "kelurahan" : "Sukabumi Indah",
+  "kodepos" : "35132"
+}, {
+  "kecamatan" : "Kedamaian",
+  "kelurahan" : "Tanjung Baru",
+  "kodepos" : "35133"
+}, {
+  "kecamatan" : "Way Halim",
+  "kelurahan" : "Jagabaya III",
+  "kodepos" : "35132"
+}, {
+  "kecamatan" : "Kedamaian",
+  "kelurahan" : "Kali Balok/Balau Kencana",
+  "kodepos" : "35132"
+}, {
+  "kecamatan" : "Sukarame",
+  "kelurahan" : "Way Dadi",
+  "kodepos" : "35131"
+}, {
+  "kecamatan" : "Sukarame",
+  "kelurahan" : "Way Dadi Baru",
+  "kodepos" : "35131"
+}, {
+  "kecamatan" : "Way Halim",
+  "kelurahan" : "Jagabaya II",
+  "kodepos" : "35132"
+}, {
+  "kecamatan" : "Sukarame",
+  "kelurahan" : "Sukarame Baru",
+  "kodepos" : "35131"
+}, {
+  "kecamatan" : "Sukarame",
+  "kelurahan" : "Korpri Raya",
+  "kodepos" : "35131"
+}, {
+  "kecamatan" : "Sukarame",
+  "kelurahan" : "Sukarame",
+  "kodepos" : "35131"
+}, {
+  "kecamatan" : "Sukarame",
+  "kelurahan" : "Korpri Jaya",
+  "kodepos" : "35131"
+}, {
+  "kecamatan" : "Kedamaian",
+  "kelurahan" : "Tanjung Agung Raya",
+  "kodepos" : "35129"
+}, {
+  "kecamatan" : "Kedamaian",
+  "kelurahan" : "Tanjung Raya",
+  "kodepos" : "35128"
+}, {
+  "kecamatan" : "Kedamaian",
+  "kelurahan" : "Tanjung Gading",
+  "kodepos" : "35128"
+}, {
+  "kecamatan" : "Tanjung Karang Timur",
+  "kelurahan" : "Tanjung Agung",
+  "kodepos" : "35126"
+}, {
+  "kecamatan" : "Enggal",
+  "kelurahan" : "Rawa Laut",
+  "kodepos" : "35127"
+}, {
+  "kecamatan" : "Tanjung Karang Timur",
+  "kelurahan" : "Sawah Lama",
+  "kodepos" : "35125"
+}, {
+  "kecamatan" : "Way Halim",
+  "kelurahan" : "Jaga Baya I",
+  "kodepos" : "35123"
+}, {
+  "kecamatan" : "Tanjung Karang Timur",
+  "kelurahan" : "Sawah Brebes",
+  "kodepos" : "35124"
+}, {
+  "kecamatan" : "Kedamaian",
+  "kelurahan" : "Kedamaian",
+  "kodepos" : "35122"
+}, {
+  "kecamatan" : "Sukabumi",
+  "kelurahan" : "Nusantara Permai",
+  "kodepos" : "35122"
+}, {
+  "kecamatan" : "Sukabumi",
+  "kelurahan" : "Campang Jaya",
+  "kodepos" : "35122"
+}, {
+  "kecamatan" : "Sukabumi",
+  "kelurahan" : "Campang Raya",
+  "kodepos" : "35122"
+}, {
+  "kecamatan" : "Kedamaian",
+  "kelurahan" : "Bumi Kedamaian",
+  "kodepos" : "35122"
+}, {
+  "kecamatan" : "Tanjung Karang Timur",
+  "kelurahan" : "Kebonjeruk",
+  "kodepos" : "35121"
+}, {
+  "kecamatan" : "Tanjung Karang Timur",
+  "kelurahan" : "Kota Baru",
+  "kodepos" : "35121"
+}, {
+  "kecamatan" : "Tanjung Karang Pusat",
+  "kelurahan" : "Gotong Royong",
+  "kodepos" : "35119"
+}, {
+  "kecamatan" : "Enggal",
+  "kelurahan" : "Enggal",
+  "kodepos" : "35118"
+}, {
+  "kecamatan" : "Tanjung Karang Pusat",
+  "kelurahan" : "Palapa",
+  "kodepos" : "35116"
+}, {
+  "kecamatan" : "Enggal",
+  "kelurahan" : "Pelita",
+  "kodepos" : "35117"
+}, {
+  "kecamatan" : "Tanjung Karang Pusat",
+  "kelurahan" : "Durian Payung",
+  "kodepos" : "35116"
+}, {
+  "kecamatan" : "Tanjung Karang Pusat",
+  "kelurahan" : "Kaliawi",
+  "kodepos" : "35115"
+}, {
+  "kecamatan" : "Tanjung Karang Pusat",
+  "kelurahan" : "Kaliawi Persada",
+  "kodepos" : "35115"
+}, {
+  "kecamatan" : "Tanjung Karang Pusat",
+  "kelurahan" : "Pasir Gintung",
+  "kodepos" : "35113"
+}, {
+  "kecamatan" : "Kedaton",
+  "kelurahan" : "Penengahan",
+  "kodepos" : "35112"
+}, {
+  "kecamatan" : "Kedaton",
+  "kelurahan" : "Penengahan Raya",
+  "kodepos" : "35112"
+}, {
+  "kecamatan" : "Enggal",
+  "kelurahan" : "Tanjung Karang",
+  "kodepos" : "35111"
+}, {
+  "kecamatan" : "Tanjung Karang Pusat",
+  "kelurahan" : "Kelapa Tiga",
+  "kodepos" : "35111"
+}, {
+  "kecamatan" : "Enggal",
+  "kelurahan" : "Gunung Sari",
+  "kodepos" : "35111"
+} ]

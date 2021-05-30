@@ -1,0 +1,465 @@
+[ {
+  "kecamatan" : "Pulau Banyak Barat",
+  "kelurahan" : "Ujung Sialit",
+  "kodepos" : "24791"
+}, {
+  "kecamatan" : "Pulau Banyak",
+  "kelurahan" : "Teluk Nibung",
+  "kodepos" : "24791"
+}, {
+  "kecamatan" : "Pulau Banyak Barat",
+  "kelurahan" : "Suka Makmur",
+  "kodepos" : "24791"
+}, {
+  "kecamatan" : "Pulau Banyak",
+  "kelurahan" : "Pulau Balai",
+  "kodepos" : "24791"
+}, {
+  "kecamatan" : "Pulau Banyak Barat",
+  "kelurahan" : "Haloban",
+  "kodepos" : "24791"
+}, {
+  "kecamatan" : "Pulau Banyak",
+  "kelurahan" : "Pulau Baguk",
+  "kodepos" : "24791"
+}, {
+  "kecamatan" : "Pulau Banyak Barat",
+  "kelurahan" : "Asantola",
+  "kodepos" : "24791"
+}, {
+  "kecamatan" : "Singkil",
+  "kelurahan" : "Ujung Bawang",
+  "kodepos" : "24785"
+}, {
+  "kecamatan" : "Singkil",
+  "kelurahan" : "Teluk Rumbia",
+  "kodepos" : "24785"
+}, {
+  "kecamatan" : "Singkil",
+  "kelurahan" : "Ujung",
+  "kodepos" : "24785"
+}, {
+  "kecamatan" : "Singkil",
+  "kelurahan" : "Takal Pasir",
+  "kodepos" : "24785"
+}, {
+  "kecamatan" : "Singkil",
+  "kelurahan" : "Teluk Ambun",
+  "kodepos" : "24785"
+}, {
+  "kecamatan" : "Singkil Utara",
+  "kelurahan" : "Telaga Sakti",
+  "kodepos" : "24785"
+}, {
+  "kecamatan" : "Singkil",
+  "kelurahan" : "Suka Damai",
+  "kodepos" : "24785"
+}, {
+  "kecamatan" : "Singkil",
+  "kelurahan" : "Suka Makmur",
+  "kodepos" : "24785"
+}, {
+  "kecamatan" : "Singkil",
+  "kelurahan" : "Siti Ambia",
+  "kodepos" : "24785"
+}, {
+  "kecamatan" : "Singkil",
+  "kelurahan" : "Selok Aceh",
+  "kodepos" : "24785"
+}, {
+  "kecamatan" : "Singkil",
+  "kelurahan" : "Pemuka",
+  "kodepos" : "24785"
+}, {
+  "kecamatan" : "Singkil",
+  "kelurahan" : "Pulo Sarok",
+  "kodepos" : "24785"
+}, {
+  "kecamatan" : "Singkil",
+  "kelurahan" : "Rantau Gedang",
+  "kodepos" : "24785"
+}, {
+  "kecamatan" : "Singkil",
+  "kelurahan" : "Kota Simboling",
+  "kodepos" : "24785"
+}, {
+  "kecamatan" : "Singkil",
+  "kelurahan" : "Pasar Singkil",
+  "kodepos" : "24785"
+}, {
+  "kecamatan" : "Singkil",
+  "kelurahan" : "Paya Bumbung",
+  "kodepos" : "24785"
+}, {
+  "kecamatan" : "Singkil Utara",
+  "kelurahan" : "Ketapang Indah",
+  "kodepos" : "24785"
+}, {
+  "kecamatan" : "Singkil",
+  "kelurahan" : "Kilangan",
+  "kodepos" : "24785"
+}, {
+  "kecamatan" : "Singkil Utara",
+  "kelurahan" : "Gosong Telaga Timur",
+  "kodepos" : "24785"
+}, {
+  "kecamatan" : "Singkil Utara",
+  "kelurahan" : "Gosong Telaga Utara",
+  "kodepos" : "24785"
+}, {
+  "kecamatan" : "Singkil Utara",
+  "kelurahan" : "Kampung Baru",
+  "kodepos" : "24785"
+}, {
+  "kecamatan" : "Singkil Utara",
+  "kelurahan" : "Gosong Telaga Barat",
+  "kodepos" : "24785"
+}, {
+  "kecamatan" : "Singkil Utara",
+  "kelurahan" : "Gosong Telaga Selatan",
+  "kodepos" : "24785"
+}, {
+  "kecamatan" : "Gunung Meriah (Mariah)",
+  "kelurahan" : "Tanjung Betik",
+  "kodepos" : "24784"
+}, {
+  "kecamatan" : "Gunung Meriah (Mariah)",
+  "kelurahan" : "Tulaan",
+  "kodepos" : "24784"
+}, {
+  "kecamatan" : "Gunung Meriah (Mariah)",
+  "kelurahan" : "Tunas Harapan",
+  "kodepos" : "24784"
+}, {
+  "kecamatan" : "Gunung Meriah (Mariah)",
+  "kelurahan" : "Tanah Bara",
+  "kodepos" : "24784"
+}, {
+  "kecamatan" : "Gunung Meriah (Mariah)",
+  "kelurahan" : "Tanah Merah",
+  "kodepos" : "24784"
+}, {
+  "kecamatan" : "Suro Makmur",
+  "kelurahan" : "Suro Baru",
+  "kodepos" : "24784"
+}, {
+  "kecamatan" : "Kota Baharu",
+  "kelurahan" : "Sumber Mukti",
+  "kodepos" : "24784"
+}, {
+  "kecamatan" : "Gunung Meriah (Mariah)",
+  "kelurahan" : "Suka Makmur",
+  "kodepos" : "24784"
+}, {
+  "kecamatan" : "Singkohor",
+  "kelurahan" : "Sri Kayu",
+  "kodepos" : "24784"
+}, {
+  "kecamatan" : "Danau Paris",
+  "kelurahan" : "Situbuh-Tubuh",
+  "kodepos" : "24784"
+}, {
+  "kecamatan" : "Kuala Baru",
+  "kelurahan" : "Suka Jaya",
+  "kodepos" : "24784"
+}, {
+  "kecamatan" : "Danau Paris",
+  "kelurahan" : "Situban Makmur",
+  "kodepos" : "24784"
+}, {
+  "kecamatan" : "Suro Makmur",
+  "kelurahan" : "Sirimo Mungkur",
+  "kodepos" : "24784"
+}, {
+  "kecamatan" : "Singkohor",
+  "kelurahan" : "Singkohor",
+  "kodepos" : "24784"
+}, {
+  "kecamatan" : "Danau Paris",
+  "kelurahan" : "Sikoran",
+  "kodepos" : "24784"
+}, {
+  "kecamatan" : "Suro Makmur",
+  "kelurahan" : "Siompin",
+  "kodepos" : "24784"
+}, {
+  "kecamatan" : "Gunung Meriah (Mariah)",
+  "kelurahan" : "Seping Baru",
+  "kodepos" : "24784"
+}, {
+  "kecamatan" : "Gunung Meriah (Mariah)",
+  "kelurahan" : "Sianjo Anjo Merah",
+  "kodepos" : "24784"
+}, {
+  "kecamatan" : "Gunung Meriah (Mariah)",
+  "kelurahan" : "Sidorejo",
+  "kodepos" : "24784"
+}, {
+  "kecamatan" : "Gunung Meriah (Mariah)",
+  "kelurahan" : "Sanggaberu Silulusan",
+  "kodepos" : "24784"
+}, {
+  "kecamatan" : "Gunung Meriah (Mariah)",
+  "kelurahan" : "Sebatang",
+  "kodepos" : "24784"
+}, {
+  "kecamatan" : "Gunung Meriah (Mariah)",
+  "kelurahan" : "Pertampakan",
+  "kodepos" : "24784"
+}, {
+  "kecamatan" : "Gunung Meriah (Mariah)",
+  "kelurahan" : "Rimo",
+  "kodepos" : "24784"
+}, {
+  "kecamatan" : "Kota Baharu",
+  "kelurahan" : "Samar Dua",
+  "kodepos" : "24784"
+}, {
+  "kecamatan" : "Singkohor",
+  "kelurahan" : "Pea Jambu",
+  "kodepos" : "24784"
+}, {
+  "kecamatan" : "Gunung Meriah (Mariah)",
+  "kelurahan" : "Penjahitan",
+  "kodepos" : "24784"
+}, {
+  "kecamatan" : "Gunung Meriah (Mariah)",
+  "kelurahan" : "Perangusan",
+  "kodepos" : "24784"
+}, {
+  "kecamatan" : "Suro Makmur",
+  "kelurahan" : "Pangkalan Sulampi",
+  "kodepos" : "24784"
+}, {
+  "kecamatan" : "Gunung Meriah (Mariah)",
+  "kelurahan" : "Pandan Sari",
+  "kodepos" : "24784"
+}, {
+  "kecamatan" : "Danau Paris",
+  "kelurahan" : "Napa Galuh",
+  "kodepos" : "24784"
+}, {
+  "kecamatan" : "Kota Baharu",
+  "kelurahan" : "Mukti Lincir",
+  "kodepos" : "24784"
+}, {
+  "kecamatan" : "Singkohor",
+  "kelurahan" : "Mukti Jaya (Mukti Harapan)",
+  "kodepos" : "24784"
+}, {
+  "kecamatan" : "Kota Baharu",
+  "kelurahan" : "Muara Pea",
+  "kodepos" : "24784"
+}, {
+  "kecamatan" : "Suro Makmur",
+  "kelurahan" : "Mandumpang",
+  "kodepos" : "24784"
+}, {
+  "kecamatan" : "Kota Baharu",
+  "kelurahan" : "Lentong",
+  "kodepos" : "24784"
+}, {
+  "kecamatan" : "Singkohor",
+  "kelurahan" : "Lae Sipola",
+  "kodepos" : "24784"
+}, {
+  "kecamatan" : "Kota Baharu",
+  "kelurahan" : "Lapahan Buaya",
+  "kodepos" : "24784"
+}, {
+  "kecamatan" : "Singkohor",
+  "kelurahan" : "Lae Pinang",
+  "kodepos" : "24784"
+}, {
+  "kecamatan" : "Gunung Meriah (Mariah)",
+  "kelurahan" : "Lae Butar",
+  "kodepos" : "24784"
+}, {
+  "kecamatan" : "Suro Makmur",
+  "kelurahan" : "Lae Bangun",
+  "kodepos" : "24784"
+}, {
+  "kecamatan" : "Danau Paris",
+  "kelurahan" : "Lae Balno",
+  "kodepos" : "24784"
+}, {
+  "kecamatan" : "Gunung Meriah (Mariah)",
+  "kelurahan" : "Labohan Kera",
+  "kodepos" : "24784"
+}, {
+  "kecamatan" : "Kota Baharu",
+  "kelurahan" : "Ladang Bisik",
+  "kodepos" : "24784"
+}, {
+  "kecamatan" : "Kuala Baru",
+  "kelurahan" : "Kuala Baru Sungai",
+  "kodepos" : "24784"
+}, {
+  "kecamatan" : "Suro Makmur",
+  "kelurahan" : "Ketangkihan",
+  "kodepos" : "24784"
+}, {
+  "kecamatan" : "Kuala Baru",
+  "kelurahan" : "Kuala Baru Laut",
+  "kodepos" : "24784"
+}, {
+  "kecamatan" : "Suro Makmur",
+  "kelurahan" : "Keras",
+  "kodepos" : "24784"
+}, {
+  "kecamatan" : "Kuala Baru",
+  "kelurahan" : "Kayu Menang",
+  "kodepos" : "24784"
+}, {
+  "kecamatan" : "Gunung Meriah (Mariah)",
+  "kelurahan" : "Gunung Lagan",
+  "kodepos" : "24784"
+}, {
+  "kecamatan" : "Gunung Meriah (Mariah)",
+  "kelurahan" : "Cingkam",
+  "kodepos" : "24784"
+}, {
+  "kecamatan" : "Kota Baharu",
+  "kelurahan" : "Butar",
+  "kodepos" : "24784"
+}, {
+  "kecamatan" : "Kota Baharu",
+  "kelurahan" : "Danau Bungara",
+  "kodepos" : "24784"
+}, {
+  "kecamatan" : "Suro Makmur",
+  "kelurahan" : "Bulu Sema",
+  "kodepos" : "24784"
+}, {
+  "kecamatan" : "Suro Makmur",
+  "kelurahan" : "Bulu Ara",
+  "kodepos" : "24784"
+}, {
+  "kecamatan" : "Gunung Meriah (Mariah)",
+  "kelurahan" : "Blok VI Baru",
+  "kodepos" : "24784"
+}, {
+  "kecamatan" : "Gunung Meriah (Mariah)",
+  "kelurahan" : "Bukit Harapan",
+  "kodepos" : "24784"
+}, {
+  "kecamatan" : "Gunung Meriah (Mariah)",
+  "kelurahan" : "Blok 18",
+  "kodepos" : "24784"
+}, {
+  "kecamatan" : "Gunung Meriah (Mariah)",
+  "kelurahan" : "Blok 31",
+  "kodepos" : "24784"
+}, {
+  "kecamatan" : "Gunung Meriah (Mariah)",
+  "kelurahan" : "Blok 15",
+  "kodepos" : "24784"
+}, {
+  "kecamatan" : "Danau Paris",
+  "kelurahan" : "Biskang",
+  "kodepos" : "24784"
+}, {
+  "kecamatan" : "Simpang Kanan",
+  "kelurahan" : "Ujung Limus",
+  "kodepos" : "24783"
+}, {
+  "kecamatan" : "Suro Makmur",
+  "kelurahan" : "Alur Linci",
+  "kodepos" : "24784"
+}, {
+  "kecamatan" : "Simpang Kanan",
+  "kelurahan" : "Tuh Tuhan",
+  "kodepos" : "24783"
+}, {
+  "kecamatan" : "Simpang Kanan",
+  "kelurahan" : "Tugan",
+  "kodepos" : "24783"
+}, {
+  "kecamatan" : "Simpang Kanan",
+  "kelurahan" : "Sukarejo",
+  "kodepos" : "24783"
+}, {
+  "kecamatan" : "Simpang Kanan",
+  "kelurahan" : "Tanjung Mas",
+  "kodepos" : "24783"
+}, {
+  "kecamatan" : "Simpang Kanan",
+  "kelurahan" : "Silatong",
+  "kodepos" : "24783"
+}, {
+  "kecamatan" : "Simpang Kanan",
+  "kelurahan" : "Sododadi",
+  "kodepos" : "24783"
+}, {
+  "kecamatan" : "Simpang Kanan",
+  "kelurahan" : "Serasah",
+  "kodepos" : "24783"
+}, {
+  "kecamatan" : "Simpang Kanan",
+  "kelurahan" : "Siatas",
+  "kodepos" : "24783"
+}, {
+  "kecamatan" : "Simpang Kanan",
+  "kelurahan" : "Pandan Sari",
+  "kodepos" : "24783"
+}, {
+  "kecamatan" : "Simpang Kanan",
+  "kelurahan" : "Pangi",
+  "kodepos" : "24783"
+}, {
+  "kecamatan" : "Simpang Kanan",
+  "kelurahan" : "Pertabas",
+  "kodepos" : "24783"
+}, {
+  "kecamatan" : "Simpang Kanan",
+  "kelurahan" : "Lipat Kajang Atas",
+  "kodepos" : "24783"
+}, {
+  "kecamatan" : "Simpang Kanan",
+  "kelurahan" : "Pakiraman",
+  "kodepos" : "24783"
+}, {
+  "kecamatan" : "Simpang Kanan",
+  "kelurahan" : "Lae Riman",
+  "kodepos" : "24783"
+}, {
+  "kecamatan" : "Simpang Kanan",
+  "kelurahan" : "Lipat Kajang",
+  "kodepos" : "24783"
+}, {
+  "kecamatan" : "Simpang Kanan",
+  "kelurahan" : "Lae Gambir",
+  "kodepos" : "24783"
+}, {
+  "kecamatan" : "Simpang Kanan",
+  "kelurahan" : "Lae Gecih",
+  "kodepos" : "24783"
+}, {
+  "kecamatan" : "Simpang Kanan",
+  "kelurahan" : "Lae Nipe",
+  "kodepos" : "24783"
+}, {
+  "kecamatan" : "Simpang Kanan",
+  "kelurahan" : "Kuta Karangan",
+  "kodepos" : "24783"
+}, {
+  "kecamatan" : "Simpang Kanan",
+  "kelurahan" : "Kuta Tinggi",
+  "kodepos" : "24783"
+}, {
+  "kecamatan" : "Simpang Kanan",
+  "kelurahan" : "Guha",
+  "kodepos" : "24783"
+}, {
+  "kecamatan" : "Simpang Kanan",
+  "kelurahan" : "Kain Golong",
+  "kodepos" : "24783"
+}, {
+  "kecamatan" : "Simpang Kanan",
+  "kelurahan" : "Kuta Batu",
+  "kodepos" : "24783"
+}, {
+  "kecamatan" : "Simpang Kanan",
+  "kelurahan" : "Cibubukan",
+  "kodepos" : "24783"
+} ]

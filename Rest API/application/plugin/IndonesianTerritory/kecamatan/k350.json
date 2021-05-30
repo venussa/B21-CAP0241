@@ -1,0 +1,353 @@
+[ {
+  "kecamatan" : "Pasilambena",
+  "kelurahan" : "Lembang Matene",
+  "kodepos" : "92863"
+}, {
+  "kecamatan" : "Pasilambena",
+  "kelurahan" : "Pulo Madu",
+  "kodepos" : "92863"
+}, {
+  "kecamatan" : "Pasilambena",
+  "kelurahan" : "Kalaotoa",
+  "kodepos" : "92863"
+}, {
+  "kecamatan" : "Pasilambena",
+  "kelurahan" : "Karumpa",
+  "kodepos" : "92863"
+}, {
+  "kecamatan" : "Pasilambena",
+  "kelurahan" : "Garaupa Raya",
+  "kodepos" : "92863"
+}, {
+  "kecamatan" : "Pasimarannu",
+  "kelurahan" : "Sambali",
+  "kodepos" : "92862"
+}, {
+  "kecamatan" : "Pasilambena",
+  "kelurahan" : "Garaupa",
+  "kodepos" : "92863"
+}, {
+  "kecamatan" : "Pasimarannu",
+  "kelurahan" : "Lambego",
+  "kodepos" : "92862"
+}, {
+  "kecamatan" : "Pasimarannu",
+  "kelurahan" : "Majapahit",
+  "kodepos" : "92862"
+}, {
+  "kecamatan" : "Pasimarannu",
+  "kelurahan" : "Komba-Komba",
+  "kodepos" : "92862"
+}, {
+  "kecamatan" : "Pasimarannu",
+  "kelurahan" : "Lamantu",
+  "kodepos" : "92862"
+}, {
+  "kecamatan" : "Pasimarannu",
+  "kelurahan" : "Bonea",
+  "kodepos" : "92862"
+}, {
+  "kecamatan" : "Pasimarannu",
+  "kelurahan" : "Bonerate",
+  "kodepos" : "92862"
+}, {
+  "kecamatan" : "Pasimarannu",
+  "kelurahan" : "Batu Bingkung",
+  "kodepos" : "92862"
+}, {
+  "kecamatan" : "Pasimasunggu Timur",
+  "kelurahan" : "Ujung",
+  "kodepos" : "92861"
+}, {
+  "kecamatan" : "Pasimassunggu",
+  "kelurahan" : "Teluk Kampe",
+  "kodepos" : "92861"
+}, {
+  "kecamatan" : "Takabonerate",
+  "kelurahan" : "Tarupa",
+  "kodepos" : "92861"
+}, {
+  "kecamatan" : "Pasimassunggu",
+  "kelurahan" : "Tanamalala",
+  "kodepos" : "92861"
+}, {
+  "kecamatan" : "Takabonerate",
+  "kelurahan" : "Rajuni",
+  "kodepos" : "92861"
+}, {
+  "kecamatan" : "Takabonerate",
+  "kelurahan" : "Tambuna",
+  "kodepos" : "92861"
+}, {
+  "kecamatan" : "Pasimassunggu",
+  "kelurahan" : "Massungke",
+  "kodepos" : "92861"
+}, {
+  "kecamatan" : "Takabonerate",
+  "kelurahan" : "Nyiur Indah",
+  "kodepos" : "92861"
+}, {
+  "kecamatan" : "Pasimasunggu Timur",
+  "kelurahan" : "Lembang Baji",
+  "kodepos" : "92861"
+}, {
+  "kecamatan" : "Pasimassunggu",
+  "kelurahan" : "Maminasa",
+  "kodepos" : "92861"
+}, {
+  "kecamatan" : "Takabonerate",
+  "kelurahan" : "Latondu",
+  "kodepos" : "92861"
+}, {
+  "kecamatan" : "Pasimassunggu",
+  "kelurahan" : "Labuang Pamajang",
+  "kodepos" : "92861"
+}, {
+  "kecamatan" : "Takabonerate",
+  "kelurahan" : "Khusus Pasitallu",
+  "kodepos" : "92861"
+}, {
+  "kecamatan" : "Pasimassunggu",
+  "kelurahan" : "Kembang Ragi",
+  "kodepos" : "92861"
+}, {
+  "kecamatan" : "Takabonerate",
+  "kelurahan" : "Kayuadi",
+  "kodepos" : "92861"
+}, {
+  "kecamatan" : "Takabonerate",
+  "kelurahan" : "Jinato",
+  "kodepos" : "92861"
+}, {
+  "kecamatan" : "Pasimasunggu Timur",
+  "kelurahan" : "Bontomalling",
+  "kodepos" : "92861"
+}, {
+  "kecamatan" : "Pasimasunggu Timur",
+  "kelurahan" : "Bontojati",
+  "kodepos" : "92861"
+}, {
+  "kecamatan" : "Pasimasunggu Timur",
+  "kelurahan" : "Bontobulaeng",
+  "kodepos" : "92861"
+}, {
+  "kecamatan" : "Pasimasunggu Timur",
+  "kelurahan" : "Bontobaru",
+  "kodepos" : "92861"
+}, {
+  "kecamatan" : "Takabonerate",
+  "kelurahan" : "Batang",
+  "kodepos" : "92861"
+}, {
+  "kecamatan" : "Bontosikuyu",
+  "kelurahan" : "Tambolongan",
+  "kodepos" : "92855"
+}, {
+  "kecamatan" : "Bontosikuyu",
+  "kelurahan" : "Patilereng",
+  "kodepos" : "92855"
+}, {
+  "kecamatan" : "Bontosikuyu",
+  "kelurahan" : "Polassi",
+  "kodepos" : "92855"
+}, {
+  "kecamatan" : "Bontosikuyu",
+  "kelurahan" : "Patikarya",
+  "kodepos" : "92855"
+}, {
+  "kecamatan" : "Bontosikuyu",
+  "kelurahan" : "Lantimbongan",
+  "kodepos" : "92855"
+}, {
+  "kecamatan" : "Bontosikuyu",
+  "kelurahan" : "Lowa",
+  "kodepos" : "92855"
+}, {
+  "kecamatan" : "Bontosikuyu",
+  "kelurahan" : "Laiyolo Baru",
+  "kodepos" : "92855"
+}, {
+  "kecamatan" : "Bontosikuyu",
+  "kelurahan" : "Laiyolo",
+  "kodepos" : "92855"
+}, {
+  "kecamatan" : "Bontosikuyu",
+  "kelurahan" : "Harapan",
+  "kodepos" : "92855"
+}, {
+  "kecamatan" : "Bontosikuyu",
+  "kelurahan" : "Khusus Bahuluang",
+  "kodepos" : "92855"
+}, {
+  "kecamatan" : "Bontosikuyu",
+  "kelurahan" : "Binanga Sombaiya",
+  "kodepos" : "92855"
+}, {
+  "kecamatan" : "Bontosikuyu",
+  "kelurahan" : "Appatanah",
+  "kodepos" : "92855"
+}, {
+  "kecamatan" : "Bontomatene",
+  "kelurahan" : "Tamalanrea",
+  "kodepos" : "92854"
+}, {
+  "kecamatan" : "Bontomatene",
+  "kelurahan" : "Tanete",
+  "kodepos" : "92854"
+}, {
+  "kecamatan" : "Bontomatene",
+  "kelurahan" : "Pamatata",
+  "kodepos" : "92854"
+}, {
+  "kecamatan" : "Bontomatene",
+  "kelurahan" : "Menara Indah",
+  "kodepos" : "92854"
+}, {
+  "kecamatan" : "Bontomatene",
+  "kelurahan" : "Onto",
+  "kodepos" : "92854"
+}, {
+  "kecamatan" : "Buki",
+  "kelurahan" : "Mekar Indah",
+  "kodepos" : "92854"
+}, {
+  "kecamatan" : "Bontomatene",
+  "kelurahan" : "Maharayya",
+  "kodepos" : "92854"
+}, {
+  "kecamatan" : "Buki",
+  "kelurahan" : "Lalang Bata",
+  "kodepos" : "92854"
+}, {
+  "kecamatan" : "Bontomatene",
+  "kelurahan" : "Kayu Bauk",
+  "kodepos" : "92854"
+}, {
+  "kecamatan" : "Buki",
+  "kelurahan" : "Buki",
+  "kodepos" : "92854"
+}, {
+  "kecamatan" : "Buki",
+  "kelurahan" : "Buki Timur",
+  "kodepos" : "92854"
+}, {
+  "kecamatan" : "Bontomatene",
+  "kelurahan" : "Batangmata Sapo",
+  "kodepos" : "92854"
+}, {
+  "kecamatan" : "Bontomatene",
+  "kelurahan" : "Bongaiya",
+  "kodepos" : "92854"
+}, {
+  "kecamatan" : "Bontomatene",
+  "kelurahan" : "Bontonasaluk",
+  "kodepos" : "92854"
+}, {
+  "kecamatan" : "Bontomatene",
+  "kelurahan" : "Barat Lambongan",
+  "kodepos" : "92854"
+}, {
+  "kecamatan" : "Bontomatene",
+  "kelurahan" : "Batangmata",
+  "kodepos" : "92854"
+}, {
+  "kecamatan" : "Buki",
+  "kelurahan" : "Balang Butung",
+  "kodepos" : "92854"
+}, {
+  "kecamatan" : "Bontomanai",
+  "kelurahan" : "Mare Mare",
+  "kodepos" : "92851"
+}, {
+  "kecamatan" : "Bontomanai",
+  "kelurahan" : "Parak",
+  "kodepos" : "92851"
+}, {
+  "kecamatan" : "Bontomanai",
+  "kelurahan" : "Polebungin",
+  "kodepos" : "92851"
+}, {
+  "kecamatan" : "Bontomanai",
+  "kelurahan" : "Kaburu",
+  "kodepos" : "92851"
+}, {
+  "kecamatan" : "Buki",
+  "kelurahan" : "Kohala",
+  "kodepos" : "92851"
+}, {
+  "kecamatan" : "Bontomanai",
+  "kelurahan" : "Bontomarannu",
+  "kodepos" : "92851"
+}, {
+  "kecamatan" : "Bontomanai",
+  "kelurahan" : "Jambuiya",
+  "kodepos" : "92851"
+}, {
+  "kecamatan" : "Buki",
+  "kelurahan" : "Bontolempangan",
+  "kodepos" : "92851"
+}, {
+  "kecamatan" : "Bontomanai",
+  "kelurahan" : "Bonea Timur",
+  "kodepos" : "92851"
+}, {
+  "kecamatan" : "Bontomanai",
+  "kelurahan" : "Bontokoraang",
+  "kodepos" : "92851"
+}, {
+  "kecamatan" : "Bontomanai",
+  "kelurahan" : "Bonea Makmur",
+  "kodepos" : "92851"
+}, {
+  "kecamatan" : "Bontomanai",
+  "kelurahan" : "Barugaiya",
+  "kodepos" : "92851"
+}, {
+  "kecamatan" : "Benteng",
+  "kelurahan" : "Benteng Utara",
+  "kodepos" : "92812"
+}, {
+  "kecamatan" : "Benteng",
+  "kelurahan" : "Benteng",
+  "kodepos" : "92812"
+}, {
+  "kecamatan" : "Benteng",
+  "kelurahan" : "Benteng Selatan",
+  "kodepos" : "92812"
+}, {
+  "kecamatan" : "Bontoharu",
+  "kelurahan" : "Putabangun",
+  "kodepos" : "92811"
+}, {
+  "kecamatan" : "Bontoharu",
+  "kelurahan" : "Bontotangnga",
+  "kodepos" : "92811"
+}, {
+  "kecamatan" : "Bontoharu",
+  "kelurahan" : "Kahu-Kahu",
+  "kodepos" : "92811"
+}, {
+  "kecamatan" : "Bontoharu",
+  "kelurahan" : "Kalepadang",
+  "kodepos" : "92811"
+}, {
+  "kecamatan" : "Bontoharu",
+  "kelurahan" : "Bontosunggu",
+  "kodepos" : "92811"
+}, {
+  "kecamatan" : "Pasimassunggu",
+  "kelurahan" : "Bontosaile",
+  "kodepos" : "92811"
+}, {
+  "kecamatan" : "Bontoharu",
+  "kelurahan" : "Bontolebang",
+  "kodepos" : "92811"
+}, {
+  "kecamatan" : "Bontoharu",
+  "kelurahan" : "Bontobangun",
+  "kodepos" : "92811"
+}, {
+  "kecamatan" : "Bontoharu",
+  "kelurahan" : "Bontoborusu",
+  "kodepos" : "92811"
+} ]

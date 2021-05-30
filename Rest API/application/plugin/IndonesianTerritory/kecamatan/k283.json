@@ -1,0 +1,645 @@
+[ {
+  "kecamatan" : "Alok Timur",
+  "kelurahan" : "Kota Baru",
+  "kodepos" : "86215"
+}, {
+  "kecamatan" : "Waigete",
+  "kelurahan" : "Watudiran",
+  "kodepos" : "86183"
+}, {
+  "kecamatan" : "Waiblama",
+  "kelurahan" : "Werang",
+  "kodepos" : "86183"
+}, {
+  "kecamatan" : "Talibura",
+  "kelurahan" : "Wailamung",
+  "kodepos" : "86183"
+}, {
+  "kecamatan" : "Waigete",
+  "kelurahan" : "Wairbleler",
+  "kodepos" : "86183"
+}, {
+  "kecamatan" : "Waigete",
+  "kelurahan" : "Wairterang",
+  "kodepos" : "86183"
+}, {
+  "kecamatan" : "Waiblama",
+  "kelurahan" : "Tua Bao",
+  "kodepos" : "86183"
+}, {
+  "kecamatan" : "Talibura",
+  "kelurahan" : "Timutawa",
+  "kodepos" : "86183"
+}, {
+  "kecamatan" : "Waiblama",
+  "kelurahan" : "Tanarawa",
+  "kodepos" : "86183"
+}, {
+  "kecamatan" : "Talibura",
+  "kelurahan" : "Talibura",
+  "kodepos" : "86183"
+}, {
+  "kecamatan" : "Waigete",
+  "kelurahan" : "Pogon",
+  "kodepos" : "86183"
+}, {
+  "kecamatan" : "Waiblama",
+  "kelurahan" : "Pruda",
+  "kodepos" : "86183"
+}, {
+  "kecamatan" : "Waigete",
+  "kelurahan" : "Runut",
+  "kodepos" : "86183"
+}, {
+  "kecamatan" : "Talibura",
+  "kelurahan" : "Ojang",
+  "kodepos" : "86183"
+}, {
+  "kecamatan" : "Talibura",
+  "kelurahan" : "Nebe",
+  "kodepos" : "86183"
+}, {
+  "kecamatan" : "Waiblama",
+  "kelurahan" : "Natarmage",
+  "kodepos" : "86183"
+}, {
+  "kecamatan" : "Waigete",
+  "kelurahan" : "Nangatobong",
+  "kodepos" : "86183"
+}, {
+  "kecamatan" : "Talibura",
+  "kelurahan" : "Nangahale",
+  "kodepos" : "86183"
+}, {
+  "kecamatan" : "Waiblama",
+  "kelurahan" : "Ilinmedo",
+  "kodepos" : "86183"
+}, {
+  "kecamatan" : "Talibura",
+  "kelurahan" : "Kringa",
+  "kodepos" : "86183"
+}, {
+  "kecamatan" : "Talibura",
+  "kelurahan" : "Lewomada",
+  "kodepos" : "86183"
+}, {
+  "kecamatan" : "Waigete",
+  "kelurahan" : "Hoder",
+  "kodepos" : "86183"
+}, {
+  "kecamatan" : "Talibura",
+  "kelurahan" : "Hikong",
+  "kodepos" : "86183"
+}, {
+  "kecamatan" : "Waigete",
+  "kelurahan" : "Egon",
+  "kodepos" : "86183"
+}, {
+  "kecamatan" : "Talibura",
+  "kelurahan" : "Darat Pantai",
+  "kodepos" : "86183"
+}, {
+  "kecamatan" : "Talibura",
+  "kelurahan" : "Baang Koor",
+  "kodepos" : "86183"
+}, {
+  "kecamatan" : "Talibura",
+  "kelurahan" : "Darat Gunung",
+  "kodepos" : "86183"
+}, {
+  "kecamatan" : "Waigete",
+  "kelurahan" : "Aibura",
+  "kodepos" : "86183"
+}, {
+  "kecamatan" : "Kangae",
+  "kelurahan" : "Watumilok",
+  "kodepos" : "86181"
+}, {
+  "kecamatan" : "Hewokloang",
+  "kelurahan" : "Wolomapa",
+  "kodepos" : "86181"
+}, {
+  "kecamatan" : "Kangae",
+  "kelurahan" : "Watuliwung",
+  "kodepos" : "86181"
+}, {
+  "kecamatan" : "Kewapante",
+  "kelurahan" : "Wairkoja",
+  "kodepos" : "86181"
+}, {
+  "kecamatan" : "Kewapante",
+  "kelurahan" : "Waiara",
+  "kodepos" : "86181"
+}, {
+  "kecamatan" : "Kangae",
+  "kelurahan" : "Tekaiku",
+  "kodepos" : "86181"
+}, {
+  "kecamatan" : "Kewapante",
+  "kelurahan" : "Umagera",
+  "kodepos" : "86181"
+}, {
+  "kecamatan" : "Kangae",
+  "kelurahan" : "Tanaduen",
+  "kodepos" : "86181"
+}, {
+  "kecamatan" : "Kewapante",
+  "kelurahan" : "Seusina",
+  "kodepos" : "86181"
+}, {
+  "kecamatan" : "Hewokloang",
+  "kelurahan" : "Rubit",
+  "kodepos" : "86181"
+}, {
+  "kecamatan" : "Kewapante",
+  "kelurahan" : "Namangkewa",
+  "kodepos" : "86181"
+}, {
+  "kecamatan" : "Kangae",
+  "kelurahan" : "Mekendetung",
+  "kodepos" : "86181"
+}, {
+  "kecamatan" : "Hewokloang",
+  "kelurahan" : "Munerana",
+  "kodepos" : "86181"
+}, {
+  "kecamatan" : "Kangae",
+  "kelurahan" : "Kokowahor",
+  "kodepos" : "86181"
+}, {
+  "kecamatan" : "Kangae",
+  "kelurahan" : "Langir",
+  "kodepos" : "86181"
+}, {
+  "kecamatan" : "Kewapante",
+  "kelurahan" : "Kopong",
+  "kodepos" : "86181"
+}, {
+  "kecamatan" : "Kewapante",
+  "kelurahan" : "Ian Tena",
+  "kodepos" : "86181"
+}, {
+  "kecamatan" : "Hewokloang",
+  "kelurahan" : "Kajowair",
+  "kodepos" : "86181"
+}, {
+  "kecamatan" : "Kangae",
+  "kelurahan" : "Habi",
+  "kodepos" : "86181"
+}, {
+  "kecamatan" : "Hewokloang",
+  "kelurahan" : "Heopuat",
+  "kodepos" : "86181"
+}, {
+  "kecamatan" : "Hewokloang",
+  "kelurahan" : "Hewokloang",
+  "kodepos" : "86181"
+}, {
+  "kecamatan" : "Kewapante",
+  "kelurahan" : "Geliting",
+  "kodepos" : "86181"
+}, {
+  "kecamatan" : "Kangae",
+  "kelurahan" : "Blatatatin",
+  "kodepos" : "86181"
+}, {
+  "kecamatan" : "Hewokloang",
+  "kelurahan" : "Baomekot",
+  "kodepos" : "86181"
+}, {
+  "kecamatan" : "Hewokloang",
+  "kelurahan" : "Baomekot",
+  "kodepos" : "86181"
+}, {
+  "kecamatan" : "Doreng",
+  "kelurahan" : "Wolomotong",
+  "kodepos" : "86171"
+}, {
+  "kecamatan" : "Doreng",
+  "kelurahan" : "Wolonterang",
+  "kodepos" : "86171"
+}, {
+  "kecamatan" : "Bola",
+  "kelurahan" : "Wolokoli",
+  "kodepos" : "86171"
+}, {
+  "kecamatan" : "Doreng",
+  "kelurahan" : "Watumerak",
+  "kodepos" : "86171"
+}, {
+  "kecamatan" : "Doreng",
+  "kelurahan" : "Wogalirit",
+  "kodepos" : "86171"
+}, {
+  "kecamatan" : "Bola",
+  "kelurahan" : "Umauta",
+  "kodepos" : "86171"
+}, {
+  "kecamatan" : "Doreng",
+  "kelurahan" : "Waihawa",
+  "kodepos" : "86171"
+}, {
+  "kecamatan" : "Mapitara",
+  "kelurahan" : "Natakoli",
+  "kodepos" : "86171"
+}, {
+  "kecamatan" : "Doreng",
+  "kelurahan" : "Nenbura",
+  "kodepos" : "86171"
+}, {
+  "kecamatan" : "Bola",
+  "kelurahan" : "Ipir",
+  "kodepos" : "86171"
+}, {
+  "kecamatan" : "Doreng",
+  "kelurahan" : "Kloangpopot",
+  "kodepos" : "86171"
+}, {
+  "kecamatan" : "Bola",
+  "kelurahan" : "Hokor",
+  "kodepos" : "86171"
+}, {
+  "kecamatan" : "Mapitara",
+  "kelurahan" : "Egon Gahar",
+  "kodepos" : "86171"
+}, {
+  "kecamatan" : "Mapitara",
+  "kelurahan" : "Hale",
+  "kodepos" : "86171"
+}, {
+  "kecamatan" : "Mapitara",
+  "kelurahan" : "Hebing",
+  "kodepos" : "86171"
+}, {
+  "kecamatan" : "Bola",
+  "kelurahan" : "Bola",
+  "kodepos" : "86171"
+}, {
+  "kecamatan" : "Lela",
+  "kelurahan" : "Sikka",
+  "kodepos" : "86161"
+}, {
+  "kecamatan" : "Lela",
+  "kelurahan" : "Watutedang",
+  "kodepos" : "86161"
+}, {
+  "kecamatan" : "Lela",
+  "kelurahan" : "Korowuwu",
+  "kodepos" : "86161"
+}, {
+  "kecamatan" : "Lela",
+  "kelurahan" : "Lela",
+  "kodepos" : "86161"
+}, {
+  "kecamatan" : "Lela",
+  "kelurahan" : "Iligai",
+  "kodepos" : "86161"
+}, {
+  "kecamatan" : "Lela",
+  "kelurahan" : "Kolidetung",
+  "kodepos" : "86161"
+}, {
+  "kecamatan" : "Lela",
+  "kelurahan" : "Hepang",
+  "kodepos" : "86161"
+}, {
+  "kecamatan" : "Lela",
+  "kelurahan" : "Du",
+  "kodepos" : "86161"
+}, {
+  "kecamatan" : "Lela",
+  "kelurahan" : "Baopaat",
+  "kodepos" : "86161"
+}, {
+  "kecamatan" : "Paga",
+  "kelurahan" : "Wolowiro",
+  "kodepos" : "86153"
+}, {
+  "kecamatan" : "Paga",
+  "kelurahan" : "Wolowona",
+  "kodepos" : "86153"
+}, {
+  "kecamatan" : "Paga",
+  "kelurahan" : "Wolorega",
+  "kodepos" : "86153"
+}, {
+  "kecamatan" : "Tana Wawo",
+  "kelurahan" : "Renggarasi",
+  "kodepos" : "86153"
+}, {
+  "kecamatan" : "Tana Wawo",
+  "kelurahan" : "Tuwa",
+  "kodepos" : "86153"
+}, {
+  "kecamatan" : "Paga",
+  "kelurahan" : "Paga",
+  "kodepos" : "86153"
+}, {
+  "kecamatan" : "Tana Wawo",
+  "kelurahan" : "Poma",
+  "kodepos" : "86153"
+}, {
+  "kecamatan" : "Paga",
+  "kelurahan" : "Mbengu",
+  "kodepos" : "86153"
+}, {
+  "kecamatan" : "Paga",
+  "kelurahan" : "Mauloo",
+  "kodepos" : "86153"
+}, {
+  "kecamatan" : "Tana Wawo",
+  "kelurahan" : "Loke",
+  "kodepos" : "86153"
+}, {
+  "kecamatan" : "Paga",
+  "kelurahan" : "Masebewa",
+  "kodepos" : "86153"
+}, {
+  "kecamatan" : "Tana Wawo",
+  "kelurahan" : "Detubinga",
+  "kodepos" : "86153"
+}, {
+  "kecamatan" : "Paga",
+  "kelurahan" : "Lenandareta",
+  "kodepos" : "86153"
+}, {
+  "kecamatan" : "Tana Wawo",
+  "kelurahan" : "Bu Utara",
+  "kodepos" : "86153"
+}, {
+  "kecamatan" : "Tana Wawo",
+  "kelurahan" : "Bu Watuweti",
+  "kodepos" : "86153"
+}, {
+  "kecamatan" : "Tana Wawo",
+  "kelurahan" : "Bu Selatan",
+  "kodepos" : "86153"
+}, {
+  "kecamatan" : "Nita",
+  "kelurahan" : "Wuliwutik",
+  "kodepos" : "86152"
+}, {
+  "kecamatan" : "Nita",
+  "kelurahan" : "Tebuk",
+  "kodepos" : "86152"
+}, {
+  "kecamatan" : "Nita",
+  "kelurahan" : "Tilang",
+  "kodepos" : "86152"
+}, {
+  "kecamatan" : "Nita",
+  "kelurahan" : "Takaplager",
+  "kodepos" : "86152"
+}, {
+  "kecamatan" : "Magepanda",
+  "kelurahan" : "Reroroja",
+  "kodepos" : "86152"
+}, {
+  "kecamatan" : "Nita",
+  "kelurahan" : "Riit",
+  "kodepos" : "86152"
+}, {
+  "kecamatan" : "Nita",
+  "kelurahan" : "Nita",
+  "kodepos" : "86152"
+}, {
+  "kecamatan" : "Nita",
+  "kelurahan" : "Nitakloang",
+  "kodepos" : "86152"
+}, {
+  "kecamatan" : "Nita",
+  "kelurahan" : "Nirangkliung",
+  "kodepos" : "86152"
+}, {
+  "kecamatan" : "Magepanda",
+  "kelurahan" : "Magepanda",
+  "kodepos" : "86152"
+}, {
+  "kecamatan" : "Nita",
+  "kelurahan" : "Mahebora",
+  "kodepos" : "86152"
+}, {
+  "kecamatan" : "Nita",
+  "kelurahan" : "Lusitada",
+  "kodepos" : "86152"
+}, {
+  "kecamatan" : "Nita",
+  "kelurahan" : "Ladogahar",
+  "kodepos" : "86152"
+}, {
+  "kecamatan" : "Magepanda",
+  "kelurahan" : "Kolisia B",
+  "kodepos" : "86152"
+}, {
+  "kecamatan" : "Magepanda",
+  "kelurahan" : "Kolisia",
+  "kodepos" : "86152"
+}, {
+  "kecamatan" : "Magepanda",
+  "kelurahan" : "Done",
+  "kodepos" : "86152"
+}, {
+  "kecamatan" : "Nita",
+  "kelurahan" : "Bloro",
+  "kodepos" : "86152"
+}, {
+  "kecamatan" : "Alok Timur",
+  "kelurahan" : "Nangameting",
+  "kodepos" : "86118"
+}, {
+  "kecamatan" : "Alok Timur",
+  "kelurahan" : "Waioti",
+  "kodepos" : "86118"
+}, {
+  "kecamatan" : "Alok",
+  "kelurahan" : "Nangalimang",
+  "kodepos" : "86118"
+}, {
+  "kecamatan" : "Alok Timur",
+  "kelurahan" : "Watugong",
+  "kodepos" : "86116"
+}, {
+  "kecamatan" : "Alok",
+  "kelurahan" : "Samparong",
+  "kodepos" : "86116"
+}, {
+  "kecamatan" : "Koting",
+  "kelurahan" : "Ribang",
+  "kodepos" : "86116"
+}, {
+  "kecamatan" : "Alok",
+  "kelurahan" : "Pemana",
+  "kodepos" : "86116"
+}, {
+  "kecamatan" : "Koting",
+  "kelurahan" : "Paubekor",
+  "kodepos" : "86116"
+}, {
+  "kecamatan" : "Alok Timur",
+  "kelurahan" : "Parumaan",
+  "kodepos" : "86116"
+}, {
+  "kecamatan" : "Nelle (Maumerei)",
+  "kelurahan" : "Nelle Wutung",
+  "kodepos" : "86116"
+}, {
+  "kecamatan" : "Nelle (Maumerei)",
+  "kelurahan" : "Nelle Urung",
+  "kodepos" : "86116"
+}, {
+  "kecamatan" : "Nelle (Maumerei)",
+  "kelurahan" : "Nelle Lorang",
+  "kodepos" : "86116"
+}, {
+  "kecamatan" : "Nelle (Maumerei)",
+  "kelurahan" : "Manubura",
+  "kodepos" : "86116"
+}, {
+  "kecamatan" : "Nelle (Maumerei)",
+  "kelurahan" : "Nelle Barat",
+  "kodepos" : "86116"
+}, {
+  "kecamatan" : "Alok Timur",
+  "kelurahan" : "Lepolima",
+  "kodepos" : "86116"
+}, {
+  "kecamatan" : "Koting",
+  "kelurahan" : "Koting D",
+  "kodepos" : "86116"
+}, {
+  "kecamatan" : "Koting",
+  "kelurahan" : "Koting A",
+  "kodepos" : "86116"
+}, {
+  "kecamatan" : "Koting",
+  "kelurahan" : "Koting B",
+  "kodepos" : "86116"
+}, {
+  "kecamatan" : "Koting",
+  "kelurahan" : "Koting C",
+  "kodepos" : "86116"
+}, {
+  "kecamatan" : "Alok Timur",
+  "kelurahan" : "Kojagete",
+  "kodepos" : "86116"
+}, {
+  "kecamatan" : "Alok",
+  "kelurahan" : "Gunung Sari",
+  "kodepos" : "86116"
+}, {
+  "kecamatan" : "Alok Timur",
+  "kelurahan" : "Kojadoi",
+  "kodepos" : "86116"
+}, {
+  "kecamatan" : "Alok Barat",
+  "kelurahan" : "Hewuli",
+  "kodepos" : "86115"
+}, {
+  "kecamatan" : "Alok Barat",
+  "kelurahan" : "Wuring",
+  "kodepos" : "86115"
+}, {
+  "kecamatan" : "Alok Barat",
+  "kelurahan" : "Wolomarang",
+  "kodepos" : "86114"
+}, {
+  "kecamatan" : "Alok Barat",
+  "kelurahan" : "Wailiti",
+  "kodepos" : "86114"
+}, {
+  "kecamatan" : "Mego",
+  "kelurahan" : "Napu Gera",
+  "kodepos" : "86113"
+}, {
+  "kecamatan" : "Mego",
+  "kelurahan" : "Parabubu",
+  "kodepos" : "86113"
+}, {
+  "kecamatan" : "Mego",
+  "kelurahan" : "Wolodhesa",
+  "kodepos" : "86113"
+}, {
+  "kecamatan" : "Mego",
+  "kelurahan" : "Kowi",
+  "kodepos" : "86113"
+}, {
+  "kecamatan" : "Mego",
+  "kelurahan" : "Liakutu",
+  "kodepos" : "86113"
+}, {
+  "kecamatan" : "Alok",
+  "kelurahan" : "Kota Uneng",
+  "kodepos" : "86113"
+}, {
+  "kecamatan" : "Mego",
+  "kelurahan" : "Korobhera",
+  "kodepos" : "86113"
+}, {
+  "kecamatan" : "Mego",
+  "kelurahan" : "Dobo Nua Puu",
+  "kodepos" : "86113"
+}, {
+  "kecamatan" : "Mego",
+  "kelurahan" : "Gera",
+  "kodepos" : "86113"
+}, {
+  "kecamatan" : "Mego",
+  "kelurahan" : "Bhera",
+  "kodepos" : "86113"
+}, {
+  "kecamatan" : "Mego",
+  "kelurahan" : "Dobo",
+  "kodepos" : "86113"
+}, {
+  "kecamatan" : "Alok",
+  "kelurahan" : "Kabor",
+  "kodepos" : "86112"
+}, {
+  "kecamatan" : "Alok",
+  "kelurahan" : "Madawat",
+  "kodepos" : "86112"
+}, {
+  "kecamatan" : "Alok Timur",
+  "kelurahan" : "Wairotang",
+  "kodepos" : "86111"
+}, {
+  "kecamatan" : "Palue",
+  "kelurahan" : "Tuanggeo",
+  "kodepos" : "86111"
+}, {
+  "kecamatan" : "Palue",
+  "kelurahan" : "Tuanggeo",
+  "kodepos" : "86111"
+}, {
+  "kecamatan" : "Palue",
+  "kelurahan" : "Rokirole",
+  "kodepos" : "86111"
+}, {
+  "kecamatan" : "Palue",
+  "kelurahan" : "Reruwairere",
+  "kodepos" : "86111"
+}, {
+  "kecamatan" : "Palue",
+  "kelurahan" : "Nitunglea",
+  "kodepos" : "86111"
+}, {
+  "kecamatan" : "Palue",
+  "kelurahan" : "Maluriwu",
+  "kodepos" : "86111"
+}, {
+  "kecamatan" : "Palue",
+  "kelurahan" : "Lidi",
+  "kodepos" : "86111"
+}, {
+  "kecamatan" : "Palue",
+  "kelurahan" : "Kesokoja",
+  "kodepos" : "86111"
+}, {
+  "kecamatan" : "Palue",
+  "kelurahan" : "Ladolaka",
+  "kodepos" : "86111"
+}, {
+  "kecamatan" : "Alok Timur",
+  "kelurahan" : "Beru",
+  "kodepos" : "86111"
+} ]

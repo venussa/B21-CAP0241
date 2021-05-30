@@ -1,0 +1,19 @@
+############### SET Rewrite ON ##################
+
+#RewriteEngine On
+
+RewriteEngine On
+Header set Access-Control-Allow-Origin "*"
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule (.*) index.php?&link=$1 [L]
+RewriteCond %{HTTP_USER_AGENT} libwww [NC,OR]
+RewriteCond %{QUERY_STRING} ^(.*)=http [NC]
+RewriteRule ^(.*)$ – [F,L]
+# disable directory listing
+Options -Indexes
+ErrorDocument 403 Fobidden-Access
+
+<ifModule mod_headers.c>
+    Header set Connection keep-alive
+</ifModule>

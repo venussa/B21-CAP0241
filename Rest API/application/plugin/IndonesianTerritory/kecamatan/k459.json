@@ -1,0 +1,977 @@
+[ {
+  "kecamatan" : "Ajibata",
+  "kelurahan" : "Sirungkungon",
+  "kodepos" : "22386"
+}, {
+  "kecamatan" : "Lumban Julu",
+  "kelurahan" : "Sionggang Tengah",
+  "kodepos" : "22386"
+}, {
+  "kecamatan" : "Lumban Julu",
+  "kelurahan" : "Sionggang Utara",
+  "kodepos" : "22386"
+}, {
+  "kecamatan" : "Bonatua Lunasi",
+  "kelurahan" : "Sinar Sabungan",
+  "kodepos" : "22386"
+}, {
+  "kecamatan" : "Lumban Julu",
+  "kelurahan" : "Sionggang Selatan",
+  "kodepos" : "22386"
+}, {
+  "kecamatan" : "Bonatua Lunasi",
+  "kelurahan" : "Sihiong",
+  "kodepos" : "22386"
+}, {
+  "kecamatan" : "Bonatua Lunasi",
+  "kelurahan" : "Silamosik II",
+  "kodepos" : "22386"
+}, {
+  "kecamatan" : "Bonatua Lunasi",
+  "kelurahan" : "Silombu",
+  "kodepos" : "22386"
+}, {
+  "kecamatan" : "Lumban Julu",
+  "kelurahan" : "Sibaruang",
+  "kodepos" : "22386"
+}, {
+  "kecamatan" : "Ajibata",
+  "kelurahan" : "Sigapiton",
+  "kodepos" : "22386"
+}, {
+  "kecamatan" : "Bonatua Lunasi",
+  "kelurahan" : "Sibadihon",
+  "kodepos" : "22386"
+}, {
+  "kecamatan" : "Lumban Julu",
+  "kelurahan" : "Pasar Lumban Julu",
+  "kodepos" : "22386"
+}, {
+  "kecamatan" : "Bonatua Lunasi",
+  "kelurahan" : "Partoruan Lumban Lobu",
+  "kodepos" : "22386"
+}, {
+  "kecamatan" : "Ajibata",
+  "kelurahan" : "Parsaoran Sibisa",
+  "kodepos" : "22386"
+}, {
+  "kecamatan" : "Ajibata",
+  "kelurahan" : "Pardomuan Motung",
+  "kodepos" : "22386"
+}, {
+  "kecamatan" : "Ajibata",
+  "kelurahan" : "Parsaoran Ajibata",
+  "kodepos" : "22386"
+}, {
+  "kecamatan" : "Bonatua Lunasi",
+  "kelurahan" : "Pardolok Lumban Lobu",
+  "kodepos" : "22386"
+}, {
+  "kecamatan" : "Ajibata",
+  "kelurahan" : "Pardamean Sibisa",
+  "kodepos" : "22386"
+}, {
+  "kecamatan" : "Ajibata",
+  "kelurahan" : "Pardomuan Ajibata",
+  "kodepos" : "22386"
+}, {
+  "kecamatan" : "Bonatua Lunasi",
+  "kelurahan" : "Naga Timbul",
+  "kodepos" : "22386"
+}, {
+  "kecamatan" : "Bonatua Lunasi",
+  "kelurahan" : "Nagatimbul Timur",
+  "kodepos" : "22386"
+}, {
+  "kecamatan" : "Ajibata",
+  "kelurahan" : "Pardamean Ajibata",
+  "kodepos" : "22386"
+}, {
+  "kecamatan" : "Bonatua Lunasi",
+  "kelurahan" : "Lumban Lobu",
+  "kodepos" : "22386"
+}, {
+  "kecamatan" : "Bonatua Lunasi",
+  "kelurahan" : "Lumban Sangkalan",
+  "kodepos" : "22386"
+}, {
+  "kecamatan" : "Ajibata",
+  "kelurahan" : "Motung",
+  "kodepos" : "22386"
+}, {
+  "kecamatan" : "Lumban Julu",
+  "kelurahan" : "Jangga Toruan",
+  "kodepos" : "22386"
+}, {
+  "kecamatan" : "Lumban Julu",
+  "kelurahan" : "Jonggi Nihuta",
+  "kodepos" : "22386"
+}, {
+  "kecamatan" : "Lumban Julu",
+  "kelurahan" : "Lintong Julu",
+  "kodepos" : "22386"
+}, {
+  "kecamatan" : "Lumban Julu",
+  "kelurahan" : "Hutanamora",
+  "kodepos" : "22386"
+}, {
+  "kecamatan" : "Lumban Julu",
+  "kelurahan" : "Jangga Dolok",
+  "kodepos" : "22386"
+}, {
+  "kecamatan" : "Bonatua Lunasi",
+  "kelurahan" : "Harungguan",
+  "kodepos" : "22386"
+}, {
+  "kecamatan" : "Lumban Julu",
+  "kelurahan" : "Hatinggian",
+  "kodepos" : "22386"
+}, {
+  "kecamatan" : "Ajibata",
+  "kelurahan" : "Horsik",
+  "kodepos" : "22386"
+}, {
+  "kecamatan" : "Lumban Julu",
+  "kelurahan" : "Aek Natolu Jaya",
+  "kodepos" : "22386"
+}, {
+  "kecamatan" : "Uluan",
+  "kelurahan" : "Sigaol Barat",
+  "kodepos" : "22385"
+}, {
+  "kecamatan" : "Uluan",
+  "kelurahan" : "Sigaol Timur",
+  "kodepos" : "22385"
+}, {
+  "kecamatan" : "Uluan",
+  "kelurahan" : "Siregar Aek Nalas",
+  "kodepos" : "22385"
+}, {
+  "kecamatan" : "Uluan",
+  "kelurahan" : "Sibuntuon",
+  "kodepos" : "22385"
+}, {
+  "kecamatan" : "Uluan",
+  "kelurahan" : "Sampuara",
+  "kodepos" : "22385"
+}, {
+  "kecamatan" : "Uluan",
+  "kelurahan" : "Parik",
+  "kodepos" : "22385"
+}, {
+  "kecamatan" : "Uluan",
+  "kelurahan" : "Partor Janji Matogu",
+  "kodepos" : "22385"
+}, {
+  "kecamatan" : "Uluan",
+  "kelurahan" : "Partoruan Janji Matogu",
+  "kodepos" : "22385"
+}, {
+  "kecamatan" : "Uluan",
+  "kelurahan" : "Parbagasan Janji Matogu",
+  "kodepos" : "22385"
+}, {
+  "kecamatan" : "Uluan",
+  "kelurahan" : "Parhabinsaran Janji Matogu",
+  "kodepos" : "22385"
+}, {
+  "kecamatan" : "Uluan",
+  "kelurahan" : "Lumban Nabolon",
+  "kodepos" : "22385"
+}, {
+  "kecamatan" : "Uluan",
+  "kelurahan" : "Marom",
+  "kodepos" : "22385"
+}, {
+  "kecamatan" : "Uluan",
+  "kelurahan" : "Lumban Binanga",
+  "kodepos" : "22385"
+}, {
+  "kecamatan" : "Uluan",
+  "kelurahan" : "Lumban Holbung",
+  "kodepos" : "22385"
+}, {
+  "kecamatan" : "Uluan",
+  "kelurahan" : "Dolok Saribu Lumban Nabolon",
+  "kodepos" : "22385"
+}, {
+  "kecamatan" : "Uluan",
+  "kelurahan" : "Dolok Nagodang",
+  "kodepos" : "22385"
+}, {
+  "kecamatan" : "Uluan",
+  "kelurahan" : "Dolok Saribu Janji Matogu",
+  "kodepos" : "22385"
+}, {
+  "kecamatan" : "Parmaksian",
+  "kelurahan" : "Tangga Batu I",
+  "kodepos" : "22384"
+}, {
+  "kecamatan" : "Parmaksian",
+  "kelurahan" : "Tangga Batu II",
+  "kodepos" : "22384"
+}, {
+  "kecamatan" : "Porsea",
+  "kelurahan" : "Silamosik I",
+  "kodepos" : "22384"
+}, {
+  "kecamatan" : "Porsea",
+  "kelurahan" : "Simpang Sigura-Gura",
+  "kodepos" : "22384"
+}, {
+  "kecamatan" : "Siantar Narumonda",
+  "kelurahan" : "Siantar Tonga Tonga II",
+  "kodepos" : "22384"
+}, {
+  "kecamatan" : "Parmaksian",
+  "kelurahan" : "Siantar Utara",
+  "kodepos" : "22384"
+}, {
+  "kecamatan" : "Siantar Narumonda",
+  "kelurahan" : "Siantar Tonga-Tonga III",
+  "kodepos" : "22384"
+}, {
+  "kecamatan" : "Siantar Narumonda",
+  "kelurahan" : "Siantar Sitiotio",
+  "kodepos" : "22384"
+}, {
+  "kecamatan" : "Siantar Narumonda",
+  "kelurahan" : "Siantar Tonga Tonga I",
+  "kodepos" : "22384"
+}, {
+  "kecamatan" : "Siantar Narumonda",
+  "kelurahan" : "Siantar Dangsina",
+  "kodepos" : "22384"
+}, {
+  "kecamatan" : "Siantar Narumonda",
+  "kelurahan" : "Siantar Sigordang",
+  "kodepos" : "22384"
+}, {
+  "kecamatan" : "Porsea",
+  "kelurahan" : "Raut Bosi",
+  "kodepos" : "22384"
+}, {
+  "kecamatan" : "Pintu Pohan Meranti",
+  "kelurahan" : "Pintu Pohan",
+  "kodepos" : "22384"
+}, {
+  "kecamatan" : "Pintu Pohan Meranti",
+  "kelurahan" : "Pintu Pohan Dolok",
+  "kodepos" : "22384"
+}, {
+  "kecamatan" : "Porsea",
+  "kelurahan" : "Patane IV",
+  "kodepos" : "22384"
+}, {
+  "kecamatan" : "Porsea",
+  "kelurahan" : "Patane V",
+  "kodepos" : "22384"
+}, {
+  "kecamatan" : "Porsea",
+  "kelurahan" : "Patane II",
+  "kodepos" : "22384"
+}, {
+  "kecamatan" : "Porsea",
+  "kelurahan" : "Patane III",
+  "kodepos" : "22384"
+}, {
+  "kecamatan" : "Porsea",
+  "kelurahan" : "Patane I",
+  "kodepos" : "22384"
+}, {
+  "kecamatan" : "Porsea",
+  "kelurahan" : "Parparean III",
+  "kodepos" : "22384"
+}, {
+  "kecamatan" : "Porsea",
+  "kelurahan" : "Parparean IV",
+  "kodepos" : "22384"
+}, {
+  "kecamatan" : "Porsea",
+  "kelurahan" : "Pasar Porsea",
+  "kodepos" : "22384"
+}, {
+  "kecamatan" : "Porsea",
+  "kelurahan" : "Parparean I",
+  "kodepos" : "22384"
+}, {
+  "kecamatan" : "Porsea",
+  "kelurahan" : "Parparean II",
+  "kodepos" : "22384"
+}, {
+  "kecamatan" : "Parmaksian",
+  "kelurahan" : "Pangombusan",
+  "kodepos" : "22384"
+}, {
+  "kecamatan" : "Siantar Narumonda",
+  "kelurahan" : "Narumonda VIII",
+  "kodepos" : "22384"
+}, {
+  "kecamatan" : "Siantar Narumonda",
+  "kelurahan" : "Narumonda VII",
+  "kodepos" : "22384"
+}, {
+  "kecamatan" : "Siantar Narumonda",
+  "kelurahan" : "Narumonda VI",
+  "kodepos" : "22384"
+}, {
+  "kecamatan" : "Siantar Narumonda",
+  "kelurahan" : "Narumonda III",
+  "kodepos" : "22384"
+}, {
+  "kecamatan" : "Siantar Narumonda",
+  "kelurahan" : "Narumonda IV",
+  "kodepos" : "22384"
+}, {
+  "kecamatan" : "Siantar Narumonda",
+  "kelurahan" : "Narumonda V",
+  "kodepos" : "22384"
+}, {
+  "kecamatan" : "Siantar Narumonda",
+  "kelurahan" : "Narumonda II",
+  "kodepos" : "22384"
+}, {
+  "kecamatan" : "Siantar Narumonda",
+  "kelurahan" : "Narumonda I",
+  "kodepos" : "22384"
+}, {
+  "kecamatan" : "Pintu Pohan Meranti",
+  "kelurahan" : "Meranti Utara",
+  "kodepos" : "22384"
+}, {
+  "kecamatan" : "Porsea",
+  "kelurahan" : "Nalela",
+  "kodepos" : "22384"
+}, {
+  "kecamatan" : "Pintu Pohan Meranti",
+  "kelurahan" : "Meranti Timur",
+  "kodepos" : "22384"
+}, {
+  "kecamatan" : "Pintu Pohan Meranti",
+  "kelurahan" : "Meranti Tengah",
+  "kodepos" : "22384"
+}, {
+  "kecamatan" : "Parmaksian",
+  "kelurahan" : "Lumban Manurung",
+  "kodepos" : "22384"
+}, {
+  "kecamatan" : "Parmaksian",
+  "kelurahan" : "Lumban Sitorus",
+  "kodepos" : "22384"
+}, {
+  "kecamatan" : "Porsea",
+  "kelurahan" : "Lumban Gurning",
+  "kodepos" : "22384"
+}, {
+  "kecamatan" : "Parmaksian",
+  "kelurahan" : "Lumban Huala",
+  "kodepos" : "22384"
+}, {
+  "kecamatan" : "Parmaksian",
+  "kelurahan" : "Jonggi Manulus",
+  "kodepos" : "22384"
+}, {
+  "kecamatan" : "Pintu Pohan Meranti",
+  "kelurahan" : "Halado",
+  "kodepos" : "22384"
+}, {
+  "kecamatan" : "Porsea",
+  "kelurahan" : "Gala Gala Pangkailan",
+  "kodepos" : "22384"
+}, {
+  "kecamatan" : "Parmaksian",
+  "kelurahan" : "Bius Gu Barat",
+  "kodepos" : "22384"
+}, {
+  "kecamatan" : "Parmaksian",
+  "kelurahan" : "Dolok Nauli",
+  "kodepos" : "22384"
+}, {
+  "kecamatan" : "Porsea",
+  "kelurahan" : "Amborgang",
+  "kodepos" : "22384"
+}, {
+  "kecamatan" : "Parmaksian",
+  "kelurahan" : "Banjar Ganjang",
+  "kodepos" : "22384"
+}, {
+  "kecamatan" : "Pintu Pohan Meranti",
+  "kelurahan" : "Ambar Halim",
+  "kodepos" : "22384"
+}, {
+  "kecamatan" : "Habinsaran",
+  "kelurahan" : "Taon Marisi",
+  "kodepos" : "22383"
+}, {
+  "kecamatan" : "Habinsaran",
+  "kelurahan" : "Tornagodang",
+  "kodepos" : "22383"
+}, {
+  "kecamatan" : "Habinsaran",
+  "kelurahan" : "Sibuntuon",
+  "kodepos" : "22383"
+}, {
+  "kecamatan" : "Bor-Bor",
+  "kelurahan" : "Simare",
+  "kodepos" : "22383"
+}, {
+  "kecamatan" : "Nassau",
+  "kelurahan" : "Sipagabu",
+  "kodepos" : "22383"
+}, {
+  "kecamatan" : "Bor-Bor",
+  "kelurahan" : "Riganjang",
+  "kodepos" : "22383"
+}, {
+  "kecamatan" : "Nassau",
+  "kelurahan" : "Siantarasa",
+  "kodepos" : "22383"
+}, {
+  "kecamatan" : "Bor-Bor",
+  "kelurahan" : "Purba Tua",
+  "kodepos" : "22383"
+}, {
+  "kecamatan" : "Bor-Bor",
+  "kelurahan" : "Rianiate",
+  "kodepos" : "22383"
+}, {
+  "kecamatan" : "Bor-Bor",
+  "kelurahan" : "Pasar Borbor",
+  "kodepos" : "22383"
+}, {
+  "kecamatan" : "Habinsaran",
+  "kelurahan" : "Parsoburan Tengah",
+  "kodepos" : "22383"
+}, {
+  "kecamatan" : "Bor-Bor",
+  "kelurahan" : "Pardomuan Nauli",
+  "kodepos" : "22383"
+}, {
+  "kecamatan" : "Habinsaran",
+  "kelurahan" : "Parsoburan Barat",
+  "kodepos" : "22383"
+}, {
+  "kecamatan" : "Habinsaran",
+  "kelurahan" : "Pararungan",
+  "kodepos" : "22383"
+}, {
+  "kecamatan" : "Bor-Bor",
+  "kelurahan" : "Pangururan",
+  "kodepos" : "22383"
+}, {
+  "kecamatan" : "Bor-Bor",
+  "kelurahan" : "Pangururan II",
+  "kodepos" : "22383"
+}, {
+  "kecamatan" : "Bor-Bor",
+  "kelurahan" : "Pangururan III",
+  "kodepos" : "22383"
+}, {
+  "kecamatan" : "Habinsaran",
+  "kelurahan" : "Panamparan",
+  "kodepos" : "22383"
+}, {
+  "kecamatan" : "Habinsaran",
+  "kelurahan" : "Pangunjungan",
+  "kodepos" : "22383"
+}, {
+  "kecamatan" : "Bor-Bor",
+  "kelurahan" : "Natu Mingka",
+  "kodepos" : "22383"
+}, {
+  "kecamatan" : "Habinsaran",
+  "kelurahan" : "Pagar Batu",
+  "kodepos" : "22383"
+}, {
+  "kecamatan" : "Bor-Bor",
+  "kelurahan" : "Lumban Sewa",
+  "kodepos" : "22383"
+}, {
+  "kecamatan" : "Habinsaran",
+  "kelurahan" : "Lumban Ruhap/Ruhaya",
+  "kodepos" : "22383"
+}, {
+  "kecamatan" : "Nassau",
+  "kelurahan" : "Napajoriho",
+  "kodepos" : "22383"
+}, {
+  "kecamatan" : "Nassau",
+  "kelurahan" : "Lumban Rau Timur",
+  "kodepos" : "22383"
+}, {
+  "kecamatan" : "Nassau",
+  "kelurahan" : "Lumban Rau Utara",
+  "kodepos" : "22383"
+}, {
+  "kecamatan" : "Nassau",
+  "kelurahan" : "Lumban Rau Tenggara",
+  "kodepos" : "22383"
+}, {
+  "kecamatan" : "Nassau",
+  "kelurahan" : "Lumban Rau Tengah",
+  "kodepos" : "22383"
+}, {
+  "kecamatan" : "Habinsaran",
+  "kelurahan" : "Lumban Rau Balik",
+  "kodepos" : "22383"
+}, {
+  "kecamatan" : "Habinsaran",
+  "kelurahan" : "Lumban Rau Barat",
+  "kodepos" : "22383"
+}, {
+  "kecamatan" : "Habinsaran",
+  "kelurahan" : "Lumban Rau Selatan",
+  "kodepos" : "22383"
+}, {
+  "kecamatan" : "Habinsaran",
+  "kelurahan" : "Lumban Pinasa",
+  "kodepos" : "22383"
+}, {
+  "kecamatan" : "Habinsaran",
+  "kelurahan" : "Lumban Pinasa Saroba",
+  "kodepos" : "22383"
+}, {
+  "kecamatan" : "Habinsaran",
+  "kelurahan" : "Lumban Lintong",
+  "kodepos" : "22383"
+}, {
+  "kecamatan" : "Habinsaran",
+  "kelurahan" : "Lumban Pea",
+  "kodepos" : "22383"
+}, {
+  "kecamatan" : "Bor-Bor",
+  "kelurahan" : "Lintong",
+  "kodepos" : "22383"
+}, {
+  "kecamatan" : "Habinsaran",
+  "kelurahan" : "Lobu Hole",
+  "kodepos" : "22383"
+}, {
+  "kecamatan" : "Habinsaran",
+  "kelurahan" : "Lumban Gaol",
+  "kodepos" : "22383"
+}, {
+  "kecamatan" : "Nassau",
+  "kelurahan" : "Liat Tondung",
+  "kodepos" : "22383"
+}, {
+  "kecamatan" : "Bor-Bor",
+  "kelurahan" : "Hutagurgur",
+  "kodepos" : "22383"
+}, {
+  "kecamatan" : "Bor-Bor",
+  "kelurahan" : "Janji Maria",
+  "kodepos" : "22383"
+}, {
+  "kecamatan" : "Habinsaran",
+  "kelurahan" : "Hitetano (Tite Tano)",
+  "kodepos" : "22383"
+}, {
+  "kecamatan" : "Nassau",
+  "kelurahan" : "Cinta Damai",
+  "kodepos" : "22383"
+}, {
+  "kecamatan" : "Habinsaran",
+  "kelurahan" : "Batu Nabolon",
+  "kodepos" : "22383"
+}, {
+  "kecamatan" : "Nassau",
+  "kelurahan" : "Batu Manumpak",
+  "kodepos" : "22383"
+}, {
+  "kecamatan" : "Bor-Bor",
+  "kelurahan" : "Aek Unsim",
+  "kodepos" : "22383"
+}, {
+  "kecamatan" : "Habinsaran",
+  "kelurahan" : "Aek Ulok",
+  "kodepos" : "22383"
+}, {
+  "kecamatan" : "Silaen",
+  "kelurahan" : "Siringkiron",
+  "kodepos" : "22382"
+}, {
+  "kecamatan" : "Silaen",
+  "kelurahan" : "Sitorang I",
+  "kodepos" : "22382"
+}, {
+  "kecamatan" : "Silaen",
+  "kelurahan" : "Silaen",
+  "kodepos" : "22382"
+}, {
+  "kecamatan" : "Silaen",
+  "kelurahan" : "Simanobak",
+  "kodepos" : "22382"
+}, {
+  "kecamatan" : "Silaen",
+  "kelurahan" : "Sinta Dame (Cinta Damai)",
+  "kodepos" : "22382"
+}, {
+  "kecamatan" : "Silaen",
+  "kelurahan" : "Sibide Barat",
+  "kodepos" : "22382"
+}, {
+  "kecamatan" : "Silaen",
+  "kelurahan" : "Pardomuan",
+  "kodepos" : "22382"
+}, {
+  "kecamatan" : "Silaen",
+  "kelurahan" : "Sigodang Tua",
+  "kodepos" : "22382"
+}, {
+  "kecamatan" : "Silaen",
+  "kelurahan" : "Natolutali",
+  "kodepos" : "22382"
+}, {
+  "kecamatan" : "Silaen",
+  "kelurahan" : "Parsambilan",
+  "kodepos" : "22382"
+}, {
+  "kecamatan" : "Silaen",
+  "kelurahan" : "Napitupulu",
+  "kodepos" : "22382"
+}, {
+  "kecamatan" : "Silaen",
+  "kelurahan" : "Pintu Batu",
+  "kodepos" : "22382"
+}, {
+  "kecamatan" : "Silaen",
+  "kelurahan" : "Marbulang",
+  "kodepos" : "22382"
+}, {
+  "kecamatan" : "Silaen",
+  "kelurahan" : "Sibide",
+  "kodepos" : "22382"
+}, {
+  "kecamatan" : "Silaen",
+  "kelurahan" : "Meranti Barat",
+  "kodepos" : "22382"
+}, {
+  "kecamatan" : "Silaen",
+  "kelurahan" : "Ombur",
+  "kodepos" : "22382"
+}, {
+  "kecamatan" : "Silaen",
+  "kelurahan" : "Hutagaol Sihujur",
+  "kodepos" : "22382"
+}, {
+  "kecamatan" : "Silaen",
+  "kelurahan" : "Panindi",
+  "kodepos" : "22382"
+}, {
+  "kecamatan" : "Silaen",
+  "kelurahan" : "Lumban Dolok",
+  "kodepos" : "22382"
+}, {
+  "kecamatan" : "Silaen",
+  "kelurahan" : "Huta Namora",
+  "kodepos" : "22382"
+}, {
+  "kecamatan" : "Silaen",
+  "kelurahan" : "Huta Gurgur I",
+  "kodepos" : "22382"
+}, {
+  "kecamatan" : "Silaen",
+  "kelurahan" : "Huta Gurgur II",
+  "kodepos" : "22382"
+}, {
+  "kecamatan" : "Laguboti",
+  "kelurahan" : "Tinggir Nipasir",
+  "kodepos" : "22381"
+}, {
+  "kecamatan" : "Laguboti",
+  "kelurahan" : "Ujung Tanduk",
+  "kodepos" : "22381"
+}, {
+  "kecamatan" : "Silaen",
+  "kelurahan" : "Dalihan Natolu",
+  "kodepos" : "22382"
+}, {
+  "kecamatan" : "Sigumpar",
+  "kelurahan" : "Situa-Tua",
+  "kodepos" : "22381"
+}, {
+  "kecamatan" : "Laguboti",
+  "kelurahan" : "Sitoluama",
+  "kodepos" : "22381"
+}, {
+  "kecamatan" : "Laguboti",
+  "kelurahan" : "Siraja Gorat",
+  "kodepos" : "22381"
+}, {
+  "kecamatan" : "Laguboti",
+  "kelurahan" : "Sitangkola",
+  "kodepos" : "22381"
+}, {
+  "kecamatan" : "Laguboti",
+  "kelurahan" : "Simatibung",
+  "kodepos" : "22381"
+}, {
+  "kecamatan" : "Laguboti",
+  "kelurahan" : "Sintong Marnipi",
+  "kodepos" : "22381"
+}, {
+  "kecamatan" : "Sigumpar",
+  "kelurahan" : "Sigumpar Dangsina",
+  "kodepos" : "22381"
+}, {
+  "kecamatan" : "Sigumpar",
+  "kelurahan" : "Sigumpar Julu",
+  "kodepos" : "22381"
+}, {
+  "kecamatan" : "Sigumpar",
+  "kelurahan" : "Sigumpar Barat",
+  "kodepos" : "22381"
+}, {
+  "kecamatan" : "Sigumpar",
+  "kelurahan" : "Sigumpar",
+  "kodepos" : "22381"
+}, {
+  "kecamatan" : "Laguboti",
+  "kelurahan" : "Sibuea",
+  "kodepos" : "22381"
+}, {
+  "kecamatan" : "Laguboti",
+  "kelurahan" : "Sidulang",
+  "kodepos" : "22381"
+}, {
+  "kecamatan" : "Laguboti",
+  "kelurahan" : "Pintu Bosi",
+  "kodepos" : "22381"
+}, {
+  "kecamatan" : "Laguboti",
+  "kelurahan" : "Sibarani Nasampulu",
+  "kodepos" : "22381"
+}, {
+  "kecamatan" : "Laguboti",
+  "kelurahan" : "Pasar Lagu Boti",
+  "kodepos" : "22381"
+}, {
+  "kecamatan" : "Laguboti",
+  "kelurahan" : "Pardinggaran",
+  "kodepos" : "22381"
+}, {
+  "kecamatan" : "Laguboti",
+  "kelurahan" : "Pardomuan Nauli",
+  "kodepos" : "22381"
+}, {
+  "kecamatan" : "Laguboti",
+  "kelurahan" : "Ompu Raja Hutapea",
+  "kodepos" : "22381"
+}, {
+  "kecamatan" : "Laguboti",
+  "kelurahan" : "Ompu Raja Hutapea Timur",
+  "kodepos" : "22381"
+}, {
+  "kecamatan" : "Sigumpar",
+  "kelurahan" : "Nauli",
+  "kodepos" : "22381"
+}, {
+  "kecamatan" : "Laguboti",
+  "kelurahan" : "Ompu Raja Hatulian",
+  "kodepos" : "22381"
+}, {
+  "kecamatan" : "Sigumpar",
+  "kelurahan" : "Marsangap",
+  "kodepos" : "22381"
+}, {
+  "kecamatan" : "Laguboti",
+  "kelurahan" : "Lumban Binanga",
+  "kodepos" : "22381"
+}, {
+  "kecamatan" : "Sigumpar",
+  "kelurahan" : "Maju",
+  "kodepos" : "22381"
+}, {
+  "kecamatan" : "Laguboti",
+  "kelurahan" : "Haunatas II",
+  "kodepos" : "22381"
+}, {
+  "kecamatan" : "Laguboti",
+  "kelurahan" : "Lumban Bagasan",
+  "kodepos" : "22381"
+}, {
+  "kecamatan" : "Laguboti",
+  "kelurahan" : "Gasa Ribu",
+  "kodepos" : "22381"
+}, {
+  "kecamatan" : "Laguboti",
+  "kelurahan" : "Haunatas I",
+  "kodepos" : "22381"
+}, {
+  "kecamatan" : "Sigumpar",
+  "kelurahan" : "Banua Huta",
+  "kodepos" : "22381"
+}, {
+  "kecamatan" : "Sigumpar",
+  "kelurahan" : "Dolok Jior",
+  "kodepos" : "22381"
+}, {
+  "kecamatan" : "Laguboti",
+  "kelurahan" : "Aruan",
+  "kodepos" : "22381"
+}, {
+  "kecamatan" : "Balige",
+  "kelurahan" : "Balige II",
+  "kodepos" : "22316"
+}, {
+  "kecamatan" : "Balige",
+  "kelurahan" : "Balige III",
+  "kodepos" : "22315"
+}, {
+  "kecamatan" : "Balige",
+  "kelurahan" : "Balige I",
+  "kodepos" : "22316"
+}, {
+  "kecamatan" : "Balige",
+  "kelurahan" : "Pardede Onan",
+  "kodepos" : "22313"
+}, {
+  "kecamatan" : "Balige",
+  "kelurahan" : "Lumban Dolok Haume Bange",
+  "kodepos" : "22314"
+}, {
+  "kecamatan" : "Tampahan",
+  "kelurahan" : "Tara Bunga",
+  "kodepos" : "22312"
+}, {
+  "kecamatan" : "Tampahan",
+  "kelurahan" : "Tangga Batu Barat",
+  "kodepos" : "22312"
+}, {
+  "kecamatan" : "Tampahan",
+  "kelurahan" : "Tangga Batu Timur",
+  "kodepos" : "22312"
+}, {
+  "kecamatan" : "Balige",
+  "kelurahan" : "Tambunan Sunge",
+  "kodepos" : "22312"
+}, {
+  "kecamatan" : "Balige",
+  "kelurahan" : "Sibuntuon",
+  "kodepos" : "22312"
+}, {
+  "kecamatan" : "Balige",
+  "kelurahan" : "Silalahi Pagar Batu",
+  "kodepos" : "22312"
+}, {
+  "kecamatan" : "Balige",
+  "kelurahan" : "Sianipar Sihail Hail",
+  "kodepos" : "22312"
+}, {
+  "kecamatan" : "Balige",
+  "kelurahan" : "Sibola Hotangsas",
+  "kodepos" : "22312"
+}, {
+  "kecamatan" : "Balige",
+  "kelurahan" : "Siboruon",
+  "kodepos" : "22312"
+}, {
+  "kecamatan" : "Balige",
+  "kelurahan" : "Sangkar Nihuta",
+  "kodepos" : "22312"
+}, {
+  "kecamatan" : "Balige",
+  "kelurahan" : "Sariburaja Janji Maria",
+  "kodepos" : "22312"
+}, {
+  "kecamatan" : "Balige",
+  "kelurahan" : "Parsuratan",
+  "kodepos" : "22312"
+}, {
+  "kecamatan" : "Balige",
+  "kelurahan" : "Paindoan",
+  "kodepos" : "22312"
+}, {
+  "kecamatan" : "Tampahan",
+  "kelurahan" : "Meat",
+  "kodepos" : "22312"
+}, {
+  "kecamatan" : "Balige",
+  "kelurahan" : "Matio",
+  "kodepos" : "22312"
+}, {
+  "kecamatan" : "Balige",
+  "kelurahan" : "Lumban Pea Timur",
+  "kodepos" : "22312"
+}, {
+  "kecamatan" : "Balige",
+  "kelurahan" : "Lumban Silintong",
+  "kodepos" : "22312"
+}, {
+  "kecamatan" : "Balige",
+  "kelurahan" : "Lumban Gaol",
+  "kodepos" : "22312"
+}, {
+  "kecamatan" : "Balige",
+  "kelurahan" : "Lumban Gorat",
+  "kodepos" : "22312"
+}, {
+  "kecamatan" : "Balige",
+  "kelurahan" : "Lumban Pea",
+  "kodepos" : "22312"
+}, {
+  "kecamatan" : "Tampahan",
+  "kelurahan" : "Lintong Nihuta",
+  "kodepos" : "22312"
+}, {
+  "kecamatan" : "Balige",
+  "kelurahan" : "Longat",
+  "kodepos" : "22312"
+}, {
+  "kecamatan" : "Balige",
+  "kelurahan" : "Lumban Bul Bul",
+  "kodepos" : "22312"
+}, {
+  "kecamatan" : "Balige",
+  "kelurahan" : "Huta Namora",
+  "kodepos" : "22312"
+}, {
+  "kecamatan" : "Balige",
+  "kelurahan" : "Hutagaol Peatalun (Peatalum)",
+  "kodepos" : "22312"
+}, {
+  "kecamatan" : "Balige",
+  "kelurahan" : "Huta Bulu Mejan",
+  "kodepos" : "22312"
+}, {
+  "kecamatan" : "Balige",
+  "kelurahan" : "Huta Dame",
+  "kodepos" : "22312"
+}, {
+  "kecamatan" : "Tampahan",
+  "kelurahan" : "Gukguk/Gurgur Aek Raja",
+  "kodepos" : "22312"
+}, {
+  "kecamatan" : "Balige",
+  "kelurahan" : "Bonan Dolok III",
+  "kodepos" : "22312"
+}, {
+  "kecamatan" : "Balige",
+  "kelurahan" : "Hinalang Bagasan",
+  "kodepos" : "22312"
+}, {
+  "kecamatan" : "Balige",
+  "kelurahan" : "Bonan Dolok I",
+  "kodepos" : "22312"
+}, {
+  "kecamatan" : "Balige",
+  "kelurahan" : "Bonan Dolok II",
+  "kodepos" : "22312"
+}, {
+  "kecamatan" : "Balige",
+  "kelurahan" : "Aek Bolon Julu",
+  "kodepos" : "22312"
+}, {
+  "kecamatan" : "Balige",
+  "kelurahan" : "Baru Ara",
+  "kodepos" : "22312"
+}, {
+  "kecamatan" : "Balige",
+  "kelurahan" : "Napitupulu Bagasan",
+  "kodepos" : "22311"
+}, {
+  "kecamatan" : "Balige",
+  "kelurahan" : "Aek Bolon Jae",
+  "kodepos" : "22312"
+} ]

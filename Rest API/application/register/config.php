@@ -1,0 +1,1 @@
+<?php (new controller)->declarate_space() ?>

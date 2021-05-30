@@ -1,0 +1,601 @@
+[ {
+  "kecamatan" : "Rambah Samo",
+  "kelurahan" : "Teluk Aur",
+  "kodepos" : "28565"
+}, {
+  "kecamatan" : "Rambah Samo",
+  "kelurahan" : "Sei Kuning",
+  "kodepos" : "28565"
+}, {
+  "kecamatan" : "Rambah Samo",
+  "kelurahan" : "Sei Salak",
+  "kodepos" : "28565"
+}, {
+  "kecamatan" : "Rambah Samo",
+  "kelurahan" : "Rambah Utama",
+  "kodepos" : "28565"
+}, {
+  "kecamatan" : "Rambah Samo",
+  "kelurahan" : "Rambah Samo",
+  "kodepos" : "28565"
+}, {
+  "kecamatan" : "Rambah Samo",
+  "kelurahan" : "Rambah Samo Barat",
+  "kodepos" : "28565"
+}, {
+  "kecamatan" : "Rambah Samo",
+  "kelurahan" : "Rambah Baru",
+  "kodepos" : "28565"
+}, {
+  "kecamatan" : "Rambah Samo",
+  "kelurahan" : "Pasir Makmur",
+  "kodepos" : "28565"
+}, {
+  "kecamatan" : "Rambah Samo",
+  "kelurahan" : "Masda Makmur",
+  "kodepos" : "28565"
+}, {
+  "kecamatan" : "Rambah Samo",
+  "kelurahan" : "Marga Mulya",
+  "kodepos" : "28565"
+}, {
+  "kecamatan" : "Rambah Samo",
+  "kelurahan" : "Lubuk Napal",
+  "kodepos" : "28565"
+}, {
+  "kecamatan" : "Rambah Samo",
+  "kelurahan" : "Langkitin",
+  "kodepos" : "28565"
+}, {
+  "kecamatan" : "Rambah Samo",
+  "kelurahan" : "Lubuk Bilang",
+  "kodepos" : "28565"
+}, {
+  "kecamatan" : "Rambah Samo",
+  "kelurahan" : "Karya Mulya",
+  "kodepos" : "28565"
+}, {
+  "kecamatan" : "Kepenuhan",
+  "kelurahan" : "Ulak Patian",
+  "kodepos" : "28559"
+}, {
+  "kecamatan" : "Bonai Darussalam",
+  "kelurahan" : "Sontang",
+  "kodepos" : "28559"
+}, {
+  "kecamatan" : "Bonai Darussalam",
+  "kelurahan" : "Teluk Sono",
+  "kodepos" : "28559"
+}, {
+  "kecamatan" : "Bonai Darussalam",
+  "kelurahan" : "Rawa Makmur",
+  "kodepos" : "28559"
+}, {
+  "kecamatan" : "Kepenuhan",
+  "kelurahan" : "Rantau Binuang Sakti",
+  "kodepos" : "28559"
+}, {
+  "kecamatan" : "Kepenuhan Hulu",
+  "kelurahan" : "Pekan Tebih",
+  "kodepos" : "28559"
+}, {
+  "kecamatan" : "Bonai Darussalam",
+  "kelurahan" : "Pauh",
+  "kodepos" : "28559"
+}, {
+  "kecamatan" : "Kepenuhan Hulu",
+  "kelurahan" : "Muara Jaya",
+  "kodepos" : "28559"
+}, {
+  "kecamatan" : "Kepenuhan",
+  "kelurahan" : "Kepenuhan Suka",
+  "kodepos" : "28559"
+}, {
+  "kecamatan" : "Kepenuhan",
+  "kelurahan" : "Kepenuhan Tengah",
+  "kodepos" : "28559"
+}, {
+  "kecamatan" : "Kepenuhan Hulu",
+  "kelurahan" : "Kepenuhan Jaya",
+  "kodepos" : "28559"
+}, {
+  "kecamatan" : "Kepenuhan",
+  "kelurahan" : "Kepenuhan Raya",
+  "kodepos" : "28559"
+}, {
+  "kecamatan" : "Kepenuhan Hulu",
+  "kelurahan" : "Kepenuhan Hulu",
+  "kodepos" : "28559"
+}, {
+  "kecamatan" : "Kepenuhan",
+  "kelurahan" : "Kepenuhan Baru",
+  "kodepos" : "28559"
+}, {
+  "kecamatan" : "Kepenuhan",
+  "kelurahan" : "Kepenuhan Hilir",
+  "kodepos" : "28559"
+}, {
+  "kecamatan" : "Kepenuhan",
+  "kelurahan" : "Kepenuhan Barat Mulya",
+  "kodepos" : "28559"
+}, {
+  "kecamatan" : "Kepenuhan",
+  "kelurahan" : "Kepenuhan Barat Sei Rokan Jaya",
+  "kodepos" : "28559"
+}, {
+  "kecamatan" : "Kepenuhan",
+  "kelurahan" : "Kepenuhan Barat",
+  "kodepos" : "28559"
+}, {
+  "kecamatan" : "Bonai Darussalam",
+  "kelurahan" : "Kasang Padang",
+  "kodepos" : "28559"
+}, {
+  "kecamatan" : "Kepenuhan Hulu",
+  "kelurahan" : "Kepayan",
+  "kodepos" : "28559"
+}, {
+  "kecamatan" : "Bonai Darussalam",
+  "kelurahan" : "Bonai",
+  "kodepos" : "28559"
+}, {
+  "kecamatan" : "Bonai Darussalam",
+  "kelurahan" : "Kasang Mungai",
+  "kodepos" : "28559"
+}, {
+  "kecamatan" : "Tambusai",
+  "kelurahan" : "Tingkok",
+  "kodepos" : "28558"
+}, {
+  "kecamatan" : "Tambusai Utara",
+  "kelurahan" : "Tanjung Medan",
+  "kodepos" : "28558"
+}, {
+  "kecamatan" : "Tambusai",
+  "kelurahan" : "Tambusai Timur",
+  "kodepos" : "28558"
+}, {
+  "kecamatan" : "Tambusai Utara",
+  "kelurahan" : "Tambusai Utara",
+  "kodepos" : "28558"
+}, {
+  "kecamatan" : "Tambusai",
+  "kelurahan" : "Tambusai Barat",
+  "kodepos" : "28558"
+}, {
+  "kecamatan" : "Tambusai",
+  "kelurahan" : "Tambusai Tengah",
+  "kodepos" : "28558"
+}, {
+  "kecamatan" : "Tambusai",
+  "kelurahan" : "Sungai Kumango",
+  "kodepos" : "28558"
+}, {
+  "kecamatan" : "Tambusai",
+  "kelurahan" : "Tali Kumain",
+  "kodepos" : "28558"
+}, {
+  "kecamatan" : "Tambusai",
+  "kelurahan" : "Suka Maju",
+  "kodepos" : "28558"
+}, {
+  "kecamatan" : "Tambusai Utara",
+  "kelurahan" : "Simpang Harapan",
+  "kodepos" : "28558"
+}, {
+  "kecamatan" : "Tambusai Utara",
+  "kelurahan" : "Suka Damai",
+  "kodepos" : "28558"
+}, {
+  "kecamatan" : "Tambusai Utara",
+  "kelurahan" : "Rantau Sakti",
+  "kodepos" : "28558"
+}, {
+  "kecamatan" : "Tambusai",
+  "kelurahan" : "Sialang Rindang",
+  "kodepos" : "28558"
+}, {
+  "kecamatan" : "Tambusai Utara",
+  "kelurahan" : "Payung Sekaki",
+  "kodepos" : "28558"
+}, {
+  "kecamatan" : "Tambusai",
+  "kelurahan" : "Rantau Panjang",
+  "kodepos" : "28558"
+}, {
+  "kecamatan" : "Tambusai Utara",
+  "kelurahan" : "Mekar Jaya",
+  "kodepos" : "28558"
+}, {
+  "kecamatan" : "Tambusai Utara",
+  "kelurahan" : "Pagar Mayang",
+  "kodepos" : "28558"
+}, {
+  "kecamatan" : "Tambusai Utara",
+  "kelurahan" : "Mahato",
+  "kodepos" : "28558"
+}, {
+  "kecamatan" : "Tambusai Utara",
+  "kelurahan" : "Mahato Sakti",
+  "kodepos" : "28558"
+}, {
+  "kecamatan" : "Tambusai",
+  "kelurahan" : "Batas",
+  "kodepos" : "28558"
+}, {
+  "kecamatan" : "Tambusai",
+  "kelurahan" : "Lubuk Soting",
+  "kodepos" : "28558"
+}, {
+  "kecamatan" : "Tambusai",
+  "kelurahan" : "Batang Kumu",
+  "kodepos" : "28558"
+}, {
+  "kecamatan" : "Tambusai Utara",
+  "kelurahan" : "Bangun Jaya",
+  "kodepos" : "28558"
+}, {
+  "kecamatan" : "Rambah",
+  "kelurahan" : "Tanjung Belit",
+  "kodepos" : "28557"
+}, {
+  "kecamatan" : "Bangun Purba",
+  "kelurahan" : "Tangun",
+  "kodepos" : "28557"
+}, {
+  "kecamatan" : "Rambah Hilir",
+  "kelurahan" : "Sungai Dua Indah",
+  "kodepos" : "28557"
+}, {
+  "kecamatan" : "Rambah Hilir",
+  "kelurahan" : "Sungai Sitolang",
+  "kodepos" : "28557"
+}, {
+  "kecamatan" : "Rambah",
+  "kelurahan" : "Sialang Jaya",
+  "kodepos" : "28557"
+}, {
+  "kecamatan" : "Rambah",
+  "kelurahan" : "Suka Maju",
+  "kodepos" : "28557"
+}, {
+  "kecamatan" : "Rambah Hilir",
+  "kelurahan" : "Serambau/Serombau Indah",
+  "kodepos" : "28557"
+}, {
+  "kecamatan" : "Rambah",
+  "kelurahan" : "Rambah Tengah Utara",
+  "kodepos" : "28557"
+}, {
+  "kecamatan" : "Rambah Hilir",
+  "kelurahan" : "Sejati",
+  "kodepos" : "28557"
+}, {
+  "kecamatan" : "Rambah",
+  "kelurahan" : "Rambah Tengah Hilir",
+  "kodepos" : "28557"
+}, {
+  "kecamatan" : "Rambah",
+  "kelurahan" : "Rambah Tengah Hulu",
+  "kodepos" : "28557"
+}, {
+  "kecamatan" : "Rambah Hilir",
+  "kelurahan" : "Rambah Muda",
+  "kodepos" : "28557"
+}, {
+  "kecamatan" : "Rambah",
+  "kelurahan" : "Rambah Tengah Barat",
+  "kodepos" : "28557"
+}, {
+  "kecamatan" : "Rambah Hilir",
+  "kelurahan" : "Rambah Hilir Timur",
+  "kodepos" : "28557"
+}, {
+  "kecamatan" : "Bangun Purba",
+  "kelurahan" : "Rambah Jaya",
+  "kodepos" : "28557"
+}, {
+  "kecamatan" : "Rambah Hilir",
+  "kelurahan" : "Rambah Hilir",
+  "kodepos" : "28557"
+}, {
+  "kecamatan" : "Rambah Hilir",
+  "kelurahan" : "Rambah Hilir Tengah",
+  "kodepos" : "28557"
+}, {
+  "kecamatan" : "Rambah",
+  "kelurahan" : "Pematang Berangan",
+  "kodepos" : "28557"
+}, {
+  "kecamatan" : "Rambah Hilir",
+  "kelurahan" : "Rambah",
+  "kodepos" : "28557"
+}, {
+  "kecamatan" : "Rambah Hilir",
+  "kelurahan" : "Pasir Utama",
+  "kodepos" : "28557"
+}, {
+  "kecamatan" : "Rambah",
+  "kelurahan" : "Pasir Maju",
+  "kodepos" : "28557"
+}, {
+  "kecamatan" : "Rambah",
+  "kelurahan" : "Pasir Pengarayan",
+  "kodepos" : "28557"
+}, {
+  "kecamatan" : "Rambah Hilir",
+  "kelurahan" : "Pasir Jaya",
+  "kodepos" : "28557"
+}, {
+  "kecamatan" : "Bangun Purba",
+  "kelurahan" : "Pasir Agung",
+  "kodepos" : "28557"
+}, {
+  "kecamatan" : "Bangun Purba",
+  "kelurahan" : "Pasir Intan",
+  "kodepos" : "28557"
+}, {
+  "kecamatan" : "Rambah",
+  "kelurahan" : "Pasir Baru",
+  "kodepos" : "28557"
+}, {
+  "kecamatan" : "Rambah Hilir",
+  "kelurahan" : "Muara Musu",
+  "kodepos" : "28557"
+}, {
+  "kecamatan" : "Rambah",
+  "kelurahan" : "Koto Tinggi",
+  "kodepos" : "28557"
+}, {
+  "kecamatan" : "Rambah",
+  "kelurahan" : "Menaming",
+  "kodepos" : "28557"
+}, {
+  "kecamatan" : "Rambah Hilir",
+  "kelurahan" : "Lubuk Krapat/Kerapat",
+  "kodepos" : "28557"
+}, {
+  "kecamatan" : "Bangun Purba",
+  "kelurahan" : "Bangun Purba Timur Jaya",
+  "kodepos" : "28557"
+}, {
+  "kecamatan" : "Bangun Purba",
+  "kelurahan" : "Bangun Purba",
+  "kodepos" : "28557"
+}, {
+  "kecamatan" : "Bangun Purba",
+  "kelurahan" : "Bangun Purba Barat",
+  "kodepos" : "28557"
+}, {
+  "kecamatan" : "Kunto Darussalam",
+  "kelurahan" : "Tanah Datar",
+  "kodepos" : "28556"
+}, {
+  "kecamatan" : "Rambah",
+  "kelurahan" : "Babussalam",
+  "kodepos" : "28557"
+}, {
+  "kecamatan" : "Kunto Darussalam",
+  "kelurahan" : "Sungai Kuti",
+  "kodepos" : "28556"
+}, {
+  "kecamatan" : "Pagaran Tapah Darussalam",
+  "kelurahan" : "Sangkir Indah",
+  "kodepos" : "28556"
+}, {
+  "kecamatan" : "Pagaran Tapah Darussalam",
+  "kelurahan" : "Rimba Jaya",
+  "kodepos" : "28556"
+}, {
+  "kecamatan" : "Pagaran Tapah Darussalam",
+  "kelurahan" : "Rimba Makmur",
+  "kodepos" : "28556"
+}, {
+  "kecamatan" : "Kunto Darussalam",
+  "kelurahan" : "Pasir Indah",
+  "kodepos" : "28556"
+}, {
+  "kecamatan" : "Kunto Darussalam",
+  "kelurahan" : "Pasir Luhur",
+  "kodepos" : "28556"
+}, {
+  "kecamatan" : "Kunto Darussalam",
+  "kelurahan" : "Muara Intan",
+  "kodepos" : "28556"
+}, {
+  "kecamatan" : "Pagaran Tapah Darussalam",
+  "kelurahan" : "Pagaran Tapah",
+  "kodepos" : "28556"
+}, {
+  "kecamatan" : "Kunto Darussalam",
+  "kelurahan" : "Kota Lama",
+  "kodepos" : "28556"
+}, {
+  "kecamatan" : "Kunto Darussalam",
+  "kelurahan" : "Kota Raya",
+  "kodepos" : "28556"
+}, {
+  "kecamatan" : "Kunto Darussalam",
+  "kelurahan" : "Muara Dilam",
+  "kodepos" : "28556"
+}, {
+  "kecamatan" : "Kunto Darussalam",
+  "kelurahan" : "Kota Baru",
+  "kodepos" : "28556"
+}, {
+  "kecamatan" : "Kunto Darussalam",
+  "kelurahan" : "Kota Intan",
+  "kodepos" : "28556"
+}, {
+  "kecamatan" : "Kunto Darussalam",
+  "kelurahan" : "Intan Jaya",
+  "kodepos" : "28556"
+}, {
+  "kecamatan" : "Pagaran Tapah Darussalam",
+  "kelurahan" : "Kembang Damai",
+  "kodepos" : "28556"
+}, {
+  "kecamatan" : "Kunto Darussalam",
+  "kelurahan" : "Bagan Tujuh",
+  "kodepos" : "28556"
+}, {
+  "kecamatan" : "Kunto Darussalam",
+  "kelurahan" : "Bukit Intan Makmur",
+  "kodepos" : "28556"
+}, {
+  "kecamatan" : "Rokan IV Koto",
+  "kelurahan" : "Tibawan",
+  "kodepos" : "28555"
+}, {
+  "kecamatan" : "Rokan IV Koto",
+  "kelurahan" : "Tanjung Medan",
+  "kodepos" : "28555"
+}, {
+  "kecamatan" : "Pendalian IV Koto",
+  "kelurahan" : "Suligi",
+  "kodepos" : "28555"
+}, {
+  "kecamatan" : "Rokan IV Koto",
+  "kelurahan" : "Sikebau Jaya",
+  "kodepos" : "28555"
+}, {
+  "kecamatan" : "Pendalian IV Koto",
+  "kelurahan" : "Sei Kandis",
+  "kodepos" : "28555"
+}, {
+  "kecamatan" : "Pendalian IV Koto",
+  "kelurahan" : "Sei Kandis",
+  "kodepos" : "28555"
+}, {
+  "kecamatan" : "Rokan IV Koto",
+  "kelurahan" : "Rokan",
+  "kodepos" : "28555"
+}, {
+  "kecamatan" : "Rokan IV Koto",
+  "kelurahan" : "Rokan Koto Ruang",
+  "kodepos" : "28555"
+}, {
+  "kecamatan" : "Rokan IV Koto",
+  "kelurahan" : "Pemandang",
+  "kodepos" : "28555"
+}, {
+  "kecamatan" : "Pendalian IV Koto",
+  "kelurahan" : "Pendalian",
+  "kodepos" : "28555"
+}, {
+  "kecamatan" : "Rokan IV Koto",
+  "kelurahan" : "Lubuk Bendahara Timur",
+  "kodepos" : "28555"
+}, {
+  "kecamatan" : "Rokan IV Koto",
+  "kelurahan" : "Lubuk Betung",
+  "kodepos" : "28555"
+}, {
+  "kecamatan" : "Rokan IV Koto",
+  "kelurahan" : "Cipang Kiri Hulu",
+  "kodepos" : "28555"
+}, {
+  "kecamatan" : "Rokan IV Koto",
+  "kelurahan" : "Lubuk Bendahara",
+  "kodepos" : "28555"
+}, {
+  "kecamatan" : "Rokan IV Koto",
+  "kelurahan" : "Cipang Kiri Hilir",
+  "kodepos" : "28555"
+}, {
+  "kecamatan" : "Rokan IV Koto",
+  "kelurahan" : "Cipang Kanan",
+  "kodepos" : "28555"
+}, {
+  "kecamatan" : "Pendalian IV Koto",
+  "kelurahan" : "Bengkolan Salak",
+  "kodepos" : "28555"
+}, {
+  "kecamatan" : "Rokan IV Koto",
+  "kelurahan" : "Alahan",
+  "kodepos" : "28555"
+}, {
+  "kecamatan" : "Ujung Batu",
+  "kelurahan" : "Ujung Batu Timur",
+  "kodepos" : "28554"
+}, {
+  "kecamatan" : "Pendalian IV Koto",
+  "kelurahan" : "Air Panas",
+  "kodepos" : "28555"
+}, {
+  "kecamatan" : "Tandun",
+  "kelurahan" : "Tapung Jaya",
+  "kodepos" : "28554"
+}, {
+  "kecamatan" : "Ujung Batu",
+  "kelurahan" : "Ujung Batu",
+  "kodepos" : "28554"
+}, {
+  "kecamatan" : "Tandun",
+  "kelurahan" : "Tandun Barat",
+  "kodepos" : "28554"
+}, {
+  "kecamatan" : "Tandun",
+  "kelurahan" : "Sei/Sungai Kuning",
+  "kodepos" : "28554"
+}, {
+  "kecamatan" : "Tandun",
+  "kelurahan" : "Tandun",
+  "kodepos" : "28554"
+}, {
+  "kecamatan" : "Tandun",
+  "kelurahan" : "Tandun",
+  "kodepos" : "28554"
+}, {
+  "kecamatan" : "Ujung Batu",
+  "kelurahan" : "Pematang Tebih",
+  "kodepos" : "28554"
+}, {
+  "kecamatan" : "Tandun",
+  "kelurahan" : "Puo Raya",
+  "kodepos" : "28554"
+}, {
+  "kecamatan" : "Ujung Batu",
+  "kelurahan" : "Ngaso",
+  "kodepos" : "28554"
+}, {
+  "kecamatan" : "Tandun",
+  "kelurahan" : "Kumain",
+  "kodepos" : "28554"
+}, {
+  "kecamatan" : "Kabun",
+  "kelurahan" : "Kota/Koto Ranah",
+  "kodepos" : "28554"
+}, {
+  "kecamatan" : "Tandun",
+  "kelurahan" : "Koto Tandun",
+  "kodepos" : "28554"
+}, {
+  "kecamatan" : "Kabun",
+  "kelurahan" : "Giti",
+  "kodepos" : "28554"
+}, {
+  "kecamatan" : "Kabun",
+  "kelurahan" : "Kabun",
+  "kodepos" : "28554"
+}, {
+  "kecamatan" : "Tandun",
+  "kelurahan" : "Dayo",
+  "kodepos" : "28554"
+}, {
+  "kecamatan" : "Kabun",
+  "kelurahan" : "Bencah/Boncah Kesuma",
+  "kodepos" : "28554"
+}, {
+  "kecamatan" : "Tandun",
+  "kelurahan" : "Bono Tapung",
+  "kodepos" : "28554"
+}, {
+  "kecamatan" : "Kabun",
+  "kelurahan" : "Aliantan",
+  "kodepos" : "28554"
+}, {
+  "kecamatan" : "Kabun",
+  "kelurahan" : "Batu Langkah Besar",
+  "kodepos" : "28554"
+} ]

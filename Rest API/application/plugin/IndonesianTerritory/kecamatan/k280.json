@@ -1,0 +1,605 @@
+[ {
+  "kecamatan" : "Golewa",
+  "kelurahan" : "Were IV",
+  "kodepos" : "86461"
+}, {
+  "kecamatan" : "Golewa",
+  "kelurahan" : "Were I",
+  "kodepos" : "86461"
+}, {
+  "kecamatan" : "Golewa Selatan",
+  "kelurahan" : "Were II",
+  "kodepos" : "86461"
+}, {
+  "kecamatan" : "Golewa Selatan",
+  "kelurahan" : "Were III",
+  "kodepos" : "86461"
+}, {
+  "kecamatan" : "Golewa",
+  "kelurahan" : "Were",
+  "kodepos" : "86461"
+}, {
+  "kecamatan" : "Golewa Selatan",
+  "kelurahan" : "Watusipi",
+  "kodepos" : "86461"
+}, {
+  "kecamatan" : "Golewa",
+  "kelurahan" : "Wae Ia",
+  "kodepos" : "86461"
+}, {
+  "kecamatan" : "Golewa Barat",
+  "kelurahan" : "Watunay",
+  "kodepos" : "86461"
+}, {
+  "kecamatan" : "Golewa Selatan",
+  "kelurahan" : "Wagowela",
+  "kodepos" : "86461"
+}, {
+  "kecamatan" : "Golewa Barat",
+  "kelurahan" : "Turekisa",
+  "kodepos" : "86461"
+}, {
+  "kecamatan" : "Golewa",
+  "kelurahan" : "Ulubelu",
+  "kodepos" : "86461"
+}, {
+  "kecamatan" : "Golewa Selatan",
+  "kelurahan" : "Takatunga",
+  "kodepos" : "86461"
+}, {
+  "kecamatan" : "Golewa",
+  "kelurahan" : "Todabelu",
+  "kodepos" : "86461"
+}, {
+  "kecamatan" : "Golewa Barat",
+  "kelurahan" : "Sobo I",
+  "kodepos" : "86461"
+}, {
+  "kecamatan" : "Golewa Barat",
+  "kelurahan" : "Sobo",
+  "kodepos" : "86461"
+}, {
+  "kecamatan" : "Golewa",
+  "kelurahan" : "Sarasedu",
+  "kodepos" : "86461"
+}, {
+  "kecamatan" : "Golewa",
+  "kelurahan" : "Sarasedu I",
+  "kodepos" : "86461"
+}, {
+  "kecamatan" : "Golewa",
+  "kelurahan" : "Sangadeto",
+  "kodepos" : "86461"
+}, {
+  "kecamatan" : "Golewa Selatan",
+  "kelurahan" : "Sadha",
+  "kodepos" : "86461"
+}, {
+  "kecamatan" : "Golewa",
+  "kelurahan" : "Ratogesa",
+  "kodepos" : "86461"
+}, {
+  "kecamatan" : "Golewa Barat",
+  "kelurahan" : "Rakateda II",
+  "kodepos" : "86461"
+}, {
+  "kecamatan" : "Golewa Barat",
+  "kelurahan" : "Rakateda I",
+  "kodepos" : "86461"
+}, {
+  "kecamatan" : "Golewa Barat",
+  "kelurahan" : "Rakalaba",
+  "kodepos" : "86461"
+}, {
+  "kecamatan" : "Golewa Selatan",
+  "kelurahan" : "Radamasa",
+  "kodepos" : "86461"
+}, {
+  "kecamatan" : "Golewa",
+  "kelurahan" : "Radabata",
+  "kodepos" : "86461"
+}, {
+  "kecamatan" : "Golewa Selatan",
+  "kelurahan" : "Nirmala",
+  "kodepos" : "86461"
+}, {
+  "kecamatan" : "Golewa",
+  "kelurahan" : "Mataloko",
+  "kodepos" : "86461"
+}, {
+  "kecamatan" : "Golewa Barat",
+  "kelurahan" : "Mangulewa",
+  "kodepos" : "86461"
+}, {
+  "kecamatan" : "Golewa",
+  "kelurahan" : "Malanuza I",
+  "kodepos" : "86461"
+}, {
+  "kecamatan" : "Golewa Selatan",
+  "kelurahan" : "Kezewea",
+  "kodepos" : "86461"
+}, {
+  "kecamatan" : "Golewa",
+  "kelurahan" : "Malanuza",
+  "kodepos" : "86461"
+}, {
+  "kecamatan" : "Golewa Barat",
+  "kelurahan" : "Dizi gedha",
+  "kodepos" : "86461"
+}, {
+  "kecamatan" : "Golewa",
+  "kelurahan" : "Eko Roka",
+  "kodepos" : "86461"
+}, {
+  "kecamatan" : "Golewa",
+  "kelurahan" : "Dadawea",
+  "kodepos" : "86461"
+}, {
+  "kecamatan" : "Golewa Barat",
+  "kelurahan" : "Bea Pawe",
+  "kodepos" : "86461"
+}, {
+  "kecamatan" : "Golewa Selatan",
+  "kelurahan" : "Boba",
+  "kodepos" : "86461"
+}, {
+  "kecamatan" : "Golewa Selatan",
+  "kelurahan" : "Boba I",
+  "kodepos" : "86461"
+}, {
+  "kecamatan" : "Golewa Selatan",
+  "kelurahan" : "Bawarani",
+  "kodepos" : "86461"
+}, {
+  "kecamatan" : "Jerebuu",
+  "kelurahan" : "Watumanu",
+  "kodepos" : "86452"
+}, {
+  "kecamatan" : "Inerie",
+  "kelurahan" : "Warupele I",
+  "kodepos" : "86452"
+}, {
+  "kecamatan" : "Inerie",
+  "kelurahan" : "Warupele II",
+  "kodepos" : "86452"
+}, {
+  "kecamatan" : "Aimere",
+  "kelurahan" : "Waesae",
+  "kodepos" : "86452"
+}, {
+  "kecamatan" : "Inerie",
+  "kelurahan" : "Waebela",
+  "kodepos" : "86452"
+}, {
+  "kecamatan" : "Jerebuu",
+  "kelurahan" : "Tiworiwu I",
+  "kodepos" : "86452"
+}, {
+  "kecamatan" : "Jerebuu",
+  "kelurahan" : "Tiworiwu II",
+  "kodepos" : "86452"
+}, {
+  "kecamatan" : "Inerie",
+  "kelurahan" : "Tiwurana",
+  "kodepos" : "86452"
+}, {
+  "kecamatan" : "Jerebuu",
+  "kelurahan" : "Tiworiwu",
+  "kodepos" : "86452"
+}, {
+  "kecamatan" : "Inerie",
+  "kelurahan" : "Sebowuli",
+  "kodepos" : "86452"
+}, {
+  "kecamatan" : "Jerebuu",
+  "kelurahan" : "Nio Lewa",
+  "kodepos" : "86452"
+}, {
+  "kecamatan" : "Inerie",
+  "kelurahan" : "Paupaga",
+  "kodepos" : "86452"
+}, {
+  "kecamatan" : "Jerebuu",
+  "kelurahan" : "Naruwolo II",
+  "kodepos" : "86452"
+}, {
+  "kecamatan" : "Jerebuu",
+  "kelurahan" : "Nenowea",
+  "kodepos" : "86452"
+}, {
+  "kecamatan" : "Jerebuu",
+  "kelurahan" : "Naruwolo",
+  "kodepos" : "86452"
+}, {
+  "kecamatan" : "Jerebuu",
+  "kelurahan" : "Naruwolo I",
+  "kodepos" : "86452"
+}, {
+  "kecamatan" : "Aimere",
+  "kelurahan" : "Lekogoko / Lekogoku",
+  "kodepos" : "86452"
+}, {
+  "kecamatan" : "Inerie",
+  "kelurahan" : "Manubhara",
+  "kodepos" : "86452"
+}, {
+  "kecamatan" : "Jerebuu",
+  "kelurahan" : "Manubhara",
+  "kodepos" : "86452"
+}, {
+  "kecamatan" : "Aimere",
+  "kelurahan" : "Legelapu",
+  "kodepos" : "86452"
+}, {
+  "kecamatan" : "Inerie",
+  "kelurahan" : "Legariwu",
+  "kodepos" : "86452"
+}, {
+  "kecamatan" : "Aimere",
+  "kelurahan" : "Kila",
+  "kodepos" : "86452"
+}, {
+  "kecamatan" : "Inerie",
+  "kelurahan" : "Kelitei / Kelitey",
+  "kodepos" : "86452"
+}, {
+  "kecamatan" : "Aimere",
+  "kelurahan" : "Keligejo",
+  "kodepos" : "86452"
+}, {
+  "kecamatan" : "Inerie",
+  "kelurahan" : "Inerie",
+  "kodepos" : "86452"
+}, {
+  "kecamatan" : "Aimere",
+  "kelurahan" : "F O A (Foa)",
+  "kodepos" : "86452"
+}, {
+  "kecamatan" : "Aimere",
+  "kelurahan" : "Heawea",
+  "kodepos" : "86452"
+}, {
+  "kecamatan" : "Jerebuu",
+  "kelurahan" : "Dariwali",
+  "kodepos" : "86452"
+}, {
+  "kecamatan" : "Aimere",
+  "kelurahan" : "Binawali",
+  "kodepos" : "86452"
+}, {
+  "kecamatan" : "Jerebuu",
+  "kelurahan" : "Batajawa",
+  "kodepos" : "86452"
+}, {
+  "kecamatan" : "Aimere",
+  "kelurahan" : "Aimere",
+  "kodepos" : "86452"
+}, {
+  "kecamatan" : "Aimere",
+  "kelurahan" : "Aimere Timur",
+  "kodepos" : "86452"
+}, {
+  "kecamatan" : "Wolomeze (Riung Selatan)",
+  "kelurahan" : "Wue",
+  "kodepos" : "86419"
+}, {
+  "kecamatan" : "Riung Barat",
+  "kelurahan" : "Wolomeze I",
+  "kodepos" : "86419"
+}, {
+  "kecamatan" : "Riung Barat",
+  "kelurahan" : "Wolomese Dua",
+  "kodepos" : "86419"
+}, {
+  "kecamatan" : "Riung Barat",
+  "kelurahan" : "Wolomeze",
+  "kodepos" : "86419"
+}, {
+  "kecamatan" : "Riung",
+  "kelurahan" : "Wangka",
+  "kodepos" : "86419"
+}, {
+  "kecamatan" : "Riung",
+  "kelurahan" : "Wangka Selatan",
+  "kodepos" : "86419"
+}, {
+  "kecamatan" : "Wolomeze (Riung Selatan)",
+  "kelurahan" : "Turaloa",
+  "kodepos" : "86419"
+}, {
+  "kecamatan" : "Soa",
+  "kelurahan" : "Waepana",
+  "kodepos" : "86419"
+}, {
+  "kecamatan" : "Soa",
+  "kelurahan" : "Tarawaja",
+  "kodepos" : "86419"
+}, {
+  "kecamatan" : "Soa",
+  "kelurahan" : "Tarawali",
+  "kodepos" : "86419"
+}, {
+  "kecamatan" : "Riung",
+  "kelurahan" : "Taen Terong",
+  "kodepos" : "86419"
+}, {
+  "kecamatan" : "Riung",
+  "kelurahan" : "Taen Terong Dua",
+  "kodepos" : "86419"
+}, {
+  "kecamatan" : "Riung",
+  "kelurahan" : "Taen Terong Satu",
+  "kodepos" : "86419"
+}, {
+  "kecamatan" : "Riung",
+  "kelurahan" : "Tadho",
+  "kodepos" : "86419"
+}, {
+  "kecamatan" : "Soa",
+  "kelurahan" : "Seso",
+  "kodepos" : "86419"
+}, {
+  "kecamatan" : "Riung",
+  "kelurahan" : "Sambinasi",
+  "kodepos" : "86419"
+}, {
+  "kecamatan" : "Riung",
+  "kelurahan" : "Sambinasi Barat",
+  "kodepos" : "86419"
+}, {
+  "kecamatan" : "Riung Barat",
+  "kelurahan" : "Ria",
+  "kodepos" : "86419"
+}, {
+  "kecamatan" : "Riung Barat",
+  "kelurahan" : "Ria I",
+  "kodepos" : "86419"
+}, {
+  "kecamatan" : "Riung",
+  "kelurahan" : "Rawangkalo",
+  "kodepos" : "86419"
+}, {
+  "kecamatan" : "Soa",
+  "kelurahan" : "Piga I",
+  "kodepos" : "86419"
+}, {
+  "kecamatan" : "Wolomeze (Riung Selatan)",
+  "kelurahan" : "Nginamanu Selatan",
+  "kodepos" : "86419"
+}, {
+  "kecamatan" : "Soa",
+  "kelurahan" : "Piga",
+  "kodepos" : "86419"
+}, {
+  "kecamatan" : "Wolomeze (Riung Selatan)",
+  "kelurahan" : "Nginamanu",
+  "kodepos" : "86419"
+}, {
+  "kecamatan" : "Wolomeze (Riung Selatan)",
+  "kelurahan" : "Nginamanu Barat",
+  "kodepos" : "86419"
+}, {
+  "kecamatan" : "Riung",
+  "kelurahan" : "Nangamese",
+  "kodepos" : "86419"
+}, {
+  "kecamatan" : "Soa",
+  "kelurahan" : "Ngabheo",
+  "kodepos" : "86419"
+}, {
+  "kecamatan" : "Riung Barat",
+  "kelurahan" : "Ngara",
+  "kodepos" : "86419"
+}, {
+  "kecamatan" : "Soa",
+  "kelurahan" : "Meli Waru",
+  "kodepos" : "86419"
+}, {
+  "kecamatan" : "Soa",
+  "kelurahan" : "Mengeruda",
+  "kodepos" : "86419"
+}, {
+  "kecamatan" : "Soa",
+  "kelurahan" : "Masu",
+  "kodepos" : "86419"
+}, {
+  "kecamatan" : "Soa",
+  "kelurahan" : "Masu Kedhi",
+  "kodepos" : "86419"
+}, {
+  "kecamatan" : "Soa",
+  "kelurahan" : "Loa",
+  "kodepos" : "86419"
+}, {
+  "kecamatan" : "Wolomeze (Riung Selatan)",
+  "kelurahan" : "Mainai",
+  "kodepos" : "86419"
+}, {
+  "kecamatan" : "Soa",
+  "kelurahan" : "Libunio",
+  "kodepos" : "86419"
+}, {
+  "kecamatan" : "Riung",
+  "kelurahan" : "Lengkosambi Barat",
+  "kodepos" : "86419"
+}, {
+  "kecamatan" : "Riung",
+  "kelurahan" : "Lengkosambi Timur",
+  "kodepos" : "86419"
+}, {
+  "kecamatan" : "Riung",
+  "kelurahan" : "Lengkosambi Utara",
+  "kodepos" : "86419"
+}, {
+  "kecamatan" : "Riung",
+  "kelurahan" : "Lengkosambi",
+  "kodepos" : "86419"
+}, {
+  "kecamatan" : "Riung",
+  "kelurahan" : "Latung",
+  "kodepos" : "86419"
+}, {
+  "kecamatan" : "Riung Barat",
+  "kelurahan" : "Lanamai",
+  "kodepos" : "86419"
+}, {
+  "kecamatan" : "Riung Barat",
+  "kelurahan" : "Lanamai I",
+  "kodepos" : "86419"
+}, {
+  "kecamatan" : "Bajawa",
+  "kelurahan" : "Faobata",
+  "kodepos" : "86419"
+}, {
+  "kecamatan" : "Wolomeze (Riung Selatan)",
+  "kelurahan" : "Denatana",
+  "kodepos" : "86419"
+}, {
+  "kecamatan" : "Wolomeze (Riung Selatan)",
+  "kelurahan" : "Denatana Timur",
+  "kodepos" : "86419"
+}, {
+  "kecamatan" : "Soa",
+  "kelurahan" : "Bogoboa",
+  "kodepos" : "86419"
+}, {
+  "kecamatan" : "Riung",
+  "kelurahan" : "Benteng Tengah",
+  "kodepos" : "86419"
+}, {
+  "kecamatan" : "Riung Barat",
+  "kelurahan" : "Benteng Tawa I",
+  "kodepos" : "86419"
+}, {
+  "kecamatan" : "Riung Barat",
+  "kelurahan" : "Benteng Tawa",
+  "kodepos" : "86419"
+}, {
+  "kecamatan" : "Bajawa",
+  "kelurahan" : "Langagedha",
+  "kodepos" : "86418"
+}, {
+  "kecamatan" : "Bajawa",
+  "kelurahan" : "Lebijaga",
+  "kodepos" : "86418"
+}, {
+  "kecamatan" : "Bajawa",
+  "kelurahan" : "Susu",
+  "kodepos" : "86417"
+}, {
+  "kecamatan" : "Bajawa",
+  "kelurahan" : "Jawameze",
+  "kodepos" : "86416"
+}, {
+  "kecamatan" : "Bajawa",
+  "kelurahan" : "Ngedukelu",
+  "kodepos" : "86415"
+}, {
+  "kecamatan" : "Bajawa",
+  "kelurahan" : "Trikora",
+  "kodepos" : "86414"
+}, {
+  "kecamatan" : "Bajawa Utara",
+  "kelurahan" : "Wololika",
+  "kodepos" : "86413"
+}, {
+  "kecamatan" : "Bajawa",
+  "kelurahan" : "Wawowae",
+  "kodepos" : "86413"
+}, {
+  "kecamatan" : "Bajawa Utara",
+  "kelurahan" : "Watukapu",
+  "kodepos" : "86413"
+}, {
+  "kecamatan" : "Bajawa Utara",
+  "kelurahan" : "Uluwae II",
+  "kodepos" : "86413"
+}, {
+  "kecamatan" : "Bajawa Utara",
+  "kelurahan" : "Waewea",
+  "kodepos" : "86413"
+}, {
+  "kecamatan" : "Bajawa Utara",
+  "kelurahan" : "Uluwae",
+  "kodepos" : "86413"
+}, {
+  "kecamatan" : "Bajawa Utara",
+  "kelurahan" : "Uluwae I",
+  "kodepos" : "86413"
+}, {
+  "kecamatan" : "Bajawa",
+  "kelurahan" : "Ubedolumolo",
+  "kodepos" : "86413"
+}, {
+  "kecamatan" : "Bajawa",
+  "kelurahan" : "Ubedolumolo Satu",
+  "kodepos" : "86413"
+}, {
+  "kecamatan" : "Bajawa Utara",
+  "kelurahan" : "Tura Muri",
+  "kodepos" : "86413"
+}, {
+  "kecamatan" : "Bajawa",
+  "kelurahan" : "Pape",
+  "kodepos" : "86413"
+}, {
+  "kecamatan" : "Bajawa",
+  "kelurahan" : "Naru (Natu)",
+  "kodepos" : "86413"
+}, {
+  "kecamatan" : "Bajawa",
+  "kelurahan" : "Ngoranale",
+  "kodepos" : "86413"
+}, {
+  "kecamatan" : "Bajawa Utara",
+  "kelurahan" : "Inelika",
+  "kodepos" : "86413"
+}, {
+  "kecamatan" : "Bajawa Utara",
+  "kelurahan" : "Nabelena",
+  "kodepos" : "86413"
+}, {
+  "kecamatan" : "Bajawa Utara",
+  "kelurahan" : "Inegena",
+  "kodepos" : "86413"
+}, {
+  "kecamatan" : "Bajawa Utara",
+  "kelurahan" : "Genamere",
+  "kodepos" : "86413"
+}, {
+  "kecamatan" : "Bajawa",
+  "kelurahan" : "Borani",
+  "kodepos" : "86413"
+}, {
+  "kecamatan" : "Bajawa",
+  "kelurahan" : "Bowali",
+  "kodepos" : "86413"
+}, {
+  "kecamatan" : "Bajawa",
+  "kelurahan" : "Bomari",
+  "kodepos" : "86413"
+}, {
+  "kecamatan" : "Bajawa",
+  "kelurahan" : "Bela",
+  "kodepos" : "86413"
+}, {
+  "kecamatan" : "Bajawa",
+  "kelurahan" : "Beiwali",
+  "kodepos" : "86413"
+}, {
+  "kecamatan" : "Bajawa",
+  "kelurahan" : "Beja",
+  "kodepos" : "86413"
+}, {
+  "kecamatan" : "Bajawa",
+  "kelurahan" : "Bajawa",
+  "kodepos" : "86413"
+}, {
+  "kecamatan" : "Bajawa",
+  "kelurahan" : "Kisanata",
+  "kodepos" : "86411"
+}, {
+  "kecamatan" : "Bajawa",
+  "kelurahan" : "Tanalodu",
+  "kodepos" : "86412"
+} ]

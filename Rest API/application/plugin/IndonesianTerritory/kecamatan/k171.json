@@ -1,0 +1,925 @@
+[ {
+  "kecamatan" : "Mandau Talawang",
+  "kelurahan" : "Tumbang Tihis",
+  "kodepos" : "74581"
+}, {
+  "kecamatan" : "Kapuas Hulu",
+  "kelurahan" : "Tumbang Puroh/Puruh",
+  "kodepos" : "74581"
+}, {
+  "kecamatan" : "Mandau Talawang",
+  "kelurahan" : "Tumbang Manyarung",
+  "kodepos" : "74581"
+}, {
+  "kecamatan" : "Kapuas Hulu",
+  "kelurahan" : "Tumbang Sirat",
+  "kodepos" : "74581"
+}, {
+  "kecamatan" : "Mandau Talawang",
+  "kelurahan" : "Tanjung Rendan",
+  "kodepos" : "74581"
+}, {
+  "kecamatan" : "Mandau Talawang",
+  "kelurahan" : "Tumbang Bukoi/Bokoi",
+  "kodepos" : "74581"
+}, {
+  "kecamatan" : "Mandau Talawang",
+  "kelurahan" : "Sei/Sungai Pinang",
+  "kodepos" : "74581"
+}, {
+  "kecamatan" : "Kapuas Hulu",
+  "kelurahan" : "Supang",
+  "kodepos" : "74581"
+}, {
+  "kecamatan" : "Kapuas Hulu",
+  "kelurahan" : "Tangirang",
+  "kodepos" : "74581"
+}, {
+  "kecamatan" : "Kapuas Hulu",
+  "kelurahan" : "Rahung Bungai",
+  "kodepos" : "74581"
+}, {
+  "kecamatan" : "Kapuas Hulu",
+  "kelurahan" : "Sei/Sungai Hanyo/Hanyu",
+  "kodepos" : "74581"
+}, {
+  "kecamatan" : "Mandau Talawang",
+  "kelurahan" : "Masaha",
+  "kodepos" : "74581"
+}, {
+  "kecamatan" : "Kapuas Hulu",
+  "kelurahan" : "Mampai Jaya",
+  "kodepos" : "74581"
+}, {
+  "kecamatan" : "Mandau Talawang",
+  "kelurahan" : "Lawang Tamang",
+  "kodepos" : "74581"
+}, {
+  "kecamatan" : "Kapuas Hulu",
+  "kelurahan" : "Katanjung",
+  "kodepos" : "74581"
+}, {
+  "kecamatan" : "Mandau Talawang",
+  "kelurahan" : "Karetau Mantaa",
+  "kodepos" : "74581"
+}, {
+  "kecamatan" : "Kapuas Hulu",
+  "kelurahan" : "Hurung Tabengan",
+  "kodepos" : "74581"
+}, {
+  "kecamatan" : "Kapuas Hulu",
+  "kelurahan" : "Hurung Tampang",
+  "kodepos" : "74581"
+}, {
+  "kecamatan" : "Kapuas Hulu",
+  "kelurahan" : "Jakatan Pari",
+  "kodepos" : "74581"
+}, {
+  "kecamatan" : "Kapuas Hulu",
+  "kelurahan" : "Bulau Ngandung",
+  "kodepos" : "74581"
+}, {
+  "kecamatan" : "Kapuas Hulu",
+  "kelurahan" : "Dirung Koram",
+  "kodepos" : "74581"
+}, {
+  "kecamatan" : "Kapuas Hulu",
+  "kelurahan" : "Baronang II",
+  "kodepos" : "74581"
+}, {
+  "kecamatan" : "Dadahup",
+  "kelurahan" : "Tanjung Harapan",
+  "kodepos" : "73593"
+}, {
+  "kecamatan" : "Kapuas Murung",
+  "kelurahan" : "Tajepan",
+  "kodepos" : "73593"
+}, {
+  "kecamatan" : "Kapuas Murung",
+  "kelurahan" : "Talekung Punai",
+  "kodepos" : "73593"
+}, {
+  "kecamatan" : "Dadahup",
+  "kelurahan" : "Tambak Bajai",
+  "kodepos" : "73593"
+}, {
+  "kecamatan" : "Kapuas Murung",
+  "kelurahan" : "Sumber Mulia",
+  "kodepos" : "73593"
+}, {
+  "kecamatan" : "Dadahup",
+  "kelurahan" : "Sumber Alaska",
+  "kodepos" : "73593"
+}, {
+  "kecamatan" : "Kapuas Murung",
+  "kelurahan" : "Suka Reja",
+  "kodepos" : "73593"
+}, {
+  "kecamatan" : "Dadahup",
+  "kelurahan" : "Sumber Agung",
+  "kodepos" : "73593"
+}, {
+  "kecamatan" : "Kapuas Murung",
+  "kelurahan" : "Rawa Subur",
+  "kodepos" : "73593"
+}, {
+  "kecamatan" : "Kapuas Murung",
+  "kelurahan" : "Saka Binjai",
+  "kodepos" : "73593"
+}, {
+  "kecamatan" : "Kapuas Murung",
+  "kelurahan" : "Suka Mukti",
+  "kodepos" : "73593"
+}, {
+  "kecamatan" : "Kapuas Murung",
+  "kelurahan" : "Palingkau Sejahtera",
+  "kodepos" : "73593"
+}, {
+  "kecamatan" : "Dadahup",
+  "kelurahan" : "Petak Batuah",
+  "kodepos" : "73593"
+}, {
+  "kecamatan" : "Kapuas Murung",
+  "kelurahan" : "Palingkau Jaya",
+  "kodepos" : "73593"
+}, {
+  "kecamatan" : "Kapuas Murung",
+  "kelurahan" : "Palingkau Lama",
+  "kodepos" : "73593"
+}, {
+  "kecamatan" : "Kapuas Murung",
+  "kelurahan" : "Palingkau Asri",
+  "kodepos" : "73593"
+}, {
+  "kecamatan" : "Kapuas Murung",
+  "kelurahan" : "Palingkau Baru",
+  "kodepos" : "73593"
+}, {
+  "kecamatan" : "Kapuas Murung",
+  "kelurahan" : "Palangkau Baru",
+  "kodepos" : "73593"
+}, {
+  "kecamatan" : "Kapuas Murung",
+  "kelurahan" : "Palangkau Lama",
+  "kodepos" : "73593"
+}, {
+  "kecamatan" : "Kapuas Murung",
+  "kelurahan" : "Muara Dadahup",
+  "kodepos" : "73593"
+}, {
+  "kecamatan" : "Dadahup",
+  "kelurahan" : "Menteng Karya",
+  "kodepos" : "73593"
+}, {
+  "kecamatan" : "Dadahup",
+  "kelurahan" : "Manuntung",
+  "kodepos" : "73593"
+}, {
+  "kecamatan" : "Kapuas Murung",
+  "kelurahan" : "Mangala Permai",
+  "kodepos" : "73593"
+}, {
+  "kecamatan" : "Kapuas Murung",
+  "kelurahan" : "Karya Bersama",
+  "kodepos" : "73593"
+}, {
+  "kecamatan" : "Kapuas Murung",
+  "kelurahan" : "Mampai",
+  "kodepos" : "73593"
+}, {
+  "kecamatan" : "Dadahup",
+  "kelurahan" : "Kahuripan Permai",
+  "kodepos" : "73593"
+}, {
+  "kecamatan" : "Dadahup",
+  "kelurahan" : "Harapan Baru",
+  "kodepos" : "73593"
+}, {
+  "kecamatan" : "Kapuas Murung",
+  "kelurahan" : "Bumi Rahayu",
+  "kodepos" : "73593"
+}, {
+  "kecamatan" : "Dadahup",
+  "kelurahan" : "Dadahup",
+  "kodepos" : "73593"
+}, {
+  "kecamatan" : "Dadahup",
+  "kelurahan" : "Dadahup Raya",
+  "kodepos" : "73593"
+}, {
+  "kecamatan" : "Kapuas Murung",
+  "kelurahan" : "Bina Mekar",
+  "kodepos" : "73593"
+}, {
+  "kecamatan" : "Kapuas Murung",
+  "kelurahan" : "Bina Sejahtera",
+  "kodepos" : "73593"
+}, {
+  "kecamatan" : "Kapuas Murung",
+  "kelurahan" : "Bina Karya",
+  "kodepos" : "73593"
+}, {
+  "kecamatan" : "Dadahup",
+  "kelurahan" : "Bina Jaya",
+  "kodepos" : "73593"
+}, {
+  "kecamatan" : "Dadahup",
+  "kelurahan" : "Bentuk Jaya",
+  "kodepos" : "73593"
+}, {
+  "kecamatan" : "Pulau Petak",
+  "kelurahan" : "Teluk Palinget",
+  "kodepos" : "73592"
+}, {
+  "kecamatan" : "Kapuas Murung",
+  "kelurahan" : "Belawang",
+  "kodepos" : "73593"
+}, {
+  "kecamatan" : "Pulau Petak",
+  "kelurahan" : "Sei Tatas Hilir",
+  "kodepos" : "73592"
+}, {
+  "kecamatan" : "Pulau Petak",
+  "kelurahan" : "Sei/Sungai Tatas",
+  "kodepos" : "73592"
+}, {
+  "kecamatan" : "Pulau Petak",
+  "kelurahan" : "Sakalagun",
+  "kodepos" : "73592"
+}, {
+  "kecamatan" : "Pulau Petak",
+  "kelurahan" : "Palangkai",
+  "kodepos" : "73592"
+}, {
+  "kecamatan" : "Pulau Petak",
+  "kelurahan" : "Narahan",
+  "kodepos" : "73592"
+}, {
+  "kecamatan" : "Pulau Petak",
+  "kelurahan" : "Narahan Baru",
+  "kodepos" : "73592"
+}, {
+  "kecamatan" : "Pulau Petak",
+  "kelurahan" : "Handiwung",
+  "kodepos" : "73592"
+}, {
+  "kecamatan" : "Pulau Petak",
+  "kelurahan" : "Mawar Mekar",
+  "kodepos" : "73592"
+}, {
+  "kecamatan" : "Pulau Petak",
+  "kelurahan" : "Banama",
+  "kodepos" : "73592"
+}, {
+  "kecamatan" : "Pulau Petak",
+  "kelurahan" : "Bunga Mawar",
+  "kodepos" : "73592"
+}, {
+  "kecamatan" : "Pulau Petak",
+  "kelurahan" : "Anjir Palambang",
+  "kodepos" : "73592"
+}, {
+  "kecamatan" : "Tamban Catur",
+  "kelurahan" : "Warna Sari",
+  "kodepos" : "73583"
+}, {
+  "kecamatan" : "Kapuas Kuala",
+  "kelurahan" : "Wargo Mulyo",
+  "kodepos" : "73583"
+}, {
+  "kecamatan" : "Tamban Catur",
+  "kelurahan" : "Tambun Makmur",
+  "kodepos" : "73583"
+}, {
+  "kecamatan" : "Kapuas Kuala",
+  "kelurahan" : "Tamban Lupak",
+  "kodepos" : "73583"
+}, {
+  "kecamatan" : "Tamban Catur",
+  "kelurahan" : "Tambun Jaya",
+  "kodepos" : "73583"
+}, {
+  "kecamatan" : "Kapuas Kuala",
+  "kelurahan" : "Tamban Baru Tengah",
+  "kodepos" : "73583"
+}, {
+  "kecamatan" : "Tamban Catur",
+  "kelurahan" : "Tamban Baru Tengah",
+  "kodepos" : "73583"
+}, {
+  "kecamatan" : "Tamban Catur",
+  "kelurahan" : "Tamban Baru Timur",
+  "kodepos" : "73583"
+}, {
+  "kecamatan" : "Kapuas Kuala",
+  "kelurahan" : "Simpang Bunga Tanjung",
+  "kodepos" : "73583"
+}, {
+  "kecamatan" : "Tamban Catur",
+  "kelurahan" : "Tamban Baru Mekar",
+  "kodepos" : "73583"
+}, {
+  "kecamatan" : "Tamban Catur",
+  "kelurahan" : "Sidomulyo",
+  "kodepos" : "73583"
+}, {
+  "kecamatan" : "Kapuas Kuala",
+  "kelurahan" : "Sei/Sungai Teras",
+  "kodepos" : "73583"
+}, {
+  "kecamatan" : "Tamban Catur",
+  "kelurahan" : "Sidorejo",
+  "kodepos" : "73583"
+}, {
+  "kecamatan" : "Kapuas Kuala",
+  "kelurahan" : "Palampai",
+  "kodepos" : "73583"
+}, {
+  "kecamatan" : "Kapuas Kuala",
+  "kelurahan" : "Sei Bakut",
+  "kodepos" : "73583"
+}, {
+  "kecamatan" : "Kapuas Kuala",
+  "kelurahan" : "Pematang",
+  "kodepos" : "73583"
+}, {
+  "kecamatan" : "Kapuas Kuala",
+  "kelurahan" : "Lupak Dalam",
+  "kodepos" : "73583"
+}, {
+  "kecamatan" : "Kapuas Kuala",
+  "kelurahan" : "Lupak Timur",
+  "kodepos" : "73583"
+}, {
+  "kecamatan" : "Kapuas Kuala",
+  "kelurahan" : "Baranggau",
+  "kodepos" : "73583"
+}, {
+  "kecamatan" : "Kapuas Kuala",
+  "kelurahan" : "Batanjung",
+  "kodepos" : "73583"
+}, {
+  "kecamatan" : "Kapuas Kuala",
+  "kelurahan" : "Cemara Labat",
+  "kodepos" : "73583"
+}, {
+  "kecamatan" : "Tamban Catur",
+  "kelurahan" : "Bandar Raya",
+  "kodepos" : "73583"
+}, {
+  "kecamatan" : "Tamban Catur",
+  "kelurahan" : "Bandar Mekar",
+  "kodepos" : "73583"
+}, {
+  "kecamatan" : "Kapuas Timur",
+  "kelurahan" : "Anjir Serapat Tengah",
+  "kodepos" : "73581"
+}, {
+  "kecamatan" : "Kapuas Timur",
+  "kelurahan" : "Anjir Serapat Timur",
+  "kodepos" : "73581"
+}, {
+  "kecamatan" : "Kapuas Timur",
+  "kelurahan" : "Anjir Serapat Barat",
+  "kodepos" : "73581"
+}, {
+  "kecamatan" : "Kapuas Timur",
+  "kelurahan" : "Anjir Serapat Baru",
+  "kodepos" : "73581"
+}, {
+  "kecamatan" : "Kapuas Timur",
+  "kelurahan" : "Anjir Mambulau Tengah",
+  "kodepos" : "73581"
+}, {
+  "kecamatan" : "Kapuas Timur",
+  "kelurahan" : "Anjir Mambulau Timur",
+  "kodepos" : "73581"
+}, {
+  "kecamatan" : "Kapuas Timur",
+  "kelurahan" : "Anjir Mambulau Barat",
+  "kodepos" : "73581"
+}, {
+  "kecamatan" : "Basarang",
+  "kelurahan" : "Pangkalan Sari",
+  "kodepos" : "73564"
+}, {
+  "kecamatan" : "Basarang",
+  "kelurahan" : "Tambun Raya",
+  "kodepos" : "73564"
+}, {
+  "kecamatan" : "Basarang",
+  "kelurahan" : "Pangkalan Rekan",
+  "kodepos" : "73564"
+}, {
+  "kecamatan" : "Basarang",
+  "kelurahan" : "Tarung Manuah",
+  "kodepos" : "73564"
+}, {
+  "kecamatan" : "Basarang",
+  "kelurahan" : "Maluen",
+  "kodepos" : "73564"
+}, {
+  "kecamatan" : "Basarang",
+  "kelurahan" : "Naning",
+  "kodepos" : "73564"
+}, {
+  "kecamatan" : "Basarang",
+  "kelurahan" : "Panarung",
+  "kodepos" : "73564"
+}, {
+  "kecamatan" : "Basarang",
+  "kelurahan" : "Bungai Jaya",
+  "kodepos" : "73564"
+}, {
+  "kecamatan" : "Basarang",
+  "kelurahan" : "Lunuk Ramba",
+  "kodepos" : "73564"
+}, {
+  "kecamatan" : "Basarang",
+  "kelurahan" : "Batuah",
+  "kodepos" : "73564"
+}, {
+  "kecamatan" : "Basarang",
+  "kelurahan" : "Basungkai",
+  "kodepos" : "73564"
+}, {
+  "kecamatan" : "Basarang",
+  "kelurahan" : "Batu Nindan",
+  "kodepos" : "73564"
+}, {
+  "kecamatan" : "Basarang",
+  "kelurahan" : "Basarang",
+  "kodepos" : "73564"
+}, {
+  "kecamatan" : "Basarang",
+  "kelurahan" : "Basarang Jaya",
+  "kodepos" : "73564"
+}, {
+  "kecamatan" : "Pasak Talawang",
+  "kelurahan" : "Tumbang Nusa",
+  "kodepos" : "73555"
+}, {
+  "kecamatan" : "Pasak Talawang",
+  "kelurahan" : "Tumbang Tukun",
+  "kodepos" : "73555"
+}, {
+  "kecamatan" : "Kapuas Tengah",
+  "kelurahan" : "Tapen",
+  "kodepos" : "73555"
+}, {
+  "kecamatan" : "Pasak Talawang",
+  "kelurahan" : "Tumbang Diring",
+  "kodepos" : "73555"
+}, {
+  "kecamatan" : "Pasak Talawang",
+  "kelurahan" : "Sei/Sungai Ringin",
+  "kodepos" : "73555"
+}, {
+  "kecamatan" : "Kapuas Tengah",
+  "kelurahan" : "Pujon",
+  "kodepos" : "73555"
+}, {
+  "kecamatan" : "Kapuas Tengah",
+  "kelurahan" : "Penda Muntei",
+  "kodepos" : "73555"
+}, {
+  "kecamatan" : "Mandau Talawang",
+  "kelurahan" : "Masupa Ria",
+  "kodepos" : "73555"
+}, {
+  "kecamatan" : "Kapuas Tengah",
+  "kelurahan" : "Marapit (Merapit)",
+  "kodepos" : "73555"
+}, {
+  "kecamatan" : "Kapuas Tengah",
+  "kelurahan" : "Masaran",
+  "kodepos" : "73555"
+}, {
+  "kecamatan" : "Kapuas Tengah",
+  "kelurahan" : "Kayu Bulan",
+  "kodepos" : "73555"
+}, {
+  "kecamatan" : "Kapuas Tengah",
+  "kelurahan" : "Kota Baru",
+  "kodepos" : "73555"
+}, {
+  "kecamatan" : "Kapuas Tengah",
+  "kelurahan" : "Manis",
+  "kodepos" : "73555"
+}, {
+  "kecamatan" : "Kapuas Tengah",
+  "kelurahan" : "Karukus",
+  "kodepos" : "73555"
+}, {
+  "kecamatan" : "Pasak Talawang",
+  "kelurahan" : "Kaburan",
+  "kodepos" : "73555"
+}, {
+  "kecamatan" : "Pasak Talawang",
+  "kelurahan" : "Jangkang",
+  "kodepos" : "73555"
+}, {
+  "kecamatan" : "Kapuas Tengah",
+  "kelurahan" : "Hurung Pukung",
+  "kodepos" : "73555"
+}, {
+  "kecamatan" : "Mandau Talawang",
+  "kelurahan" : "Jakatan Masaha",
+  "kodepos" : "73555"
+}, {
+  "kecamatan" : "Pasak Talawang",
+  "kelurahan" : "Dandang",
+  "kodepos" : "73555"
+}, {
+  "kecamatan" : "Pasak Talawang",
+  "kelurahan" : "Hurung Kampin",
+  "kodepos" : "73555"
+}, {
+  "kecamatan" : "Kapuas Tengah",
+  "kelurahan" : "Buhut Jaya",
+  "kodepos" : "73555"
+}, {
+  "kecamatan" : "Pasak Talawang",
+  "kelurahan" : "Batu Sambung",
+  "kodepos" : "73555"
+}, {
+  "kecamatan" : "Kapuas Tengah",
+  "kelurahan" : "Barunang",
+  "kodepos" : "73555"
+}, {
+  "kecamatan" : "Pasak Talawang",
+  "kelurahan" : "Balai Banjang",
+  "kodepos" : "73555"
+}, {
+  "kecamatan" : "Kapuas Tengah",
+  "kelurahan" : "Bajuh",
+  "kodepos" : "73555"
+}, {
+  "kecamatan" : "Timpah",
+  "kelurahan" : "Timpah",
+  "kodepos" : "73554"
+}, {
+  "kecamatan" : "Timpah",
+  "kelurahan" : "Tumbang Randang",
+  "kodepos" : "73554"
+}, {
+  "kecamatan" : "Timpah",
+  "kelurahan" : "Lungku Layang",
+  "kodepos" : "73554"
+}, {
+  "kecamatan" : "Timpah",
+  "kelurahan" : "Petak Puti",
+  "kodepos" : "73554"
+}, {
+  "kecamatan" : "Timpah",
+  "kelurahan" : "Lawang Kajang",
+  "kodepos" : "73554"
+}, {
+  "kecamatan" : "Timpah",
+  "kelurahan" : "Lawang Kamah",
+  "kodepos" : "73554"
+}, {
+  "kecamatan" : "Timpah",
+  "kelurahan" : "Aruk",
+  "kodepos" : "73554"
+}, {
+  "kecamatan" : "Timpah",
+  "kelurahan" : "Batapah",
+  "kodepos" : "73554"
+}, {
+  "kecamatan" : "Timpah",
+  "kelurahan" : "Danau Pantau",
+  "kodepos" : "73554"
+}, {
+  "kecamatan" : "Mantangai",
+  "kelurahan" : "Warga Mulya",
+  "kodepos" : "73553"
+}, {
+  "kecamatan" : "Mantangai",
+  "kelurahan" : "Tumbang Muroi",
+  "kodepos" : "73553"
+}, {
+  "kecamatan" : "Mantangai",
+  "kelurahan" : "Tumbang Mangkurup",
+  "kodepos" : "73553"
+}, {
+  "kecamatan" : "Mantangai",
+  "kelurahan" : "Sumber Makmur",
+  "kodepos" : "73553"
+}, {
+  "kecamatan" : "Mantangai",
+  "kelurahan" : "Tabore",
+  "kodepos" : "73553"
+}, {
+  "kecamatan" : "Mantangai",
+  "kelurahan" : "Tarantang",
+  "kodepos" : "73553"
+}, {
+  "kecamatan" : "Mantangai",
+  "kelurahan" : "Sri Widadi",
+  "kodepos" : "73553"
+}, {
+  "kecamatan" : "Mantangai",
+  "kelurahan" : "Suka Maju",
+  "kodepos" : "73553"
+}, {
+  "kecamatan" : "Mantangai",
+  "kelurahan" : "Sido Mulyo",
+  "kodepos" : "73553"
+}, {
+  "kecamatan" : "Mantangai",
+  "kelurahan" : "Sekata Bangun",
+  "kodepos" : "73553"
+}, {
+  "kecamatan" : "Mantangai",
+  "kelurahan" : "Sekata Makmur",
+  "kodepos" : "73553"
+}, {
+  "kecamatan" : "Mantangai",
+  "kelurahan" : "Sei/Sungai Ahas",
+  "kodepos" : "73553"
+}, {
+  "kecamatan" : "Mantangai",
+  "kelurahan" : "Sei/Sungai Kapar",
+  "kodepos" : "73553"
+}, {
+  "kecamatan" : "Mantangai",
+  "kelurahan" : "Sei Gawing",
+  "kodepos" : "73553"
+}, {
+  "kecamatan" : "Mantangai",
+  "kelurahan" : "Sei Gita",
+  "kodepos" : "73553"
+}, {
+  "kecamatan" : "Mantangai",
+  "kelurahan" : "Pulau Kaladan",
+  "kodepos" : "73553"
+}, {
+  "kecamatan" : "Mantangai",
+  "kelurahan" : "Rantau jaya",
+  "kodepos" : "73553"
+}, {
+  "kecamatan" : "Mantangai",
+  "kelurahan" : "Sari Makmur",
+  "kodepos" : "73553"
+}, {
+  "kecamatan" : "Mantangai",
+  "kelurahan" : "Manyahi",
+  "kodepos" : "73553"
+}, {
+  "kecamatan" : "Mantangai",
+  "kelurahan" : "Muroi Raya",
+  "kodepos" : "73553"
+}, {
+  "kecamatan" : "Mantangai",
+  "kelurahan" : "Manusup Hilir",
+  "kodepos" : "73553"
+}, {
+  "kecamatan" : "Mantangai",
+  "kelurahan" : "Manusup",
+  "kodepos" : "73553"
+}, {
+  "kecamatan" : "Mantangai",
+  "kelurahan" : "Mantangai Hulu",
+  "kodepos" : "73553"
+}, {
+  "kecamatan" : "Mantangai",
+  "kelurahan" : "Mantangai Tengah",
+  "kodepos" : "73553"
+}, {
+  "kecamatan" : "Mantangai",
+  "kelurahan" : "Lamunti Permai",
+  "kodepos" : "73553"
+}, {
+  "kecamatan" : "Mantangai",
+  "kelurahan" : "Mantangai Hilir",
+  "kodepos" : "73553"
+}, {
+  "kecamatan" : "Mantangai",
+  "kelurahan" : "Lamunti",
+  "kodepos" : "73553"
+}, {
+  "kecamatan" : "Mantangai",
+  "kelurahan" : "Lamunti Baru",
+  "kodepos" : "73553"
+}, {
+  "kecamatan" : "Mantangai",
+  "kelurahan" : "Lahei Mangkutup",
+  "kodepos" : "73553"
+}, {
+  "kecamatan" : "Mantangai",
+  "kelurahan" : "Lampetan",
+  "kodepos" : "73553"
+}, {
+  "kecamatan" : "Mantangai",
+  "kelurahan" : "Katimpun",
+  "kodepos" : "73553"
+}, {
+  "kecamatan" : "Mantangai",
+  "kelurahan" : "Katunjung",
+  "kodepos" : "73553"
+}, {
+  "kecamatan" : "Mantangai",
+  "kelurahan" : "Kaladan Jaya",
+  "kodepos" : "73553"
+}, {
+  "kecamatan" : "Mantangai",
+  "kelurahan" : "Kalumpang",
+  "kodepos" : "73553"
+}, {
+  "kecamatan" : "Mantangai",
+  "kelurahan" : "Harapan Jaya",
+  "kodepos" : "73553"
+}, {
+  "kecamatan" : "Mantangai",
+  "kelurahan" : "Humbang Raya",
+  "kodepos" : "73553"
+}, {
+  "kecamatan" : "Mantangai",
+  "kelurahan" : "Bukit Baru",
+  "kodepos" : "73553"
+}, {
+  "kecamatan" : "Mantangai",
+  "kelurahan" : "Danau Tawah/Rawah",
+  "kodepos" : "73553"
+}, {
+  "kecamatan" : "Kapuas Barat",
+  "kelurahan" : "Teluk Hiri",
+  "kodepos" : "73552"
+}, {
+  "kecamatan" : "Kapuas Barat",
+  "kelurahan" : "Sei/Sungai Dusun",
+  "kodepos" : "73552"
+}, {
+  "kecamatan" : "Kapuas Barat",
+  "kelurahan" : "Sei/Sungai Kayu",
+  "kodepos" : "73552"
+}, {
+  "kecamatan" : "Kapuas Barat",
+  "kelurahan" : "Saka Tamiang",
+  "kodepos" : "73552"
+}, {
+  "kecamatan" : "Kapuas Barat",
+  "kelurahan" : "Sei Pitung",
+  "kodepos" : "73552"
+}, {
+  "kecamatan" : "Kapuas Barat",
+  "kelurahan" : "Penda Ketapi",
+  "kodepos" : "73552"
+}, {
+  "kecamatan" : "Kapuas Barat",
+  "kelurahan" : "Saka Mangkahai",
+  "kodepos" : "73552"
+}, {
+  "kecamatan" : "Kapuas Barat",
+  "kelurahan" : "Mandomai",
+  "kodepos" : "73552"
+}, {
+  "kecamatan" : "Kapuas Barat",
+  "kelurahan" : "Pantai",
+  "kodepos" : "73552"
+}, {
+  "kecamatan" : "Kapuas Barat",
+  "kelurahan" : "Anjir Kalampan",
+  "kodepos" : "73552"
+}, {
+  "kecamatan" : "Kapuas Barat",
+  "kelurahan" : "Basuta Raya",
+  "kodepos" : "73552"
+}, {
+  "kecamatan" : "Kapuas Barat",
+  "kelurahan" : "Maju Bersama",
+  "kodepos" : "73552"
+}, {
+  "kecamatan" : "Kapuas Hilir",
+  "kelurahan" : "Sei/Sungai Pasah",
+  "kodepos" : "73525"
+}, {
+  "kecamatan" : "Kapuas Hilir",
+  "kelurahan" : "Sei/Sungai Asam",
+  "kodepos" : "73525"
+}, {
+  "kecamatan" : "Kapuas Hilir",
+  "kelurahan" : "Saka Batur",
+  "kodepos" : "73525"
+}, {
+  "kecamatan" : "Kapuas Hilir",
+  "kelurahan" : "Barimba",
+  "kodepos" : "73524"
+}, {
+  "kecamatan" : "Kapuas Hilir",
+  "kelurahan" : "Bakungin",
+  "kodepos" : "73525"
+}, {
+  "kecamatan" : "Kapuas Hilir",
+  "kelurahan" : "Hampatung",
+  "kodepos" : "73522"
+}, {
+  "kecamatan" : "Kapuas Hilir",
+  "kelurahan" : "Dahirang",
+  "kodepos" : "73523"
+}, {
+  "kecamatan" : "Kapuas Hilir",
+  "kelurahan" : "Mambulau",
+  "kodepos" : "73521"
+}, {
+  "kecamatan" : "Bataguh",
+  "kelurahan" : "Terusan Raya Hilir",
+  "kodepos" : "73516"
+}, {
+  "kecamatan" : "Bataguh",
+  "kelurahan" : "Terusan Raya",
+  "kodepos" : "73516"
+}, {
+  "kecamatan" : "Bataguh",
+  "kelurahan" : "Terusan Raya Barat",
+  "kodepos" : "73516"
+}, {
+  "kecamatan" : "Bataguh",
+  "kelurahan" : "Terusan Karya",
+  "kodepos" : "73516"
+}, {
+  "kecamatan" : "Bataguh",
+  "kelurahan" : "Terusan Makmur",
+  "kodepos" : "73516"
+}, {
+  "kecamatan" : "Bataguh",
+  "kelurahan" : "Terusan Mulya",
+  "kodepos" : "73516"
+}, {
+  "kecamatan" : "Bataguh",
+  "kelurahan" : "Tamban Luar",
+  "kodepos" : "73516"
+}, {
+  "kecamatan" : "Bataguh",
+  "kelurahan" : "Terusan Baguntan Raya",
+  "kodepos" : "73516"
+}, {
+  "kecamatan" : "Selat",
+  "kelurahan" : "Selat Dalam",
+  "kodepos" : "73516"
+}, {
+  "kecamatan" : "Selat",
+  "kelurahan" : "Selat Utara",
+  "kodepos" : "73516"
+}, {
+  "kecamatan" : "Bataguh",
+  "kelurahan" : "Sei Jangkir",
+  "kodepos" : "73516"
+}, {
+  "kecamatan" : "Bataguh",
+  "kelurahan" : "Sei/Sungai Lunuk",
+  "kodepos" : "73516"
+}, {
+  "kecamatan" : "Selat",
+  "kelurahan" : "Pulau Telo Baru",
+  "kodepos" : "73516"
+}, {
+  "kecamatan" : "Bataguh",
+  "kelurahan" : "Pulau Mambulau",
+  "kodepos" : "73516"
+}, {
+  "kecamatan" : "Selat",
+  "kelurahan" : "Pulau Telo",
+  "kodepos" : "73516"
+}, {
+  "kecamatan" : "Bataguh",
+  "kelurahan" : "Bangun Harjo",
+  "kodepos" : "73516"
+}, {
+  "kecamatan" : "Bataguh",
+  "kelurahan" : "Budi Mufakat",
+  "kodepos" : "73516"
+}, {
+  "kecamatan" : "Bataguh",
+  "kelurahan" : "Bamban Raya",
+  "kodepos" : "73516"
+}, {
+  "kecamatan" : "Selat",
+  "kelurahan" : "Selat Hulu",
+  "kodepos" : "73515"
+}, {
+  "kecamatan" : "Selat",
+  "kelurahan" : "Selat Barat",
+  "kodepos" : "73514"
+}, {
+  "kecamatan" : "Selat",
+  "kelurahan" : "Selat Tengah",
+  "kodepos" : "73514"
+}, {
+  "kecamatan" : "Selat",
+  "kelurahan" : "Selat Hilir",
+  "kodepos" : "73513"
+}, {
+  "kecamatan" : "Selat",
+  "kelurahan" : "Panamas",
+  "kodepos" : "73514"
+}, {
+  "kecamatan" : "Selat",
+  "kelurahan" : "Murung Keramat",
+  "kodepos" : "73512"
+}, {
+  "kecamatan" : "Bataguh",
+  "kelurahan" : "Pulau Kupang",
+  "kodepos" : "73511"
+} ]

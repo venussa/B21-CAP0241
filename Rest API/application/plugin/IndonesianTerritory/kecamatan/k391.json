@@ -1,0 +1,949 @@
+[ {
+  "kecamatan" : "Wakorumba Selatan",
+  "kelurahan" : "Wambona",
+  "kodepos" : "93674"
+}, {
+  "kecamatan" : "Wakorumba Selatan",
+  "kelurahan" : "Pure",
+  "kodepos" : "93674"
+}, {
+  "kecamatan" : "Maligano",
+  "kelurahan" : "Raimuna",
+  "kodepos" : "93674"
+}, {
+  "kecamatan" : "Pasi Kolaga",
+  "kelurahan" : "Tampunabale",
+  "kodepos" : "93674"
+}, {
+  "kecamatan" : "Maligano",
+  "kelurahan" : "Pohorua",
+  "kodepos" : "93674"
+}, {
+  "kecamatan" : "Batukara",
+  "kelurahan" : "Moolo",
+  "kodepos" : "93674"
+}, {
+  "kecamatan" : "Pasir Putih",
+  "kelurahan" : "Oenggumora",
+  "kodepos" : "93674"
+}, {
+  "kecamatan" : "Maligano",
+  "kelurahan" : "Maligano",
+  "kodepos" : "93674"
+}, {
+  "kecamatan" : "Pasir Putih",
+  "kelurahan" : "Liwumetingki",
+  "kodepos" : "93674"
+}, {
+  "kecamatan" : "Pasi Kolaga",
+  "kelurahan" : "Mata Indaha / Indah",
+  "kodepos" : "93674"
+}, {
+  "kecamatan" : "Maligano",
+  "kelurahan" : "Lapole",
+  "kodepos" : "93674"
+}, {
+  "kecamatan" : "Maligano",
+  "kelurahan" : "Latompa",
+  "kodepos" : "93674"
+}, {
+  "kecamatan" : "Batukara",
+  "kelurahan" : "Lanobake (Laano Bake)",
+  "kodepos" : "93674"
+}, {
+  "kecamatan" : "Maligano",
+  "kelurahan" : "Langkoroni",
+  "kodepos" : "93674"
+}, {
+  "kecamatan" : "Pasi Kolaga",
+  "kelurahan" : "Lambelu",
+  "kodepos" : "93674"
+}, {
+  "kecamatan" : "Pasir Putih",
+  "kelurahan" : "Labulawa",
+  "kodepos" : "93674"
+}, {
+  "kecamatan" : "Pasi Kolaga",
+  "kelurahan" : "Kolese",
+  "kodepos" : "93674"
+}, {
+  "kecamatan" : "Wakorumba Selatan",
+  "kelurahan" : "Labunia",
+  "kodepos" : "93674"
+}, {
+  "kecamatan" : "Pasir Putih",
+  "kelurahan" : "Koholifano",
+  "kodepos" : "93674"
+}, {
+  "kecamatan" : "Pasir Putih",
+  "kelurahan" : "Bumbu",
+  "kodepos" : "93674"
+}, {
+  "kecamatan" : "Pasir Putih",
+  "kelurahan" : "Kamosope",
+  "kodepos" : "93674"
+}, {
+  "kecamatan" : "Batukara",
+  "kelurahan" : "Bone Bone",
+  "kodepos" : "93674"
+}, {
+  "kecamatan" : "Batukara",
+  "kelurahan" : "Baluara",
+  "kodepos" : "93674"
+}, {
+  "kecamatan" : "Wakorumba Selatan",
+  "kelurahan" : "Bakealu",
+  "kodepos" : "93674"
+}, {
+  "kecamatan" : "Wakorumba Selatan",
+  "kelurahan" : "Wakorumba",
+  "kodepos" : "93671"
+}, {
+  "kecamatan" : "Kabangka",
+  "kelurahan" : "Wansugi",
+  "kodepos" : "93664"
+}, {
+  "kecamatan" : "Kabangka",
+  "kelurahan" : "Wataliku",
+  "kodepos" : "93664"
+}, {
+  "kecamatan" : "Kabangka",
+  "kelurahan" : "Sarimulyo",
+  "kodepos" : "93664"
+}, {
+  "kecamatan" : "Kabangka",
+  "kelurahan" : "Sarimulyo",
+  "kodepos" : "93664"
+}, {
+  "kecamatan" : "Maginti",
+  "kelurahan" : "Pasipadangan",
+  "kodepos" : "93664"
+}, {
+  "kecamatan" : "Tiworo Selatan",
+  "kelurahan" : "Sangia Tiworo",
+  "kodepos" : "93664"
+}, {
+  "kecamatan" : "Maginti",
+  "kelurahan" : "Pajala",
+  "kodepos" : "93664"
+}, {
+  "kecamatan" : "Tiworo Selatan",
+  "kelurahan" : "Parura Jaya",
+  "kodepos" : "93664"
+}, {
+  "kecamatan" : "Maginti",
+  "kelurahan" : "Maginti",
+  "kodepos" : "93664"
+}, {
+  "kecamatan" : "Kabangka",
+  "kelurahan" : "Oensuli",
+  "kodepos" : "93664"
+}, {
+  "kecamatan" : "Kabangka",
+  "kelurahan" : "Lakandito",
+  "kodepos" : "93664"
+}, {
+  "kecamatan" : "Kabangka",
+  "kelurahan" : "Lupia",
+  "kodepos" : "93664"
+}, {
+  "kecamatan" : "Maginti",
+  "kelurahan" : "Kembang Mominasa",
+  "kodepos" : "93664"
+}, {
+  "kecamatan" : "Kabangka",
+  "kelurahan" : "Komba-Komba",
+  "kodepos" : "93664"
+}, {
+  "kecamatan" : "Tiworo Selatan",
+  "kelurahan" : "Kasimpa Jaya",
+  "kodepos" : "93664"
+}, {
+  "kecamatan" : "Tiworo Selatan",
+  "kelurahan" : "Katangana",
+  "kodepos" : "93664"
+}, {
+  "kecamatan" : "Maginti",
+  "kelurahan" : "Kangkunawe (Langkunawe)",
+  "kodepos" : "93664"
+}, {
+  "kecamatan" : "Kabangka",
+  "kelurahan" : "Kabangka",
+  "kodepos" : "93664"
+}, {
+  "kecamatan" : "Tiworo Selatan",
+  "kelurahan" : "Barakkah",
+  "kodepos" : "93664"
+}, {
+  "kecamatan" : "Maginti",
+  "kelurahan" : "Gala",
+  "kodepos" : "93664"
+}, {
+  "kecamatan" : "Maginti",
+  "kelurahan" : "Abadi Jaya",
+  "kodepos" : "93664"
+}, {
+  "kecamatan" : "Maginti",
+  "kelurahan" : "Bangko",
+  "kodepos" : "93664"
+}, {
+  "kecamatan" : "Parigi",
+  "kelurahan" : "Wapuale",
+  "kodepos" : "93663"
+}, {
+  "kecamatan" : "Parigi",
+  "kelurahan" : "Wasolangka",
+  "kodepos" : "93663"
+}, {
+  "kecamatan" : "Parigi",
+  "kelurahan" : "Warambe",
+  "kodepos" : "93663"
+}, {
+  "kecamatan" : "Parigi",
+  "kelurahan" : "Wakumoro",
+  "kodepos" : "93663"
+}, {
+  "kecamatan" : "Parigi",
+  "kelurahan" : "Walambeno Wite",
+  "kodepos" : "93663"
+}, {
+  "kecamatan" : "Marobo",
+  "kelurahan" : "Tapitapi",
+  "kodepos" : "93663"
+}, {
+  "kecamatan" : "Marobo",
+  "kelurahan" : "Wadolao / Wadolau",
+  "kodepos" : "93663"
+}, {
+  "kecamatan" : "Marobo",
+  "kelurahan" : "Pasikuta",
+  "kodepos" : "93663"
+}, {
+  "kecamatan" : "Marobo",
+  "kelurahan" : "Poaroha",
+  "kodepos" : "93663"
+}, {
+  "kecamatan" : "Parigi",
+  "kelurahan" : "Oelongko",
+  "kodepos" : "93663"
+}, {
+  "kecamatan" : "Parigi",
+  "kelurahan" : "Parigi",
+  "kodepos" : "93663"
+}, {
+  "kecamatan" : "Bone (Bone Tondo)",
+  "kelurahan" : "Oelongko",
+  "kodepos" : "93663"
+}, {
+  "kecamatan" : "Marobo",
+  "kelurahan" : "Marobo",
+  "kodepos" : "93663"
+}, {
+  "kecamatan" : "Bone (Bone Tondo)",
+  "kelurahan" : "Matombura",
+  "kodepos" : "93663"
+}, {
+  "kecamatan" : "Parigi",
+  "kelurahan" : "Latampu (Tampu)",
+  "kodepos" : "93663"
+}, {
+  "kecamatan" : "Parigi",
+  "kelurahan" : "Labulu-Bulu",
+  "kodepos" : "93663"
+}, {
+  "kecamatan" : "Parigi",
+  "kelurahan" : "Laiba",
+  "kodepos" : "93663"
+}, {
+  "kecamatan" : "Parigi",
+  "kelurahan" : "Kolasa",
+  "kodepos" : "93663"
+}, {
+  "kecamatan" : "Bone (Bone Tondo)",
+  "kelurahan" : "Bone Lolibu",
+  "kodepos" : "93663"
+}, {
+  "kecamatan" : "Bone (Bone Tondo)",
+  "kelurahan" : "Bone Tondo",
+  "kodepos" : "93663"
+}, {
+  "kecamatan" : "Bone (Bone Tondo)",
+  "kelurahan" : "Bone Kancitala",
+  "kodepos" : "93663"
+}, {
+  "kecamatan" : "Tongkuno Selatan",
+  "kelurahan" : "Waleale",
+  "kodepos" : "93662"
+}, {
+  "kecamatan" : "Tongkuno Selatan",
+  "kelurahan" : "Watondo",
+  "kodepos" : "93662"
+}, {
+  "kecamatan" : "Tongkuno",
+  "kelurahan" : "Tombula",
+  "kodepos" : "93662"
+}, {
+  "kecamatan" : "Tongkuno",
+  "kelurahan" : "Oempu",
+  "kodepos" : "93662"
+}, {
+  "kecamatan" : "Tongkuno",
+  "kelurahan" : "Tanjung",
+  "kodepos" : "93662"
+}, {
+  "kecamatan" : "Tongkuno Selatan",
+  "kelurahan" : "Lianosa",
+  "kodepos" : "93662"
+}, {
+  "kecamatan" : "Tongkuno",
+  "kelurahan" : "Matano Oe",
+  "kodepos" : "93662"
+}, {
+  "kecamatan" : "Tongkuno Selatan",
+  "kelurahan" : "Lawama",
+  "kodepos" : "93662"
+}, {
+  "kecamatan" : "Tongkuno",
+  "kelurahan" : "Lapadindi",
+  "kodepos" : "93662"
+}, {
+  "kecamatan" : "Tongkuno",
+  "kelurahan" : "Lakologou",
+  "kodepos" : "93662"
+}, {
+  "kecamatan" : "Tongkuno",
+  "kelurahan" : "Lamorende",
+  "kodepos" : "93662"
+}, {
+  "kecamatan" : "Tongkuno Selatan",
+  "kelurahan" : "Labasa",
+  "kodepos" : "93662"
+}, {
+  "kecamatan" : "Tongkuno",
+  "kelurahan" : "Laghontoghe / Lahontohe",
+  "kodepos" : "93662"
+}, {
+  "kecamatan" : "Tongkuno",
+  "kelurahan" : "Kontumolepe",
+  "kodepos" : "93662"
+}, {
+  "kecamatan" : "Tongkuno",
+  "kelurahan" : "Kotano Wuna",
+  "kodepos" : "93662"
+}, {
+  "kecamatan" : "Tongkuno",
+  "kelurahan" : "Fongkaniwa",
+  "kodepos" : "93662"
+}, {
+  "kecamatan" : "Tongkuno Selatan",
+  "kelurahan" : "Kalidawa",
+  "kodepos" : "93662"
+}, {
+  "kecamatan" : "Kabawo",
+  "kelurahan" : "Wantiworo",
+  "kodepos" : "93661"
+}, {
+  "kecamatan" : "Tongkuno",
+  "kelurahan" : "Danagoa",
+  "kodepos" : "93662"
+}, {
+  "kecamatan" : "Kabawo",
+  "kelurahan" : "Rangka",
+  "kodepos" : "93661"
+}, {
+  "kecamatan" : "Kabawo",
+  "kelurahan" : "Tanjung Batu",
+  "kodepos" : "93661"
+}, {
+  "kecamatan" : "Kabawo",
+  "kelurahan" : "Lamaeo",
+  "kodepos" : "93661"
+}, {
+  "kecamatan" : "Kontu Kowuna",
+  "kelurahan" : "Lembo",
+  "kodepos" : "93661"
+}, {
+  "kecamatan" : "Kabawo",
+  "kelurahan" : "Laimpi",
+  "kodepos" : "93661"
+}, {
+  "kecamatan" : "Kontu Kowuna",
+  "kelurahan" : "Lahorio",
+  "kodepos" : "93661"
+}, {
+  "kecamatan" : "Kabawo",
+  "kelurahan" : "Kontumere",
+  "kodepos" : "93661"
+}, {
+  "kecamatan" : "Kontu Kowuna",
+  "kelurahan" : "Kilambibito",
+  "kodepos" : "93661"
+}, {
+  "kecamatan" : "Kontu Kowuna",
+  "kelurahan" : "Kontu Kowuna",
+  "kodepos" : "93661"
+}, {
+  "kecamatan" : "Kabawo",
+  "kelurahan" : "Kasaka",
+  "kodepos" : "93661"
+}, {
+  "kecamatan" : "Kabawo",
+  "kelurahan" : "Kawite Wite",
+  "kodepos" : "93661"
+}, {
+  "kecamatan" : "Kabawo",
+  "kelurahan" : "Bente",
+  "kodepos" : "93661"
+}, {
+  "kecamatan" : "Kabawo",
+  "kelurahan" : "Kambawuna",
+  "kodepos" : "93661"
+}, {
+  "kecamatan" : "Kontu Kowuna",
+  "kelurahan" : "Kafo Foo",
+  "kodepos" : "93661"
+}, {
+  "kecamatan" : "Kabawo",
+  "kelurahan" : "Bea",
+  "kodepos" : "93661"
+}, {
+  "kecamatan" : "Kontu Kowuna",
+  "kelurahan" : "Bahutara",
+  "kodepos" : "93661"
+}, {
+  "kecamatan" : "Duruka",
+  "kelurahan" : "Lagasa",
+  "kodepos" : "93659"
+}, {
+  "kecamatan" : "Duruka",
+  "kelurahan" : "Lasunapa",
+  "kodepos" : "93659"
+}, {
+  "kecamatan" : "Duruka",
+  "kelurahan" : "Palangga",
+  "kodepos" : "93659"
+}, {
+  "kecamatan" : "Duruka",
+  "kelurahan" : "Ghonsume",
+  "kodepos" : "93659"
+}, {
+  "kecamatan" : "Duruka",
+  "kelurahan" : "Gone Balano",
+  "kodepos" : "93659"
+}, {
+  "kecamatan" : "Duruka",
+  "kelurahan" : "Banggai",
+  "kodepos" : "93659"
+}, {
+  "kecamatan" : "Lohia",
+  "kelurahan" : "Wabintingi",
+  "kodepos" : "93658"
+}, {
+  "kecamatan" : "Lohia",
+  "kelurahan" : "Waarah",
+  "kodepos" : "93658"
+}, {
+  "kecamatan" : "Kontunaga",
+  "kelurahan" : "Masalili",
+  "kodepos" : "93658"
+}, {
+  "kecamatan" : "Lohia",
+  "kelurahan" : "Mantobua",
+  "kodepos" : "93658"
+}, {
+  "kecamatan" : "Kontunaga",
+  "kelurahan" : "Mabodo",
+  "kodepos" : "93658"
+}, {
+  "kecamatan" : "Lohia",
+  "kelurahan" : "Liangkobori",
+  "kodepos" : "93658"
+}, {
+  "kecamatan" : "Lohia",
+  "kelurahan" : "Lohia",
+  "kodepos" : "93658"
+}, {
+  "kecamatan" : "Kontunaga",
+  "kelurahan" : "Lapodidi",
+  "kodepos" : "93658"
+}, {
+  "kecamatan" : "Kontunaga",
+  "kelurahan" : "Liabalano (Labalano)",
+  "kodepos" : "93658"
+}, {
+  "kecamatan" : "Kontunaga",
+  "kelurahan" : "Lakauduma",
+  "kodepos" : "93658"
+}, {
+  "kecamatan" : "Lohia",
+  "kelurahan" : "Korihi",
+  "kodepos" : "93658"
+}, {
+  "kecamatan" : "Lohia",
+  "kelurahan" : "Lakarinta",
+  "kodepos" : "93658"
+}, {
+  "kecamatan" : "Kontunaga",
+  "kelurahan" : "Bungi",
+  "kodepos" : "93658"
+}, {
+  "kecamatan" : "Kontunaga",
+  "kelurahan" : "Kontunaga",
+  "kodepos" : "93658"
+}, {
+  "kecamatan" : "Lohia",
+  "kelurahan" : "Kondongia",
+  "kodepos" : "93658"
+}, {
+  "kecamatan" : "Lohia",
+  "kelurahan" : "Bolo",
+  "kodepos" : "93658"
+}, {
+  "kecamatan" : "Sawerigadi (Sawerigading/Sewergadi)",
+  "kelurahan" : "Wakoila",
+  "kodepos" : "93657"
+}, {
+  "kecamatan" : "Sawerigadi (Sawerigading/Sewergadi)",
+  "kelurahan" : "Waukuni",
+  "kodepos" : "93657"
+}, {
+  "kecamatan" : "Sawerigadi (Sawerigading/Sewergadi)",
+  "kelurahan" : "Nihi",
+  "kodepos" : "93657"
+}, {
+  "kecamatan" : "Sawerigadi (Sawerigading/Sewergadi)",
+  "kelurahan" : "Ondoke",
+  "kodepos" : "93657"
+}, {
+  "kecamatan" : "Sawerigadi (Sawerigading/Sewergadi)",
+  "kelurahan" : "Maperaha",
+  "kodepos" : "93657"
+}, {
+  "kecamatan" : "Sawerigadi (Sawerigading/Sewergadi)",
+  "kelurahan" : "Marobea",
+  "kodepos" : "93657"
+}, {
+  "kecamatan" : "Sawerigadi (Sawerigading/Sewergadi)",
+  "kelurahan" : "Lawada Jaya",
+  "kodepos" : "93657"
+}, {
+  "kecamatan" : "Sawerigadi (Sawerigading/Sewergadi)",
+  "kelurahan" : "Lombu Jaya",
+  "kodepos" : "93657"
+}, {
+  "kecamatan" : "Sawerigadi (Sawerigading/Sewergadi)",
+  "kelurahan" : "Kampobalano",
+  "kodepos" : "93657"
+}, {
+  "kecamatan" : "Sawerigadi (Sawerigading/Sewergadi)",
+  "kelurahan" : "Lakalamba",
+  "kodepos" : "93657"
+}, {
+  "kecamatan" : "Watopute",
+  "kelurahan" : "Wali",
+  "kodepos" : "93656"
+}, {
+  "kecamatan" : "Watopute",
+  "kelurahan" : "Wakadia",
+  "kodepos" : "93656"
+}, {
+  "kecamatan" : "Watopute",
+  "kelurahan" : "Lakauduma",
+  "kodepos" : "93656"
+}, {
+  "kecamatan" : "Watopute",
+  "kelurahan" : "Matarawa",
+  "kodepos" : "93656"
+}, {
+  "kecamatan" : "Watopute",
+  "kelurahan" : "Labaha",
+  "kodepos" : "93656"
+}, {
+  "kecamatan" : "Watopute",
+  "kelurahan" : "Lakapodo",
+  "kodepos" : "93656"
+}, {
+  "kecamatan" : "Watopute",
+  "kelurahan" : "Bangkali",
+  "kodepos" : "93656"
+}, {
+  "kecamatan" : "Watopute",
+  "kelurahan" : "Dana",
+  "kodepos" : "93656"
+}, {
+  "kecamatan" : "Napano Kusambi",
+  "kelurahan" : "Umba",
+  "kodepos" : "93655"
+}, {
+  "kecamatan" : "Kusambi",
+  "kelurahan" : "Tanjung Pinang",
+  "kodepos" : "93655"
+}, {
+  "kecamatan" : "Napano Kusambi",
+  "kelurahan" : "Tangkumaho",
+  "kodepos" : "93655"
+}, {
+  "kecamatan" : "Kusambi",
+  "kelurahan" : "Sida Mangura (Sidamagura)",
+  "kodepos" : "93655"
+}, {
+  "kecamatan" : "Napano Kusambi",
+  "kelurahan" : "Masara",
+  "kodepos" : "93655"
+}, {
+  "kecamatan" : "Kusambi",
+  "kelurahan" : "Lapokainse",
+  "kodepos" : "93655"
+}, {
+  "kecamatan" : "Kusambi",
+  "kelurahan" : "Lemoambo",
+  "kodepos" : "93655"
+}, {
+  "kecamatan" : "Napano Kusambi",
+  "kelurahan" : "Latawe",
+  "kodepos" : "93655"
+}, {
+  "kecamatan" : "Kusambi",
+  "kelurahan" : "Lakawoghe",
+  "kodepos" : "93655"
+}, {
+  "kecamatan" : "Napano Kusambi",
+  "kelurahan" : "Lahaji",
+  "kodepos" : "93655"
+}, {
+  "kecamatan" : "Kusambi",
+  "kelurahan" : "Kusambi",
+  "kodepos" : "93655"
+}, {
+  "kecamatan" : "Kusambi",
+  "kelurahan" : "Konawe",
+  "kodepos" : "93655"
+}, {
+  "kecamatan" : "Napano Kusambi",
+  "kelurahan" : "Kombikuno",
+  "kodepos" : "93655"
+}, {
+  "kecamatan" : "Kusambi",
+  "kelurahan" : "Kasakamu",
+  "kodepos" : "93655"
+}, {
+  "kecamatan" : "Kusambi",
+  "kelurahan" : "Bakeramba",
+  "kodepos" : "93655"
+}, {
+  "kecamatan" : "Kusambi",
+  "kelurahan" : "Guali",
+  "kodepos" : "93655"
+}, {
+  "kecamatan" : "Towea",
+  "kelurahan" : "Wangkolabu",
+  "kodepos" : "93654"
+}, {
+  "kecamatan" : "Napabalano",
+  "kelurahan" : "Tampo",
+  "kodepos" : "93654"
+}, {
+  "kecamatan" : "Napabalano",
+  "kelurahan" : "Pentiro",
+  "kodepos" : "93654"
+}, {
+  "kecamatan" : "Towea",
+  "kelurahan" : "Renda",
+  "kodepos" : "93654"
+}, {
+  "kecamatan" : "Lasalepa",
+  "kelurahan" : "Parida",
+  "kodepos" : "93654"
+}, {
+  "kecamatan" : "Napabalano",
+  "kelurahan" : "Napalakura",
+  "kodepos" : "93654"
+}, {
+  "kecamatan" : "Napabalano",
+  "kelurahan" : "Napabalano",
+  "kodepos" : "93654"
+}, {
+  "kecamatan" : "Towea",
+  "kelurahan" : "Moasi",
+  "kodepos" : "93654"
+}, {
+  "kecamatan" : "Lasalepa",
+  "kelurahan" : "Lasalepa",
+  "kodepos" : "93654"
+}, {
+  "kecamatan" : "Napabalano",
+  "kelurahan" : "Langkumapo",
+  "kodepos" : "93654"
+}, {
+  "kecamatan" : "Napabalano",
+  "kelurahan" : "Lambiku",
+  "kodepos" : "93654"
+}, {
+  "kecamatan" : "Towea",
+  "kelurahan" : "Lakarama",
+  "kodepos" : "93654"
+}, {
+  "kecamatan" : "Lasalepa",
+  "kelurahan" : "Labunti",
+  "kodepos" : "93654"
+}, {
+  "kecamatan" : "Lasalepa",
+  "kelurahan" : "Labone",
+  "kodepos" : "93654"
+}, {
+  "kecamatan" : "Lasalepa",
+  "kelurahan" : "Bonea",
+  "kodepos" : "93654"
+}, {
+  "kecamatan" : "Lasalepa",
+  "kelurahan" : "Kombungo",
+  "kodepos" : "93654"
+}, {
+  "kecamatan" : "Lasalepa",
+  "kelurahan" : "Bangun Sari",
+  "kodepos" : "93654"
+}, {
+  "kecamatan" : "Towea",
+  "kelurahan" : "Bahari",
+  "kodepos" : "93654"
+}, {
+  "kecamatan" : "Tiworo Kepulauan",
+  "kelurahan" : "Wulanga Jaya",
+  "kodepos" : "93653"
+}, {
+  "kecamatan" : "Tiworo Kepulauan",
+  "kelurahan" : "Waumere",
+  "kodepos" : "93653"
+}, {
+  "kecamatan" : "Tiworo Kepulauan",
+  "kelurahan" : "Waturempe",
+  "kodepos" : "93653"
+}, {
+  "kecamatan" : "Tiworo Tengah",
+  "kelurahan" : "Wapae Jaya",
+  "kodepos" : "93653"
+}, {
+  "kecamatan" : "Tiworo Tengah",
+  "kelurahan" : "Wanseriwu",
+  "kodepos" : "93653"
+}, {
+  "kecamatan" : "Tiworo Kepulauan",
+  "kelurahan" : "Wandoke",
+  "kodepos" : "93653"
+}, {
+  "kecamatan" : "Tiworo Utara",
+  "kelurahan" : "Tondasi",
+  "kodepos" : "93653"
+}, {
+  "kecamatan" : "Tiworo Kepulauan",
+  "kelurahan" : "Tiworo",
+  "kodepos" : "93653"
+}, {
+  "kecamatan" : "Tiworo Utara",
+  "kelurahan" : "Tiga",
+  "kodepos" : "93653"
+}, {
+  "kecamatan" : "Tiworo Utara",
+  "kelurahan" : "Tasipi",
+  "kodepos" : "93653"
+}, {
+  "kecamatan" : "Tiworo Tengah",
+  "kelurahan" : "Suka Damai",
+  "kodepos" : "93653"
+}, {
+  "kecamatan" : "Tiworo Kepulauan",
+  "kelurahan" : "Sido Makmur",
+  "kodepos" : "93653"
+}, {
+  "kecamatan" : "Tiworo Utara",
+  "kelurahan" : "Santiri",
+  "kodepos" : "93653"
+}, {
+  "kecamatan" : "Tiworo Utara",
+  "kelurahan" : "Santigi / Santingi",
+  "kodepos" : "93653"
+}, {
+  "kecamatan" : "Tiworo Tengah",
+  "kelurahan" : "Momuntu",
+  "kodepos" : "93653"
+}, {
+  "kecamatan" : "Tiworo Tengah",
+  "kelurahan" : "Mekar Jaya",
+  "kodepos" : "93653"
+}, {
+  "kecamatan" : "Tiworo Utara",
+  "kelurahan" : "Mandike",
+  "kodepos" : "93653"
+}, {
+  "kecamatan" : "Tiworo Kepulauan",
+  "kelurahan" : "Laworo",
+  "kodepos" : "93653"
+}, {
+  "kecamatan" : "Tiworo Tengah",
+  "kelurahan" : "Langku-Langku",
+  "kodepos" : "93653"
+}, {
+  "kecamatan" : "Tiworo Kepulauan",
+  "kelurahan" : "Lasama",
+  "kodepos" : "93653"
+}, {
+  "kecamatan" : "Tiworo Tengah",
+  "kelurahan" : "Lakabu",
+  "kodepos" : "93653"
+}, {
+  "kecamatan" : "Tiworo Tengah",
+  "kelurahan" : "Labokolo",
+  "kodepos" : "93653"
+}, {
+  "kecamatan" : "Tiworo Kepulauan",
+  "kelurahan" : "Katela",
+  "kodepos" : "93653"
+}, {
+  "kecamatan" : "Tiworo Utara",
+  "kelurahan" : "Bero",
+  "kodepos" : "93653"
+}, {
+  "kecamatan" : "Barangka",
+  "kelurahan" : "Wuna",
+  "kodepos" : "93652"
+}, {
+  "kecamatan" : "Lawa",
+  "kelurahan" : "Wamelai (Lambubalano)",
+  "kodepos" : "93652"
+}, {
+  "kecamatan" : "Barangka",
+  "kelurahan" : "Waulai",
+  "kodepos" : "93652"
+}, {
+  "kecamatan" : "Lawa",
+  "kelurahan" : "Watumela",
+  "kodepos" : "93652"
+}, {
+  "kecamatan" : "Barangka",
+  "kelurahan" : "Walelei",
+  "kodepos" : "93652"
+}, {
+  "kecamatan" : "Wa Daga",
+  "kelurahan" : "Wakontu",
+  "kodepos" : "93652"
+}, {
+  "kecamatan" : "Barangka",
+  "kelurahan" : "Sawerigadi",
+  "kodepos" : "93652"
+}, {
+  "kecamatan" : "Lawa",
+  "kelurahan" : "Madampi",
+  "kodepos" : "93652"
+}, {
+  "kecamatan" : "Lawa",
+  "kelurahan" : "Latugho",
+  "kodepos" : "93652"
+}, {
+  "kecamatan" : "Wa Daga",
+  "kelurahan" : "Lindo",
+  "kodepos" : "93652"
+}, {
+  "kecamatan" : "Lawa",
+  "kelurahan" : "Latompe",
+  "kodepos" : "93652"
+}, {
+  "kecamatan" : "Barangka",
+  "kelurahan" : "Lapolea",
+  "kodepos" : "93652"
+}, {
+  "kecamatan" : "Wa Daga",
+  "kelurahan" : "Lasosodo",
+  "kodepos" : "93652"
+}, {
+  "kecamatan" : "Lawa",
+  "kelurahan" : "Lalemba",
+  "kodepos" : "93652"
+}, {
+  "kecamatan" : "Lawa",
+  "kelurahan" : "Lapadaku",
+  "kodepos" : "93652"
+}, {
+  "kecamatan" : "Wa Daga",
+  "kelurahan" : "Lailangga",
+  "kodepos" : "93652"
+}, {
+  "kecamatan" : "Wa Daga",
+  "kelurahan" : "Lakanaha",
+  "kodepos" : "93652"
+}, {
+  "kecamatan" : "Lawa",
+  "kelurahan" : "Lagadi",
+  "kodepos" : "93652"
+}, {
+  "kecamatan" : "Barangka",
+  "kelurahan" : "Lafinde",
+  "kodepos" : "93652"
+}, {
+  "kecamatan" : "Wa Daga",
+  "kelurahan" : "Kampani",
+  "kodepos" : "93652"
+}, {
+  "kecamatan" : "Wa Daga",
+  "kelurahan" : "Katobu",
+  "kodepos" : "93652"
+}, {
+  "kecamatan" : "Barangka",
+  "kelurahan" : "Barangka",
+  "kodepos" : "93652"
+}, {
+  "kecamatan" : "Barangka",
+  "kelurahan" : "Bungkolo",
+  "kodepos" : "93652"
+}, {
+  "kecamatan" : "Duruka",
+  "kelurahan" : "Wapunto",
+  "kodepos" : "93618"
+}, {
+  "kecamatan" : "Katobu",
+  "kelurahan" : "Watonea",
+  "kodepos" : "93615"
+}, {
+  "kecamatan" : "Katobu",
+  "kelurahan" : "Mangga Kuning",
+  "kodepos" : "93616"
+}, {
+  "kecamatan" : "Batalaiwaru (Batalaiworu)",
+  "kelurahan" : "Wawesa",
+  "kodepos" : "93614"
+}, {
+  "kecamatan" : "Batalaiwaru (Batalaiworu)",
+  "kelurahan" : "Wakorambu",
+  "kodepos" : "93614"
+}, {
+  "kecamatan" : "Batalaiwaru (Batalaiworu)",
+  "kelurahan" : "Sidodadi",
+  "kodepos" : "93614"
+}, {
+  "kecamatan" : "Batalaiwaru (Batalaiworu)",
+  "kelurahan" : "Laiworu",
+  "kodepos" : "93614"
+}, {
+  "kecamatan" : "Katobu",
+  "kelurahan" : "Raha III",
+  "kodepos" : "93613"
+}, {
+  "kecamatan" : "Katobu",
+  "kelurahan" : "Wamponiki",
+  "kodepos" : "93611"
+}, {
+  "kecamatan" : "Katobu",
+  "kelurahan" : "Raha II",
+  "kodepos" : "93612"
+}, {
+  "kecamatan" : "Katobu",
+  "kelurahan" : "Raha I",
+  "kodepos" : "93611"
+}, {
+  "kecamatan" : "Katobu",
+  "kelurahan" : "Butung-Butung",
+  "kodepos" : "93611"
+}, {
+  "kecamatan" : "Katobu",
+  "kelurahan" : "Laende",
+  "kodepos" : "93611"
+} ]

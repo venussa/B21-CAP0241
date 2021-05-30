@@ -1,0 +1,633 @@
+[ {
+  "kecamatan" : "Pino",
+  "kelurahan" : "Ulak Lebar",
+  "kodepos" : "38571"
+}, {
+  "kecamatan" : "Pinoraya",
+  "kelurahan" : "Tungkal II",
+  "kodepos" : "38571"
+}, {
+  "kecamatan" : "Pinoraya",
+  "kelurahan" : "Tungkal I",
+  "kodepos" : "38571"
+}, {
+  "kecamatan" : "Pinoraya",
+  "kelurahan" : "Telaga Dalam",
+  "kodepos" : "38571"
+}, {
+  "kecamatan" : "Air Nipis",
+  "kelurahan" : "Tanjung Beringin",
+  "kodepos" : "38571"
+}, {
+  "kecamatan" : "Pino",
+  "kelurahan" : "Tanjung Eran",
+  "kodepos" : "38571"
+}, {
+  "kecamatan" : "Pino",
+  "kelurahan" : "Tanjung Aur I",
+  "kodepos" : "38571"
+}, {
+  "kecamatan" : "Pinoraya",
+  "kelurahan" : "Tanggo Raso",
+  "kodepos" : "38571"
+}, {
+  "kecamatan" : "Pinoraya",
+  "kelurahan" : "Tanjung Aur",
+  "kodepos" : "38571"
+}, {
+  "kecamatan" : "Pinoraya",
+  "kelurahan" : "Talang Padang",
+  "kodepos" : "38571"
+}, {
+  "kecamatan" : "Ulu Manna",
+  "kelurahan" : "Talang Tinggi",
+  "kodepos" : "38571"
+}, {
+  "kecamatan" : "Air Nipis",
+  "kelurahan" : "Sukarami",
+  "kodepos" : "38571"
+}, {
+  "kecamatan" : "Air Nipis",
+  "kelurahan" : "Suka Negeri",
+  "kodepos" : "38571"
+}, {
+  "kecamatan" : "Air Nipis",
+  "kelurahan" : "Suka Maju",
+  "kodepos" : "38571"
+}, {
+  "kecamatan" : "Pinoraya",
+  "kelurahan" : "Suka Bandung",
+  "kodepos" : "38571"
+}, {
+  "kecamatan" : "Air Nipis",
+  "kelurahan" : "Suka Bandung",
+  "kodepos" : "38571"
+}, {
+  "kecamatan" : "Ulu Manna",
+  "kelurahan" : "Simpang Pino",
+  "kodepos" : "38571"
+}, {
+  "kecamatan" : "Pinoraya",
+  "kelurahan" : "Serang Bulan",
+  "kodepos" : "38571"
+}, {
+  "kecamatan" : "Pinoraya",
+  "kelurahan" : "Selali I",
+  "kodepos" : "38571"
+}, {
+  "kecamatan" : "Pino",
+  "kelurahan" : "Sebilo",
+  "kodepos" : "38571"
+}, {
+  "kecamatan" : "Air Nipis",
+  "kelurahan" : "Pino Baru",
+  "kodepos" : "38571"
+}, {
+  "kecamatan" : "Pino",
+  "kelurahan" : "Puding",
+  "kodepos" : "38571"
+}, {
+  "kecamatan" : "Air Nipis",
+  "kelurahan" : "Penandingan",
+  "kodepos" : "38571"
+}, {
+  "kecamatan" : "Pinoraya",
+  "kelurahan" : "Pasar Pino",
+  "kodepos" : "38571"
+}, {
+  "kecamatan" : "Air Nipis",
+  "kelurahan" : "Palak Bengkerung",
+  "kodepos" : "38571"
+}, {
+  "kecamatan" : "Pino",
+  "kelurahan" : "Padang Tambak",
+  "kodepos" : "38571"
+}, {
+  "kecamatan" : "Pinoraya",
+  "kelurahan" : "Pagar Gading",
+  "kodepos" : "38571"
+}, {
+  "kecamatan" : "Pinoraya",
+  "kelurahan" : "Padang Serasan",
+  "kodepos" : "38571"
+}, {
+  "kecamatan" : "Pino",
+  "kelurahan" : "Padang Mumpo",
+  "kodepos" : "38571"
+}, {
+  "kecamatan" : "Pino",
+  "kelurahan" : "Padang Lebar",
+  "kodepos" : "38571"
+}, {
+  "kecamatan" : "Pinoraya",
+  "kelurahan" : "Padang Beriang",
+  "kodepos" : "38571"
+}, {
+  "kecamatan" : "Pinoraya",
+  "kelurahan" : "Napal Melintang",
+  "kodepos" : "38571"
+}, {
+  "kecamatan" : "Pinoraya",
+  "kelurahan" : "Nanjungan",
+  "kodepos" : "38571"
+}, {
+  "kecamatan" : "Pino",
+  "kelurahan" : "Masat",
+  "kodepos" : "38571"
+}, {
+  "kecamatan" : "Ulu Manna",
+  "kelurahan" : "Merambung",
+  "kodepos" : "38571"
+}, {
+  "kecamatan" : "Air Nipis",
+  "kelurahan" : "Maras",
+  "kodepos" : "38571"
+}, {
+  "kecamatan" : "Ulu Manna",
+  "kelurahan" : "Lubuk Tapi",
+  "kodepos" : "38571"
+}, {
+  "kecamatan" : "Pino",
+  "kelurahan" : "Kota Bumi",
+  "kodepos" : "38571"
+}, {
+  "kecamatan" : "Pinoraya",
+  "kelurahan" : "Kembang Seri",
+  "kodepos" : "38571"
+}, {
+  "kecamatan" : "Pinoraya",
+  "kelurahan" : "Kemang Manis",
+  "kodepos" : "38571"
+}, {
+  "kecamatan" : "Ulu Manna",
+  "kelurahan" : "Keban Jati",
+  "kodepos" : "38571"
+}, {
+  "kecamatan" : "Air Nipis",
+  "kelurahan" : "Keban Jati",
+  "kodepos" : "38571"
+}, {
+  "kecamatan" : "Ulu Manna",
+  "kelurahan" : "Kayu Ajaran",
+  "kodepos" : "38571"
+}, {
+  "kecamatan" : "Pinoraya",
+  "kelurahan" : "Karang Cayo",
+  "kodepos" : "38571"
+}, {
+  "kecamatan" : "Pino",
+  "kelurahan" : "Gedung Agung",
+  "kodepos" : "38571"
+}, {
+  "kecamatan" : "Pino",
+  "kelurahan" : "Ganjuh",
+  "kodepos" : "38571"
+}, {
+  "kecamatan" : "Pinoraya",
+  "kelurahan" : "Cinto Mandi",
+  "kodepos" : "38571"
+}, {
+  "kecamatan" : "Ulu Manna",
+  "kelurahan" : "Batu Panco",
+  "kodepos" : "38571"
+}, {
+  "kecamatan" : "Pino",
+  "kelurahan" : "Beringin Datar",
+  "kodepos" : "38571"
+}, {
+  "kecamatan" : "Ulu Manna",
+  "kelurahan" : "Batu Kuning",
+  "kodepos" : "38571"
+}, {
+  "kecamatan" : "Pino",
+  "kelurahan" : "Batu Bandung",
+  "kodepos" : "38571"
+}, {
+  "kecamatan" : "Ulu Manna",
+  "kelurahan" : "Bandar Agung",
+  "kodepos" : "38571"
+}, {
+  "kecamatan" : "Pinoraya",
+  "kelurahan" : "Bandung Ayu",
+  "kodepos" : "38571"
+}, {
+  "kecamatan" : "Ulu Manna",
+  "kelurahan" : "Air Tenam Dalam",
+  "kodepos" : "38571"
+}, {
+  "kecamatan" : "Pino",
+  "kelurahan" : "Air Umban",
+  "kodepos" : "38571"
+}, {
+  "kecamatan" : "Pino",
+  "kelurahan" : "Anggut",
+  "kodepos" : "38571"
+}, {
+  "kecamatan" : "Pinoraya",
+  "kelurahan" : "Air Kemang",
+  "kodepos" : "38571"
+}, {
+  "kecamatan" : "Kedurang",
+  "kelurahan" : "Tanjung Negara",
+  "kodepos" : "38553"
+}, {
+  "kecamatan" : "Kedurang",
+  "kelurahan" : "Tanjung Besar",
+  "kodepos" : "38553"
+}, {
+  "kecamatan" : "Kedurang",
+  "kelurahan" : "Tanjung Nanti (Sukananti)",
+  "kodepos" : "38553"
+}, {
+  "kecamatan" : "Kedurang Ilir",
+  "kelurahan" : "Sukarami I",
+  "kodepos" : "38553"
+}, {
+  "kecamatan" : "Kedurang",
+  "kelurahan" : "Tanjung Alam",
+  "kodepos" : "38553"
+}, {
+  "kecamatan" : "Kedurang Ilir",
+  "kelurahan" : "Suka Jaya",
+  "kodepos" : "38553"
+}, {
+  "kecamatan" : "Kedurang Ilir",
+  "kelurahan" : "Suka Raja",
+  "kodepos" : "38553"
+}, {
+  "kecamatan" : "Kedurang Ilir",
+  "kelurahan" : "Penindaian",
+  "kodepos" : "38553"
+}, {
+  "kecamatan" : "Kedurang",
+  "kelurahan" : "Palak Siring",
+  "kodepos" : "38553"
+}, {
+  "kecamatan" : "Kedurang",
+  "kelurahan" : "Rantau Sialang",
+  "kodepos" : "38553"
+}, {
+  "kecamatan" : "Kedurang Ilir",
+  "kelurahan" : "Pagar Banyu",
+  "kodepos" : "38553"
+}, {
+  "kecamatan" : "Kedurang",
+  "kelurahan" : "Pajar Bulan",
+  "kodepos" : "38553"
+}, {
+  "kecamatan" : "Kedurang Ilir",
+  "kelurahan" : "Padang Bindu",
+  "kodepos" : "38553"
+}, {
+  "kecamatan" : "Kedurang",
+  "kelurahan" : "Nanti Agung",
+  "kodepos" : "38553"
+}, {
+  "kecamatan" : "Kedurang Ilir",
+  "kelurahan" : "Nanjungan",
+  "kodepos" : "38553"
+}, {
+  "kecamatan" : "Kedurang",
+  "kelurahan" : "Muara Tiga Ilir",
+  "kodepos" : "38553"
+}, {
+  "kecamatan" : "Kedurang",
+  "kelurahan" : "Muara Tiga",
+  "kodepos" : "38553"
+}, {
+  "kecamatan" : "Kedurang Ilir",
+  "kelurahan" : "Limus",
+  "kodepos" : "38553"
+}, {
+  "kecamatan" : "Kedurang Ilir",
+  "kelurahan" : "Lubuk Ladung",
+  "kodepos" : "38553"
+}, {
+  "kecamatan" : "Kedurang",
+  "kelurahan" : "Lubuk Resam",
+  "kodepos" : "38553"
+}, {
+  "kecamatan" : "Kedurang",
+  "kelurahan" : "Keban Agung III",
+  "kodepos" : "38553"
+}, {
+  "kecamatan" : "Kedurang",
+  "kelurahan" : "Lawang Agung",
+  "kodepos" : "38553"
+}, {
+  "kecamatan" : "Kedurang",
+  "kelurahan" : "Keban Agung I",
+  "kodepos" : "38553"
+}, {
+  "kecamatan" : "Kedurang",
+  "kelurahan" : "Keban Agung II",
+  "kodepos" : "38553"
+}, {
+  "kecamatan" : "Kedurang",
+  "kelurahan" : "Karang Agung",
+  "kodepos" : "38553"
+}, {
+  "kecamatan" : "Kedurang",
+  "kelurahan" : "Karang Agung",
+  "kodepos" : "38553"
+}, {
+  "kecamatan" : "Kedurang",
+  "kelurahan" : "Durian Sebatang",
+  "kodepos" : "38553"
+}, {
+  "kecamatan" : "Kedurang",
+  "kelurahan" : "Bumi Agung",
+  "kodepos" : "38553"
+}, {
+  "kecamatan" : "Kedurang Ilir",
+  "kelurahan" : "Betungan",
+  "kodepos" : "38553"
+}, {
+  "kecamatan" : "Kedurang",
+  "kelurahan" : "Batu Ampar",
+  "kodepos" : "38553"
+}, {
+  "kecamatan" : "Kedurang Ilir",
+  "kelurahan" : "Air Sulau",
+  "kodepos" : "38553"
+}, {
+  "kecamatan" : "Seginim",
+  "kelurahan" : "Tanjung Agung",
+  "kodepos" : "38552"
+}, {
+  "kecamatan" : "Seginim",
+  "kelurahan" : "Tanjung Menang",
+  "kodepos" : "38552"
+}, {
+  "kecamatan" : "Seginim",
+  "kelurahan" : "Pasar Baru",
+  "kodepos" : "38552"
+}, {
+  "kecamatan" : "Seginim",
+  "kelurahan" : "Sindang Bulan",
+  "kodepos" : "38552"
+}, {
+  "kecamatan" : "Seginim",
+  "kelurahan" : "Sukaraja",
+  "kodepos" : "38552"
+}, {
+  "kecamatan" : "Seginim",
+  "kelurahan" : "Padang Siring",
+  "kodepos" : "38552"
+}, {
+  "kecamatan" : "Seginim",
+  "kelurahan" : "Pajar Bulan",
+  "kodepos" : "38552"
+}, {
+  "kecamatan" : "Seginim",
+  "kelurahan" : "Muara Pulutan",
+  "kodepos" : "38552"
+}, {
+  "kecamatan" : "Seginim",
+  "kelurahan" : "Padang Lebar",
+  "kodepos" : "38552"
+}, {
+  "kecamatan" : "Seginim",
+  "kelurahan" : "Muara Danau",
+  "kodepos" : "38552"
+}, {
+  "kecamatan" : "Seginim",
+  "kelurahan" : "Muara Payang",
+  "kodepos" : "38552"
+}, {
+  "kecamatan" : "Seginim",
+  "kelurahan" : "Gunung Ayu II",
+  "kodepos" : "38552"
+}, {
+  "kecamatan" : "Seginim",
+  "kelurahan" : "Kota Agung",
+  "kodepos" : "38552"
+}, {
+  "kecamatan" : "Seginim",
+  "kelurahan" : "Durian Seginim",
+  "kodepos" : "38552"
+}, {
+  "kecamatan" : "Seginim",
+  "kelurahan" : "Kota Bumi Baru",
+  "kodepos" : "38552"
+}, {
+  "kecamatan" : "Seginim",
+  "kelurahan" : "Dusun Baru",
+  "kodepos" : "38552"
+}, {
+  "kecamatan" : "Seginim",
+  "kelurahan" : "Gunung Ayu II",
+  "kodepos" : "38552"
+}, {
+  "kecamatan" : "Seginim",
+  "kelurahan" : "Banding Agung",
+  "kodepos" : "38552"
+}, {
+  "kecamatan" : "Seginim",
+  "kelurahan" : "Darat Sawah Ilir (Hilir)",
+  "kodepos" : "38552"
+}, {
+  "kecamatan" : "Seginim",
+  "kelurahan" : "Darat Sawah Ulu (Hulu)",
+  "kodepos" : "38552"
+}, {
+  "kecamatan" : "Seginim",
+  "kelurahan" : "Babatan Ulu",
+  "kodepos" : "38552"
+}, {
+  "kecamatan" : "Seginim",
+  "kelurahan" : "Babatan Ilir",
+  "kodepos" : "38552"
+}, {
+  "kecamatan" : "Pasar Manna",
+  "kelurahan" : "Pasar Mulia",
+  "kodepos" : "38518"
+}, {
+  "kecamatan" : "Pasar Manna",
+  "kelurahan" : "Tanjung Mulia",
+  "kodepos" : "38518"
+}, {
+  "kecamatan" : "Pasar Manna",
+  "kelurahan" : "Padang Sialang",
+  "kodepos" : "38517"
+}, {
+  "kecamatan" : "Pasar Manna",
+  "kelurahan" : "Batu Kuning",
+  "kodepos" : "38518"
+}, {
+  "kecamatan" : "Pasar Manna",
+  "kelurahan" : "Ketapang Besar",
+  "kodepos" : "38516"
+}, {
+  "kecamatan" : "Pasar Manna",
+  "kelurahan" : "Gunung Mesir",
+  "kodepos" : "38517"
+}, {
+  "kecamatan" : "Pasar Manna",
+  "kelurahan" : "Belakang Gedung",
+  "kodepos" : "38514"
+}, {
+  "kecamatan" : "Pasar Manna",
+  "kelurahan" : "Pasar Bawah",
+  "kodepos" : "38515"
+}, {
+  "kecamatan" : "Kota Manna",
+  "kelurahan" : "Pagar Dewa",
+  "kodepos" : "38513"
+}, {
+  "kecamatan" : "Kota Manna",
+  "kelurahan" : "Kota Medan",
+  "kodepos" : "38513"
+}, {
+  "kecamatan" : "Kota Manna",
+  "kelurahan" : "Gunung Ayu I",
+  "kodepos" : "38513"
+}, {
+  "kecamatan" : "Kota Manna",
+  "kelurahan" : "Ibul",
+  "kodepos" : "38513"
+}, {
+  "kecamatan" : "Kota Manna",
+  "kelurahan" : "Pasar Baru",
+  "kodepos" : "38512"
+}, {
+  "kecamatan" : "Pasar Manna",
+  "kelurahan" : "Batu Lambang",
+  "kodepos" : "38513"
+}, {
+  "kecamatan" : "Bunga Mas",
+  "kelurahan" : "Tumbuk Tebing",
+  "kodepos" : "38511"
+}, {
+  "kecamatan" : "Kota Manna",
+  "kelurahan" : "Tebat Kubu",
+  "kodepos" : "38511"
+}, {
+  "kecamatan" : "Manna",
+  "kelurahan" : "Terulung",
+  "kodepos" : "38511"
+}, {
+  "kecamatan" : "Bunga Mas",
+  "kelurahan" : "Tanjung Tebat",
+  "kodepos" : "38511"
+}, {
+  "kecamatan" : "Manna",
+  "kelurahan" : "Tanjung Raman",
+  "kodepos" : "38511"
+}, {
+  "kecamatan" : "Bunga Mas",
+  "kelurahan" : "Tanjung Aur",
+  "kodepos" : "38511"
+}, {
+  "kecamatan" : "Manna",
+  "kelurahan" : "Tanjung Besar",
+  "kodepos" : "38511"
+}, {
+  "kecamatan" : "Bunga Mas",
+  "kelurahan" : "Talang Indah",
+  "kodepos" : "38511"
+}, {
+  "kecamatan" : "Manna",
+  "kelurahan" : "Tambangan",
+  "kodepos" : "38511"
+}, {
+  "kecamatan" : "Bunga Mas",
+  "kelurahan" : "Padang Nibung",
+  "kodepos" : "38511"
+}, {
+  "kecamatan" : "Manna",
+  "kelurahan" : "Padang Pandan",
+  "kodepos" : "38511"
+}, {
+  "kecamatan" : "Kota Manna",
+  "kelurahan" : "Padang Niur",
+  "kodepos" : "38511"
+}, {
+  "kecamatan" : "Manna",
+  "kelurahan" : "Padang Manis",
+  "kodepos" : "38511"
+}, {
+  "kecamatan" : "Kota Manna",
+  "kelurahan" : "Padang Kapuk",
+  "kodepos" : "38511"
+}, {
+  "kecamatan" : "Bunga Mas",
+  "kelurahan" : "Padang Burnai",
+  "kodepos" : "38511"
+}, {
+  "kecamatan" : "Bunga Mas",
+  "kelurahan" : "Padang Jawi",
+  "kodepos" : "38511"
+}, {
+  "kecamatan" : "Manna",
+  "kelurahan" : "Melao",
+  "kodepos" : "38511"
+}, {
+  "kecamatan" : "Manna",
+  "kelurahan" : "Manggul",
+  "kodepos" : "38511"
+}, {
+  "kecamatan" : "Kota Manna",
+  "kelurahan" : "Padang Berangin",
+  "kodepos" : "38511"
+}, {
+  "kecamatan" : "Manna",
+  "kelurahan" : "Lubuk Sirih Ilir",
+  "kodepos" : "38511"
+}, {
+  "kecamatan" : "Manna",
+  "kelurahan" : "Lubuk Sirih Ulu",
+  "kodepos" : "38511"
+}, {
+  "kecamatan" : "Manna",
+  "kelurahan" : "Ketaping",
+  "kodepos" : "38511"
+}, {
+  "kecamatan" : "Manna",
+  "kelurahan" : "Kota Padang",
+  "kodepos" : "38511"
+}, {
+  "kecamatan" : "Bunga Mas",
+  "kelurahan" : "Kuripan",
+  "kodepos" : "38511"
+}, {
+  "kecamatan" : "Manna",
+  "kelurahan" : "Kembang Ayun",
+  "kodepos" : "38511"
+}, {
+  "kecamatan" : "Kota Manna",
+  "kelurahan" : "Kampung Baru",
+  "kodepos" : "38511"
+}, {
+  "kecamatan" : "Manna",
+  "kelurahan" : "Kayu Kunyit",
+  "kodepos" : "38511"
+}, {
+  "kecamatan" : "Manna",
+  "kelurahan" : "Jeranglah Rendah",
+  "kodepos" : "38511"
+}, {
+  "kecamatan" : "Manna",
+  "kelurahan" : "Jeranglah Tinggi",
+  "kodepos" : "38511"
+}, {
+  "kecamatan" : "Manna",
+  "kelurahan" : "Gunung Kembang",
+  "kodepos" : "38511"
+}, {
+  "kecamatan" : "Manna",
+  "kelurahan" : "Gunung Sakti",
+  "kodepos" : "38511"
+}, {
+  "kecamatan" : "Bunga Mas",
+  "kelurahan" : "Gindosuli",
+  "kodepos" : "38511"
+}, {
+  "kecamatan" : "Bunga Mas",
+  "kelurahan" : "Gunung Kayo",
+  "kodepos" : "38511"
+}, {
+  "kecamatan" : "Kota Manna",
+  "kelurahan" : "Gelombang (Gelumbang)",
+  "kodepos" : "38511"
+} ]

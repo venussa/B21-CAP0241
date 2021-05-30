@@ -1,0 +1,605 @@
+[ {
+  "kecamatan" : "Banjar Agung",
+  "kelurahan" : "Warga Makmur Jaya",
+  "kodepos" : "34682"
+}, {
+  "kecamatan" : "Banjar Agung",
+  "kelurahan" : "Tunggal Warga",
+  "kodepos" : "34682"
+}, {
+  "kecamatan" : "Banjar Agung",
+  "kelurahan" : "Warga Indah Jaya",
+  "kodepos" : "34682"
+}, {
+  "kecamatan" : "Banjar Margo",
+  "kelurahan" : "Tri Tunggal Jaya",
+  "kodepos" : "34682"
+}, {
+  "kecamatan" : "Banjar Agung",
+  "kelurahan" : "Tri Tunggal Jaya",
+  "kodepos" : "34682"
+}, {
+  "kecamatan" : "Banjar Agung",
+  "kelurahan" : "Tri Mulya Jaya",
+  "kodepos" : "34682"
+}, {
+  "kecamatan" : "Banjar Agung",
+  "kelurahan" : "Tri Mukti Jaya",
+  "kodepos" : "34682"
+}, {
+  "kecamatan" : "Banjar Agung",
+  "kelurahan" : "Tri Dharma Wira Jaya",
+  "kodepos" : "34682"
+}, {
+  "kecamatan" : "Banjar Margo",
+  "kelurahan" : "Sumber Makmur",
+  "kodepos" : "34682"
+}, {
+  "kecamatan" : "Banjar Margo",
+  "kelurahan" : "Sukamaju",
+  "kodepos" : "34682"
+}, {
+  "kecamatan" : "Banjar Margo",
+  "kelurahan" : "Ringin Sari",
+  "kodepos" : "34682"
+}, {
+  "kecamatan" : "Banjar Margo",
+  "kelurahan" : "Purwajaya",
+  "kodepos" : "34682"
+}, {
+  "kecamatan" : "Banjar Margo",
+  "kelurahan" : "Penawar Rejo",
+  "kodepos" : "34682"
+}, {
+  "kecamatan" : "Banjar Margo",
+  "kelurahan" : "Penawar Jaya",
+  "kodepos" : "34682"
+}, {
+  "kecamatan" : "Banjar Baru",
+  "kelurahan" : "Panca Karsa Purna Jaya",
+  "kodepos" : "34682"
+}, {
+  "kecamatan" : "Banjar Baru",
+  "kelurahan" : "Panca Mulya",
+  "kodepos" : "34682"
+}, {
+  "kecamatan" : "Banjar Agung",
+  "kelurahan" : "Moris Jaya",
+  "kodepos" : "34682"
+}, {
+  "kecamatan" : "Banjar Margo",
+  "kelurahan" : "Mekar Jaya",
+  "kodepos" : "34682"
+}, {
+  "kecamatan" : "Banjar Baru",
+  "kelurahan" : "Mekar Indah Jaya",
+  "kodepos" : "34682"
+}, {
+  "kecamatan" : "Banjar Baru",
+  "kelurahan" : "Mekar Ayu",
+  "kodepos" : "34682"
+}, {
+  "kecamatan" : "Banjar Baru",
+  "kelurahan" : "Karya Murni Jaya",
+  "kodepos" : "34682"
+}, {
+  "kecamatan" : "Banjar Baru",
+  "kelurahan" : "Kahuripan Jaya",
+  "kodepos" : "34682"
+}, {
+  "kecamatan" : "Banjar Baru",
+  "kelurahan" : "Jaya Makmur",
+  "kodepos" : "34682"
+}, {
+  "kecamatan" : "Banjar Agung",
+  "kelurahan" : "Dwi Warga Tunggal Jaya",
+  "kodepos" : "34682"
+}, {
+  "kecamatan" : "Banjar Margo",
+  "kelurahan" : "Catur Karya Buana Jaya",
+  "kodepos" : "34682"
+}, {
+  "kecamatan" : "Banjar Margo",
+  "kelurahan" : "Bujuk Agung",
+  "kodepos" : "34682"
+}, {
+  "kecamatan" : "Banjar Baru",
+  "kelurahan" : "Bawang Tirto Mulyo",
+  "kodepos" : "34682"
+}, {
+  "kecamatan" : "Banjar Baru",
+  "kelurahan" : "Banjar Jaya",
+  "kodepos" : "34682"
+}, {
+  "kecamatan" : "Banjar Agung",
+  "kelurahan" : "Banjar Dewa",
+  "kodepos" : "34682"
+}, {
+  "kecamatan" : "Banjar Agung",
+  "kelurahan" : "Banjar Agung",
+  "kodepos" : "34682"
+}, {
+  "kecamatan" : "Banjar Baru",
+  "kelurahan" : "Balai Murni Jaya",
+  "kodepos" : "34682"
+}, {
+  "kecamatan" : "Banjar Margo",
+  "kelurahan" : "Agung Jaya",
+  "kodepos" : "34682"
+}, {
+  "kecamatan" : "Banjar Margo",
+  "kelurahan" : "Agung Dalem (Agung Dalam)",
+  "kodepos" : "34682"
+}, {
+  "kecamatan" : "Meraksa Aji",
+  "kelurahan" : "Sukarame",
+  "kodepos" : "34681"
+}, {
+  "kecamatan" : "Gedung Aji",
+  "kelurahan" : "Penawar Baru",
+  "kodepos" : "34681"
+}, {
+  "kecamatan" : "Meraksa Aji",
+  "kelurahan" : "Panduan Rajawali",
+  "kodepos" : "34681"
+}, {
+  "kecamatan" : "Meraksa Aji",
+  "kelurahan" : "Mulya Aji",
+  "kodepos" : "34681"
+}, {
+  "kecamatan" : "Meraksa Aji",
+  "kelurahan" : "Marga Jaya",
+  "kodepos" : "34681"
+}, {
+  "kecamatan" : "Meraksa Aji",
+  "kelurahan" : "Kecubung Raya",
+  "kodepos" : "34681"
+}, {
+  "kecamatan" : "Gedung Aji",
+  "kelurahan" : "Kecubung Mulya",
+  "kodepos" : "34681"
+}, {
+  "kecamatan" : "Gedung Aji",
+  "kelurahan" : "Kecubung Raya",
+  "kodepos" : "34681"
+}, {
+  "kecamatan" : "Gedung Aji",
+  "kelurahan" : "Kecubung Jaya",
+  "kodepos" : "34681"
+}, {
+  "kecamatan" : "Meraksa Aji",
+  "kelurahan" : "Karya Bakti",
+  "kodepos" : "34681"
+}, {
+  "kecamatan" : "Gedung Aji",
+  "kelurahan" : "Gedung Aji",
+  "kodepos" : "34681"
+}, {
+  "kecamatan" : "Meraksa Aji",
+  "kelurahan" : "Bina Bumi",
+  "kodepos" : "34681"
+}, {
+  "kecamatan" : "Meraksa Aji",
+  "kelurahan" : "Bangun Rejo",
+  "kodepos" : "34681"
+}, {
+  "kecamatan" : "Gedung Aji",
+  "kelurahan" : "Aji Permai Talang Buah",
+  "kodepos" : "34681"
+}, {
+  "kecamatan" : "Gedung Aji",
+  "kelurahan" : "Bandar Aji Jaya",
+  "kodepos" : "34681"
+}, {
+  "kecamatan" : "Gedung Aji",
+  "kelurahan" : "Aji Murni Jaya",
+  "kodepos" : "34681"
+}, {
+  "kecamatan" : "Gedung Aji",
+  "kelurahan" : "Aji Jaya KNPI",
+  "kodepos" : "34681"
+}, {
+  "kecamatan" : "Gedung Aji",
+  "kelurahan" : "Aji Mesir",
+  "kodepos" : "34681"
+}, {
+  "kecamatan" : "Menggala Timur",
+  "kelurahan" : "Kuripan Dalem",
+  "kodepos" : "34619"
+}, {
+  "kecamatan" : "Menggala Timur",
+  "kelurahan" : "Lingai",
+  "kodepos" : "34619"
+}, {
+  "kecamatan" : "Menggala Timur",
+  "kelurahan" : "Tri Makmur Jaya",
+  "kodepos" : "34618"
+}, {
+  "kecamatan" : "Menggala Timur",
+  "kelurahan" : "Cempaka Dalem (Cempaka Dalam)",
+  "kodepos" : "34619"
+}, {
+  "kecamatan" : "Menggala Timur",
+  "kelurahan" : "Cempaka Jaya",
+  "kodepos" : "34617"
+}, {
+  "kecamatan" : "Menggala Timur",
+  "kelurahan" : "Kibang Pacing",
+  "kodepos" : "34617"
+}, {
+  "kecamatan" : "Menggala Timur",
+  "kelurahan" : "Sungai Luar",
+  "kodepos" : "34616"
+}, {
+  "kecamatan" : "Menggala Timur",
+  "kelurahan" : "Menggala",
+  "kodepos" : "34616"
+}, {
+  "kecamatan" : "Menggala Timur",
+  "kelurahan" : "Lebuh Dalem",
+  "kodepos" : "34615"
+}, {
+  "kecamatan" : "Menggala Timur",
+  "kelurahan" : "Badarow Indah",
+  "kodepos" : "34616"
+}, {
+  "kecamatan" : "Menggala",
+  "kelurahan" : "Kagungan Rahayu",
+  "kodepos" : "34613"
+}, {
+  "kecamatan" : "Menggala",
+  "kelurahan" : "Ujung Gunung Ilir",
+  "kodepos" : "34614"
+}, {
+  "kecamatan" : "Menggala",
+  "kelurahan" : "Astra Kesetra",
+  "kodepos" : "34613"
+}, {
+  "kecamatan" : "Menggala",
+  "kelurahan" : "Bujung Tenuk",
+  "kodepos" : "34613"
+}, {
+  "kecamatan" : "Menggala",
+  "kelurahan" : "Ujung Gunung",
+  "kodepos" : "34611"
+}, {
+  "kecamatan" : "Menggala",
+  "kelurahan" : "Menggala Tengah",
+  "kodepos" : "34611"
+}, {
+  "kecamatan" : "Menggala",
+  "kelurahan" : "Tiuh Toho",
+  "kodepos" : "34611"
+}, {
+  "kecamatan" : "Menggala",
+  "kelurahan" : "Menggala Selatan",
+  "kodepos" : "34611"
+}, {
+  "kecamatan" : "Menggala",
+  "kelurahan" : "Menggala Kota",
+  "kodepos" : "34611"
+}, {
+  "kecamatan" : "Rawajitu Selatan",
+  "kelurahan" : "Yudha Karya Jitu",
+  "kodepos" : "34596"
+}, {
+  "kecamatan" : "Dente Teladas",
+  "kelurahan" : "Way Dente",
+  "kodepos" : "34596"
+}, {
+  "kecamatan" : "Rawajitu Selatan",
+  "kelurahan" : "Wono Agung",
+  "kodepos" : "34596"
+}, {
+  "kecamatan" : "Dente Teladas",
+  "kelurahan" : "Teladas",
+  "kodepos" : "34596"
+}, {
+  "kecamatan" : "Dente Teladas",
+  "kelurahan" : "Pendowo Asri",
+  "kodepos" : "34596"
+}, {
+  "kecamatan" : "Dente Teladas",
+  "kelurahan" : "Sungai Burung",
+  "kodepos" : "34596"
+}, {
+  "kecamatan" : "Dente Teladas",
+  "kelurahan" : "Sungai Nibung",
+  "kodepos" : "34596"
+}, {
+  "kecamatan" : "Dente Teladas",
+  "kelurahan" : "Pasiran Jaya",
+  "kodepos" : "34596"
+}, {
+  "kecamatan" : "Dente Teladas",
+  "kelurahan" : "Mahabang",
+  "kodepos" : "34596"
+}, {
+  "kecamatan" : "Rawajitu Selatan",
+  "kelurahan" : "Meda Sari",
+  "kodepos" : "34596"
+}, {
+  "kecamatan" : "Dente Teladas",
+  "kelurahan" : "Kekatung",
+  "kodepos" : "34596"
+}, {
+  "kecamatan" : "Dente Teladas",
+  "kelurahan" : "Kuala Teladas",
+  "kodepos" : "34596"
+}, {
+  "kecamatan" : "Rawajitu Selatan",
+  "kelurahan" : "Karya Jitu Mukti",
+  "kodepos" : "34596"
+}, {
+  "kecamatan" : "Rawajitu Selatan",
+  "kelurahan" : "Karya Cipta Abadi",
+  "kodepos" : "34596"
+}, {
+  "kecamatan" : "Gedung Meneng",
+  "kelurahan" : "Gunung Tapa Udik",
+  "kodepos" : "34596"
+}, {
+  "kecamatan" : "Rawajitu Selatan",
+  "kelurahan" : "Hargo Mulyo",
+  "kodepos" : "34596"
+}, {
+  "kecamatan" : "Rawajitu Selatan",
+  "kelurahan" : "Hargo Rejo",
+  "kodepos" : "34596"
+}, {
+  "kecamatan" : "Gedung Meneng",
+  "kelurahan" : "Gunung Tapa Ilir",
+  "kodepos" : "34596"
+}, {
+  "kecamatan" : "Gedung Meneng",
+  "kelurahan" : "Gunung Tapa Tengah",
+  "kodepos" : "34596"
+}, {
+  "kecamatan" : "Gedung Meneng",
+  "kelurahan" : "Gedung Meneng Baru",
+  "kodepos" : "34596"
+}, {
+  "kecamatan" : "Gedung Meneng",
+  "kelurahan" : "Gunung Tapa",
+  "kodepos" : "34596"
+}, {
+  "kecamatan" : "Rawajitu Selatan",
+  "kelurahan" : "Gedung Karya Jitu",
+  "kodepos" : "34596"
+}, {
+  "kecamatan" : "Gedung Meneng",
+  "kelurahan" : "Gedung Meneng",
+  "kodepos" : "34596"
+}, {
+  "kecamatan" : "Gedung Meneng",
+  "kelurahan" : "Gedung Bandar Rejo",
+  "kodepos" : "34596"
+}, {
+  "kecamatan" : "Gedung Meneng",
+  "kelurahan" : "Gedung Bandar Rahayu",
+  "kodepos" : "34596"
+}, {
+  "kecamatan" : "Dente Teladas",
+  "kelurahan" : "Dente Makmur",
+  "kodepos" : "34596"
+}, {
+  "kecamatan" : "Rawajitu Selatan",
+  "kelurahan" : "Bumi Ratu",
+  "kodepos" : "34596"
+}, {
+  "kecamatan" : "Rawajitu Timur",
+  "kelurahan" : "Bumi Dipasena Sentosa",
+  "kodepos" : "34596"
+}, {
+  "kecamatan" : "Rawajitu Timur",
+  "kelurahan" : "Bumi Dipasena Utama",
+  "kodepos" : "34596"
+}, {
+  "kecamatan" : "Rawajitu Timur",
+  "kelurahan" : "Bumi Dipasena Mulya",
+  "kodepos" : "34596"
+}, {
+  "kecamatan" : "Rawajitu Timur",
+  "kelurahan" : "Bumi Dipasena Sejahtera",
+  "kodepos" : "34596"
+}, {
+  "kecamatan" : "Rawajitu Timur",
+  "kelurahan" : "Bumi Dipasena Jaya",
+  "kodepos" : "34596"
+}, {
+  "kecamatan" : "Rawajitu Timur",
+  "kelurahan" : "Bumi Dipasena Makmur",
+  "kodepos" : "34596"
+}, {
+  "kecamatan" : "Rawajitu Timur",
+  "kelurahan" : "Bumi Dipasena Abadi",
+  "kodepos" : "34596"
+}, {
+  "kecamatan" : "Rawajitu Timur",
+  "kelurahan" : "Bumi Dipasena Agung",
+  "kodepos" : "34596"
+}, {
+  "kecamatan" : "Dente Teladas",
+  "kelurahan" : "Bratasena Adiwarna",
+  "kodepos" : "34596"
+}, {
+  "kecamatan" : "Dente Teladas",
+  "kelurahan" : "Bratasena Mandiri",
+  "kodepos" : "34596"
+}, {
+  "kecamatan" : "Gedung Meneng",
+  "kelurahan" : "Bakung Rahayu",
+  "kodepos" : "34596"
+}, {
+  "kecamatan" : "Gedung Meneng",
+  "kelurahan" : "Bakung Udik",
+  "kodepos" : "34596"
+}, {
+  "kecamatan" : "Gedung Meneng",
+  "kelurahan" : "Bakung Ilir",
+  "kodepos" : "34596"
+}, {
+  "kecamatan" : "Rawa Pitu",
+  "kelurahan" : "Yoso Mulyo (Duto Yoso Mulyo)",
+  "kodepos" : "34595"
+}, {
+  "kecamatan" : "Penawar Tama",
+  "kelurahan" : "Wiratama",
+  "kodepos" : "34595"
+}, {
+  "kecamatan" : "Penawar Aji",
+  "kelurahan" : "Wono Rejo",
+  "kodepos" : "34595"
+}, {
+  "kecamatan" : "Penawar Tama",
+  "kelurahan" : "Tri Tunggal Jaya",
+  "kodepos" : "34595"
+}, {
+  "kecamatan" : "Penawar Tama",
+  "kelurahan" : "Wiraagung Sari",
+  "kodepos" : "34595"
+}, {
+  "kecamatan" : "Penawar Tama",
+  "kelurahan" : "Tri Karya",
+  "kodepos" : "34595"
+}, {
+  "kecamatan" : "Penawar Tama",
+  "kelurahan" : "Tri Rejo Mulyo",
+  "kodepos" : "34595"
+}, {
+  "kecamatan" : "Penawar Aji",
+  "kelurahan" : "Sumber Sari",
+  "kodepos" : "34595"
+}, {
+  "kecamatan" : "Penawar Tama",
+  "kelurahan" : "Tri Jaya",
+  "kodepos" : "34595"
+}, {
+  "kecamatan" : "Gedung Aji Baru",
+  "kelurahan" : "Sumber Jaya",
+  "kodepos" : "34595"
+}, {
+  "kecamatan" : "Rawa Pitu",
+  "kelurahan" : "Sumber Agung",
+  "kodepos" : "34595"
+}, {
+  "kecamatan" : "Penawar Aji",
+  "kelurahan" : "Suka Makmur",
+  "kodepos" : "34595"
+}, {
+  "kecamatan" : "Gedung Aji Baru",
+  "kelurahan" : "Suka Bhakti",
+  "kodepos" : "34595"
+}, {
+  "kecamatan" : "Penawar Tama",
+  "kelurahan" : "Sidomakmur",
+  "kodepos" : "34595"
+}, {
+  "kecamatan" : "Penawar Tama",
+  "kelurahan" : "Sidomulyo",
+  "kodepos" : "34595"
+}, {
+  "kecamatan" : "Penawar Tama",
+  "kelurahan" : "Sidoharjo",
+  "kodepos" : "34595"
+}, {
+  "kecamatan" : "Penawar Tama",
+  "kelurahan" : "Sidodadi",
+  "kodepos" : "34595"
+}, {
+  "kecamatan" : "Gedung Aji Baru",
+  "kelurahan" : "Setia Tama",
+  "kodepos" : "34595"
+}, {
+  "kecamatan" : "Gedung Aji Baru",
+  "kelurahan" : "Sido Mekar",
+  "kodepos" : "34595"
+}, {
+  "kecamatan" : "Gedung Aji Baru",
+  "kelurahan" : "Sido Mukti",
+  "kodepos" : "34595"
+}, {
+  "kecamatan" : "Penawar Tama",
+  "kelurahan" : "Rejosari",
+  "kodepos" : "34595"
+}, {
+  "kecamatan" : "Penawar Tama",
+  "kelurahan" : "Pulo Gadung",
+  "kodepos" : "34595"
+}, {
+  "kecamatan" : "Rawa Pitu",
+  "kelurahan" : "Rawa Ragil",
+  "kodepos" : "34595"
+}, {
+  "kecamatan" : "Penawar Aji",
+  "kelurahan" : "Pasar Batang",
+  "kodepos" : "34595"
+}, {
+  "kecamatan" : "Rawa Pitu",
+  "kelurahan" : "Panggung Mulya (Panggung Mulyo)",
+  "kodepos" : "34595"
+}, {
+  "kecamatan" : "Rawa Pitu",
+  "kelurahan" : "Mulyo Dadi",
+  "kodepos" : "34595"
+}, {
+  "kecamatan" : "Penawar Aji",
+  "kelurahan" : "Panca Tunggal Jaya",
+  "kodepos" : "34595"
+}, {
+  "kecamatan" : "Gedung Aji Baru",
+  "kelurahan" : "Mekar Asri",
+  "kodepos" : "34595"
+}, {
+  "kecamatan" : "Gedung Aji Baru",
+  "kelurahan" : "Mesir Dwi Jaya",
+  "kodepos" : "34595"
+}, {
+  "kecamatan" : "Gedung Aji Baru",
+  "kelurahan" : "Makarti Tama",
+  "kodepos" : "34595"
+}, {
+  "kecamatan" : "Penawar Aji",
+  "kelurahan" : "Karya Makmur",
+  "kodepos" : "34595"
+}, {
+  "kecamatan" : "Penawar Aji",
+  "kelurahan" : "Gedung Rejo Sakti",
+  "kodepos" : "34595"
+}, {
+  "kecamatan" : "Rawa Pitu",
+  "kelurahan" : "Gedung Jaya",
+  "kodepos" : "34595"
+}, {
+  "kecamatan" : "Penawar Aji",
+  "kelurahan" : "Gedung Harapan",
+  "kodepos" : "34595"
+}, {
+  "kecamatan" : "Penawar Aji",
+  "kelurahan" : "Gedung Asri",
+  "kodepos" : "34595"
+}, {
+  "kecamatan" : "Penawar Tama",
+  "kelurahan" : "Dwi Mulyo",
+  "kodepos" : "34595"
+}, {
+  "kecamatan" : "Rawa Pitu",
+  "kelurahan" : "Bumi Sari",
+  "kodepos" : "34595"
+}, {
+  "kecamatan" : "Penawar Tama",
+  "kelurahan" : "Boga Tama",
+  "kodepos" : "34595"
+}, {
+  "kecamatan" : "Gedung Aji Baru",
+  "kelurahan" : "Batu Ampar",
+  "kodepos" : "34595"
+}, {
+  "kecamatan" : "Rawa Pitu",
+  "kelurahan" : "Batang Hari",
+  "kodepos" : "34595"
+}, {
+  "kecamatan" : "Rawa Pitu",
+  "kelurahan" : "Andalas Cermin",
+  "kodepos" : "34595"
+} ]

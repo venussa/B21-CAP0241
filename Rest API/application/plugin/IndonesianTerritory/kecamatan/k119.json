@@ -1,0 +1,993 @@
+[ {
+  "kecamatan" : "Ledokombo",
+  "kelurahan" : "Sumber Lesung",
+  "kodepos" : "68196"
+}, {
+  "kecamatan" : "Ledokombo",
+  "kelurahan" : "Sumber Salak",
+  "kodepos" : "68196"
+}, {
+  "kecamatan" : "Ledokombo",
+  "kelurahan" : "Suren",
+  "kodepos" : "68196"
+}, {
+  "kecamatan" : "Ledokombo",
+  "kelurahan" : "Sumber Anget",
+  "kodepos" : "68196"
+}, {
+  "kecamatan" : "Ledokombo",
+  "kelurahan" : "Sumber Bulus",
+  "kodepos" : "68196"
+}, {
+  "kecamatan" : "Ledokombo",
+  "kelurahan" : "Sukogidri",
+  "kodepos" : "68196"
+}, {
+  "kecamatan" : "Ledokombo",
+  "kelurahan" : "Slateng",
+  "kodepos" : "68196"
+}, {
+  "kecamatan" : "Ledokombo",
+  "kelurahan" : "Karang Paiton",
+  "kodepos" : "68196"
+}, {
+  "kecamatan" : "Ledokombo",
+  "kelurahan" : "Ledokombo",
+  "kodepos" : "68196"
+}, {
+  "kecamatan" : "Ledokombo",
+  "kelurahan" : "Lembengan",
+  "kodepos" : "68196"
+}, {
+  "kecamatan" : "Sumber Jambe",
+  "kelurahan" : "Rowosari",
+  "kodepos" : "68195"
+}, {
+  "kecamatan" : "Sumber Jambe",
+  "kelurahan" : "Sumber Pakem",
+  "kodepos" : "68195"
+}, {
+  "kecamatan" : "Sumber Jambe",
+  "kelurahan" : "Sumberjambe",
+  "kodepos" : "68195"
+}, {
+  "kecamatan" : "Sumber Jambe",
+  "kelurahan" : "Randu Agung",
+  "kodepos" : "68195"
+}, {
+  "kecamatan" : "Sumber Jambe",
+  "kelurahan" : "Plereyan",
+  "kodepos" : "68195"
+}, {
+  "kecamatan" : "Sumber Jambe",
+  "kelurahan" : "Pringgondani",
+  "kodepos" : "68195"
+}, {
+  "kecamatan" : "Sumber Jambe",
+  "kelurahan" : "Gunung Malang",
+  "kodepos" : "68195"
+}, {
+  "kecamatan" : "Sumber Jambe",
+  "kelurahan" : "Jambe Arum",
+  "kodepos" : "68195"
+}, {
+  "kecamatan" : "Sumber Jambe",
+  "kelurahan" : "Cumedak",
+  "kodepos" : "68195"
+}, {
+  "kecamatan" : "Sukowono",
+  "kelurahan" : "Sumberwaru",
+  "kodepos" : "68194"
+}, {
+  "kecamatan" : "Sukowono",
+  "kelurahan" : "Sumber Wringin",
+  "kodepos" : "68194"
+}, {
+  "kecamatan" : "Sukowono",
+  "kelurahan" : "Sumberdanti",
+  "kodepos" : "68194"
+}, {
+  "kecamatan" : "Sukowono",
+  "kelurahan" : "Sukosari",
+  "kodepos" : "68194"
+}, {
+  "kecamatan" : "Sukowono",
+  "kelurahan" : "Sukowono",
+  "kodepos" : "68194"
+}, {
+  "kecamatan" : "Sukowono",
+  "kelurahan" : "Sukokerto",
+  "kodepos" : "68194"
+}, {
+  "kecamatan" : "Sukowono",
+  "kelurahan" : "Sukorejo",
+  "kodepos" : "68194"
+}, {
+  "kecamatan" : "Sukowono",
+  "kelurahan" : "Mojogeni",
+  "kodepos" : "68194"
+}, {
+  "kecamatan" : "Sukowono",
+  "kelurahan" : "Pocangan",
+  "kodepos" : "68194"
+}, {
+  "kecamatan" : "Sukowono",
+  "kelurahan" : "Balet Baru",
+  "kodepos" : "68194"
+}, {
+  "kecamatan" : "Sukowono",
+  "kelurahan" : "Dawuhan Mangli",
+  "kodepos" : "68194"
+}, {
+  "kecamatan" : "Sukowono",
+  "kelurahan" : "Arjasa",
+  "kodepos" : "68194"
+}, {
+  "kecamatan" : "Kalisat",
+  "kelurahan" : "Sumber Jeruk",
+  "kodepos" : "68193"
+}, {
+  "kecamatan" : "Kalisat",
+  "kelurahan" : "Sumber Kalong",
+  "kodepos" : "68193"
+}, {
+  "kecamatan" : "Kalisat",
+  "kelurahan" : "Sumber Ketempah",
+  "kodepos" : "68193"
+}, {
+  "kecamatan" : "Kalisat",
+  "kelurahan" : "Sebanen",
+  "kodepos" : "68193"
+}, {
+  "kecamatan" : "Kalisat",
+  "kelurahan" : "Sukoreno",
+  "kodepos" : "68193"
+}, {
+  "kecamatan" : "Kalisat",
+  "kelurahan" : "Kalisat",
+  "kodepos" : "68193"
+}, {
+  "kecamatan" : "Kalisat",
+  "kelurahan" : "Patempuran",
+  "kodepos" : "68193"
+}, {
+  "kecamatan" : "Kalisat",
+  "kelurahan" : "Glagahwero",
+  "kodepos" : "68193"
+}, {
+  "kecamatan" : "Kalisat",
+  "kelurahan" : "Gumuksari",
+  "kodepos" : "68193"
+}, {
+  "kecamatan" : "Kalisat",
+  "kelurahan" : "Ajung",
+  "kodepos" : "68193"
+}, {
+  "kecamatan" : "Kalisat",
+  "kelurahan" : "Gambiran",
+  "kodepos" : "68193"
+}, {
+  "kecamatan" : "Jelbuk",
+  "kelurahan" : "Suko Jember",
+  "kodepos" : "68192"
+}, {
+  "kecamatan" : "Jelbuk",
+  "kelurahan" : "Sukowiryo",
+  "kodepos" : "68192"
+}, {
+  "kecamatan" : "Jelbuk",
+  "kelurahan" : "Panduman",
+  "kodepos" : "68192"
+}, {
+  "kecamatan" : "Jelbuk",
+  "kelurahan" : "Suco Pangepok",
+  "kodepos" : "68192"
+}, {
+  "kecamatan" : "Jelbuk",
+  "kelurahan" : "Suger Kidul",
+  "kodepos" : "68192"
+}, {
+  "kecamatan" : "Jelbuk",
+  "kelurahan" : "Jelbuk",
+  "kodepos" : "68192"
+}, {
+  "kecamatan" : "Arjasa",
+  "kelurahan" : "Kemuningllor",
+  "kodepos" : "68191"
+}, {
+  "kecamatan" : "Arjasa",
+  "kelurahan" : "Darsono",
+  "kodepos" : "68191"
+}, {
+  "kecamatan" : "Arjasa",
+  "kelurahan" : "Kamal",
+  "kodepos" : "68191"
+}, {
+  "kecamatan" : "Arjasa",
+  "kelurahan" : "Biting",
+  "kodepos" : "68191"
+}, {
+  "kecamatan" : "Arjasa",
+  "kelurahan" : "Candijati",
+  "kodepos" : "68191"
+}, {
+  "kecamatan" : "Arjasa",
+  "kelurahan" : "Arjasa",
+  "kodepos" : "68191"
+}, {
+  "kecamatan" : "Silo",
+  "kelurahan" : "Silo",
+  "kodepos" : "68184"
+}, {
+  "kecamatan" : "Silo",
+  "kelurahan" : "Sumberjati",
+  "kodepos" : "68184"
+}, {
+  "kecamatan" : "Silo",
+  "kelurahan" : "Sidomulyo",
+  "kodepos" : "68184"
+}, {
+  "kecamatan" : "Silo",
+  "kelurahan" : "Sempolan",
+  "kodepos" : "68184"
+}, {
+  "kecamatan" : "Silo",
+  "kelurahan" : "Mulyorejo",
+  "kodepos" : "68184"
+}, {
+  "kecamatan" : "Silo",
+  "kelurahan" : "Pace",
+  "kodepos" : "68184"
+}, {
+  "kecamatan" : "Silo",
+  "kelurahan" : "Harjomolyo",
+  "kodepos" : "68184"
+}, {
+  "kecamatan" : "Silo",
+  "kelurahan" : "Karangharjo",
+  "kodepos" : "68184"
+}, {
+  "kecamatan" : "Silo",
+  "kelurahan" : "Garahan",
+  "kodepos" : "68184"
+}, {
+  "kecamatan" : "Mayang",
+  "kelurahan" : "Sumber Kejayan",
+  "kodepos" : "68182"
+}, {
+  "kecamatan" : "Mayang",
+  "kelurahan" : "Tegal Waru",
+  "kodepos" : "68182"
+}, {
+  "kecamatan" : "Mayang",
+  "kelurahan" : "Sidomukti",
+  "kodepos" : "68182"
+}, {
+  "kecamatan" : "Mayang",
+  "kelurahan" : "Seputih",
+  "kodepos" : "68182"
+}, {
+  "kecamatan" : "Mayang",
+  "kelurahan" : "Mayang",
+  "kodepos" : "68182"
+}, {
+  "kecamatan" : "Mayang",
+  "kelurahan" : "Mrawan",
+  "kodepos" : "68182"
+}, {
+  "kecamatan" : "Pakusari",
+  "kelurahan" : "Subo",
+  "kodepos" : "68181"
+}, {
+  "kecamatan" : "Pakusari",
+  "kelurahan" : "Sumber Pinang",
+  "kodepos" : "68181"
+}, {
+  "kecamatan" : "Pakusari",
+  "kelurahan" : "Pakusari",
+  "kodepos" : "68181"
+}, {
+  "kecamatan" : "Pakusari",
+  "kelurahan" : "Patemon",
+  "kodepos" : "68181"
+}, {
+  "kecamatan" : "Pakusari",
+  "kelurahan" : "Kertosari",
+  "kodepos" : "68181"
+}, {
+  "kecamatan" : "Pakusari",
+  "kelurahan" : "Bedadung",
+  "kodepos" : "68181"
+}, {
+  "kecamatan" : "Pakusari",
+  "kelurahan" : "Jatian",
+  "kodepos" : "68181"
+}, {
+  "kecamatan" : "Ajung",
+  "kelurahan" : "Wirowongso",
+  "kodepos" : "68175"
+}, {
+  "kecamatan" : "Ajung",
+  "kelurahan" : "Rowo Indah",
+  "kodepos" : "68175"
+}, {
+  "kecamatan" : "Ajung",
+  "kelurahan" : "Sukamakmur",
+  "kodepos" : "68175"
+}, {
+  "kecamatan" : "Ajung",
+  "kelurahan" : "Mangaran",
+  "kodepos" : "68175"
+}, {
+  "kecamatan" : "Ajung",
+  "kelurahan" : "Pancakarya",
+  "kodepos" : "68175"
+}, {
+  "kecamatan" : "Ajung",
+  "kelurahan" : "Ajung",
+  "kodepos" : "68175"
+}, {
+  "kecamatan" : "Ajung",
+  "kelurahan" : "Klompangan",
+  "kodepos" : "68175"
+}, {
+  "kecamatan" : "Mumbulsari",
+  "kelurahan" : "Suco",
+  "kodepos" : "68174"
+}, {
+  "kecamatan" : "Mumbulsari",
+  "kelurahan" : "Tamansari",
+  "kodepos" : "68174"
+}, {
+  "kecamatan" : "Mumbulsari",
+  "kelurahan" : "Lengkong",
+  "kodepos" : "68174"
+}, {
+  "kecamatan" : "Mumbulsari",
+  "kelurahan" : "Mumbulsari",
+  "kodepos" : "68174"
+}, {
+  "kecamatan" : "Mumbulsari",
+  "kelurahan" : "Kawangrejo",
+  "kodepos" : "68174"
+}, {
+  "kecamatan" : "Mumbulsari",
+  "kelurahan" : "Lampeji",
+  "kodepos" : "68174"
+}, {
+  "kecamatan" : "Mumbulsari",
+  "kelurahan" : "Karangkedawung",
+  "kodepos" : "68174"
+}, {
+  "kecamatan" : "Tempurejo",
+  "kelurahan" : "Wonoasri",
+  "kodepos" : "68173"
+}, {
+  "kecamatan" : "Tempurejo",
+  "kelurahan" : "Tempurejo",
+  "kodepos" : "68173"
+}, {
+  "kecamatan" : "Tempurejo",
+  "kelurahan" : "Sidodadi",
+  "kodepos" : "68173"
+}, {
+  "kecamatan" : "Tempurejo",
+  "kelurahan" : "Pondokrejo",
+  "kodepos" : "68173"
+}, {
+  "kecamatan" : "Tempurejo",
+  "kelurahan" : "Sanenrejo",
+  "kodepos" : "68173"
+}, {
+  "kecamatan" : "Tempurejo",
+  "kelurahan" : "Curahtakir",
+  "kodepos" : "68173"
+}, {
+  "kecamatan" : "Tempurejo",
+  "kelurahan" : "Curahnongko",
+  "kodepos" : "68173"
+}, {
+  "kecamatan" : "Tempurejo",
+  "kelurahan" : "Andongrejo",
+  "kodepos" : "68173"
+}, {
+  "kecamatan" : "Ambulu",
+  "kelurahan" : "Sumberrejo",
+  "kodepos" : "68172"
+}, {
+  "kecamatan" : "Ambulu",
+  "kelurahan" : "Tegalsari",
+  "kodepos" : "68172"
+}, {
+  "kecamatan" : "Ambulu",
+  "kelurahan" : "Pontang",
+  "kodepos" : "68172"
+}, {
+  "kecamatan" : "Ambulu",
+  "kelurahan" : "Sabrang",
+  "kodepos" : "68172"
+}, {
+  "kecamatan" : "Ambulu",
+  "kelurahan" : "Andongsari",
+  "kodepos" : "68172"
+}, {
+  "kecamatan" : "Ambulu",
+  "kelurahan" : "Ambulu",
+  "kodepos" : "68172"
+}, {
+  "kecamatan" : "Jenggawah",
+  "kelurahan" : "Wonojati",
+  "kodepos" : "68171"
+}, {
+  "kecamatan" : "Jenggawah",
+  "kelurahan" : "Seruni",
+  "kodepos" : "68171"
+}, {
+  "kecamatan" : "Jenggawah",
+  "kelurahan" : "Kertonegoro",
+  "kodepos" : "68171"
+}, {
+  "kecamatan" : "Jenggawah",
+  "kelurahan" : "Kemuning Sari Kidul",
+  "kodepos" : "68171"
+}, {
+  "kecamatan" : "Jenggawah",
+  "kelurahan" : "Jatimulyo",
+  "kodepos" : "68171"
+}, {
+  "kecamatan" : "Jenggawah",
+  "kelurahan" : "Jatisari",
+  "kodepos" : "68171"
+}, {
+  "kecamatan" : "Jenggawah",
+  "kelurahan" : "Jenggawah",
+  "kodepos" : "68171"
+}, {
+  "kecamatan" : "Jenggawah",
+  "kelurahan" : "Cangkring",
+  "kodepos" : "68171"
+}, {
+  "kecamatan" : "Jombang",
+  "kelurahan" : "Padomasan",
+  "kodepos" : "68168"
+}, {
+  "kecamatan" : "Jombang",
+  "kelurahan" : "Sarimulyo",
+  "kodepos" : "68168"
+}, {
+  "kecamatan" : "Jombang",
+  "kelurahan" : "Wringin Agung",
+  "kodepos" : "68168"
+}, {
+  "kecamatan" : "Jombang",
+  "kelurahan" : "Keting",
+  "kodepos" : "68168"
+}, {
+  "kecamatan" : "Jombang",
+  "kelurahan" : "Ngampelrejo",
+  "kodepos" : "68168"
+}, {
+  "kecamatan" : "Jombang",
+  "kelurahan" : "Jombang",
+  "kodepos" : "68168"
+}, {
+  "kecamatan" : "Kencong",
+  "kelurahan" : "Wonorejo",
+  "kodepos" : "68167"
+}, {
+  "kecamatan" : "Kencong",
+  "kelurahan" : "Kraton",
+  "kodepos" : "68167"
+}, {
+  "kecamatan" : "Kencong",
+  "kelurahan" : "Paseban",
+  "kodepos" : "68167"
+}, {
+  "kecamatan" : "Kencong",
+  "kelurahan" : "Cakru",
+  "kodepos" : "68167"
+}, {
+  "kecamatan" : "Kencong",
+  "kelurahan" : "Kencong",
+  "kodepos" : "68167"
+}, {
+  "kecamatan" : "Umbulsari",
+  "kelurahan" : "Umbulrejo",
+  "kodepos" : "68166"
+}, {
+  "kecamatan" : "Umbulsari",
+  "kelurahan" : "Umbulsari",
+  "kodepos" : "68166"
+}, {
+  "kecamatan" : "Umbulsari",
+  "kelurahan" : "Tanjungsari",
+  "kodepos" : "68166"
+}, {
+  "kecamatan" : "Umbulsari",
+  "kelurahan" : "Tegal Wangi",
+  "kodepos" : "68166"
+}, {
+  "kecamatan" : "Umbulsari",
+  "kelurahan" : "Sukoreno",
+  "kodepos" : "68166"
+}, {
+  "kecamatan" : "Umbulsari",
+  "kelurahan" : "Mundurejo",
+  "kodepos" : "68166"
+}, {
+  "kecamatan" : "Umbulsari",
+  "kelurahan" : "Paleran",
+  "kodepos" : "68166"
+}, {
+  "kecamatan" : "Umbulsari",
+  "kelurahan" : "Sidorejo",
+  "kodepos" : "68166"
+}, {
+  "kecamatan" : "Umbulsari",
+  "kelurahan" : "Gunungsari",
+  "kodepos" : "68166"
+}, {
+  "kecamatan" : "Umbulsari",
+  "kelurahan" : "Gadingrejo",
+  "kodepos" : "68166"
+}, {
+  "kecamatan" : "Gumuk Mas",
+  "kelurahan" : "Tembokrejo",
+  "kodepos" : "68165"
+}, {
+  "kecamatan" : "Gumuk Mas",
+  "kelurahan" : "Menampu",
+  "kodepos" : "68165"
+}, {
+  "kecamatan" : "Gumuk Mas",
+  "kelurahan" : "Purwoasri",
+  "kodepos" : "68165"
+}, {
+  "kecamatan" : "Gumuk Mas",
+  "kelurahan" : "Karang Rejo",
+  "kodepos" : "68165"
+}, {
+  "kecamatan" : "Gumuk Mas",
+  "kelurahan" : "Kepanjen",
+  "kodepos" : "68165"
+}, {
+  "kecamatan" : "Gumuk Mas",
+  "kelurahan" : "Mayangan",
+  "kodepos" : "68165"
+}, {
+  "kecamatan" : "Gumuk Mas",
+  "kelurahan" : "Bagorejo",
+  "kodepos" : "68165"
+}, {
+  "kecamatan" : "Gumuk Mas",
+  "kelurahan" : "Gumukmas",
+  "kodepos" : "68165"
+}, {
+  "kecamatan" : "Puger",
+  "kelurahan" : "Wringin Telu",
+  "kodepos" : "68164"
+}, {
+  "kecamatan" : "Puger",
+  "kelurahan" : "Wonosari",
+  "kodepos" : "68164"
+}, {
+  "kecamatan" : "Puger",
+  "kelurahan" : "Puger Kulon",
+  "kodepos" : "68164"
+}, {
+  "kecamatan" : "Puger",
+  "kelurahan" : "Puger Wetan",
+  "kodepos" : "68164"
+}, {
+  "kecamatan" : "Puger",
+  "kelurahan" : "Mojomulyo",
+  "kodepos" : "68164"
+}, {
+  "kecamatan" : "Puger",
+  "kelurahan" : "Mojosari",
+  "kodepos" : "68164"
+}, {
+  "kecamatan" : "Puger",
+  "kelurahan" : "Kasiyan",
+  "kodepos" : "68164"
+}, {
+  "kecamatan" : "Puger",
+  "kelurahan" : "Kasiyan Timur",
+  "kodepos" : "68164"
+}, {
+  "kecamatan" : "Puger",
+  "kelurahan" : "Mlokorejo",
+  "kodepos" : "68164"
+}, {
+  "kecamatan" : "Puger",
+  "kelurahan" : "Grenden",
+  "kodepos" : "68164"
+}, {
+  "kecamatan" : "Puger",
+  "kelurahan" : "Jambearum",
+  "kodepos" : "68164"
+}, {
+  "kecamatan" : "Puger",
+  "kelurahan" : "Bagon",
+  "kodepos" : "68164"
+}, {
+  "kecamatan" : "Wuluhan",
+  "kelurahan" : "Tamansari",
+  "kodepos" : "68162"
+}, {
+  "kecamatan" : "Wuluhan",
+  "kelurahan" : "Tanjung Rejo",
+  "kodepos" : "68162"
+}, {
+  "kecamatan" : "Wuluhan",
+  "kelurahan" : "Lojejer",
+  "kodepos" : "68162"
+}, {
+  "kecamatan" : "Wuluhan",
+  "kelurahan" : "Glundengan",
+  "kodepos" : "68162"
+}, {
+  "kecamatan" : "Wuluhan",
+  "kelurahan" : "Kesilir",
+  "kodepos" : "68162"
+}, {
+  "kecamatan" : "Wuluhan",
+  "kelurahan" : "Ampel",
+  "kodepos" : "68162"
+}, {
+  "kecamatan" : "Wuluhan",
+  "kelurahan" : "Dukuh Dempok",
+  "kodepos" : "68162"
+}, {
+  "kecamatan" : "Balung",
+  "kelurahan" : "Tutul",
+  "kodepos" : "68161"
+}, {
+  "kecamatan" : "Balung",
+  "kelurahan" : "Karang Duren",
+  "kodepos" : "68161"
+}, {
+  "kecamatan" : "Balung",
+  "kelurahan" : "Karang Semanding",
+  "kodepos" : "68161"
+}, {
+  "kecamatan" : "Balung",
+  "kelurahan" : "Curahlele",
+  "kodepos" : "68161"
+}, {
+  "kecamatan" : "Balung",
+  "kelurahan" : "Gumelar",
+  "kodepos" : "68161"
+}, {
+  "kecamatan" : "Balung",
+  "kelurahan" : "Balung Kulon",
+  "kodepos" : "68161"
+}, {
+  "kecamatan" : "Balung",
+  "kelurahan" : "Balung Lor",
+  "kodepos" : "68161"
+}, {
+  "kecamatan" : "Balung",
+  "kelurahan" : "Balung Kidul",
+  "kodepos" : "68161"
+}, {
+  "kecamatan" : "Semboro",
+  "kelurahan" : "Sidomulyo",
+  "kodepos" : "68157"
+}, {
+  "kecamatan" : "Semboro",
+  "kelurahan" : "Semboro",
+  "kodepos" : "68157"
+}, {
+  "kecamatan" : "Semboro",
+  "kelurahan" : "Sidomekar",
+  "kodepos" : "68157"
+}, {
+  "kecamatan" : "Semboro",
+  "kelurahan" : "Pondok Dalem",
+  "kodepos" : "68157"
+}, {
+  "kecamatan" : "Semboro",
+  "kelurahan" : "Pondok Joyo",
+  "kodepos" : "68157"
+}, {
+  "kecamatan" : "Semboro",
+  "kelurahan" : "Rejo Agung",
+  "kodepos" : "68157"
+}, {
+  "kecamatan" : "Sumber Baru",
+  "kelurahan" : "Sumber Agung",
+  "kodepos" : "68156"
+}, {
+  "kecamatan" : "Sumber Baru",
+  "kelurahan" : "Yosorati",
+  "kodepos" : "68156"
+}, {
+  "kecamatan" : "Sumber Baru",
+  "kelurahan" : "Karang Bayat",
+  "kodepos" : "68156"
+}, {
+  "kecamatan" : "Sumber Baru",
+  "kelurahan" : "Pringgowirawan",
+  "kodepos" : "68156"
+}, {
+  "kecamatan" : "Sumber Baru",
+  "kelurahan" : "Rowo Tengah",
+  "kodepos" : "68156"
+}, {
+  "kecamatan" : "Sumber Baru",
+  "kelurahan" : "Jamintoro",
+  "kodepos" : "68156"
+}, {
+  "kecamatan" : "Sumber Baru",
+  "kelurahan" : "Jatiroto",
+  "kodepos" : "68156"
+}, {
+  "kecamatan" : "Sumber Baru",
+  "kelurahan" : "Kaliglagah",
+  "kodepos" : "68156"
+}, {
+  "kecamatan" : "Sumber Baru",
+  "kelurahan" : "Gelang",
+  "kodepos" : "68156"
+}, {
+  "kecamatan" : "Sumber Baru",
+  "kelurahan" : "Jambesari",
+  "kodepos" : "68156"
+}, {
+  "kecamatan" : "Tanggul",
+  "kelurahan" : "Tanggul Kulon",
+  "kodepos" : "68155"
+}, {
+  "kecamatan" : "Tanggul",
+  "kelurahan" : "Tanggul Wetan",
+  "kodepos" : "68155"
+}, {
+  "kecamatan" : "Tanggul",
+  "kelurahan" : "Selodakon",
+  "kodepos" : "68155"
+}, {
+  "kecamatan" : "Tanggul",
+  "kelurahan" : "Patemon",
+  "kodepos" : "68155"
+}, {
+  "kecamatan" : "Tanggul",
+  "kelurahan" : "Kramat Sukoharjo",
+  "kodepos" : "68155"
+}, {
+  "kecamatan" : "Tanggul",
+  "kelurahan" : "Manggisan",
+  "kodepos" : "68155"
+}, {
+  "kecamatan" : "Tanggul",
+  "kelurahan" : "Darungan",
+  "kodepos" : "68155"
+}, {
+  "kecamatan" : "Tanggul",
+  "kelurahan" : "Klatakan",
+  "kodepos" : "68155"
+}, {
+  "kecamatan" : "Bangsalsari",
+  "kelurahan" : "Tugusari",
+  "kodepos" : "68154"
+}, {
+  "kecamatan" : "Bangsalsari",
+  "kelurahan" : "Sukorejo",
+  "kodepos" : "68154"
+}, {
+  "kecamatan" : "Bangsalsari",
+  "kelurahan" : "Tisnogambar",
+  "kodepos" : "68154"
+}, {
+  "kecamatan" : "Bangsalsari",
+  "kelurahan" : "Langkap",
+  "kodepos" : "68154"
+}, {
+  "kecamatan" : "Bangsalsari",
+  "kelurahan" : "Petung",
+  "kodepos" : "68154"
+}, {
+  "kecamatan" : "Bangsalsari",
+  "kelurahan" : "Gambirono",
+  "kodepos" : "68154"
+}, {
+  "kecamatan" : "Bangsalsari",
+  "kelurahan" : "Karangsono",
+  "kodepos" : "68154"
+}, {
+  "kecamatan" : "Bangsalsari",
+  "kelurahan" : "Banjarsari",
+  "kodepos" : "68154"
+}, {
+  "kecamatan" : "Bangsalsari",
+  "kelurahan" : "Curah Kalong",
+  "kodepos" : "68154"
+}, {
+  "kecamatan" : "Bangsalsari",
+  "kelurahan" : "Badean",
+  "kodepos" : "68154"
+}, {
+  "kecamatan" : "Bangsalsari",
+  "kelurahan" : "Bangsalsari",
+  "kodepos" : "68154"
+}, {
+  "kecamatan" : "Panti",
+  "kelurahan" : "Suci",
+  "kodepos" : "68153"
+}, {
+  "kecamatan" : "Panti",
+  "kelurahan" : "Panti",
+  "kodepos" : "68153"
+}, {
+  "kecamatan" : "Panti",
+  "kelurahan" : "Serut",
+  "kodepos" : "68153"
+}, {
+  "kecamatan" : "Panti",
+  "kelurahan" : "Kemuningsari Lor",
+  "kodepos" : "68153"
+}, {
+  "kecamatan" : "Panti",
+  "kelurahan" : "Pakis",
+  "kodepos" : "68153"
+}, {
+  "kecamatan" : "Panti",
+  "kelurahan" : "Glagahwero",
+  "kodepos" : "68153"
+}, {
+  "kecamatan" : "Panti",
+  "kelurahan" : "Kemiri",
+  "kodepos" : "68153"
+}, {
+  "kecamatan" : "Rambipuji",
+  "kelurahan" : "Rambipuji",
+  "kodepos" : "68152"
+}, {
+  "kecamatan" : "Rambipuji",
+  "kelurahan" : "Rowotamtu",
+  "kodepos" : "68152"
+}, {
+  "kecamatan" : "Rambipuji",
+  "kelurahan" : "Pecoro",
+  "kodepos" : "68152"
+}, {
+  "kecamatan" : "Rambipuji",
+  "kelurahan" : "Rambigundam",
+  "kodepos" : "68152"
+}, {
+  "kecamatan" : "Rambipuji",
+  "kelurahan" : "Kaliwining",
+  "kodepos" : "68152"
+}, {
+  "kecamatan" : "Rambipuji",
+  "kelurahan" : "Nogosari",
+  "kodepos" : "68152"
+}, {
+  "kecamatan" : "Rambipuji",
+  "kelurahan" : "Gugut",
+  "kodepos" : "68152"
+}, {
+  "kecamatan" : "Sukorambi",
+  "kelurahan" : "Sukorambi",
+  "kodepos" : "68151"
+}, {
+  "kecamatan" : "Rambipuji",
+  "kelurahan" : "Curahmalang",
+  "kodepos" : "68152"
+}, {
+  "kecamatan" : "Sukorambi",
+  "kelurahan" : "Kelungkung",
+  "kodepos" : "68151"
+}, {
+  "kecamatan" : "Sukorambi",
+  "kelurahan" : "Jubung",
+  "kodepos" : "68151"
+}, {
+  "kecamatan" : "Sukorambi",
+  "kelurahan" : "Karangpring",
+  "kodepos" : "68151"
+}, {
+  "kecamatan" : "Sukorambi",
+  "kelurahan" : "Dukuh Mencek",
+  "kodepos" : "68151"
+}, {
+  "kecamatan" : "Kaliwates",
+  "kelurahan" : "Kebon Agung",
+  "kodepos" : "68137"
+}, {
+  "kecamatan" : "Kaliwates",
+  "kelurahan" : "Kepatihan",
+  "kodepos" : "68137"
+}, {
+  "kecamatan" : "Kaliwates",
+  "kelurahan" : "Mangli",
+  "kodepos" : "68136"
+}, {
+  "kecamatan" : "Kaliwates",
+  "kelurahan" : "Kaliwates",
+  "kodepos" : "68133"
+}, {
+  "kecamatan" : "Kaliwates",
+  "kelurahan" : "Sempusari",
+  "kodepos" : "68135"
+}, {
+  "kecamatan" : "Kaliwates",
+  "kelurahan" : "Tegal Besar",
+  "kodepos" : "68132"
+}, {
+  "kecamatan" : "Ambulu",
+  "kelurahan" : "Karang Anyar",
+  "kodepos" : "68132"
+}, {
+  "kecamatan" : "Kaliwates",
+  "kelurahan" : "Jember Kidul",
+  "kodepos" : "68131"
+}, {
+  "kecamatan" : "Sumber Sari",
+  "kelurahan" : "Keranjingan",
+  "kodepos" : "68126"
+}, {
+  "kecamatan" : "Sumber Sari",
+  "kelurahan" : "Antirogo",
+  "kodepos" : "68125"
+}, {
+  "kecamatan" : "Sumber Sari",
+  "kelurahan" : "Tegal Gede",
+  "kodepos" : "68124"
+}, {
+  "kecamatan" : "Sumber Sari",
+  "kelurahan" : "Wirolegi",
+  "kodepos" : "68124"
+}, {
+  "kecamatan" : "Sumber Sari",
+  "kelurahan" : "Karangrejo",
+  "kodepos" : "68124"
+}, {
+  "kecamatan" : "Sumber Sari",
+  "kelurahan" : "Sumbersari",
+  "kodepos" : "68121"
+}, {
+  "kecamatan" : "Sumber Sari",
+  "kelurahan" : "Kebonsari",
+  "kodepos" : "68122"
+}, {
+  "kecamatan" : "Mayang",
+  "kelurahan" : "Tegalrejo",
+  "kodepos" : "68118"
+}, {
+  "kecamatan" : "Patrang",
+  "kelurahan" : "Jember Lor",
+  "kodepos" : "68118"
+}, {
+  "kecamatan" : "Patrang",
+  "kelurahan" : "Gebang",
+  "kodepos" : "68117"
+}, {
+  "kecamatan" : "Patrang",
+  "kelurahan" : "Banjar Sengon",
+  "kodepos" : "68118"
+}, {
+  "kecamatan" : "Patrang",
+  "kelurahan" : "Slawu",
+  "kodepos" : "68116"
+}, {
+  "kecamatan" : "Patrang",
+  "kelurahan" : "Jumerto",
+  "kodepos" : "68114"
+}, {
+  "kecamatan" : "Kalisat",
+  "kelurahan" : "Plalangan",
+  "kodepos" : "68113"
+}, {
+  "kecamatan" : "Patrang",
+  "kelurahan" : "Bintoro",
+  "kodepos" : "68113"
+}, {
+  "kecamatan" : "Patrang",
+  "kelurahan" : "Patrang",
+  "kodepos" : "68111"
+}, {
+  "kecamatan" : "Patrang",
+  "kelurahan" : "Baratan",
+  "kodepos" : "68112"
+} ]

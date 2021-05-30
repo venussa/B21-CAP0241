@@ -1,0 +1,949 @@
+[ {
+  "kecamatan" : "Anggana",
+  "kelurahan" : "Sidomulyo",
+  "kodepos" : "76131"
+}, {
+  "kecamatan" : "Tenggarong Seberang",
+  "kelurahan" : "Tanjung Batu",
+  "kodepos" : "75572"
+}, {
+  "kecamatan" : "Tenggarong Seberang",
+  "kelurahan" : "Teluk Dalam",
+  "kodepos" : "75572"
+}, {
+  "kecamatan" : "Tenggarong Seberang",
+  "kelurahan" : "Sukamaju",
+  "kodepos" : "75572"
+}, {
+  "kecamatan" : "Tenggarong Seberang",
+  "kelurahan" : "Mulawarman",
+  "kodepos" : "75572"
+}, {
+  "kecamatan" : "Tenggarong Seberang",
+  "kelurahan" : "Perjiwa",
+  "kodepos" : "75572"
+}, {
+  "kecamatan" : "Tenggarong Seberang",
+  "kelurahan" : "Separi",
+  "kodepos" : "75572"
+}, {
+  "kecamatan" : "Tenggarong Seberang",
+  "kelurahan" : "Loa Ulung",
+  "kodepos" : "75572"
+}, {
+  "kecamatan" : "Tenggarong Seberang",
+  "kelurahan" : "Manunggal Jaya",
+  "kodepos" : "75572"
+}, {
+  "kecamatan" : "Tenggarong Seberang",
+  "kelurahan" : "Loa Lepu",
+  "kodepos" : "75572"
+}, {
+  "kecamatan" : "Tenggarong Seberang",
+  "kelurahan" : "Loa Pari",
+  "kodepos" : "75572"
+}, {
+  "kecamatan" : "Tenggarong Seberang",
+  "kelurahan" : "Loa Raya",
+  "kodepos" : "75572"
+}, {
+  "kecamatan" : "Tenggarong Seberang",
+  "kelurahan" : "Kerta Buana",
+  "kodepos" : "75572"
+}, {
+  "kecamatan" : "Tenggarong Seberang",
+  "kelurahan" : "Bukit Raya",
+  "kodepos" : "75572"
+}, {
+  "kecamatan" : "Tenggarong Seberang",
+  "kelurahan" : "Embalut",
+  "kodepos" : "75572"
+}, {
+  "kecamatan" : "Tenggarong Seberang",
+  "kelurahan" : "Karang Tunggal",
+  "kodepos" : "75572"
+}, {
+  "kecamatan" : "Tenggarong Seberang",
+  "kelurahan" : "Bukit Pariaman",
+  "kodepos" : "75572"
+}, {
+  "kecamatan" : "Tenggarong Seberang",
+  "kelurahan" : "Buana Jaya",
+  "kodepos" : "75572"
+}, {
+  "kecamatan" : "Tenggarong Seberang",
+  "kelurahan" : "Bangun Rejo",
+  "kodepos" : "75572"
+}, {
+  "kecamatan" : "Loa Kulu",
+  "kelurahan" : "Sepakat",
+  "kodepos" : "75571"
+}, {
+  "kecamatan" : "Loa Kulu",
+  "kelurahan" : "Sumber Sari",
+  "kodepos" : "75571"
+}, {
+  "kecamatan" : "Loa Kulu",
+  "kelurahan" : "Sei/Sungai Payang",
+  "kodepos" : "75571"
+}, {
+  "kecamatan" : "Loa Kulu",
+  "kelurahan" : "Ponoragan",
+  "kodepos" : "75571"
+}, {
+  "kecamatan" : "Loa Kulu",
+  "kelurahan" : "Rempanga",
+  "kodepos" : "75571"
+}, {
+  "kecamatan" : "Loa Kulu",
+  "kelurahan" : "Lung Anai",
+  "kodepos" : "75571"
+}, {
+  "kecamatan" : "Loa Kulu",
+  "kelurahan" : "Margahayu (Marga Rahayu)",
+  "kodepos" : "75571"
+}, {
+  "kecamatan" : "Loa Kulu",
+  "kelurahan" : "Loa Kulu Kota",
+  "kodepos" : "75571"
+}, {
+  "kecamatan" : "Loa Kulu",
+  "kelurahan" : "Jongkang",
+  "kodepos" : "75571"
+}, {
+  "kecamatan" : "Loa Kulu",
+  "kelurahan" : "Loh Sumber",
+  "kodepos" : "75571"
+}, {
+  "kecamatan" : "Loa Kulu",
+  "kelurahan" : "Karya Utama",
+  "kodepos" : "75571"
+}, {
+  "kecamatan" : "Loa Kulu",
+  "kelurahan" : "Jembayan Tengah",
+  "kodepos" : "75571"
+}, {
+  "kecamatan" : "Loa Kulu",
+  "kelurahan" : "Jonggon",
+  "kodepos" : "75571"
+}, {
+  "kecamatan" : "Loa Kulu",
+  "kelurahan" : "Jembayan Dalam",
+  "kodepos" : "75571"
+}, {
+  "kecamatan" : "Loa Kulu",
+  "kelurahan" : "Jembayan",
+  "kodepos" : "75571"
+}, {
+  "kecamatan" : "Kenohan",
+  "kelurahan" : "Tuana Tuha",
+  "kodepos" : "75564"
+}, {
+  "kecamatan" : "Kenohan",
+  "kelurahan" : "Tubuhan",
+  "kodepos" : "75564"
+}, {
+  "kecamatan" : "Kenohan",
+  "kelurahan" : "Semayang",
+  "kodepos" : "75564"
+}, {
+  "kecamatan" : "Kenohan",
+  "kelurahan" : "Teluk Bingkai",
+  "kodepos" : "75564"
+}, {
+  "kecamatan" : "Kenohan",
+  "kelurahan" : "Teluk Muda",
+  "kodepos" : "75564"
+}, {
+  "kecamatan" : "Kenohan",
+  "kelurahan" : "Lamin Pulut",
+  "kodepos" : "75564"
+}, {
+  "kecamatan" : "Kenohan",
+  "kelurahan" : "Lamin Telihan",
+  "kodepos" : "75564"
+}, {
+  "kecamatan" : "Kenohan",
+  "kelurahan" : "Kahala",
+  "kodepos" : "75564"
+}, {
+  "kecamatan" : "Kenohan",
+  "kelurahan" : "Kahala Ilir",
+  "kodepos" : "75564"
+}, {
+  "kecamatan" : "Muara Muntai",
+  "kelurahan" : "Rebaq Rinding",
+  "kodepos" : "75562"
+}, {
+  "kecamatan" : "Muara Muntai",
+  "kelurahan" : "Tanjung Batuq Harapan",
+  "kodepos" : "75562"
+}, {
+  "kecamatan" : "Muara Muntai",
+  "kelurahan" : "Perian",
+  "kodepos" : "75562"
+}, {
+  "kecamatan" : "Muara Muntai",
+  "kelurahan" : "Pulau Harapan",
+  "kodepos" : "75562"
+}, {
+  "kecamatan" : "Muara Muntai",
+  "kelurahan" : "Muara Muntai Ilir",
+  "kodepos" : "75562"
+}, {
+  "kecamatan" : "Muara Muntai",
+  "kelurahan" : "Muara Muntai Ulu",
+  "kodepos" : "75562"
+}, {
+  "kecamatan" : "Muara Muntai",
+  "kelurahan" : "Muara Leka",
+  "kodepos" : "75562"
+}, {
+  "kecamatan" : "Muara Muntai",
+  "kelurahan" : "Muara Aloh",
+  "kodepos" : "75562"
+}, {
+  "kecamatan" : "Muara Muntai",
+  "kelurahan" : "Jantur Selatan",
+  "kodepos" : "75562"
+}, {
+  "kecamatan" : "Muara Muntai",
+  "kelurahan" : "Kayu Batu",
+  "kodepos" : "75562"
+}, {
+  "kecamatan" : "Muara Muntai",
+  "kelurahan" : "Jantur",
+  "kodepos" : "75562"
+}, {
+  "kecamatan" : "Muara Muntai",
+  "kelurahan" : "Jantur Baru",
+  "kodepos" : "75562"
+}, {
+  "kecamatan" : "Muara Muntai",
+  "kelurahan" : "Batuq",
+  "kodepos" : "75562"
+}, {
+  "kecamatan" : "Kota Bangun",
+  "kelurahan" : "Sukabumi",
+  "kodepos" : "75561"
+}, {
+  "kecamatan" : "Kota Bangun",
+  "kelurahan" : "Sumber Sari",
+  "kodepos" : "75561"
+}, {
+  "kecamatan" : "Kota Bangun",
+  "kelurahan" : "Wonosari",
+  "kodepos" : "75561"
+}, {
+  "kecamatan" : "Kota Bangun",
+  "kelurahan" : "Sebelimbingan",
+  "kodepos" : "75561"
+}, {
+  "kecamatan" : "Kota Bangun",
+  "kelurahan" : "Sedulang",
+  "kodepos" : "75561"
+}, {
+  "kecamatan" : "Kota Bangun",
+  "kelurahan" : "Sangkuliman",
+  "kodepos" : "75561"
+}, {
+  "kecamatan" : "Kota Bangun",
+  "kelurahan" : "Sarinadi",
+  "kodepos" : "75561"
+}, {
+  "kecamatan" : "Kota Bangun",
+  "kelurahan" : "Pela",
+  "kodepos" : "75561"
+}, {
+  "kecamatan" : "Kota Bangun",
+  "kelurahan" : "Loleng",
+  "kodepos" : "75561"
+}, {
+  "kecamatan" : "Kota Bangun",
+  "kelurahan" : "Muhuran",
+  "kodepos" : "75561"
+}, {
+  "kecamatan" : "Kota Bangun",
+  "kelurahan" : "Kota Bangun Ulu",
+  "kodepos" : "75561"
+}, {
+  "kecamatan" : "Kota Bangun",
+  "kelurahan" : "Liang Ilir",
+  "kodepos" : "75561"
+}, {
+  "kecamatan" : "Kota Bangun",
+  "kelurahan" : "Liang Ulu",
+  "kodepos" : "75561"
+}, {
+  "kecamatan" : "Kota Bangun",
+  "kelurahan" : "Kota Bangun Ilir",
+  "kodepos" : "75561"
+}, {
+  "kecamatan" : "Kota Bangun",
+  "kelurahan" : "Kota Bangun Seberang",
+  "kodepos" : "75561"
+}, {
+  "kecamatan" : "Kota Bangun",
+  "kelurahan" : "Kota Bangun II (2)",
+  "kodepos" : "75561"
+}, {
+  "kecamatan" : "Kota Bangun",
+  "kelurahan" : "Kota Bangun III (3)",
+  "kodepos" : "75561"
+}, {
+  "kecamatan" : "Kota Bangun",
+  "kelurahan" : "Kedang Ipil",
+  "kodepos" : "75561"
+}, {
+  "kecamatan" : "Kota Bangun",
+  "kelurahan" : "Kedang Murung",
+  "kodepos" : "75561"
+}, {
+  "kecamatan" : "Kota Bangun",
+  "kelurahan" : "Kota Bangun I (1)",
+  "kodepos" : "75561"
+}, {
+  "kecamatan" : "Kota Bangun",
+  "kelurahan" : "Benua Baru",
+  "kodepos" : "75561"
+}, {
+  "kecamatan" : "Muara Wis",
+  "kelurahan" : "Muara Wis",
+  "kodepos" : "75559"
+}, {
+  "kecamatan" : "Muara Wis",
+  "kelurahan" : "Sebemban",
+  "kodepos" : "75559"
+}, {
+  "kecamatan" : "Muara Wis",
+  "kelurahan" : "Melintang",
+  "kodepos" : "75559"
+}, {
+  "kecamatan" : "Muara Wis",
+  "kelurahan" : "Muara Enggelam",
+  "kodepos" : "75559"
+}, {
+  "kecamatan" : "Muara Wis",
+  "kelurahan" : "Lebak Mantan",
+  "kodepos" : "75559"
+}, {
+  "kecamatan" : "Muara Wis",
+  "kelurahan" : "Lebak Cilong",
+  "kodepos" : "75559"
+}, {
+  "kecamatan" : "Muara Wis",
+  "kelurahan" : "Enggelam",
+  "kodepos" : "75559"
+}, {
+  "kecamatan" : "Tabang",
+  "kelurahan" : "Umaq Bekuay/Bekuai",
+  "kodepos" : "75558"
+}, {
+  "kecamatan" : "Tabang",
+  "kelurahan" : "Umaq Dian",
+  "kodepos" : "75558"
+}, {
+  "kecamatan" : "Tabang",
+  "kelurahan" : "Umaq Tukung",
+  "kodepos" : "75558"
+}, {
+  "kecamatan" : "Tabang",
+  "kelurahan" : "Tabang Lama",
+  "kodepos" : "75558"
+}, {
+  "kecamatan" : "Tabang",
+  "kelurahan" : "Tukung Ritan",
+  "kodepos" : "75558"
+}, {
+  "kecamatan" : "Tabang",
+  "kelurahan" : "Ritan Baru",
+  "kodepos" : "75558"
+}, {
+  "kecamatan" : "Tabang",
+  "kelurahan" : "Sidomulyo",
+  "kodepos" : "75558"
+}, {
+  "kecamatan" : "Tabang",
+  "kelurahan" : "Muara Tiq",
+  "kodepos" : "75558"
+}, {
+  "kecamatan" : "Tabang",
+  "kelurahan" : "Muara Tuboq",
+  "kodepos" : "75558"
+}, {
+  "kecamatan" : "Tabang",
+  "kelurahan" : "Muara Ritan",
+  "kodepos" : "75558"
+}, {
+  "kecamatan" : "Tabang",
+  "kelurahan" : "Muara Salung",
+  "kodepos" : "75558"
+}, {
+  "kecamatan" : "Tabang",
+  "kelurahan" : "Muara Kebaq",
+  "kodepos" : "75558"
+}, {
+  "kecamatan" : "Tabang",
+  "kelurahan" : "Muara Pedohon",
+  "kodepos" : "75558"
+}, {
+  "kecamatan" : "Tabang",
+  "kelurahan" : "Long Lalang",
+  "kodepos" : "75558"
+}, {
+  "kecamatan" : "Tabang",
+  "kelurahan" : "Muara Belinau",
+  "kodepos" : "75558"
+}, {
+  "kecamatan" : "Tabang",
+  "kelurahan" : "Gunung Sari",
+  "kodepos" : "75558"
+}, {
+  "kecamatan" : "Tabang",
+  "kelurahan" : "Kampung Baru",
+  "kodepos" : "75558"
+}, {
+  "kecamatan" : "Tabang",
+  "kelurahan" : "Bila Talang",
+  "kodepos" : "75558"
+}, {
+  "kecamatan" : "Tabang",
+  "kelurahan" : "Buluk Sen",
+  "kodepos" : "75558"
+}, {
+  "kecamatan" : "Kembang Janggut",
+  "kelurahan" : "Pulau Pinang",
+  "kodepos" : "75557"
+}, {
+  "kecamatan" : "Kembang Janggut",
+  "kelurahan" : "Muai",
+  "kodepos" : "75557"
+}, {
+  "kecamatan" : "Kembang Janggut",
+  "kelurahan" : "Perdana",
+  "kodepos" : "75557"
+}, {
+  "kecamatan" : "Kembang Janggut",
+  "kelurahan" : "Long Beleh Haloq",
+  "kodepos" : "75557"
+}, {
+  "kecamatan" : "Kembang Janggut",
+  "kelurahan" : "Long Beleh Modang",
+  "kodepos" : "75557"
+}, {
+  "kecamatan" : "Kembang Janggut",
+  "kelurahan" : "Loa Sakoh",
+  "kodepos" : "75557"
+}, {
+  "kecamatan" : "Kembang Janggut",
+  "kelurahan" : "Kembang Janggut",
+  "kodepos" : "75557"
+}, {
+  "kecamatan" : "Kembang Janggut",
+  "kelurahan" : "Hambau",
+  "kodepos" : "75557"
+}, {
+  "kecamatan" : "Kembang Janggut",
+  "kelurahan" : "Kelekat",
+  "kodepos" : "75557"
+}, {
+  "kecamatan" : "Kembang Janggut",
+  "kelurahan" : "Bukit Layang",
+  "kodepos" : "75557"
+}, {
+  "kecamatan" : "Kembang Janggut",
+  "kelurahan" : "Genting Tanah",
+  "kodepos" : "75557"
+}, {
+  "kecamatan" : "Muara Kaman",
+  "kelurahan" : "Tunjungan",
+  "kodepos" : "75553"
+}, {
+  "kecamatan" : "Muara Kaman",
+  "kelurahan" : "Sido Mukti",
+  "kodepos" : "75553"
+}, {
+  "kecamatan" : "Muara Kaman",
+  "kelurahan" : "Teratak",
+  "kodepos" : "75553"
+}, {
+  "kecamatan" : "Muara Kaman",
+  "kelurahan" : "Sedulang",
+  "kodepos" : "75553"
+}, {
+  "kecamatan" : "Muara Kaman",
+  "kelurahan" : "Rantau Hempang",
+  "kodepos" : "75553"
+}, {
+  "kecamatan" : "Muara Kaman",
+  "kelurahan" : "Sabintulung",
+  "kodepos" : "75553"
+}, {
+  "kecamatan" : "Muara Kaman",
+  "kelurahan" : "Puan Cepak",
+  "kodepos" : "75553"
+}, {
+  "kecamatan" : "Muara Kaman",
+  "kelurahan" : "Muara Siran",
+  "kodepos" : "75553"
+}, {
+  "kecamatan" : "Muara Kaman",
+  "kelurahan" : "Panca Jaya",
+  "kodepos" : "75553"
+}, {
+  "kecamatan" : "Muara Kaman",
+  "kelurahan" : "Muara Kaman Ilir",
+  "kodepos" : "75553"
+}, {
+  "kecamatan" : "Muara Kaman",
+  "kelurahan" : "Muara Kaman Ulu",
+  "kodepos" : "75553"
+}, {
+  "kecamatan" : "Muara Kaman",
+  "kelurahan" : "Menamang Kiri",
+  "kodepos" : "75553"
+}, {
+  "kecamatan" : "Muara Kaman",
+  "kelurahan" : "Liang Buaya",
+  "kodepos" : "75553"
+}, {
+  "kecamatan" : "Muara Kaman",
+  "kelurahan" : "Kupang Baru",
+  "kodepos" : "75553"
+}, {
+  "kecamatan" : "Muara Kaman",
+  "kelurahan" : "Menamang Kanan",
+  "kodepos" : "75553"
+}, {
+  "kecamatan" : "Muara Kaman",
+  "kelurahan" : "Lebaho Ulaq",
+  "kodepos" : "75553"
+}, {
+  "kecamatan" : "Muara Kaman",
+  "kelurahan" : "Bunga Jadi",
+  "kodepos" : "75553"
+}, {
+  "kecamatan" : "Muara Kaman",
+  "kelurahan" : "Cipari Makmur",
+  "kodepos" : "75553"
+}, {
+  "kecamatan" : "Muara Kaman",
+  "kelurahan" : "Benua Puhun",
+  "kodepos" : "75553"
+}, {
+  "kecamatan" : "Muara Kaman",
+  "kelurahan" : "Bukit Jering",
+  "kodepos" : "75553"
+}, {
+  "kecamatan" : "Sebulu",
+  "kelurahan" : "Sumber Sari",
+  "kodepos" : "75552"
+}, {
+  "kecamatan" : "Sebulu",
+  "kelurahan" : "Tanjung Harapan",
+  "kodepos" : "75552"
+}, {
+  "kecamatan" : "Sebulu",
+  "kelurahan" : "Selerong",
+  "kodepos" : "75552"
+}, {
+  "kecamatan" : "Sebulu",
+  "kelurahan" : "Senoni",
+  "kodepos" : "75552"
+}, {
+  "kecamatan" : "Sebulu",
+  "kelurahan" : "Sebulu Ulu",
+  "kodepos" : "75552"
+}, {
+  "kecamatan" : "Sebulu",
+  "kelurahan" : "Segihan",
+  "kodepos" : "75552"
+}, {
+  "kecamatan" : "Sebulu",
+  "kelurahan" : "Sebulu Ilir",
+  "kodepos" : "75552"
+}, {
+  "kecamatan" : "Sebulu",
+  "kelurahan" : "Sebulu Modern",
+  "kodepos" : "75552"
+}, {
+  "kecamatan" : "Sebulu",
+  "kelurahan" : "Mekar Jaya",
+  "kodepos" : "75552"
+}, {
+  "kecamatan" : "Sebulu",
+  "kelurahan" : "Sanggulan",
+  "kodepos" : "75552"
+}, {
+  "kecamatan" : "Sebulu",
+  "kelurahan" : "Giri Agung",
+  "kodepos" : "75552"
+}, {
+  "kecamatan" : "Sebulu",
+  "kelurahan" : "Manunggal Daya",
+  "kodepos" : "75552"
+}, {
+  "kecamatan" : "Sebulu",
+  "kelurahan" : "Beloro",
+  "kodepos" : "75552"
+}, {
+  "kecamatan" : "Sebulu",
+  "kelurahan" : "Budaya Lekaq Kidau",
+  "kodepos" : "75552"
+}, {
+  "kecamatan" : "Tenggarong",
+  "kelurahan" : "Sukarame",
+  "kodepos" : "75515"
+}, {
+  "kecamatan" : "Tenggarong",
+  "kelurahan" : "Mangkurawang",
+  "kodepos" : "75517"
+}, {
+  "kecamatan" : "Tenggarong",
+  "kelurahan" : "Loa Ipuh",
+  "kodepos" : "75513"
+}, {
+  "kecamatan" : "Tenggarong",
+  "kelurahan" : "Panji",
+  "kodepos" : "75514"
+}, {
+  "kecamatan" : "Tenggarong",
+  "kelurahan" : "Timbau",
+  "kodepos" : "75511"
+}, {
+  "kecamatan" : "Tenggarong",
+  "kelurahan" : "Melayu",
+  "kodepos" : "75512"
+}, {
+  "kecamatan" : "Tenggarong",
+  "kelurahan" : "Maluhu",
+  "kodepos" : "75511"
+}, {
+  "kecamatan" : "Tenggarong",
+  "kelurahan" : "Rapak Lambur",
+  "kodepos" : "75511"
+}, {
+  "kecamatan" : "Tenggarong",
+  "kelurahan" : "Jahab",
+  "kodepos" : "75511"
+}, {
+  "kecamatan" : "Tenggarong",
+  "kelurahan" : "Loa Ipuh Darat",
+  "kodepos" : "75511"
+}, {
+  "kecamatan" : "Tenggarong",
+  "kelurahan" : "Loa Tebu",
+  "kodepos" : "75511"
+}, {
+  "kecamatan" : "Tenggarong",
+  "kelurahan" : "Bendang Raya",
+  "kodepos" : "75511"
+}, {
+  "kecamatan" : "Tenggarong",
+  "kelurahan" : "Bukit Biru",
+  "kodepos" : "75511"
+}, {
+  "kecamatan" : "Loa Janan",
+  "kelurahan" : "Tani Harapan",
+  "kodepos" : "75391"
+}, {
+  "kecamatan" : "Tenggarong",
+  "kelurahan" : "Baru (Kampung Baru)",
+  "kodepos" : "75511"
+}, {
+  "kecamatan" : "Loa Janan",
+  "kelurahan" : "Purwajaya",
+  "kodepos" : "75391"
+}, {
+  "kecamatan" : "Loa Janan",
+  "kelurahan" : "Tani Bakti",
+  "kodepos" : "75391"
+}, {
+  "kecamatan" : "Loa Janan",
+  "kelurahan" : "Loa Janan Ulu",
+  "kodepos" : "75391"
+}, {
+  "kecamatan" : "Loa Janan",
+  "kelurahan" : "Loa Duri Ilir",
+  "kodepos" : "75391"
+}, {
+  "kecamatan" : "Loa Janan",
+  "kelurahan" : "Loa Duri Ulu",
+  "kodepos" : "75391"
+}, {
+  "kecamatan" : "Loa Janan",
+  "kelurahan" : "Bakungan",
+  "kodepos" : "75391"
+}, {
+  "kecamatan" : "Loa Janan",
+  "kelurahan" : "Batuah",
+  "kodepos" : "75391"
+}, {
+  "kecamatan" : "Marang Kayu",
+  "kelurahan" : "Semangkok",
+  "kodepos" : "75385"
+}, {
+  "kecamatan" : "Marang Kayu",
+  "kelurahan" : "Santan Tengah",
+  "kodepos" : "75385"
+}, {
+  "kecamatan" : "Marang Kayu",
+  "kelurahan" : "Santan Ulu",
+  "kodepos" : "75385"
+}, {
+  "kecamatan" : "Marang Kayu",
+  "kelurahan" : "Sebuntal",
+  "kodepos" : "75385"
+}, {
+  "kecamatan" : "Marang Kayu",
+  "kelurahan" : "Sambera Baru",
+  "kodepos" : "75385"
+}, {
+  "kecamatan" : "Marang Kayu",
+  "kelurahan" : "Santan Ilir",
+  "kodepos" : "75385"
+}, {
+  "kecamatan" : "Marang Kayu",
+  "kelurahan" : "Perangat Selatan",
+  "kodepos" : "75385"
+}, {
+  "kecamatan" : "Marang Kayu",
+  "kelurahan" : "Makarti",
+  "kodepos" : "75385"
+}, {
+  "kecamatan" : "Marang Kayu",
+  "kelurahan" : "Perangat Baru",
+  "kodepos" : "75385"
+}, {
+  "kecamatan" : "Marang Kayu",
+  "kelurahan" : "Kersik",
+  "kodepos" : "75385"
+}, {
+  "kecamatan" : "Marang Kayu",
+  "kelurahan" : "Bunga Putih",
+  "kodepos" : "75385"
+}, {
+  "kecamatan" : "Muara Badak",
+  "kelurahan" : "Tanjung Limau",
+  "kodepos" : "75382"
+}, {
+  "kecamatan" : "Muara Badak",
+  "kelurahan" : "Suka Damai",
+  "kodepos" : "75382"
+}, {
+  "kecamatan" : "Muara Badak",
+  "kelurahan" : "Tanah Datar",
+  "kodepos" : "75382"
+}, {
+  "kecamatan" : "Muara Badak",
+  "kelurahan" : "Sei/Sungai Bawang",
+  "kodepos" : "75382"
+}, {
+  "kecamatan" : "Muara Badak",
+  "kelurahan" : "Seliki",
+  "kodepos" : "75382"
+}, {
+  "kecamatan" : "Muara Badak",
+  "kelurahan" : "Salo Cella",
+  "kodepos" : "75382"
+}, {
+  "kecamatan" : "Muara Badak",
+  "kelurahan" : "Salo Palai",
+  "kodepos" : "75382"
+}, {
+  "kecamatan" : "Muara Badak",
+  "kelurahan" : "Muara Badak Ulu",
+  "kodepos" : "75382"
+}, {
+  "kecamatan" : "Muara Badak",
+  "kelurahan" : "Gas Alam Badak I",
+  "kodepos" : "75382"
+}, {
+  "kecamatan" : "Muara Badak",
+  "kelurahan" : "Muara Badak Ilir",
+  "kodepos" : "75382"
+}, {
+  "kecamatan" : "Muara Badak",
+  "kelurahan" : "Badak Mekar",
+  "kodepos" : "75382"
+}, {
+  "kecamatan" : "Muara Badak",
+  "kelurahan" : "Batu Batu",
+  "kodepos" : "75382"
+}, {
+  "kecamatan" : "Anggana",
+  "kelurahan" : "Tani Baru",
+  "kodepos" : "75381"
+}, {
+  "kecamatan" : "Muara Badak",
+  "kelurahan" : "Badak Baru",
+  "kodepos" : "75382"
+}, {
+  "kecamatan" : "Anggana",
+  "kelurahan" : "Sepatin",
+  "kodepos" : "75381"
+}, {
+  "kecamatan" : "Anggana",
+  "kelurahan" : "Muara Pantuan",
+  "kodepos" : "75381"
+}, {
+  "kecamatan" : "Anggana",
+  "kelurahan" : "Sei/Sungai Meriam",
+  "kodepos" : "75381"
+}, {
+  "kecamatan" : "Anggana",
+  "kelurahan" : "Handil Terusan",
+  "kodepos" : "75381"
+}, {
+  "kecamatan" : "Anggana",
+  "kelurahan" : "Kutai Lama",
+  "kodepos" : "75381"
+}, {
+  "kecamatan" : "Anggana",
+  "kelurahan" : "Anggana",
+  "kodepos" : "75381"
+}, {
+  "kecamatan" : "Samboja (Semboja)",
+  "kelurahan" : "Handil Baru",
+  "kodepos" : "75279"
+}, {
+  "kecamatan" : "Samboja (Semboja)",
+  "kelurahan" : "Muara Sembilang",
+  "kodepos" : "75279"
+}, {
+  "kecamatan" : "Samboja (Semboja)",
+  "kelurahan" : "Wonotirto",
+  "kodepos" : "75276"
+}, {
+  "kecamatan" : "Samboja (Semboja)",
+  "kelurahan" : "Samboja Kuala",
+  "kodepos" : "75277"
+}, {
+  "kecamatan" : "Samboja (Semboja)",
+  "kelurahan" : "Kampung Lama",
+  "kodepos" : "75276"
+}, {
+  "kecamatan" : "Samboja (Semboja)",
+  "kelurahan" : "Tanjung Harapan",
+  "kodepos" : "75276"
+}, {
+  "kecamatan" : "Samboja (Semboja)",
+  "kelurahan" : "Handil Baru Darat",
+  "kodepos" : "75276"
+}, {
+  "kecamatan" : "Samboja (Semboja)",
+  "kelurahan" : "Ambarawang Darat",
+  "kodepos" : "75274"
+}, {
+  "kecamatan" : "Samboja (Semboja)",
+  "kelurahan" : "Ambarawang Laut",
+  "kodepos" : "75274"
+}, {
+  "kecamatan" : "Samboja (Semboja)",
+  "kelurahan" : "Teluk Pemedas",
+  "kodepos" : "75271"
+}, {
+  "kecamatan" : "Samboja (Semboja)",
+  "kelurahan" : "Margomulyo",
+  "kodepos" : "75273"
+}, {
+  "kecamatan" : "Samboja (Semboja)",
+  "kelurahan" : "Sei/Sungai Seluang",
+  "kodepos" : "75271"
+}, {
+  "kecamatan" : "Samboja (Semboja)",
+  "kelurahan" : "Tani Bakti",
+  "kodepos" : "75271"
+}, {
+  "kecamatan" : "Samboja (Semboja)",
+  "kelurahan" : "Sei/Sungai Merdeka",
+  "kodepos" : "75271"
+}, {
+  "kecamatan" : "Samboja (Semboja)",
+  "kelurahan" : "Salok Api Darat",
+  "kodepos" : "75271"
+}, {
+  "kecamatan" : "Samboja (Semboja)",
+  "kelurahan" : "Salok Api Laut",
+  "kodepos" : "75271"
+}, {
+  "kecamatan" : "Samboja (Semboja)",
+  "kelurahan" : "Sanipah",
+  "kodepos" : "75271"
+}, {
+  "kecamatan" : "Samboja (Semboja)",
+  "kelurahan" : "Karya Jaya",
+  "kodepos" : "75271"
+}, {
+  "kecamatan" : "Samboja (Semboja)",
+  "kelurahan" : "Karya Merdeka",
+  "kodepos" : "75271"
+}, {
+  "kecamatan" : "Samboja (Semboja)",
+  "kelurahan" : "Bukit Merdeka",
+  "kodepos" : "75271"
+}, {
+  "kecamatan" : "Samboja (Semboja)",
+  "kelurahan" : "Bukit Raya",
+  "kodepos" : "75271"
+}, {
+  "kecamatan" : "Samboja (Semboja)",
+  "kelurahan" : "Argosari",
+  "kodepos" : "75271"
+}, {
+  "kecamatan" : "Samboja (Semboja)",
+  "kelurahan" : "Beringin Agung",
+  "kodepos" : "75271"
+}, {
+  "kecamatan" : "Muara Jawa",
+  "kelurahan" : "Muara Kembang",
+  "kodepos" : "75267"
+}, {
+  "kecamatan" : "Muara Jawa",
+  "kelurahan" : "Dondang",
+  "kodepos" : "75265"
+}, {
+  "kecamatan" : "Muara Jawa",
+  "kelurahan" : "Tamapole",
+  "kodepos" : "75266"
+}, {
+  "kecamatan" : "Muara Jawa",
+  "kelurahan" : "Muara Jawa Ilir",
+  "kodepos" : "75263"
+}, {
+  "kecamatan" : "Muara Jawa",
+  "kelurahan" : "Muara Jawa Pesisir",
+  "kodepos" : "75263"
+}, {
+  "kecamatan" : "Muara Jawa",
+  "kelurahan" : "Muara Jawa Tengah",
+  "kodepos" : "75264"
+}, {
+  "kecamatan" : "Muara Jawa",
+  "kelurahan" : "Muara Jawa Ulu",
+  "kodepos" : "75261"
+}, {
+  "kecamatan" : "Muara Jawa",
+  "kelurahan" : "Teluk Dalam",
+  "kodepos" : "75262"
+}, {
+  "kecamatan" : "Sanga-Sanga",
+  "kelurahan" : "Pendingin",
+  "kodepos" : "75256"
+}, {
+  "kecamatan" : "Sanga-Sanga",
+  "kelurahan" : "Sarijaya",
+  "kodepos" : "75251"
+}, {
+  "kecamatan" : "Sanga-Sanga",
+  "kelurahan" : "Sanga-Sanga Dalam",
+  "kodepos" : "75254"
+}, {
+  "kecamatan" : "Sanga-Sanga",
+  "kelurahan" : "Jawa",
+  "kodepos" : "75251"
+}, {
+  "kecamatan" : "Sanga-Sanga",
+  "kelurahan" : "Sanga-Sanga Muara",
+  "kodepos" : "75251"
+} ]

@@ -1,0 +1,917 @@
+[ {
+  "kecamatan" : "Sentajo Raya",
+  "kelurahan" : "Teratak Air Hitam",
+  "kodepos" : "29566"
+}, {
+  "kecamatan" : "Benai",
+  "kelurahan" : "Ujung Tanjung",
+  "kodepos" : "29566"
+}, {
+  "kecamatan" : "Benai",
+  "kelurahan" : "Tanjungsimandolak",
+  "kodepos" : "29566"
+}, {
+  "kecamatan" : "Benai",
+  "kelurahan" : "Tebing Tinggi",
+  "kodepos" : "29566"
+}, {
+  "kecamatan" : "Benai",
+  "kelurahan" : "Talontom",
+  "kodepos" : "29566"
+}, {
+  "kecamatan" : "Hulu Kuantan",
+  "kelurahan" : "Tanjung",
+  "kodepos" : "29566"
+}, {
+  "kecamatan" : "Benai",
+  "kelurahan" : "Simandolak",
+  "kodepos" : "29566"
+}, {
+  "kecamatan" : "Benai",
+  "kelurahan" : "Pulautongah",
+  "kodepos" : "29566"
+}, {
+  "kecamatan" : "Benai",
+  "kelurahan" : "Siberakun",
+  "kodepos" : "29566"
+}, {
+  "kecamatan" : "Sentajo Raya",
+  "kelurahan" : "Seberang Teratak Air Hitam",
+  "kodepos" : "29566"
+}, {
+  "kecamatan" : "Benai",
+  "kelurahan" : "Pulaulancang",
+  "kodepos" : "29566"
+}, {
+  "kecamatan" : "Sentajo Raya",
+  "kelurahan" : "Pulaukopung Sentajo",
+  "kodepos" : "29566"
+}, {
+  "kecamatan" : "Benai",
+  "kelurahan" : "Pulaukalimanting",
+  "kodepos" : "29566"
+}, {
+  "kecamatan" : "Sentajo Raya",
+  "kelurahan" : "Pulaukomang Sentajo",
+  "kodepos" : "29566"
+}, {
+  "kecamatan" : "Sentajo Raya",
+  "kelurahan" : "Muaro Sentajo",
+  "kodepos" : "29566"
+}, {
+  "kecamatan" : "Sentajo Raya",
+  "kelurahan" : "Parit Teratak Air Hitam",
+  "kodepos" : "29566"
+}, {
+  "kecamatan" : "Benai",
+  "kelurahan" : "Pulauingu",
+  "kodepos" : "29566"
+}, {
+  "kecamatan" : "Sentajo Raya",
+  "kelurahan" : "Marsawa",
+  "kodepos" : "29566"
+}, {
+  "kecamatan" : "Sentajo Raya",
+  "kelurahan" : "Muara Langsat",
+  "kodepos" : "29566"
+}, {
+  "kecamatan" : "Sentajo Raya",
+  "kelurahan" : "Koto Sentajo",
+  "kodepos" : "29566"
+}, {
+  "kecamatan" : "Sentajo Raya",
+  "kelurahan" : "Langsat Hulu",
+  "kodepos" : "29566"
+}, {
+  "kecamatan" : "Sentajo Raya",
+  "kelurahan" : "Jalur Patah",
+  "kodepos" : "29566"
+}, {
+  "kecamatan" : "Sentajo Raya",
+  "kelurahan" : "Kampung Baru Sentajo",
+  "kodepos" : "29566"
+}, {
+  "kecamatan" : "Benai",
+  "kelurahan" : "Koto Benai",
+  "kodepos" : "29566"
+}, {
+  "kecamatan" : "Sentajo Raya",
+  "kelurahan" : "Geringing Baru",
+  "kodepos" : "29566"
+}, {
+  "kecamatan" : "Benai",
+  "kelurahan" : "Gunungkesiangan",
+  "kodepos" : "29566"
+}, {
+  "kecamatan" : "Sentajo Raya",
+  "kelurahan" : "Beringin Jaya",
+  "kodepos" : "29566"
+}, {
+  "kecamatan" : "Sentajo Raya",
+  "kelurahan" : "Geringging Jaya",
+  "kodepos" : "29566"
+}, {
+  "kecamatan" : "Benai",
+  "kelurahan" : "Benai",
+  "kodepos" : "29566"
+}, {
+  "kecamatan" : "Benai",
+  "kelurahan" : "Benai Kecil",
+  "kodepos" : "29566"
+}, {
+  "kecamatan" : "Benai",
+  "kelurahan" : "Banjar Benai",
+  "kodepos" : "29566"
+}, {
+  "kecamatan" : "Benai",
+  "kelurahan" : "Banjar Lopak",
+  "kodepos" : "29566"
+}, {
+  "kecamatan" : "Gunung Toar",
+  "kelurahan" : "Teluk Beringin",
+  "kodepos" : "29565"
+}, {
+  "kecamatan" : "Gunung Toar",
+  "kelurahan" : "Toar",
+  "kodepos" : "29565"
+}, {
+  "kecamatan" : "Gunung Toar",
+  "kelurahan" : "Teberau Panjang",
+  "kodepos" : "29565"
+}, {
+  "kecamatan" : "Hulu Kuantan",
+  "kelurahan" : "Tanjung Medang",
+  "kodepos" : "29565"
+}, {
+  "kecamatan" : "Hulu Kuantan",
+  "kelurahan" : "Sungai Kalilawar/Kelelawar",
+  "kodepos" : "29565"
+}, {
+  "kecamatan" : "Hulu Kuantan",
+  "kelurahan" : "Sungai Pinang",
+  "kodepos" : "29565"
+}, {
+  "kecamatan" : "Inuman",
+  "kelurahan" : "Sigaruntang",
+  "kodepos" : "29565"
+}, {
+  "kecamatan" : "Hulu Kuantan",
+  "kelurahan" : "Sumpu",
+  "kodepos" : "29565"
+}, {
+  "kecamatan" : "Hulu Kuantan",
+  "kelurahan" : "Sungai Alah",
+  "kodepos" : "29565"
+}, {
+  "kecamatan" : "Gunung Toar",
+  "kelurahan" : "Siberobah",
+  "kodepos" : "29565"
+}, {
+  "kecamatan" : "Inuman",
+  "kelurahan" : "Seberang Pulau Busuk",
+  "kodepos" : "29565"
+}, {
+  "kecamatan" : "Hulu Kuantan",
+  "kelurahan" : "Serosah/Serusa",
+  "kodepos" : "29565"
+}, {
+  "kecamatan" : "Gunung Toar",
+  "kelurahan" : "Seberang Sungai",
+  "kodepos" : "29565"
+}, {
+  "kecamatan" : "Hulu Kuantan",
+  "kelurahan" : "Sampurago",
+  "kodepos" : "29565"
+}, {
+  "kecamatan" : "Gunung Toar",
+  "kelurahan" : "Seberang Gunung",
+  "kodepos" : "29565"
+}, {
+  "kecamatan" : "Inuman",
+  "kelurahan" : "Pulau Panjang Hulu",
+  "kodepos" : "29565"
+}, {
+  "kecamatan" : "Inuman",
+  "kelurahan" : "Pulau Sipan",
+  "kodepos" : "29565"
+}, {
+  "kecamatan" : "Gunung Toar",
+  "kelurahan" : "Pulau Rumput",
+  "kodepos" : "29565"
+}, {
+  "kecamatan" : "Inuman",
+  "kelurahan" : "Pulau Panjang Hilir",
+  "kodepos" : "29565"
+}, {
+  "kecamatan" : "Gunung Toar",
+  "kelurahan" : "Pulau Mungkur",
+  "kodepos" : "29565"
+}, {
+  "kecamatan" : "Inuman",
+  "kelurahan" : "Pulau Busuk Jaya",
+  "kodepos" : "29565"
+}, {
+  "kecamatan" : "Gunung Toar",
+  "kelurahan" : "Pisang Berebus",
+  "kodepos" : "29565"
+}, {
+  "kecamatan" : "Inuman",
+  "kelurahan" : "Pulau Busuk",
+  "kodepos" : "29565"
+}, {
+  "kecamatan" : "Gunung Toar",
+  "kelurahan" : "Petapahan",
+  "kodepos" : "29565"
+}, {
+  "kecamatan" : "Inuman",
+  "kelurahan" : "Pasar Inuman",
+  "kodepos" : "29565"
+}, {
+  "kecamatan" : "Hulu Kuantan",
+  "kelurahan" : "Lubuk Ambacang",
+  "kodepos" : "29565"
+}, {
+  "kecamatan" : "Hulu Kuantan",
+  "kelurahan" : "Mudik Ulo",
+  "kodepos" : "29565"
+}, {
+  "kecamatan" : "Gunung Toar",
+  "kelurahan" : "Lubuk Terantang",
+  "kodepos" : "29565"
+}, {
+  "kecamatan" : "Hulu Kuantan",
+  "kelurahan" : "Koto Kombu",
+  "kodepos" : "29565"
+}, {
+  "kecamatan" : "Inuman",
+  "kelurahan" : "Lebuh Lurus",
+  "kodepos" : "29565"
+}, {
+  "kecamatan" : "Gunung Toar",
+  "kelurahan" : "Koto Gunung",
+  "kodepos" : "29565"
+}, {
+  "kecamatan" : "Inuman",
+  "kelurahan" : "Koto Inuman",
+  "kodepos" : "29565"
+}, {
+  "kecamatan" : "Inuman",
+  "kelurahan" : "Kampung Baru Koto",
+  "kodepos" : "29565"
+}, {
+  "kecamatan" : "Inuman",
+  "kelurahan" : "Ketaping Jaya",
+  "kodepos" : "29565"
+}, {
+  "kecamatan" : "Hulu Kuantan",
+  "kelurahan" : "Inuman",
+  "kodepos" : "29565"
+}, {
+  "kecamatan" : "Gunung Toar",
+  "kelurahan" : "Kampung Baru",
+  "kodepos" : "29565"
+}, {
+  "kecamatan" : "Gunung Toar",
+  "kelurahan" : "Gunung",
+  "kodepos" : "29565"
+}, {
+  "kecamatan" : "Inuman",
+  "kelurahan" : "Bedeng Sikuran",
+  "kodepos" : "29565"
+}, {
+  "kecamatan" : "Inuman",
+  "kelurahan" : "Banjar Nantigo",
+  "kodepos" : "29565"
+}, {
+  "kecamatan" : "Kuantan Mudik",
+  "kelurahan" : "Sungaimanau",
+  "kodepos" : "29564"
+}, {
+  "kecamatan" : "Pucuk Rantau",
+  "kelurahan" : "Sungaibesar",
+  "kodepos" : "29564"
+}, {
+  "kecamatan" : "Pucuk Rantau",
+  "kelurahan" : "Sungaibesar Hilir",
+  "kodepos" : "29564"
+}, {
+  "kecamatan" : "Pucuk Rantau",
+  "kelurahan" : "Setiang",
+  "kodepos" : "29564"
+}, {
+  "kecamatan" : "Kuantan Mudik",
+  "kelurahan" : "Seberang Cengar",
+  "kodepos" : "29564"
+}, {
+  "kecamatan" : "Kuantan Mudik",
+  "kelurahan" : "Seberang Pantai",
+  "kodepos" : "29564"
+}, {
+  "kecamatan" : "Kuantan Mudik",
+  "kelurahan" : "Saik",
+  "kodepos" : "29564"
+}, {
+  "kecamatan" : "Kuantan Mudik",
+  "kelurahan" : "Sangau",
+  "kodepos" : "29564"
+}, {
+  "kecamatan" : "Pucuk Rantau",
+  "kelurahan" : "Perhentian Sungkai",
+  "kodepos" : "29564"
+}, {
+  "kecamatan" : "Kuantan Mudik",
+  "kelurahan" : "Pulaubinjai",
+  "kodepos" : "29564"
+}, {
+  "kecamatan" : "Kuantan Mudik",
+  "kelurahan" : "Rantau Sialang",
+  "kodepos" : "29564"
+}, {
+  "kecamatan" : "Kuantan Mudik",
+  "kelurahan" : "Pebaun Hilir",
+  "kodepos" : "29564"
+}, {
+  "kecamatan" : "Kuantan Mudik",
+  "kelurahan" : "Pebaun Hulu",
+  "kodepos" : "29564"
+}, {
+  "kecamatan" : "Kuantan Mudik",
+  "kelurahan" : "Pantai",
+  "kodepos" : "29564"
+}, {
+  "kecamatan" : "Pucuk Rantau",
+  "kelurahan" : "Pangkalan",
+  "kodepos" : "29564"
+}, {
+  "kecamatan" : "Kuantan Mudik",
+  "kelurahan" : "Pasar Lubuk Jambi",
+  "kodepos" : "29564"
+}, {
+  "kecamatan" : "Kuantan Mudik",
+  "kelurahan" : "Muaro Tombang",
+  "kodepos" : "29564"
+}, {
+  "kecamatan" : "Pucuk Rantau",
+  "kelurahan" : "Muaro Tiu Makmur",
+  "kodepos" : "29564"
+}, {
+  "kecamatan" : "Pucuk Rantau",
+  "kelurahan" : "Muarapetai",
+  "kodepos" : "29564"
+}, {
+  "kecamatan" : "Pucuk Rantau",
+  "kelurahan" : "Muaratobek",
+  "kodepos" : "29564"
+}, {
+  "kecamatan" : "Kuantan Mudik",
+  "kelurahan" : "Luai",
+  "kodepos" : "29564"
+}, {
+  "kecamatan" : "Kuantan Mudik",
+  "kelurahan" : "Lubuk Ramo",
+  "kodepos" : "29564"
+}, {
+  "kecamatan" : "Kuantan Mudik",
+  "kelurahan" : "Kinali",
+  "kodepos" : "29564"
+}, {
+  "kecamatan" : "Kuantan Mudik",
+  "kelurahan" : "Koto Cengar",
+  "kodepos" : "29564"
+}, {
+  "kecamatan" : "Kuantan Mudik",
+  "kelurahan" : "Koto Lubuk Jambi",
+  "kodepos" : "29564"
+}, {
+  "kecamatan" : "Kuantan Mudik",
+  "kelurahan" : "Kasang",
+  "kodepos" : "29564"
+}, {
+  "kecamatan" : "Pucuk Rantau",
+  "kelurahan" : "Kampung Baru Ibul",
+  "kodepos" : "29564"
+}, {
+  "kecamatan" : "Kuantan Mudik",
+  "kelurahan" : "Bukitpedusunan",
+  "kodepos" : "29564"
+}, {
+  "kecamatan" : "Pucuk Rantau",
+  "kelurahan" : "Ibul",
+  "kodepos" : "29564"
+}, {
+  "kecamatan" : "Kuantan Mudik",
+  "kelurahan" : "Banjar Guntung",
+  "kodepos" : "29564"
+}, {
+  "kecamatan" : "Kuantan Mudik",
+  "kelurahan" : "Banjar Padang",
+  "kodepos" : "29564"
+}, {
+  "kecamatan" : "Kuantan Mudik",
+  "kelurahan" : "Bukit Kauman",
+  "kodepos" : "29564"
+}, {
+  "kecamatan" : "Kuantan Mudik",
+  "kelurahan" : "Aur Duri",
+  "kodepos" : "29564"
+}, {
+  "kecamatan" : "Kuantan Mudik",
+  "kelurahan" : "Air Buluh",
+  "kodepos" : "29564"
+}, {
+  "kecamatan" : "Singingi",
+  "kelurahan" : "Sungai Sirih",
+  "kodepos" : "29563"
+}, {
+  "kecamatan" : "Singingi Hilir",
+  "kelurahan" : "Tanjung Pauh",
+  "kodepos" : "29563"
+}, {
+  "kecamatan" : "Singingi",
+  "kelurahan" : "Sungai Kuning",
+  "kodepos" : "29563"
+}, {
+  "kecamatan" : "Singingi Hilir",
+  "kelurahan" : "Sungai Paku",
+  "kodepos" : "29563"
+}, {
+  "kecamatan" : "Singingi",
+  "kelurahan" : "Sungai Keranji",
+  "kodepos" : "29563"
+}, {
+  "kecamatan" : "Singingi Hilir",
+  "kelurahan" : "Sungai Buluh",
+  "kodepos" : "29563"
+}, {
+  "kecamatan" : "Singingi",
+  "kelurahan" : "Sungai Bawang",
+  "kodepos" : "29563"
+}, {
+  "kecamatan" : "Singingi Hilir",
+  "kelurahan" : "Sumber Jaya",
+  "kodepos" : "29563"
+}, {
+  "kecamatan" : "Singingi",
+  "kelurahan" : "Sumber Datar",
+  "kodepos" : "29563"
+}, {
+  "kecamatan" : "Singingi Hilir",
+  "kelurahan" : "Suka Damai",
+  "kodepos" : "29563"
+}, {
+  "kecamatan" : "Singingi Hilir",
+  "kelurahan" : "Sukamaju",
+  "kodepos" : "29563"
+}, {
+  "kecamatan" : "Singingi Hilir",
+  "kelurahan" : "Simpang Raya",
+  "kodepos" : "29563"
+}, {
+  "kecamatan" : "Singingi",
+  "kelurahan" : "Pulau Padang",
+  "kodepos" : "29563"
+}, {
+  "kecamatan" : "Singingi Hilir",
+  "kelurahan" : "Petai",
+  "kodepos" : "29563"
+}, {
+  "kecamatan" : "Singingi",
+  "kelurahan" : "Pasir Emas",
+  "kodepos" : "29563"
+}, {
+  "kecamatan" : "Singingi Hilir",
+  "kelurahan" : "Petai",
+  "kodepos" : "29563"
+}, {
+  "kecamatan" : "Singingi",
+  "kelurahan" : "Muara Lembu",
+  "kodepos" : "29563"
+}, {
+  "kecamatan" : "Singingi",
+  "kelurahan" : "Pangkalan Indarung",
+  "kodepos" : "29563"
+}, {
+  "kecamatan" : "Singingi Hilir",
+  "kelurahan" : "Muara Bahan",
+  "kodepos" : "29563"
+}, {
+  "kecamatan" : "Singingi",
+  "kelurahan" : "Logas Hilir",
+  "kodepos" : "29563"
+}, {
+  "kecamatan" : "Singingi Hilir",
+  "kelurahan" : "Koto Baru",
+  "kodepos" : "29563"
+}, {
+  "kecamatan" : "Singingi",
+  "kelurahan" : "Kebun Lado",
+  "kodepos" : "29563"
+}, {
+  "kecamatan" : "Singingi",
+  "kelurahan" : "Logas",
+  "kodepos" : "29563"
+}, {
+  "kecamatan" : "Singingi Hilir",
+  "kelurahan" : "Beringin Jaya",
+  "kodepos" : "29563"
+}, {
+  "kecamatan" : "Singingi Hilir",
+  "kelurahan" : "Bukit Raya",
+  "kodepos" : "29563"
+}, {
+  "kecamatan" : "Kuantan Hilir Seberang",
+  "kelurahan" : "Teratak Jering",
+  "kodepos" : "29561"
+}, {
+  "kecamatan" : "Singingi",
+  "kelurahan" : "Air Mas/Emas",
+  "kodepos" : "29563"
+}, {
+  "kecamatan" : "Kuantan Hilir Seberang",
+  "kelurahan" : "Tanjung",
+  "kodepos" : "29561"
+}, {
+  "kecamatan" : "Kuantan Hilir Seberang",
+  "kelurahan" : "Tanjungpisang",
+  "kodepos" : "29561"
+}, {
+  "kecamatan" : "Kuantan Hilir",
+  "kelurahan" : "Teratak Baru",
+  "kodepos" : "29561"
+}, {
+  "kecamatan" : "Kuantan Hilir Seberang",
+  "kelurahan" : "Sungaisorik",
+  "kodepos" : "29561"
+}, {
+  "kecamatan" : "Kuantan Hilir",
+  "kelurahan" : "Simpang Tanah Lapang",
+  "kodepos" : "29561"
+}, {
+  "kecamatan" : "Kuantan Hilir Seberang",
+  "kelurahan" : "Rawang Oguang",
+  "kodepos" : "29561"
+}, {
+  "kecamatan" : "Kuantan Hilir",
+  "kelurahan" : "Simpang Pulauberalo",
+  "kodepos" : "29561"
+}, {
+  "kecamatan" : "Kuantan Hilir Seberang",
+  "kelurahan" : "Pulaukulur",
+  "kodepos" : "29561"
+}, {
+  "kecamatan" : "Kuantan Hilir",
+  "kelurahan" : "Pulaumadinah",
+  "kodepos" : "29561"
+}, {
+  "kecamatan" : "Kuantan Hilir",
+  "kelurahan" : "Rawang Bonto",
+  "kodepos" : "29561"
+}, {
+  "kecamatan" : "Kuantan Hilir Seberang",
+  "kelurahan" : "Pulaubaru",
+  "kodepos" : "29561"
+}, {
+  "kecamatan" : "Kuantan Hilir Seberang",
+  "kelurahan" : "Pulauberalo",
+  "kodepos" : "29561"
+}, {
+  "kecamatan" : "Kuantan Hilir",
+  "kelurahan" : "Pulaukijang",
+  "kodepos" : "29561"
+}, {
+  "kecamatan" : "Logas Tanah Darat",
+  "kelurahan" : "Perhentian Luas",
+  "kodepos" : "29561"
+}, {
+  "kecamatan" : "Kuantan Hilir Seberang",
+  "kelurahan" : "Pelukahan",
+  "kodepos" : "29561"
+}, {
+  "kecamatan" : "Kuantan Hilir Seberang",
+  "kelurahan" : "Pengalihan",
+  "kodepos" : "29561"
+}, {
+  "kecamatan" : "Kuantan Hilir",
+  "kelurahan" : "Pasar Baru",
+  "kodepos" : "29561"
+}, {
+  "kecamatan" : "Kuantan Hilir",
+  "kelurahan" : "Pasar Usang",
+  "kodepos" : "29561"
+}, {
+  "kecamatan" : "Kuantan Hilir",
+  "kelurahan" : "Koto Tuo",
+  "kodepos" : "29561"
+}, {
+  "kecamatan" : "Kuantan Hilir Seberang",
+  "kelurahan" : "Koto Rajo",
+  "kodepos" : "29561"
+}, {
+  "kecamatan" : "Kuantan Hilir Seberang",
+  "kelurahan" : "Lumbok",
+  "kodepos" : "29561"
+}, {
+  "kecamatan" : "Kuantan Hilir",
+  "kelurahan" : "Kepala Pulau",
+  "kodepos" : "29561"
+}, {
+  "kecamatan" : "Kuantan Hilir Seberang",
+  "kelurahan" : "Kasang Limau Sundai",
+  "kodepos" : "29561"
+}, {
+  "kecamatan" : "Kuantan Hilir",
+  "kelurahan" : "Kampung Medan",
+  "kodepos" : "29561"
+}, {
+  "kecamatan" : "Kuantan Hilir",
+  "kelurahan" : "Kampung Tengah",
+  "kodepos" : "29561"
+}, {
+  "kecamatan" : "Kuantan Hilir",
+  "kelurahan" : "Dusun Tuo",
+  "kodepos" : "29561"
+}, {
+  "kecamatan" : "Kuantan Hilir",
+  "kelurahan" : "Gunungmelintang",
+  "kodepos" : "29561"
+}, {
+  "kecamatan" : "Kuantan Hilir",
+  "kelurahan" : "Kampung Madura",
+  "kodepos" : "29561"
+}, {
+  "kecamatan" : "Kuantan Hilir",
+  "kelurahan" : "Banuaran",
+  "kodepos" : "29561"
+}, {
+  "kecamatan" : "Kuantan Hilir Seberang",
+  "kelurahan" : "Danau",
+  "kodepos" : "29561"
+}, {
+  "kecamatan" : "Logas Tanah Darat",
+  "kelurahan" : "Sungai Rambai",
+  "kodepos" : "29556"
+}, {
+  "kecamatan" : "Logas Tanah Darat",
+  "kelurahan" : "Teratak Rendah",
+  "kodepos" : "29556"
+}, {
+  "kecamatan" : "Logas Tanah Darat",
+  "kelurahan" : "Situgal",
+  "kodepos" : "29556"
+}, {
+  "kecamatan" : "Logas Tanah Darat",
+  "kelurahan" : "Sukaraja",
+  "kodepos" : "29556"
+}, {
+  "kecamatan" : "Logas Tanah Darat",
+  "kelurahan" : "Sidodadi",
+  "kodepos" : "29556"
+}, {
+  "kecamatan" : "Logas Tanah Darat",
+  "kelurahan" : "Sikijang",
+  "kodepos" : "29556"
+}, {
+  "kecamatan" : "Logas Tanah Darat",
+  "kelurahan" : "Lubuk Kebun",
+  "kodepos" : "29556"
+}, {
+  "kecamatan" : "Logas Tanah Darat",
+  "kelurahan" : "Rambahan",
+  "kodepos" : "29556"
+}, {
+  "kecamatan" : "Logas Tanah Darat",
+  "kelurahan" : "Sako Margosari",
+  "kodepos" : "29556"
+}, {
+  "kecamatan" : "Logas Tanah Darat",
+  "kelurahan" : "Hulu Teso",
+  "kodepos" : "29556"
+}, {
+  "kecamatan" : "Logas Tanah Darat",
+  "kelurahan" : "Kuantan Sako",
+  "kodepos" : "29556"
+}, {
+  "kecamatan" : "Logas Tanah Darat",
+  "kelurahan" : "Logas",
+  "kodepos" : "29556"
+}, {
+  "kecamatan" : "Logas Tanah Darat",
+  "kelurahan" : "Bumi Mulya",
+  "kodepos" : "29556"
+}, {
+  "kecamatan" : "Logas Tanah Darat",
+  "kelurahan" : "Giri Sako",
+  "kodepos" : "29556"
+}, {
+  "kecamatan" : "Cerenti",
+  "kelurahan" : "Teluk Pauh",
+  "kodepos" : "29555"
+}, {
+  "kecamatan" : "Cerenti",
+  "kelurahan" : "Tanjung Medan",
+  "kodepos" : "29555"
+}, {
+  "kecamatan" : "Cerenti",
+  "kelurahan" : "Sikakak",
+  "kodepos" : "29555"
+}, {
+  "kecamatan" : "Cerenti",
+  "kelurahan" : "Pulau Panjang Cerenti",
+  "kodepos" : "29555"
+}, {
+  "kecamatan" : "Cerenti",
+  "kelurahan" : "Pulau Jambu",
+  "kodepos" : "29555"
+}, {
+  "kecamatan" : "Cerenti",
+  "kelurahan" : "Pulau Bayur",
+  "kodepos" : "29555"
+}, {
+  "kecamatan" : "Cerenti",
+  "kelurahan" : "Pesikaian/Pasikaian",
+  "kodepos" : "29555"
+}, {
+  "kecamatan" : "Cerenti",
+  "kelurahan" : "Pasar Cerenti",
+  "kodepos" : "29555"
+}, {
+  "kecamatan" : "Cerenti",
+  "kelurahan" : "Koto Cerenti",
+  "kodepos" : "29555"
+}, {
+  "kecamatan" : "Cerenti",
+  "kelurahan" : "Koto Peraku",
+  "kodepos" : "29555"
+}, {
+  "kecamatan" : "Cerenti",
+  "kelurahan" : "Kompe Berangin",
+  "kodepos" : "29555"
+}, {
+  "kecamatan" : "Cerenti",
+  "kelurahan" : "Kampung Baru",
+  "kodepos" : "29555"
+}, {
+  "kecamatan" : "Cerenti",
+  "kelurahan" : "Kampung Baru Timur",
+  "kodepos" : "29555"
+}, {
+  "kecamatan" : "Pangean",
+  "kelurahan" : "Tanah Bekali",
+  "kodepos" : "29553"
+}, {
+  "kecamatan" : "Pangean",
+  "kelurahan" : "Teluk Pauh",
+  "kodepos" : "29553"
+}, {
+  "kecamatan" : "Pangean",
+  "kelurahan" : "Sungai Langsat",
+  "kodepos" : "29553"
+}, {
+  "kecamatan" : "Pangean",
+  "kelurahan" : "Sukaping",
+  "kodepos" : "29553"
+}, {
+  "kecamatan" : "Pangean",
+  "kelurahan" : "Sako",
+  "kodepos" : "29553"
+}, {
+  "kecamatan" : "Pangean",
+  "kelurahan" : "Pulau Tengah/Tongah",
+  "kodepos" : "29553"
+}, {
+  "kecamatan" : "Pangean",
+  "kelurahan" : "Rawang Binjai",
+  "kodepos" : "29553"
+}, {
+  "kecamatan" : "Pangean",
+  "kelurahan" : "Pulau Rengas",
+  "kodepos" : "29553"
+}, {
+  "kecamatan" : "Pangean",
+  "kelurahan" : "Pulau Kumpai",
+  "kodepos" : "29553"
+}, {
+  "kecamatan" : "Pangean",
+  "kelurahan" : "Pulau Deras",
+  "kodepos" : "29553"
+}, {
+  "kecamatan" : "Pangean",
+  "kelurahan" : "Pembatang",
+  "kodepos" : "29553"
+}, {
+  "kecamatan" : "Pangean",
+  "kelurahan" : "Pauh Angit",
+  "kodepos" : "29553"
+}, {
+  "kecamatan" : "Pangean",
+  "kelurahan" : "Pauh Angit Hulu",
+  "kodepos" : "29553"
+}, {
+  "kecamatan" : "Pangean",
+  "kelurahan" : "Padang Tanggung",
+  "kodepos" : "29553"
+}, {
+  "kecamatan" : "Pangean",
+  "kelurahan" : "Pasar Baru Pangean",
+  "kodepos" : "29553"
+}, {
+  "kecamatan" : "Pangean",
+  "kelurahan" : "Padang Kunik",
+  "kodepos" : "29553"
+}, {
+  "kecamatan" : "Pangean",
+  "kelurahan" : "Koto Pangian/Pangean",
+  "kodepos" : "29553"
+}, {
+  "kecamatan" : "Kuantan Tengah",
+  "kelurahan" : "Koto Taluk",
+  "kodepos" : "29515"
+}, {
+  "kecamatan" : "Kuantan Tengah",
+  "kelurahan" : "Sungaijering",
+  "kodepos" : "29513"
+}, {
+  "kecamatan" : "Kuantan Tengah",
+  "kelurahan" : "Pulaukedundung",
+  "kodepos" : "29514"
+}, {
+  "kecamatan" : "Kuantan Tengah",
+  "kelurahan" : "Titian Modang Kopah",
+  "kodepos" : "29512"
+}, {
+  "kecamatan" : "Kuantan Tengah",
+  "kelurahan" : "Sitorajo",
+  "kodepos" : "29511"
+}, {
+  "kecamatan" : "Kuantan Tengah",
+  "kelurahan" : "Seberang Taluk Hilir",
+  "kodepos" : "29511"
+}, {
+  "kecamatan" : "Kuantan Tengah",
+  "kelurahan" : "Simpang Tiga",
+  "kodepos" : "29511"
+}, {
+  "kecamatan" : "Kuantan Tengah",
+  "kelurahan" : "Seberang Taluk",
+  "kodepos" : "29511"
+}, {
+  "kecamatan" : "Kuantan Tengah",
+  "kelurahan" : "Sawah",
+  "kodepos" : "29511"
+}, {
+  "kecamatan" : "Kuantan Tengah",
+  "kelurahan" : "Pulaugodang Kari",
+  "kodepos" : "29511"
+}, {
+  "kecamatan" : "Kuantan Tengah",
+  "kelurahan" : "Pulaubaru",
+  "kodepos" : "29511"
+}, {
+  "kecamatan" : "Kuantan Tengah",
+  "kelurahan" : "Pulaubanjar Kari",
+  "kodepos" : "29511"
+}, {
+  "kecamatan" : "Kuantan Tengah",
+  "kelurahan" : "Pulauaro",
+  "kodepos" : "29511"
+}, {
+  "kecamatan" : "Kuantan Tengah",
+  "kelurahan" : "Pasar Teluk",
+  "kodepos" : "29511"
+}, {
+  "kecamatan" : "Kuantan Tengah",
+  "kelurahan" : "Pintu Gobang",
+  "kodepos" : "29511"
+}, {
+  "kecamatan" : "Kuantan Tengah",
+  "kelurahan" : "Koto Tuo",
+  "kodepos" : "29511"
+}, {
+  "kecamatan" : "Kuantan Tengah",
+  "kelurahan" : "Munsalo",
+  "kodepos" : "29511"
+}, {
+  "kecamatan" : "Kuantan Tengah",
+  "kelurahan" : "Kopah",
+  "kodepos" : "29511"
+}, {
+  "kecamatan" : "Kuantan Tengah",
+  "kelurahan" : "Koto Kari",
+  "kodepos" : "29511"
+}, {
+  "kecamatan" : "Kuantan Tengah",
+  "kelurahan" : "Beringin Taluk",
+  "kodepos" : "29511"
+}, {
+  "kecamatan" : "Kuantan Tengah",
+  "kelurahan" : "Jake",
+  "kodepos" : "29511"
+}, {
+  "kecamatan" : "Kuantan Tengah",
+  "kelurahan" : "Jaya",
+  "kodepos" : "29511"
+}, {
+  "kecamatan" : "Kuantan Tengah",
+  "kelurahan" : "Bandar Alai",
+  "kodepos" : "29511"
+} ]

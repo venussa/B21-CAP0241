@@ -1,0 +1,833 @@
+[ {
+  "kecamatan" : "Sambirejo",
+  "kelurahan" : "Sukorejo",
+  "kodepos" : "57293"
+}, {
+  "kecamatan" : "Sambirejo",
+  "kelurahan" : "Musuk",
+  "kodepos" : "57293"
+}, {
+  "kecamatan" : "Sambirejo",
+  "kelurahan" : "Sambi",
+  "kodepos" : "57293"
+}, {
+  "kecamatan" : "Sambirejo",
+  "kelurahan" : "Sambirejo",
+  "kodepos" : "57293"
+}, {
+  "kecamatan" : "Sambirejo",
+  "kelurahan" : "Jetis",
+  "kodepos" : "57293"
+}, {
+  "kecamatan" : "Sambirejo",
+  "kelurahan" : "Kadipiro",
+  "kodepos" : "57293"
+}, {
+  "kecamatan" : "Sambirejo",
+  "kelurahan" : "Dawung",
+  "kodepos" : "57293"
+}, {
+  "kecamatan" : "Sambirejo",
+  "kelurahan" : "Jambeyan",
+  "kodepos" : "57293"
+}, {
+  "kecamatan" : "Kedawung",
+  "kelurahan" : "Wonorejo",
+  "kodepos" : "57292"
+}, {
+  "kecamatan" : "Sambirejo",
+  "kelurahan" : "Blimbing",
+  "kodepos" : "57293"
+}, {
+  "kecamatan" : "Kedawung",
+  "kelurahan" : "Mojokerto",
+  "kodepos" : "57292"
+}, {
+  "kecamatan" : "Kedawung",
+  "kelurahan" : "Pengkok",
+  "kodepos" : "57292"
+}, {
+  "kecamatan" : "Kedawung",
+  "kelurahan" : "Wonokerso",
+  "kodepos" : "57292"
+}, {
+  "kecamatan" : "Kedawung",
+  "kelurahan" : "Kedawung",
+  "kodepos" : "57292"
+}, {
+  "kecamatan" : "Kedawung",
+  "kelurahan" : "Mojodoyong",
+  "kodepos" : "57292"
+}, {
+  "kecamatan" : "Kedawung",
+  "kelurahan" : "Karang Pelem",
+  "kodepos" : "57292"
+}, {
+  "kecamatan" : "Kedawung",
+  "kelurahan" : "Celep",
+  "kodepos" : "57292"
+}, {
+  "kecamatan" : "Kedawung",
+  "kelurahan" : "Jenggrik",
+  "kodepos" : "57292"
+}, {
+  "kecamatan" : "Kedawung",
+  "kelurahan" : "Bendungan",
+  "kodepos" : "57292"
+}, {
+  "kecamatan" : "Plupuh",
+  "kelurahan" : "Sidokerto",
+  "kodepos" : "57283"
+}, {
+  "kecamatan" : "Plupuh",
+  "kelurahan" : "Somomoro Dukuh",
+  "kodepos" : "57283"
+}, {
+  "kecamatan" : "Plupuh",
+  "kelurahan" : "Plupuh",
+  "kodepos" : "57283"
+}, {
+  "kecamatan" : "Plupuh",
+  "kelurahan" : "Pungsari",
+  "kodepos" : "57283"
+}, {
+  "kecamatan" : "Plupuh",
+  "kelurahan" : "Sambirejo",
+  "kodepos" : "57283"
+}, {
+  "kecamatan" : "Plupuh",
+  "kelurahan" : "Manyarejo",
+  "kodepos" : "57283"
+}, {
+  "kecamatan" : "Plupuh",
+  "kelurahan" : "Ngrombo",
+  "kodepos" : "57283"
+}, {
+  "kecamatan" : "Plupuh",
+  "kelurahan" : "Karungan",
+  "kodepos" : "57283"
+}, {
+  "kecamatan" : "Plupuh",
+  "kelurahan" : "Karangwaru",
+  "kodepos" : "57283"
+}, {
+  "kecamatan" : "Plupuh",
+  "kelurahan" : "Karang Anyar",
+  "kodepos" : "57283"
+}, {
+  "kecamatan" : "Plupuh",
+  "kelurahan" : "Gentan Banaran",
+  "kodepos" : "57283"
+}, {
+  "kecamatan" : "Plupuh",
+  "kelurahan" : "Jabung",
+  "kodepos" : "57283"
+}, {
+  "kecamatan" : "Plupuh",
+  "kelurahan" : "Jembangan",
+  "kodepos" : "57283"
+}, {
+  "kecamatan" : "Plupuh",
+  "kelurahan" : "Dari",
+  "kodepos" : "57283"
+}, {
+  "kecamatan" : "Plupuh",
+  "kelurahan" : "Gedongan",
+  "kodepos" : "57283"
+}, {
+  "kecamatan" : "Masaran",
+  "kelurahan" : "Sidodadi",
+  "kodepos" : "57282"
+}, {
+  "kecamatan" : "Plupuh",
+  "kelurahan" : "Cangkol",
+  "kodepos" : "57283"
+}, {
+  "kecamatan" : "Masaran",
+  "kelurahan" : "Pringanom",
+  "kodepos" : "57282"
+}, {
+  "kecamatan" : "Masaran",
+  "kelurahan" : "Sepat",
+  "kodepos" : "57282"
+}, {
+  "kecamatan" : "Masaran",
+  "kelurahan" : "Masaran",
+  "kodepos" : "57282"
+}, {
+  "kecamatan" : "Masaran",
+  "kelurahan" : "Pilang",
+  "kodepos" : "57282"
+}, {
+  "kecamatan" : "Masaran",
+  "kelurahan" : "Krebet",
+  "kodepos" : "57282"
+}, {
+  "kecamatan" : "Masaran",
+  "kelurahan" : "Krikilan",
+  "kodepos" : "57282"
+}, {
+  "kecamatan" : "Masaran",
+  "kelurahan" : "Karang Malang",
+  "kodepos" : "57282"
+}, {
+  "kecamatan" : "Masaran",
+  "kelurahan" : "Kliwonan",
+  "kodepos" : "57282"
+}, {
+  "kecamatan" : "Masaran",
+  "kelurahan" : "Gebang",
+  "kodepos" : "57282"
+}, {
+  "kecamatan" : "Masaran",
+  "kelurahan" : "Jati",
+  "kodepos" : "57282"
+}, {
+  "kecamatan" : "Masaran",
+  "kelurahan" : "Jirapan",
+  "kodepos" : "57282"
+}, {
+  "kecamatan" : "Sidoharjo",
+  "kelurahan" : "Tenggak",
+  "kodepos" : "57281"
+}, {
+  "kecamatan" : "Masaran",
+  "kelurahan" : "Dawungan",
+  "kodepos" : "57282"
+}, {
+  "kecamatan" : "Sidoharjo",
+  "kelurahan" : "Sribit",
+  "kodepos" : "57281"
+}, {
+  "kecamatan" : "Sidoharjo",
+  "kelurahan" : "Taraman",
+  "kodepos" : "57281"
+}, {
+  "kecamatan" : "Sidoharjo",
+  "kelurahan" : "Sidoharjo",
+  "kodepos" : "57281"
+}, {
+  "kecamatan" : "Sidoharjo",
+  "kelurahan" : "Singopadu",
+  "kodepos" : "57281"
+}, {
+  "kecamatan" : "Sidoharjo",
+  "kelurahan" : "Patihan",
+  "kodepos" : "57281"
+}, {
+  "kecamatan" : "Sidoharjo",
+  "kelurahan" : "Purwosuman",
+  "kodepos" : "57281"
+}, {
+  "kecamatan" : "Sidoharjo",
+  "kelurahan" : "Jambanan",
+  "kodepos" : "57281"
+}, {
+  "kecamatan" : "Sidoharjo",
+  "kelurahan" : "Jetak",
+  "kodepos" : "57281"
+}, {
+  "kecamatan" : "Sidoharjo",
+  "kelurahan" : "Pandak",
+  "kodepos" : "57281"
+}, {
+  "kecamatan" : "Sidoharjo",
+  "kelurahan" : "Bentak",
+  "kodepos" : "57281"
+}, {
+  "kecamatan" : "Sidoharjo",
+  "kelurahan" : "Duyungan",
+  "kodepos" : "57281"
+}, {
+  "kecamatan" : "Tanon",
+  "kelurahan" : "Suwatu",
+  "kodepos" : "57277"
+}, {
+  "kecamatan" : "Tanon",
+  "kelurahan" : "Tanon",
+  "kodepos" : "57277"
+}, {
+  "kecamatan" : "Tanon",
+  "kelurahan" : "Slogo",
+  "kodepos" : "57277"
+}, {
+  "kecamatan" : "Tanon",
+  "kelurahan" : "Sambi Duwur",
+  "kodepos" : "57277"
+}, {
+  "kecamatan" : "Tanon",
+  "kelurahan" : "Pengkol",
+  "kodepos" : "57277"
+}, {
+  "kecamatan" : "Tanon",
+  "kelurahan" : "Ketro",
+  "kodepos" : "57277"
+}, {
+  "kecamatan" : "Tanon",
+  "kelurahan" : "Padas",
+  "kodepos" : "57277"
+}, {
+  "kecamatan" : "Tanon",
+  "kelurahan" : "Karang Talun",
+  "kodepos" : "57277"
+}, {
+  "kecamatan" : "Tanon",
+  "kelurahan" : "Karangasem",
+  "kodepos" : "57277"
+}, {
+  "kecamatan" : "Tanon",
+  "kelurahan" : "Kecik",
+  "kodepos" : "57277"
+}, {
+  "kecamatan" : "Tanon",
+  "kelurahan" : "Jono",
+  "kodepos" : "57277"
+}, {
+  "kecamatan" : "Tanon",
+  "kelurahan" : "Kalikobok",
+  "kodepos" : "57277"
+}, {
+  "kecamatan" : "Tanon",
+  "kelurahan" : "Gading",
+  "kodepos" : "57277"
+}, {
+  "kecamatan" : "Tanon",
+  "kelurahan" : "Gawan",
+  "kodepos" : "57277"
+}, {
+  "kecamatan" : "Tanon",
+  "kelurahan" : "Bonagung",
+  "kodepos" : "57277"
+}, {
+  "kecamatan" : "Tanon",
+  "kelurahan" : "Gabugan",
+  "kodepos" : "57277"
+}, {
+  "kecamatan" : "Miri",
+  "kelurahan" : "Soko",
+  "kodepos" : "57276"
+}, {
+  "kecamatan" : "Miri",
+  "kelurahan" : "Sunggingan",
+  "kodepos" : "57276"
+}, {
+  "kecamatan" : "Miri",
+  "kelurahan" : "Girimargo",
+  "kodepos" : "57276"
+}, {
+  "kecamatan" : "Miri",
+  "kelurahan" : "Girimargo",
+  "kodepos" : "57276"
+}, {
+  "kecamatan" : "Miri",
+  "kelurahan" : "Gilirejo",
+  "kodepos" : "57276"
+}, {
+  "kecamatan" : "Miri",
+  "kelurahan" : "Gilirejo Baru",
+  "kodepos" : "57276"
+}, {
+  "kecamatan" : "Miri",
+  "kelurahan" : "Brojol",
+  "kodepos" : "57276"
+}, {
+  "kecamatan" : "Miri",
+  "kelurahan" : "Doyong",
+  "kodepos" : "57276"
+}, {
+  "kecamatan" : "Miri",
+  "kelurahan" : "Geneng",
+  "kodepos" : "57276"
+}, {
+  "kecamatan" : "Miri",
+  "kelurahan" : "Bagor",
+  "kodepos" : "57276"
+}, {
+  "kecamatan" : "Kalijambe",
+  "kelurahan" : "Trobayan",
+  "kodepos" : "57275"
+}, {
+  "kecamatan" : "Kalijambe",
+  "kelurahan" : "Wonorejo",
+  "kodepos" : "57275"
+}, {
+  "kecamatan" : "Kalijambe",
+  "kelurahan" : "Saren",
+  "kodepos" : "57275"
+}, {
+  "kecamatan" : "Kalijambe",
+  "kelurahan" : "Tegalombo",
+  "kodepos" : "57275"
+}, {
+  "kecamatan" : "Kalijambe",
+  "kelurahan" : "Krikilan",
+  "kodepos" : "57275"
+}, {
+  "kecamatan" : "Kalijambe",
+  "kelurahan" : "Ngebung",
+  "kodepos" : "57275"
+}, {
+  "kecamatan" : "Kalijambe",
+  "kelurahan" : "Samberembe",
+  "kodepos" : "57275"
+}, {
+  "kecamatan" : "Kalijambe",
+  "kelurahan" : "Keden",
+  "kodepos" : "57275"
+}, {
+  "kecamatan" : "Kalijambe",
+  "kelurahan" : "Karangjati",
+  "kodepos" : "57275"
+}, {
+  "kecamatan" : "Kalijambe",
+  "kelurahan" : "Jetis Karangpung",
+  "kodepos" : "57275"
+}, {
+  "kecamatan" : "Kalijambe",
+  "kelurahan" : "Kalimacan",
+  "kodepos" : "57275"
+}, {
+  "kecamatan" : "Kalijambe",
+  "kelurahan" : "Bukuran",
+  "kodepos" : "57275"
+}, {
+  "kecamatan" : "Kalijambe",
+  "kelurahan" : "Donoyudan",
+  "kodepos" : "57275"
+}, {
+  "kecamatan" : "Gemolong",
+  "kelurahan" : "Tegaldowo",
+  "kodepos" : "57274"
+}, {
+  "kecamatan" : "Kalijambe",
+  "kelurahan" : "Banaran",
+  "kodepos" : "57275"
+}, {
+  "kecamatan" : "Gemolong",
+  "kelurahan" : "Peleman",
+  "kodepos" : "57274"
+}, {
+  "kecamatan" : "Gemolong",
+  "kelurahan" : "Purworejo",
+  "kodepos" : "57274"
+}, {
+  "kecamatan" : "Gemolong",
+  "kelurahan" : "Nganti",
+  "kodepos" : "57274"
+}, {
+  "kecamatan" : "Gemolong",
+  "kelurahan" : "Ngembat Padas",
+  "kodepos" : "57274"
+}, {
+  "kecamatan" : "Gemolong",
+  "kelurahan" : "Kaloran",
+  "kodepos" : "57274"
+}, {
+  "kecamatan" : "Gemolong",
+  "kelurahan" : "Kragilan",
+  "kodepos" : "57274"
+}, {
+  "kecamatan" : "Gemolong",
+  "kelurahan" : "Kwangen",
+  "kodepos" : "57274"
+}, {
+  "kecamatan" : "Gemolong",
+  "kelurahan" : "Kalangan",
+  "kodepos" : "57274"
+}, {
+  "kecamatan" : "Gemolong",
+  "kelurahan" : "Jatibatur",
+  "kodepos" : "57274"
+}, {
+  "kecamatan" : "Gemolong",
+  "kelurahan" : "Jenalas",
+  "kodepos" : "57274"
+}, {
+  "kecamatan" : "Gemolong",
+  "kelurahan" : "Gemolong",
+  "kodepos" : "57274"
+}, {
+  "kecamatan" : "Gemolong",
+  "kelurahan" : "Geneng Duwur",
+  "kodepos" : "57274"
+}, {
+  "kecamatan" : "Gemolong",
+  "kelurahan" : "Brangkal",
+  "kodepos" : "57274"
+}, {
+  "kecamatan" : "Sumberlawang",
+  "kelurahan" : "Pendem",
+  "kodepos" : "57272"
+}, {
+  "kecamatan" : "Sumberlawang",
+  "kelurahan" : "Tlogo Tirto",
+  "kodepos" : "57272"
+}, {
+  "kecamatan" : "Sumberlawang",
+  "kelurahan" : "Ngargotirto",
+  "kodepos" : "57272"
+}, {
+  "kecamatan" : "Sumberlawang",
+  "kelurahan" : "Pagak",
+  "kodepos" : "57272"
+}, {
+  "kecamatan" : "Sumberlawang",
+  "kelurahan" : "Mojopuro",
+  "kodepos" : "57272"
+}, {
+  "kecamatan" : "Sumberlawang",
+  "kelurahan" : "Ngandul",
+  "kodepos" : "57272"
+}, {
+  "kecamatan" : "Sumberlawang",
+  "kelurahan" : "Ngargosari",
+  "kodepos" : "57272"
+}, {
+  "kecamatan" : "Sumberlawang",
+  "kelurahan" : "Hadiluwih",
+  "kodepos" : "57272"
+}, {
+  "kecamatan" : "Sumberlawang",
+  "kelurahan" : "Jati",
+  "kodepos" : "57272"
+}, {
+  "kecamatan" : "Sumberlawang",
+  "kelurahan" : "Kacangan",
+  "kodepos" : "57272"
+}, {
+  "kecamatan" : "Mondokan",
+  "kelurahan" : "Trombol",
+  "kodepos" : "57271"
+}, {
+  "kecamatan" : "Sumberlawang",
+  "kelurahan" : "Cepoko",
+  "kodepos" : "57272"
+}, {
+  "kecamatan" : "Mondokan",
+  "kelurahan" : "Tempelrejo",
+  "kodepos" : "57271"
+}, {
+  "kecamatan" : "Mondokan",
+  "kelurahan" : "Sumberejo",
+  "kodepos" : "57271"
+}, {
+  "kecamatan" : "Mondokan",
+  "kelurahan" : "Pare",
+  "kodepos" : "57271"
+}, {
+  "kecamatan" : "Mondokan",
+  "kelurahan" : "Sono",
+  "kodepos" : "57271"
+}, {
+  "kecamatan" : "Mondokan",
+  "kelurahan" : "Jekani",
+  "kodepos" : "57271"
+}, {
+  "kecamatan" : "Mondokan",
+  "kelurahan" : "Kedawung",
+  "kodepos" : "57271"
+}, {
+  "kecamatan" : "Mondokan",
+  "kelurahan" : "Gemantar",
+  "kodepos" : "57271"
+}, {
+  "kecamatan" : "Mondokan",
+  "kelurahan" : "Jambangan",
+  "kodepos" : "57271"
+}, {
+  "kecamatan" : "Sukodono",
+  "kelurahan" : "Pantirejo",
+  "kodepos" : "57263"
+}, {
+  "kecamatan" : "Sukodono",
+  "kelurahan" : "Majenang",
+  "kodepos" : "57263"
+}, {
+  "kecamatan" : "Sukodono",
+  "kelurahan" : "Newung",
+  "kodepos" : "57263"
+}, {
+  "kecamatan" : "Sukodono",
+  "kelurahan" : "Jati Tengah",
+  "kodepos" : "57263"
+}, {
+  "kecamatan" : "Sukodono",
+  "kelurahan" : "Juwok",
+  "kodepos" : "57263"
+}, {
+  "kecamatan" : "Sukodono",
+  "kelurahan" : "Karang Anom",
+  "kodepos" : "57263"
+}, {
+  "kecamatan" : "Sukodono",
+  "kelurahan" : "Bendo",
+  "kodepos" : "57263"
+}, {
+  "kecamatan" : "Sukodono",
+  "kelurahan" : "Gebang",
+  "kodepos" : "57263"
+}, {
+  "kecamatan" : "Sukodono",
+  "kelurahan" : "Baleharjo",
+  "kodepos" : "57263"
+}, {
+  "kecamatan" : "Gesi",
+  "kelurahan" : "Tanggan",
+  "kodepos" : "57262"
+}, {
+  "kecamatan" : "Gesi",
+  "kelurahan" : "Srawung",
+  "kodepos" : "57262"
+}, {
+  "kecamatan" : "Gesi",
+  "kelurahan" : "Pilangsari",
+  "kodepos" : "57262"
+}, {
+  "kecamatan" : "Gesi",
+  "kelurahan" : "Poleng",
+  "kodepos" : "57262"
+}, {
+  "kecamatan" : "Gesi",
+  "kelurahan" : "Slendro",
+  "kodepos" : "57262"
+}, {
+  "kecamatan" : "Gesi",
+  "kelurahan" : "Blangu",
+  "kodepos" : "57262"
+}, {
+  "kecamatan" : "Gesi",
+  "kelurahan" : "Gesi",
+  "kodepos" : "57262"
+}, {
+  "kecamatan" : "Tangen",
+  "kelurahan" : "Sigit",
+  "kodepos" : "57261"
+}, {
+  "kecamatan" : "Tangen",
+  "kelurahan" : "Katelan",
+  "kodepos" : "57261"
+}, {
+  "kecamatan" : "Tangen",
+  "kelurahan" : "Ngrombo",
+  "kodepos" : "57261"
+}, {
+  "kecamatan" : "Tangen",
+  "kelurahan" : "Jekawal",
+  "kodepos" : "57261"
+}, {
+  "kecamatan" : "Tangen",
+  "kelurahan" : "Galeh",
+  "kodepos" : "57261"
+}, {
+  "kecamatan" : "Tangen",
+  "kelurahan" : "Denanyar",
+  "kodepos" : "57261"
+}, {
+  "kecamatan" : "Tangen",
+  "kelurahan" : "Dukuh",
+  "kodepos" : "57261"
+}, {
+  "kecamatan" : "Jenar",
+  "kelurahan" : "Ngepringan",
+  "kodepos" : "57256"
+}, {
+  "kecamatan" : "Jenar",
+  "kelurahan" : "Mlale",
+  "kodepos" : "57256"
+}, {
+  "kecamatan" : "Jenar",
+  "kelurahan" : "Mlale",
+  "kodepos" : "57256"
+}, {
+  "kecamatan" : "Jenar",
+  "kelurahan" : "Jenar",
+  "kodepos" : "57256"
+}, {
+  "kecamatan" : "Jenar",
+  "kelurahan" : "Japoh",
+  "kodepos" : "57256"
+}, {
+  "kecamatan" : "Jenar",
+  "kelurahan" : "Banyuurip",
+  "kodepos" : "57256"
+}, {
+  "kecamatan" : "Jenar",
+  "kelurahan" : "Dawung",
+  "kodepos" : "57256"
+}, {
+  "kecamatan" : "Gondang",
+  "kelurahan" : "Tunggul",
+  "kodepos" : "57254"
+}, {
+  "kecamatan" : "Gondang",
+  "kelurahan" : "Wonotolo",
+  "kodepos" : "57254"
+}, {
+  "kecamatan" : "Gondang",
+  "kelurahan" : "Srimulyo",
+  "kodepos" : "57254"
+}, {
+  "kecamatan" : "Gondang",
+  "kelurahan" : "Tegalrejo",
+  "kodepos" : "57254"
+}, {
+  "kecamatan" : "Gondang",
+  "kelurahan" : "Kaliwedi",
+  "kodepos" : "57254"
+}, {
+  "kecamatan" : "Gondang",
+  "kelurahan" : "Plosorejo",
+  "kodepos" : "57254"
+}, {
+  "kecamatan" : "Gondang",
+  "kelurahan" : "Glonggong",
+  "kodepos" : "57254"
+}, {
+  "kecamatan" : "Gondang",
+  "kelurahan" : "Gondang",
+  "kodepos" : "57254"
+}, {
+  "kecamatan" : "Gondang",
+  "kelurahan" : "Bumiaji",
+  "kodepos" : "57254"
+}, {
+  "kecamatan" : "Sambung Macan",
+  "kelurahan" : "Sambungmacan",
+  "kodepos" : "57253"
+}, {
+  "kecamatan" : "Sambung Macan",
+  "kelurahan" : "Toyogo",
+  "kodepos" : "57253"
+}, {
+  "kecamatan" : "Sambung Macan",
+  "kelurahan" : "Plumbon",
+  "kodepos" : "57253"
+}, {
+  "kecamatan" : "Sambung Macan",
+  "kelurahan" : "Gringging",
+  "kodepos" : "57253"
+}, {
+  "kecamatan" : "Sambung Macan",
+  "kelurahan" : "Karanganyar",
+  "kodepos" : "57253"
+}, {
+  "kecamatan" : "Sambung Macan",
+  "kelurahan" : "Banyuurip",
+  "kodepos" : "57253"
+}, {
+  "kecamatan" : "Sambung Macan",
+  "kelurahan" : "Bedoro",
+  "kodepos" : "57253"
+}, {
+  "kecamatan" : "Sambung Macan",
+  "kelurahan" : "Cemeng",
+  "kodepos" : "57253"
+}, {
+  "kecamatan" : "Sambung Macan",
+  "kelurahan" : "Banaran",
+  "kodepos" : "57253"
+}, {
+  "kecamatan" : "Ngrampal",
+  "kelurahan" : "Pilangsari",
+  "kodepos" : "57252"
+}, {
+  "kecamatan" : "Ngrampal",
+  "kelurahan" : "Ngarum",
+  "kodepos" : "57252"
+}, {
+  "kecamatan" : "Ngrampal",
+  "kelurahan" : "Kebonromo",
+  "kodepos" : "57252"
+}, {
+  "kecamatan" : "Ngrampal",
+  "kelurahan" : "Klandungan",
+  "kodepos" : "57252"
+}, {
+  "kecamatan" : "Ngrampal",
+  "kelurahan" : "Gabus",
+  "kodepos" : "57252"
+}, {
+  "kecamatan" : "Ngrampal",
+  "kelurahan" : "Karangudi",
+  "kodepos" : "57252"
+}, {
+  "kecamatan" : "Ngrampal",
+  "kelurahan" : "Bener",
+  "kodepos" : "57252"
+}, {
+  "kecamatan" : "Ngrampal",
+  "kelurahan" : "Bandung",
+  "kodepos" : "57252"
+}, {
+  "kecamatan" : "Karangmalang",
+  "kelurahan" : "Saradan",
+  "kodepos" : "57222"
+}, {
+  "kecamatan" : "Karangmalang",
+  "kelurahan" : "Puro",
+  "kodepos" : "57222"
+}, {
+  "kecamatan" : "Karangmalang",
+  "kelurahan" : "Plumbungan",
+  "kodepos" : "57222"
+}, {
+  "kecamatan" : "Karangmalang",
+  "kelurahan" : "Plosokerep",
+  "kodepos" : "57222"
+}, {
+  "kecamatan" : "Karangmalang",
+  "kelurahan" : "Pelem Gadung",
+  "kodepos" : "57222"
+}, {
+  "kecamatan" : "Karangmalang",
+  "kelurahan" : "Mojorejo",
+  "kodepos" : "57222"
+}, {
+  "kecamatan" : "Karangmalang",
+  "kelurahan" : "Kedung Waduk",
+  "kodepos" : "57222"
+}, {
+  "kecamatan" : "Karangmalang",
+  "kelurahan" : "Guworejo",
+  "kodepos" : "57222"
+}, {
+  "kecamatan" : "Karangmalang",
+  "kelurahan" : "Jurangjero",
+  "kodepos" : "57222"
+}, {
+  "kecamatan" : "Karangmalang",
+  "kelurahan" : "Kroyo",
+  "kodepos" : "57221"
+}, {
+  "kecamatan" : "Sragen",
+  "kelurahan" : "Karang Tengah",
+  "kodepos" : "57216"
+}, {
+  "kecamatan" : "Sragen",
+  "kelurahan" : "Sragen Wetan",
+  "kodepos" : "57214"
+}, {
+  "kecamatan" : "Sragen",
+  "kelurahan" : "Nglorog",
+  "kodepos" : "57215"
+}, {
+  "kecamatan" : "Sragen",
+  "kelurahan" : "Sine",
+  "kodepos" : "57213"
+}, {
+  "kecamatan" : "Sragen",
+  "kelurahan" : "Sragen Kulon",
+  "kodepos" : "57212"
+}, {
+  "kecamatan" : "Sragen",
+  "kelurahan" : "Tangkil",
+  "kodepos" : "57211"
+}, {
+  "kecamatan" : "Sragen",
+  "kelurahan" : "Sragen Tengah",
+  "kodepos" : "57211"
+}, {
+  "kecamatan" : "Sragen",
+  "kelurahan" : "Kedungupit",
+  "kodepos" : "57211"
+} ]

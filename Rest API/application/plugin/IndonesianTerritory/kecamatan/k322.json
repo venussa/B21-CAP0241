@@ -1,0 +1,485 @@
+[ {
+  "kecamatan" : "Batanta Utara",
+  "kelurahan" : "Yensawai Timur",
+  "kodepos" : "98484"
+}, {
+  "kecamatan" : "Salawati Utara (Samate)",
+  "kelurahan" : "Wamega",
+  "kodepos" : "98484"
+}, {
+  "kecamatan" : "Batanta Selatan",
+  "kelurahan" : "Yenanas",
+  "kodepos" : "98484"
+}, {
+  "kecamatan" : "Batanta Utara",
+  "kelurahan" : "Yensawai Barat",
+  "kodepos" : "98484"
+}, {
+  "kecamatan" : "Salawati Tengah",
+  "kelurahan" : "Waimeci",
+  "kodepos" : "98484"
+}, {
+  "kecamatan" : "Batanta Selatan",
+  "kelurahan" : "Waiman",
+  "kodepos" : "98484"
+}, {
+  "kecamatan" : "Salawati Tengah",
+  "kelurahan" : "Wailen",
+  "kodepos" : "98484"
+}, {
+  "kecamatan" : "Salawati Tengah",
+  "kelurahan" : "Wailen",
+  "kodepos" : "98484"
+}, {
+  "kecamatan" : "Salawati Tengah",
+  "kelurahan" : "Waijan",
+  "kodepos" : "98484"
+}, {
+  "kecamatan" : "Salawati Tengah",
+  "kelurahan" : "Wailabu",
+  "kodepos" : "98484"
+}, {
+  "kecamatan" : "Salawati Utara (Samate)",
+  "kelurahan" : "Waidim",
+  "kodepos" : "98484"
+}, {
+  "kecamatan" : "Salawati Barat",
+  "kelurahan" : "Waibon",
+  "kodepos" : "98484"
+}, {
+  "kecamatan" : "Salawati Tengah",
+  "kelurahan" : "Waibu",
+  "kodepos" : "98484"
+}, {
+  "kecamatan" : "Salawati Barat",
+  "kelurahan" : "Solol",
+  "kodepos" : "98484"
+}, {
+  "kecamatan" : "Salawati Utara (Samate)",
+  "kelurahan" : "Samate",
+  "kodepos" : "98484"
+}, {
+  "kecamatan" : "Salawati Tengah",
+  "kelurahan" : "Sakabu",
+  "kodepos" : "98484"
+}, {
+  "kecamatan" : "Salawati Utara (Samate)",
+  "kelurahan" : "Kapatlap",
+  "kodepos" : "98484"
+}, {
+  "kecamatan" : "Salawati Barat",
+  "kelurahan" : "Kalwal",
+  "kodepos" : "98484"
+}, {
+  "kecamatan" : "Salawati Tengah",
+  "kelurahan" : "Kalobo",
+  "kodepos" : "98484"
+}, {
+  "kecamatan" : "Salawati Barat",
+  "kelurahan" : "Kaliam",
+  "kodepos" : "98484"
+}, {
+  "kecamatan" : "Salawati Utara (Samate)",
+  "kelurahan" : "Jefman Barat",
+  "kodepos" : "98484"
+}, {
+  "kecamatan" : "Salawati Utara (Samate)",
+  "kelurahan" : "Jefman Timur",
+  "kodepos" : "98484"
+}, {
+  "kecamatan" : "Batanta Utara",
+  "kelurahan" : "Arefi Timur",
+  "kodepos" : "98484"
+}, {
+  "kecamatan" : "Batanta Selatan",
+  "kelurahan" : "Amdui",
+  "kodepos" : "98484"
+}, {
+  "kecamatan" : "Batanta Utara",
+  "kelurahan" : "Arefi Selatan",
+  "kodepos" : "98484"
+}, {
+  "kecamatan" : "Misool Selatan",
+  "kelurahan" : "Yellu",
+  "kodepos" : "98483"
+}, {
+  "kecamatan" : "Kepulauan Sembilan",
+  "kelurahan" : "Wejim Barat",
+  "kodepos" : "98483"
+}, {
+  "kecamatan" : "Kepulauan Sembilan",
+  "kelurahan" : "Wejim Timur",
+  "kodepos" : "98483"
+}, {
+  "kecamatan" : "Misool Timur",
+  "kelurahan" : "Usaha Jaya",
+  "kodepos" : "98483"
+}, {
+  "kecamatan" : "Misool (Misool Utara)",
+  "kelurahan" : "Wejim",
+  "kodepos" : "98483"
+}, {
+  "kecamatan" : "Misool Selatan",
+  "kelurahan" : "Usaha Jaya",
+  "kodepos" : "98483"
+}, {
+  "kecamatan" : "Misool Timur",
+  "kelurahan" : "Tomolol",
+  "kodepos" : "98483"
+}, {
+  "kecamatan" : "Misool (Misool Utara)",
+  "kelurahan" : "Tomolol",
+  "kodepos" : "98483"
+}, {
+  "kecamatan" : "Kofiau",
+  "kelurahan" : "Tolabi (Tolobi)",
+  "kodepos" : "98483"
+}, {
+  "kecamatan" : "Kepulauan Sembilan",
+  "kelurahan" : "Satukurano",
+  "kodepos" : "98483"
+}, {
+  "kecamatan" : "Misool (Misool Utara)",
+  "kelurahan" : "Satukorano (Sato Kurana)",
+  "kodepos" : "98483"
+}, {
+  "kecamatan" : "Kepulauan Sembilan",
+  "kelurahan" : "Pulau Tikus",
+  "kodepos" : "98483"
+}, {
+  "kecamatan" : "Kofiau",
+  "kelurahan" : "Mikiran",
+  "kodepos" : "98483"
+}, {
+  "kecamatan" : "Misool Barat",
+  "kelurahan" : "Magey",
+  "kodepos" : "98483"
+}, {
+  "kecamatan" : "Misool Timur",
+  "kelurahan" : "Limalas Barat",
+  "kodepos" : "98483"
+}, {
+  "kecamatan" : "Misool Timur",
+  "kelurahan" : "Limalas Timur",
+  "kodepos" : "98483"
+}, {
+  "kecamatan" : "Misool (Misool Utara)",
+  "kelurahan" : "Lenmalas",
+  "kodepos" : "98483"
+}, {
+  "kecamatan" : "Misool Barat",
+  "kelurahan" : "Kapatcol",
+  "kodepos" : "98483"
+}, {
+  "kecamatan" : "Misool Barat",
+  "kelurahan" : "Lilinta",
+  "kodepos" : "98483"
+}, {
+  "kecamatan" : "Misool Selatan",
+  "kelurahan" : "Harapan Jaya",
+  "kodepos" : "98483"
+}, {
+  "kecamatan" : "Misool Barat",
+  "kelurahan" : "Gamta",
+  "kodepos" : "98483"
+}, {
+  "kecamatan" : "Misool Timur",
+  "kelurahan" : "Folley",
+  "kodepos" : "98483"
+}, {
+  "kecamatan" : "Misool (Misool Utara)",
+  "kelurahan" : "Folley",
+  "kodepos" : "98483"
+}, {
+  "kecamatan" : "Misool Selatan",
+  "kelurahan" : "Fafanlap",
+  "kodepos" : "98483"
+}, {
+  "kecamatan" : "Kofiau",
+  "kelurahan" : "Dibalal",
+  "kodepos" : "98483"
+}, {
+  "kecamatan" : "Misool Selatan",
+  "kelurahan" : "Dabatan",
+  "kodepos" : "98483"
+}, {
+  "kecamatan" : "Kofiau",
+  "kelurahan" : "Deer",
+  "kodepos" : "98483"
+}, {
+  "kecamatan" : "Misool Barat",
+  "kelurahan" : "Biga",
+  "kodepos" : "98483"
+}, {
+  "kecamatan" : "Kofiau",
+  "kelurahan" : "Awat",
+  "kodepos" : "98483"
+}, {
+  "kecamatan" : "Misool Timur",
+  "kelurahan" : "Audam",
+  "kodepos" : "98483"
+}, {
+  "kecamatan" : "Waigeo Timur",
+  "kelurahan" : "Yensener (Yesner)",
+  "kodepos" : "98482"
+}, {
+  "kecamatan" : "Meos Mansar",
+  "kelurahan" : "Yenwaupnoor (Yenwaupnor)",
+  "kodepos" : "98482"
+}, {
+  "kecamatan" : "Meos Mansar",
+  "kelurahan" : "Yenbuba",
+  "kodepos" : "98482"
+}, {
+  "kecamatan" : "Waigeo Selatan",
+  "kelurahan" : "Yenbeser",
+  "kodepos" : "98482"
+}, {
+  "kecamatan" : "Meos Mansar",
+  "kelurahan" : "Yembekwan",
+  "kodepos" : "98482"
+}, {
+  "kecamatan" : "Waigeo Timur",
+  "kelurahan" : "Yembekaki",
+  "kodepos" : "98482"
+}, {
+  "kecamatan" : "Kota Waisai",
+  "kelurahan" : "Warmasen",
+  "kodepos" : "98482"
+}, {
+  "kecamatan" : "Waigeo Selatan",
+  "kelurahan" : "Wawiyai",
+  "kodepos" : "98482"
+}, {
+  "kecamatan" : "Teluk Mayalibit",
+  "kelurahan" : "Warsamdin",
+  "kodepos" : "98482"
+}, {
+  "kecamatan" : "Kota Waisai",
+  "kelurahan" : "Waisai",
+  "kodepos" : "98482"
+}, {
+  "kecamatan" : "Tiplol Mayalibit",
+  "kelurahan" : "Warimak",
+  "kodepos" : "98482"
+}, {
+  "kecamatan" : "Tiplol Mayalibit",
+  "kelurahan" : "Waifoi",
+  "kodepos" : "98482"
+}, {
+  "kecamatan" : "Waigeo Timur",
+  "kelurahan" : "Urbinasopen",
+  "kodepos" : "98482"
+}, {
+  "kecamatan" : "Meos Mansar",
+  "kelurahan" : "Sawandarek",
+  "kodepos" : "98482"
+}, {
+  "kecamatan" : "Meos Mansar",
+  "kelurahan" : "Sawinggrai",
+  "kodepos" : "98482"
+}, {
+  "kecamatan" : "Waigeo Selatan",
+  "kelurahan" : "Saporkren",
+  "kodepos" : "98482"
+}, {
+  "kecamatan" : "Kota Waisai",
+  "kelurahan" : "Sapordanco",
+  "kodepos" : "98482"
+}, {
+  "kecamatan" : "Waigeo Timur",
+  "kelurahan" : "Puper",
+  "kodepos" : "98482"
+}, {
+  "kecamatan" : "Waigeo Selatan",
+  "kelurahan" : "Saonek",
+  "kodepos" : "98482"
+}, {
+  "kecamatan" : "Teluk Mayalibit",
+  "kelurahan" : "Mumes",
+  "kodepos" : "98482"
+}, {
+  "kecamatan" : "Teluk Mayalibit",
+  "kelurahan" : "Lopintol",
+  "kodepos" : "98482"
+}, {
+  "kecamatan" : "Meos Mansar",
+  "kelurahan" : "Kurkapa",
+  "kodepos" : "98482"
+}, {
+  "kecamatan" : "Teluk Mayalibit",
+  "kelurahan" : "Kalitoko",
+  "kodepos" : "98482"
+}, {
+  "kecamatan" : "Meos Mansar",
+  "kelurahan" : "Kapisawar",
+  "kodepos" : "98482"
+}, {
+  "kecamatan" : "Tiplol Mayalibit",
+  "kelurahan" : "Kabilol",
+  "kodepos" : "98482"
+}, {
+  "kecamatan" : "Meos Mansar",
+  "kelurahan" : "Kabuy (Kabui)",
+  "kodepos" : "98482"
+}, {
+  "kecamatan" : "Tiplol Mayalibit",
+  "kelurahan" : "Go",
+  "kodepos" : "98482"
+}, {
+  "kecamatan" : "Waigeo Selatan",
+  "kelurahan" : "Friwen",
+  "kodepos" : "98482"
+}, {
+  "kecamatan" : "Kota Waisai",
+  "kelurahan" : "Bonwakir",
+  "kodepos" : "98482"
+}, {
+  "kecamatan" : "Tiplol Mayalibit",
+  "kelurahan" : "Arway",
+  "kodepos" : "98482"
+}, {
+  "kecamatan" : "Tiplol Mayalibit",
+  "kelurahan" : "Beo",
+  "kodepos" : "98482"
+}, {
+  "kecamatan" : "Meos Mansar",
+  "kelurahan" : "Arborek",
+  "kodepos" : "98482"
+}, {
+  "kecamatan" : "Warwabomi",
+  "kelurahan" : "Warmanai",
+  "kodepos" : "98481"
+}, {
+  "kecamatan" : "Kepulauan Ayau",
+  "kelurahan" : "Yenkawir",
+  "kodepos" : "98481"
+}, {
+  "kecamatan" : "Warwabomi",
+  "kelurahan" : "Warkori",
+  "kodepos" : "98481"
+}, {
+  "kecamatan" : "Waigeo Barat",
+  "kelurahan" : "Waisilip",
+  "kodepos" : "98481"
+}, {
+  "kecamatan" : "Waigeo Barat Kepulauan",
+  "kelurahan" : "Saupapir",
+  "kodepos" : "98481"
+}, {
+  "kecamatan" : "Supnin",
+  "kelurahan" : "Urai",
+  "kodepos" : "98481"
+}, {
+  "kecamatan" : "Waigeo Barat",
+  "kelurahan" : "Selpele",
+  "kodepos" : "98481"
+}, {
+  "kecamatan" : "Waigeo Barat Kepulauan",
+  "kelurahan" : "Saukabu",
+  "kodepos" : "98481"
+}, {
+  "kecamatan" : "Waigeo Barat",
+  "kelurahan" : "Saleo",
+  "kodepos" : "98481"
+}, {
+  "kecamatan" : "Ayau",
+  "kelurahan" : "Rutum",
+  "kodepos" : "98481"
+}, {
+  "kecamatan" : "Kepulauan Ayau",
+  "kelurahan" : "Rutum",
+  "kodepos" : "98481"
+}, {
+  "kecamatan" : "Ayau",
+  "kelurahan" : "Reni",
+  "kodepos" : "98481"
+}, {
+  "kecamatan" : "Kepulauan Ayau",
+  "kelurahan" : "Reni",
+  "kodepos" : "98481"
+}, {
+  "kecamatan" : "Supnin",
+  "kelurahan" : "Rauki",
+  "kodepos" : "98481"
+}, {
+  "kecamatan" : "Waigeo Barat Kepulauan",
+  "kelurahan" : "Pam",
+  "kodepos" : "98481"
+}, {
+  "kecamatan" : "Warwabomi",
+  "kelurahan" : "Mnier",
+  "kodepos" : "98481"
+}, {
+  "kecamatan" : "Waigeo Barat",
+  "kelurahan" : "Mutus",
+  "kodepos" : "98481"
+}, {
+  "kecamatan" : "Ayau",
+  "kelurahan" : "Meosbekwan",
+  "kodepos" : "98481"
+}, {
+  "kecamatan" : "Kepulauan Ayau",
+  "kelurahan" : "Meosbekwan",
+  "kodepos" : "98481"
+}, {
+  "kecamatan" : "Waigeo Barat Kepulauan",
+  "kelurahan" : "Meosmanggara",
+  "kodepos" : "98481"
+}, {
+  "kecamatan" : "Waigeo Barat Kepulauan",
+  "kelurahan" : "Manyaifun",
+  "kodepos" : "98481"
+}, {
+  "kecamatan" : "Waigeo Utara",
+  "kelurahan" : "Kalisade",
+  "kodepos" : "98481"
+}, {
+  "kecamatan" : "Supnin",
+  "kelurahan" : "Kapadiri",
+  "kodepos" : "98481"
+}, {
+  "kecamatan" : "Waigeo Utara",
+  "kelurahan" : "Kabare",
+  "kodepos" : "98481"
+}, {
+  "kecamatan" : "Waigeo Barat Kepulauan",
+  "kelurahan" : "Gag",
+  "kodepos" : "98481"
+}, {
+  "kecamatan" : "Supnin",
+  "kelurahan" : "Duber",
+  "kodepos" : "98481"
+}, {
+  "kecamatan" : "Kepulauan Ayau",
+  "kelurahan" : "Doreker (Dorekar)",
+  "kodepos" : "98481"
+}, {
+  "kecamatan" : "Waigeo Utara",
+  "kelurahan" : "Darumbab",
+  "kodepos" : "98481"
+}, {
+  "kecamatan" : "Waigeo Utara",
+  "kelurahan" : "Bonsayor",
+  "kodepos" : "98481"
+}, {
+  "kecamatan" : "Warwabomi",
+  "kelurahan" : "Boni",
+  "kodepos" : "98481"
+}, {
+  "kecamatan" : "Waigeo Barat",
+  "kelurahan" : "Bianci",
+  "kodepos" : "98481"
+}, {
+  "kecamatan" : "Waigeo Utara",
+  "kelurahan" : "Asukweri",
+  "kodepos" : "98481"
+}, {
+  "kecamatan" : "Waigeo Utara",
+  "kelurahan" : "Andey",
+  "kodepos" : "98481"
+}, {
+  "kecamatan" : "Ayau",
+  "kelurahan" : "Abidon",
+  "kodepos" : "98481"
+} ]

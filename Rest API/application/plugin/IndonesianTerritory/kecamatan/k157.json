@@ -1,0 +1,809 @@
+[ {
+  "kecamatan" : "Pulau Sembilan",
+  "kelurahan" : "Teluk Sungai",
+  "kodepos" : "72181"
+}, {
+  "kecamatan" : "Pulau Sembilan",
+  "kelurahan" : "Tengah",
+  "kodepos" : "72181"
+}, {
+  "kecamatan" : "Pulau Sembilan",
+  "kelurahan" : "Labuan Barat",
+  "kodepos" : "72181"
+}, {
+  "kecamatan" : "Pulau Sembilan",
+  "kelurahan" : "Maradapan",
+  "kodepos" : "72181"
+}, {
+  "kecamatan" : "Pulau Sembilan",
+  "kelurahan" : "Tanjung Nyiur",
+  "kodepos" : "72181"
+}, {
+  "kecamatan" : "Pamukan Utara",
+  "kelurahan" : "Wonorejo",
+  "kodepos" : "72169"
+}, {
+  "kecamatan" : "Pamukan Utara",
+  "kelurahan" : "Tamiyang",
+  "kodepos" : "72169"
+}, {
+  "kecamatan" : "Pamukan Barat",
+  "kelurahan" : "Sengayam",
+  "kodepos" : "72169"
+}, {
+  "kecamatan" : "Pamukan Utara",
+  "kelurahan" : "Sekayu Baru",
+  "kodepos" : "72169"
+}, {
+  "kecamatan" : "Pamukan Utara",
+  "kelurahan" : "Pamukan Indah",
+  "kodepos" : "72169"
+}, {
+  "kecamatan" : "Pamukan Utara",
+  "kelurahan" : "Mulyo Harjo",
+  "kodepos" : "72169"
+}, {
+  "kecamatan" : "Pamukan Barat",
+  "kelurahan" : "Marga Jaya",
+  "kodepos" : "72169"
+}, {
+  "kecamatan" : "Pamukan Barat",
+  "kelurahan" : "Mayang Sari",
+  "kodepos" : "72169"
+}, {
+  "kecamatan" : "Pamukan Utara",
+  "kelurahan" : "Lintang Jaya",
+  "kodepos" : "72169"
+}, {
+  "kecamatan" : "Pamukan Barat",
+  "kelurahan" : "Mangka",
+  "kodepos" : "72169"
+}, {
+  "kecamatan" : "Pamukan Utara",
+  "kelurahan" : "Harapan Baru",
+  "kodepos" : "72169"
+}, {
+  "kecamatan" : "Pamukan Utara",
+  "kelurahan" : "Kalian",
+  "kodepos" : "72169"
+}, {
+  "kecamatan" : "Pamukan Utara",
+  "kelurahan" : "Betung",
+  "kodepos" : "72169"
+}, {
+  "kecamatan" : "Pamukan Utara",
+  "kelurahan" : "Binturung",
+  "kodepos" : "72169"
+}, {
+  "kecamatan" : "Pamukan Barat",
+  "kelurahan" : "Batuah",
+  "kodepos" : "72169"
+}, {
+  "kecamatan" : "Pamukan Utara",
+  "kelurahan" : "Bepara",
+  "kodepos" : "72169"
+}, {
+  "kecamatan" : "Pamukan Utara",
+  "kelurahan" : "Balamea",
+  "kodepos" : "72169"
+}, {
+  "kecamatan" : "Pamukan Utara",
+  "kelurahan" : "Bakau",
+  "kodepos" : "72169"
+}, {
+  "kecamatan" : "Pamukan Selatan",
+  "kelurahan" : "Tanjung Samalantakan",
+  "kodepos" : "72168"
+}, {
+  "kecamatan" : "Pamukan Selatan",
+  "kelurahan" : "Sesulung",
+  "kodepos" : "72168"
+}, {
+  "kecamatan" : "Pamukan Selatan",
+  "kelurahan" : "Sukadana",
+  "kodepos" : "72168"
+}, {
+  "kecamatan" : "Pamukan Selatan",
+  "kelurahan" : "Talusi",
+  "kodepos" : "72168"
+}, {
+  "kecamatan" : "Pamukan Selatan",
+  "kelurahan" : "Sakalimau",
+  "kodepos" : "72168"
+}, {
+  "kecamatan" : "Pamukan Selatan",
+  "kelurahan" : "Sekandis",
+  "kodepos" : "72168"
+}, {
+  "kecamatan" : "Pamukan Selatan",
+  "kelurahan" : "Rampacengal",
+  "kodepos" : "72168"
+}, {
+  "kecamatan" : "Pamukan Selatan",
+  "kelurahan" : "Sakadoyan",
+  "kodepos" : "72168"
+}, {
+  "kecamatan" : "Pamukan Selatan",
+  "kelurahan" : "Mulyodadi",
+  "kodepos" : "72168"
+}, {
+  "kecamatan" : "Pamukan Selatan",
+  "kelurahan" : "Pondok Labu",
+  "kodepos" : "72168"
+}, {
+  "kecamatan" : "Pamukan Selatan",
+  "kelurahan" : "Gunung Calang",
+  "kodepos" : "72168"
+}, {
+  "kecamatan" : "Sungai Durian",
+  "kelurahan" : "Terombong Sari",
+  "kodepos" : "72167"
+}, {
+  "kecamatan" : "Sungai Durian",
+  "kelurahan" : "Rantau Buda",
+  "kodepos" : "72167"
+}, {
+  "kecamatan" : "Sungai Durian",
+  "kelurahan" : "Rantau Jaya",
+  "kodepos" : "72167"
+}, {
+  "kecamatan" : "Sungai Durian",
+  "kelurahan" : "Manunggul Baru",
+  "kodepos" : "72167"
+}, {
+  "kecamatan" : "Sungai Durian",
+  "kelurahan" : "Manunggul Lama",
+  "kodepos" : "72167"
+}, {
+  "kecamatan" : "Kelumpang Barat",
+  "kelurahan" : "Magalau Hilir",
+  "kodepos" : "72167"
+}, {
+  "kecamatan" : "Kelumpang Barat",
+  "kelurahan" : "Magalau Hulu",
+  "kodepos" : "72167"
+}, {
+  "kecamatan" : "Sungai Durian",
+  "kelurahan" : "Buluh Kuning",
+  "kodepos" : "72167"
+}, {
+  "kecamatan" : "Sungai Durian",
+  "kelurahan" : "Gendang Timburu",
+  "kodepos" : "72167"
+}, {
+  "kecamatan" : "Sampanahan",
+  "kelurahan" : "Sukamaju",
+  "kodepos" : "72166"
+}, {
+  "kecamatan" : "Sampanahan",
+  "kelurahan" : "Sepapah",
+  "kodepos" : "72166"
+}, {
+  "kecamatan" : "Sampanahan",
+  "kelurahan" : "Sampanahan Hilir",
+  "kodepos" : "72166"
+}, {
+  "kecamatan" : "Sampanahan",
+  "kelurahan" : "Sei/Sungai Betung",
+  "kodepos" : "72166"
+}, {
+  "kecamatan" : "Sampanahan",
+  "kelurahan" : "Sampanahan",
+  "kodepos" : "72166"
+}, {
+  "kecamatan" : "Sampanahan",
+  "kelurahan" : "Papaan",
+  "kodepos" : "72166"
+}, {
+  "kecamatan" : "Sampanahan",
+  "kelurahan" : "Rampa Manunggul",
+  "kodepos" : "72166"
+}, {
+  "kecamatan" : "Sampanahan",
+  "kelurahan" : "Basuang",
+  "kodepos" : "72166"
+}, {
+  "kecamatan" : "Sampanahan",
+  "kelurahan" : "Gunung Batu Besar",
+  "kodepos" : "72166"
+}, {
+  "kecamatan" : "Sampanahan",
+  "kelurahan" : "Banjar Sari",
+  "kodepos" : "72166"
+}, {
+  "kecamatan" : "Kelumpang Utara",
+  "kelurahan" : "Sulangkit",
+  "kodepos" : "72165"
+}, {
+  "kecamatan" : "Kelumpang Utara",
+  "kelurahan" : "Wilas",
+  "kodepos" : "72165"
+}, {
+  "kecamatan" : "Kelumpang Utara",
+  "kelurahan" : "Sei/Sungai Hanyar",
+  "kodepos" : "72165"
+}, {
+  "kecamatan" : "Kelumpang Utara",
+  "kelurahan" : "Sei/Sungai Seluang",
+  "kodepos" : "72165"
+}, {
+  "kecamatan" : "Kelumpang Utara",
+  "kelurahan" : "Pudi",
+  "kodepos" : "72165"
+}, {
+  "kecamatan" : "Kelumpang Utara",
+  "kelurahan" : "Pudi Seberang",
+  "kodepos" : "72165"
+}, {
+  "kecamatan" : "Kelumpang Utara",
+  "kelurahan" : "Mangga",
+  "kodepos" : "72165"
+}, {
+  "kecamatan" : "Kelumpang Tengah",
+  "kelurahan" : "Tebing Tinggi",
+  "kodepos" : "72164"
+}, {
+  "kecamatan" : "Kelumpang Tengah",
+  "kelurahan" : "Tanjung Selayar",
+  "kodepos" : "72164"
+}, {
+  "kecamatan" : "Kelumpang Barat",
+  "kelurahan" : "Tanjung Sari",
+  "kodepos" : "72164"
+}, {
+  "kecamatan" : "Kelumpang Tengah",
+  "kelurahan" : "Tanah Rata",
+  "kodepos" : "72164"
+}, {
+  "kecamatan" : "Kelumpang Tengah",
+  "kelurahan" : "Tanjung Batu",
+  "kodepos" : "72164"
+}, {
+  "kecamatan" : "Kelumpang Tengah",
+  "kelurahan" : "Tamiang Bakung",
+  "kodepos" : "72164"
+}, {
+  "kecamatan" : "Kelumpang Barat",
+  "kelurahan" : "Si Ayuh",
+  "kodepos" : "72164"
+}, {
+  "kecamatan" : "Kelumpang Tengah",
+  "kelurahan" : "Sembilang",
+  "kodepos" : "72164"
+}, {
+  "kecamatan" : "Kelumpang Tengah",
+  "kelurahan" : "Senakin",
+  "kodepos" : "72164"
+}, {
+  "kecamatan" : "Kelumpang Tengah",
+  "kelurahan" : "Senakin Seberang",
+  "kodepos" : "72164"
+}, {
+  "kecamatan" : "Kelumpang Tengah",
+  "kelurahan" : "Sei/Sungai Punggawa",
+  "kodepos" : "72164"
+}, {
+  "kecamatan" : "Kelumpang Tengah",
+  "kelurahan" : "Sebuli",
+  "kodepos" : "72164"
+}, {
+  "kecamatan" : "Kelumpang Tengah",
+  "kelurahan" : "Sei/Sungai Pinang",
+  "kodepos" : "72164"
+}, {
+  "kecamatan" : "Kelumpang Tengah",
+  "kelurahan" : "Geronggang",
+  "kodepos" : "72164"
+}, {
+  "kecamatan" : "Kelumpang Tengah",
+  "kelurahan" : "Sang-Sang",
+  "kodepos" : "72164"
+}, {
+  "kecamatan" : "Kelumpang Barat",
+  "kelurahan" : "Bungkukan",
+  "kodepos" : "72164"
+}, {
+  "kecamatan" : "Hampang",
+  "kelurahan" : "Peramasan 2X 9 (Sanga/Sembilan)",
+  "kodepos" : "72163"
+}, {
+  "kecamatan" : "Kelumpang Barat",
+  "kelurahan" : "Batang Kulur",
+  "kodepos" : "72164"
+}, {
+  "kecamatan" : "Hampang",
+  "kelurahan" : "Limbur",
+  "kodepos" : "72163"
+}, {
+  "kecamatan" : "Hampang",
+  "kelurahan" : "Muara Ore",
+  "kodepos" : "72163"
+}, {
+  "kecamatan" : "Hampang",
+  "kelurahan" : "Lalapin",
+  "kodepos" : "72163"
+}, {
+  "kecamatan" : "Hampang",
+  "kelurahan" : "Limbungan",
+  "kodepos" : "72163"
+}, {
+  "kecamatan" : "Hampang",
+  "kelurahan" : "Hampang",
+  "kodepos" : "72163"
+}, {
+  "kecamatan" : "Hampang",
+  "kelurahan" : "Hulu Sampanahan",
+  "kodepos" : "72163"
+}, {
+  "kecamatan" : "Hampang",
+  "kelurahan" : "Cantung Kiri Hulu",
+  "kodepos" : "72163"
+}, {
+  "kecamatan" : "Hampang",
+  "kelurahan" : "Cantung Kanan",
+  "kodepos" : "72163"
+}, {
+  "kecamatan" : "Kelumpang Hulu",
+  "kelurahan" : "Sido Mulyo",
+  "kodepos" : "72162"
+}, {
+  "kecamatan" : "Kelumpang Hulu",
+  "kelurahan" : "Mangkirana",
+  "kodepos" : "72162"
+}, {
+  "kecamatan" : "Kelumpang Hulu",
+  "kelurahan" : "Sei/Sungai Kupang",
+  "kodepos" : "72162"
+}, {
+  "kecamatan" : "Kelumpang Hulu",
+  "kelurahan" : "Laburan",
+  "kodepos" : "72162"
+}, {
+  "kecamatan" : "Kelumpang Hulu",
+  "kelurahan" : "Karang Liwar",
+  "kodepos" : "72162"
+}, {
+  "kecamatan" : "Kelumpang Hulu",
+  "kelurahan" : "Karang Payau",
+  "kodepos" : "72162"
+}, {
+  "kecamatan" : "Kelumpang Hulu",
+  "kelurahan" : "Banua Lawas",
+  "kodepos" : "72162"
+}, {
+  "kecamatan" : "Kelumpang Hulu",
+  "kelurahan" : "Cantung Kiri Hilir",
+  "kodepos" : "72162"
+}, {
+  "kecamatan" : "Kelumpang Hulu",
+  "kelurahan" : "Bangkalan/Bangkalaan Dayak",
+  "kodepos" : "72162"
+}, {
+  "kecamatan" : "Kelumpang Hulu",
+  "kelurahan" : "Bangkalan/Bangkalaan Melayu",
+  "kodepos" : "72162"
+}, {
+  "kecamatan" : "Kelumpang Hilir",
+  "kelurahan" : "Telaga Sari",
+  "kodepos" : "72161"
+}, {
+  "kecamatan" : "Kelumpang Hilir",
+  "kelurahan" : "Tegal Rejo",
+  "kodepos" : "72161"
+}, {
+  "kecamatan" : "Kelumpang Hilir",
+  "kelurahan" : "Tarjun",
+  "kodepos" : "72161"
+}, {
+  "kecamatan" : "Kelumpang Selatan",
+  "kelurahan" : "Tanjung Pangga",
+  "kodepos" : "72161"
+}, {
+  "kecamatan" : "Kelumpang Hilir",
+  "kelurahan" : "Serongga",
+  "kodepos" : "72161"
+}, {
+  "kecamatan" : "Kelumpang Selatan",
+  "kelurahan" : "Suka Maju",
+  "kodepos" : "72161"
+}, {
+  "kecamatan" : "Kelumpang Selatan",
+  "kelurahan" : "Sei/Sungai Nipah",
+  "kodepos" : "72161"
+}, {
+  "kecamatan" : "Kelumpang Selatan",
+  "kelurahan" : "Sangking Baru",
+  "kodepos" : "72161"
+}, {
+  "kecamatan" : "Kelumpang Selatan",
+  "kelurahan" : "Sei/Sungai Kupang Jaya",
+  "kodepos" : "72161"
+}, {
+  "kecamatan" : "Kelumpang Hilir",
+  "kelurahan" : "Sahapi",
+  "kodepos" : "72161"
+}, {
+  "kecamatan" : "Kelumpang Hilir",
+  "kelurahan" : "Pulau Panci",
+  "kodepos" : "72161"
+}, {
+  "kecamatan" : "Kelumpang Selatan",
+  "kelurahan" : "Pembelancanan",
+  "kodepos" : "72161"
+}, {
+  "kecamatan" : "Kelumpang Hilir",
+  "kelurahan" : "Pelaju Baru",
+  "kodepos" : "72161"
+}, {
+  "kecamatan" : "Kelumpang Selatan",
+  "kelurahan" : "Pantai Baru",
+  "kodepos" : "72161"
+}, {
+  "kecamatan" : "Kelumpang Selatan",
+  "kelurahan" : "Pantai",
+  "kodepos" : "72161"
+}, {
+  "kecamatan" : "Kelumpang Hilir",
+  "kelurahan" : "Mandala",
+  "kodepos" : "72161"
+}, {
+  "kecamatan" : "Kelumpang Hilir",
+  "kelurahan" : "Langadai",
+  "kodepos" : "72161"
+}, {
+  "kecamatan" : "Pulau Laut Tengah",
+  "kelurahan" : "Sungup Kanan",
+  "kodepos" : "72156"
+}, {
+  "kecamatan" : "Kelumpang Selatan",
+  "kelurahan" : "Bumi Asih",
+  "kodepos" : "72161"
+}, {
+  "kecamatan" : "Pulau Laut Tengah",
+  "kelurahan" : "Semisir",
+  "kodepos" : "72156"
+}, {
+  "kecamatan" : "Pulau Laut Tengah",
+  "kelurahan" : "Selaru",
+  "kodepos" : "72156"
+}, {
+  "kecamatan" : "Pulau Laut Tengah",
+  "kelurahan" : "Salino (Maniang)",
+  "kodepos" : "72156"
+}, {
+  "kecamatan" : "Pulau Laut Tengah",
+  "kelurahan" : "Sei/Sungai Pasir",
+  "kodepos" : "72156"
+}, {
+  "kecamatan" : "Pulau Laut Tengah",
+  "kelurahan" : "Pantai Baru",
+  "kodepos" : "72156"
+}, {
+  "kecamatan" : "Pulau Laut Tengah",
+  "kelurahan" : "Mekar Pura",
+  "kodepos" : "72156"
+}, {
+  "kecamatan" : "Pulau Sebuku",
+  "kelurahan" : "Sekapung",
+  "kodepos" : "72155"
+}, {
+  "kecamatan" : "Pulau Sebuku",
+  "kelurahan" : "Ujung",
+  "kodepos" : "72155"
+}, {
+  "kecamatan" : "Pulau Sebuku",
+  "kelurahan" : "Sarakaman",
+  "kodepos" : "72155"
+}, {
+  "kecamatan" : "Pulau Sebuku",
+  "kelurahan" : "Sei/Sungai Bali",
+  "kodepos" : "72155"
+}, {
+  "kecamatan" : "Pulau Sebuku",
+  "kelurahan" : "Mandin",
+  "kodepos" : "72155"
+}, {
+  "kecamatan" : "Pulau Sebuku",
+  "kelurahan" : "Rampa",
+  "kodepos" : "72155"
+}, {
+  "kecamatan" : "Pulau Sebuku",
+  "kelurahan" : "Balambus (Selambus)",
+  "kodepos" : "72155"
+}, {
+  "kecamatan" : "Pulau Sebuku",
+  "kelurahan" : "Kanibungan",
+  "kodepos" : "72155"
+}, {
+  "kecamatan" : "Pulau Laut Selatan",
+  "kelurahan" : "Teluk Sirih",
+  "kodepos" : "72154"
+}, {
+  "kecamatan" : "Pulau Laut Kepulauan",
+  "kelurahan" : "Teluk Aru",
+  "kodepos" : "72154"
+}, {
+  "kecamatan" : "Pulau Laut Kepulauan",
+  "kelurahan" : "Teluk Kemuning",
+  "kodepos" : "72154"
+}, {
+  "kecamatan" : "Pulau Laut Selatan",
+  "kelurahan" : "Tanjung Serudung",
+  "kodepos" : "72154"
+}, {
+  "kecamatan" : "Pulau Laut Selatan",
+  "kelurahan" : "Tanjung Seloka",
+  "kodepos" : "72154"
+}, {
+  "kecamatan" : "Pulau Laut Selatan",
+  "kelurahan" : "Tanjung Seloka Utara",
+  "kodepos" : "72154"
+}, {
+  "kecamatan" : "Pulau Laut Kepulauan",
+  "kelurahan" : "Tanjung Lalak Selatan",
+  "kodepos" : "72154"
+}, {
+  "kecamatan" : "Pulau Laut Kepulauan",
+  "kelurahan" : "Tanjung Lalak Utara",
+  "kodepos" : "72154"
+}, {
+  "kecamatan" : "Pulau Laut Selatan",
+  "kelurahan" : "Sei/Sungai Bahim",
+  "kodepos" : "72154"
+}, {
+  "kecamatan" : "Pulau Laut Selatan",
+  "kelurahan" : "Sei/Sungai Bulan",
+  "kodepos" : "72154"
+}, {
+  "kecamatan" : "Pulau Laut Kepulauan",
+  "kelurahan" : "Pulau Kerumputan",
+  "kodepos" : "72154"
+}, {
+  "kecamatan" : "Pulau Laut Kepulauan",
+  "kelurahan" : "Pulau Kerasian",
+  "kodepos" : "72154"
+}, {
+  "kecamatan" : "Pulau Laut Kepulauan",
+  "kelurahan" : "Pulau Kerayaan",
+  "kodepos" : "72154"
+}, {
+  "kecamatan" : "Pulau Laut Selatan",
+  "kelurahan" : "Labuan Mas",
+  "kodepos" : "72154"
+}, {
+  "kecamatan" : "Pulau Laut Kepulauan",
+  "kelurahan" : "Oka-Oka",
+  "kodepos" : "72154"
+}, {
+  "kecamatan" : "Pulau Laut Kepulauan",
+  "kelurahan" : "Kerayaan Utara (Rosong Raya)",
+  "kodepos" : "72154"
+}, {
+  "kecamatan" : "Pulau Laut Selatan",
+  "kelurahan" : "Alle Alle",
+  "kodepos" : "72154"
+}, {
+  "kecamatan" : "Pulau Laut Barat",
+  "kelurahan" : "Tepian Balai",
+  "kodepos" : "72153"
+}, {
+  "kecamatan" : "Pulau Laut Barat",
+  "kelurahan" : "Terangkih / Terangkeh",
+  "kodepos" : "72153"
+}, {
+  "kecamatan" : "Pulau Laut Tanjung Selayar",
+  "kelurahan" : "Teluk Tamiang / Tamiyang",
+  "kodepos" : "72153"
+}, {
+  "kecamatan" : "Pulau Laut Tanjung Selayar",
+  "kelurahan" : "Tata Mekar",
+  "kodepos" : "72153"
+}, {
+  "kecamatan" : "Pulau Laut Tanjung Selayar",
+  "kelurahan" : "Tanjung Sungkai",
+  "kodepos" : "72153"
+}, {
+  "kecamatan" : "Pulau Laut Tanjung Selayar",
+  "kelurahan" : "Tanjung Tengah",
+  "kodepos" : "72153"
+}, {
+  "kecamatan" : "Pulau Laut Tanjung Selayar",
+  "kelurahan" : "Tanjung Kunyit",
+  "kodepos" : "72153"
+}, {
+  "kecamatan" : "Pulau Laut Tanjung Selayar",
+  "kelurahan" : "Tanjung Pelayar",
+  "kodepos" : "72153"
+}, {
+  "kecamatan" : "Pulau Laut Barat",
+  "kelurahan" : "Subur Makmur (Sepagar I)",
+  "kodepos" : "72153"
+}, {
+  "kecamatan" : "Pulau Laut Barat",
+  "kelurahan" : "Sumber Sari (Sepagar II)",
+  "kodepos" : "72153"
+}, {
+  "kecamatan" : "Pulau Laut Barat",
+  "kelurahan" : "Semaras",
+  "kodepos" : "72153"
+}, {
+  "kecamatan" : "Pulau Laut Barat",
+  "kelurahan" : "Sepagar",
+  "kodepos" : "72153"
+}, {
+  "kecamatan" : "Pulau Laut Barat",
+  "kelurahan" : "Lontar Timur",
+  "kodepos" : "72153"
+}, {
+  "kecamatan" : "Pulau Laut Barat",
+  "kelurahan" : "Lontar Utara",
+  "kodepos" : "72153"
+}, {
+  "kecamatan" : "Pulau Laut Barat",
+  "kelurahan" : "Sebanti",
+  "kodepos" : "72153"
+}, {
+  "kecamatan" : "Pulau Laut Barat",
+  "kelurahan" : "Lontar Selatan",
+  "kodepos" : "72153"
+}, {
+  "kecamatan" : "Pulau Laut Tanjung Selayar",
+  "kelurahan" : "Kampung Baru",
+  "kodepos" : "72153"
+}, {
+  "kecamatan" : "Pulau Laut Barat",
+  "kelurahan" : "Gemuruh",
+  "kodepos" : "72153"
+}, {
+  "kecamatan" : "Pulau Laut Tanjung Selayar",
+  "kelurahan" : "Gosong Panjang",
+  "kodepos" : "72153"
+}, {
+  "kecamatan" : "Pulau Laut Tanjung Selayar",
+  "kelurahan" : "Bangun Rejo",
+  "kodepos" : "72153"
+}, {
+  "kecamatan" : "Pulau Laut Tanjung Selayar",
+  "kelurahan" : "Bandar Raya",
+  "kodepos" : "72153"
+}, {
+  "kecamatan" : "Pulau Laut Timur",
+  "kelurahan" : "Teluk Mesjid",
+  "kodepos" : "72152"
+}, {
+  "kecamatan" : "Pulau Laut Timur",
+  "kelurahan" : "Teluk Gosong",
+  "kodepos" : "72152"
+}, {
+  "kecamatan" : "Pulau Laut Timur",
+  "kelurahan" : "Sejakah",
+  "kodepos" : "72152"
+}, {
+  "kecamatan" : "Pulau Laut Timur",
+  "kelurahan" : "Tanjung Pengharapan",
+  "kodepos" : "72152"
+}, {
+  "kecamatan" : "Pulau Laut Timur",
+  "kelurahan" : "Sei/Sungai Limau",
+  "kodepos" : "72152"
+}, {
+  "kecamatan" : "Pulau Laut Timur",
+  "kelurahan" : "Kulipak",
+  "kodepos" : "72152"
+}, {
+  "kecamatan" : "Pulau Laut Timur",
+  "kelurahan" : "Langkang Baru",
+  "kodepos" : "72152"
+}, {
+  "kecamatan" : "Pulau Laut Timur",
+  "kelurahan" : "Langkang Lama",
+  "kodepos" : "72152"
+}, {
+  "kecamatan" : "Pulau Laut Timur",
+  "kelurahan" : "Betung",
+  "kodepos" : "72152"
+}, {
+  "kecamatan" : "Pulau Laut Timur",
+  "kelurahan" : "Karang Sari Indah",
+  "kodepos" : "72152"
+}, {
+  "kecamatan" : "Pulau Laut Timur",
+  "kelurahan" : "Bekambit Asri",
+  "kodepos" : "72152"
+}, {
+  "kecamatan" : "Pulau Laut Timur",
+  "kelurahan" : "Berangas",
+  "kodepos" : "72152"
+}, {
+  "kecamatan" : "Pulau Laut Timur",
+  "kelurahan" : "Bekambit",
+  "kodepos" : "72152"
+}, {
+  "kecamatan" : "Pulau Laut Timur",
+  "kelurahan" : "Batu Tunau",
+  "kodepos" : "72152"
+}, {
+  "kecamatan" : "Pulau Laut Utara",
+  "kelurahan" : "Semayap",
+  "kodepos" : "72117"
+}, {
+  "kecamatan" : "Pulau Laut Utara",
+  "kelurahan" : "Baharu Selatan",
+  "kodepos" : "72115"
+}, {
+  "kecamatan" : "Pulau Laut Utara",
+  "kelurahan" : "Dirgahayu",
+  "kodepos" : "72116"
+}, {
+  "kecamatan" : "Pulau Laut Utara",
+  "kelurahan" : "Sei/Sungai Taib",
+  "kodepos" : "72114"
+}, {
+  "kecamatan" : "Pulau Laut Utara",
+  "kelurahan" : "Stagen",
+  "kodepos" : "72114"
+}, {
+  "kecamatan" : "Pulau Laut Utara",
+  "kelurahan" : "Sarang Tiung",
+  "kodepos" : "72114"
+}, {
+  "kecamatan" : "Pulau Laut Utara",
+  "kelurahan" : "Sebelimbingan",
+  "kodepos" : "72114"
+}, {
+  "kecamatan" : "Pulau Laut Utara",
+  "kelurahan" : "Mega Sari",
+  "kodepos" : "72114"
+}, {
+  "kecamatan" : "Pulau Laut Utara",
+  "kelurahan" : "Rampa",
+  "kodepos" : "72114"
+}, {
+  "kecamatan" : "Pulau Laut Utara",
+  "kelurahan" : "Gunung Ulin",
+  "kodepos" : "72114"
+}, {
+  "kecamatan" : "Pulau Laut Utara",
+  "kelurahan" : "Kotabaru Hulu",
+  "kodepos" : "72114"
+}, {
+  "kecamatan" : "Pulau Laut Utara",
+  "kelurahan" : "Gunung Sari",
+  "kodepos" : "72114"
+}, {
+  "kecamatan" : "Pulau Laut Utara",
+  "kelurahan" : "Gedambaan",
+  "kodepos" : "72114"
+}, {
+  "kecamatan" : "Pulau Laut Utara",
+  "kelurahan" : "Kotabaru Tengah",
+  "kodepos" : "72113"
+}, {
+  "kecamatan" : "Pulau Laut Utara",
+  "kelurahan" : "Sebatung",
+  "kodepos" : "72113"
+}, {
+  "kecamatan" : "Pulau Laut Utara",
+  "kelurahan" : "Tirawan",
+  "kodepos" : "72112"
+}, {
+  "kecamatan" : "Pulau Laut Utara",
+  "kelurahan" : "Batuah",
+  "kodepos" : "72112"
+}, {
+  "kecamatan" : "Pulau Laut Utara",
+  "kelurahan" : "Sigam",
+  "kodepos" : "72112"
+}, {
+  "kecamatan" : "Pulau Laut Utara",
+  "kelurahan" : "Kotabaru Hilir",
+  "kodepos" : "72111"
+}, {
+  "kecamatan" : "Pulau Laut Utara",
+  "kelurahan" : "Baharu Utara",
+  "kodepos" : "72112"
+}, {
+  "kecamatan" : "Pulau Laut Utara",
+  "kelurahan" : "Hilir Muara",
+  "kodepos" : "72111"
+} ]

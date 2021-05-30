@@ -1,0 +1,837 @@
+[ {
+  "kecamatan" : "Sanggar",
+  "kelurahan" : "Taloko",
+  "kodepos" : "84191"
+}, {
+  "kecamatan" : "Sanggar",
+  "kelurahan" : "Oi Saro",
+  "kodepos" : "84191"
+}, {
+  "kecamatan" : "Sanggar",
+  "kelurahan" : "Piong",
+  "kodepos" : "84191"
+}, {
+  "kecamatan" : "Sanggar",
+  "kelurahan" : "Sandue",
+  "kodepos" : "84191"
+}, {
+  "kecamatan" : "Tambora",
+  "kelurahan" : "Oi Panihi",
+  "kodepos" : "84191"
+}, {
+  "kecamatan" : "Tambora",
+  "kelurahan" : "Labuhan Kananga",
+  "kodepos" : "84191"
+}, {
+  "kecamatan" : "Tambora",
+  "kelurahan" : "Oi Bura",
+  "kodepos" : "84191"
+}, {
+  "kecamatan" : "Sanggar",
+  "kelurahan" : "Kore",
+  "kodepos" : "84191"
+}, {
+  "kecamatan" : "Tambora",
+  "kelurahan" : "Kawinda Nae",
+  "kodepos" : "84191"
+}, {
+  "kecamatan" : "Tambora",
+  "kelurahan" : "Kawinda Toi",
+  "kodepos" : "84191"
+}, {
+  "kecamatan" : "Sape",
+  "kelurahan" : "Tanah Putih",
+  "kodepos" : "84182"
+}, {
+  "kecamatan" : "Sanggar",
+  "kelurahan" : "Boro",
+  "kodepos" : "84191"
+}, {
+  "kecamatan" : "Lambu",
+  "kelurahan" : "Soro",
+  "kodepos" : "84182"
+}, {
+  "kecamatan" : "Lambu",
+  "kelurahan" : "Sumi",
+  "kodepos" : "84182"
+}, {
+  "kecamatan" : "Lambu",
+  "kelurahan" : "Simpasai",
+  "kodepos" : "84182"
+}, {
+  "kecamatan" : "Sape",
+  "kelurahan" : "Sangia",
+  "kodepos" : "84182"
+}, {
+  "kecamatan" : "Sape",
+  "kelurahan" : "Sari",
+  "kodepos" : "84182"
+}, {
+  "kecamatan" : "Lambu",
+  "kelurahan" : "Rato",
+  "kodepos" : "84182"
+}, {
+  "kecamatan" : "Sape",
+  "kelurahan" : "Raioi",
+  "kodepos" : "84182"
+}, {
+  "kecamatan" : "Sape",
+  "kelurahan" : "Rasabou",
+  "kodepos" : "84182"
+}, {
+  "kecamatan" : "Sape",
+  "kelurahan" : "Parangina",
+  "kodepos" : "84182"
+}, {
+  "kecamatan" : "Sape",
+  "kelurahan" : "Poja",
+  "kodepos" : "84182"
+}, {
+  "kecamatan" : "Lambu",
+  "kelurahan" : "Nggelu",
+  "kodepos" : "84182"
+}, {
+  "kecamatan" : "Sape",
+  "kelurahan" : "Naru Barat",
+  "kodepos" : "84182"
+}, {
+  "kecamatan" : "Sape",
+  "kelurahan" : "Nae",
+  "kodepos" : "84182"
+}, {
+  "kecamatan" : "Sape",
+  "kelurahan" : "Naru",
+  "kodepos" : "84182"
+}, {
+  "kecamatan" : "Lambu",
+  "kelurahan" : "Lauta Barat",
+  "kodepos" : "84182"
+}, {
+  "kecamatan" : "Lambu",
+  "kelurahan" : "Mangge",
+  "kodepos" : "84182"
+}, {
+  "kecamatan" : "Lambu",
+  "kelurahan" : "Melayu",
+  "kodepos" : "84182"
+}, {
+  "kecamatan" : "Lambu",
+  "kelurahan" : "Lanta",
+  "kodepos" : "84182"
+}, {
+  "kecamatan" : "Sape",
+  "kelurahan" : "Lamere (Lamera)",
+  "kodepos" : "84182"
+}, {
+  "kecamatan" : "Lambu",
+  "kelurahan" : "Lambu",
+  "kodepos" : "84182"
+}, {
+  "kecamatan" : "Lambu",
+  "kelurahan" : "Kaleo",
+  "kodepos" : "84182"
+}, {
+  "kecamatan" : "Sape",
+  "kelurahan" : "Kowo",
+  "kodepos" : "84182"
+}, {
+  "kecamatan" : "Lambu",
+  "kelurahan" : "Hidirasa",
+  "kodepos" : "84182"
+}, {
+  "kecamatan" : "Sape",
+  "kelurahan" : "Jia",
+  "kodepos" : "84182"
+}, {
+  "kecamatan" : "Sape",
+  "kelurahan" : "Bugis",
+  "kodepos" : "84182"
+}, {
+  "kecamatan" : "Sape",
+  "kelurahan" : "Buncu",
+  "kodepos" : "84182"
+}, {
+  "kecamatan" : "Sape",
+  "kelurahan" : "Bajopulau",
+  "kodepos" : "84182"
+}, {
+  "kecamatan" : "Sape",
+  "kelurahan" : "Boke",
+  "kodepos" : "84182"
+}, {
+  "kecamatan" : "Langgudu",
+  "kelurahan" : "Waworada",
+  "kodepos" : "84181"
+}, {
+  "kecamatan" : "Lambitu",
+  "kelurahan" : "Teta",
+  "kodepos" : "84181"
+}, {
+  "kecamatan" : "Langgudu",
+  "kelurahan" : "Wadu Ruka",
+  "kodepos" : "84181"
+}, {
+  "kecamatan" : "Lambitu",
+  "kelurahan" : "Sambori",
+  "kodepos" : "84181"
+}, {
+  "kecamatan" : "Langgudu",
+  "kelurahan" : "Rupe",
+  "kodepos" : "84181"
+}, {
+  "kecamatan" : "Wawo",
+  "kelurahan" : "Tarlawi",
+  "kodepos" : "84181"
+}, {
+  "kecamatan" : "Langgudu",
+  "kelurahan" : "Rompo",
+  "kodepos" : "84181"
+}, {
+  "kecamatan" : "Wawo",
+  "kelurahan" : "Riamau (Rianmau)",
+  "kodepos" : "84181"
+}, {
+  "kecamatan" : "Wawo",
+  "kelurahan" : "Ntori",
+  "kodepos" : "84181"
+}, {
+  "kecamatan" : "Wawo",
+  "kelurahan" : "Pesa",
+  "kodepos" : "84181"
+}, {
+  "kecamatan" : "Wawo",
+  "kelurahan" : "Raba",
+  "kodepos" : "84181"
+}, {
+  "kecamatan" : "Langgudu",
+  "kelurahan" : "Laju",
+  "kodepos" : "84181"
+}, {
+  "kecamatan" : "Wawo",
+  "kelurahan" : "Maria",
+  "kodepos" : "84181"
+}, {
+  "kecamatan" : "Wawo",
+  "kelurahan" : "Maria Utara",
+  "kodepos" : "84181"
+}, {
+  "kecamatan" : "Lambitu",
+  "kelurahan" : "Kuta",
+  "kodepos" : "84181"
+}, {
+  "kecamatan" : "Langgudu",
+  "kelurahan" : "Kawuwu",
+  "kodepos" : "84181"
+}, {
+  "kecamatan" : "Wawo",
+  "kelurahan" : "Koboro",
+  "kodepos" : "84181"
+}, {
+  "kecamatan" : "Wawo",
+  "kelurahan" : "Kombo",
+  "kodepos" : "84181"
+}, {
+  "kecamatan" : "Lambitu",
+  "kelurahan" : "Kaowa",
+  "kodepos" : "84181"
+}, {
+  "kecamatan" : "Langgudu",
+  "kelurahan" : "Karampi",
+  "kodepos" : "84181"
+}, {
+  "kecamatan" : "Langgudu",
+  "kelurahan" : "Karumbu",
+  "kodepos" : "84181"
+}, {
+  "kecamatan" : "Wawo",
+  "kelurahan" : "Kambilo",
+  "kodepos" : "84181"
+}, {
+  "kecamatan" : "Langgudu",
+  "kelurahan" : "Kangga",
+  "kodepos" : "84181"
+}, {
+  "kecamatan" : "Langgudu",
+  "kelurahan" : "Kalodu",
+  "kodepos" : "84181"
+}, {
+  "kecamatan" : "Lambitu",
+  "kelurahan" : "Kaboro (Kabaro)",
+  "kodepos" : "84181"
+}, {
+  "kecamatan" : "Langgudu",
+  "kelurahan" : "Dumu",
+  "kodepos" : "84181"
+}, {
+  "kecamatan" : "Langgudu",
+  "kelurahan" : "Doro O&#8217;o",
+  "kodepos" : "84181"
+}, {
+  "kecamatan" : "Palibelo",
+  "kelurahan" : "Tonggorisa",
+  "kodepos" : "84173"
+}, {
+  "kecamatan" : "Palibelo",
+  "kelurahan" : "Tonggorisa",
+  "kodepos" : "84173"
+}, {
+  "kecamatan" : "Belo",
+  "kelurahan" : "Soki",
+  "kodepos" : "84173"
+}, {
+  "kecamatan" : "Palibelo",
+  "kelurahan" : "Teke",
+  "kodepos" : "84173"
+}, {
+  "kecamatan" : "Belo",
+  "kelurahan" : "Roka",
+  "kodepos" : "84173"
+}, {
+  "kecamatan" : "Belo",
+  "kelurahan" : "Runggu",
+  "kodepos" : "84173"
+}, {
+  "kecamatan" : "Belo",
+  "kelurahan" : "Renda",
+  "kodepos" : "84173"
+}, {
+  "kecamatan" : "Palibelo",
+  "kelurahan" : "Roi",
+  "kodepos" : "84173"
+}, {
+  "kecamatan" : "Belo",
+  "kelurahan" : "Panda",
+  "kodepos" : "84173"
+}, {
+  "kecamatan" : "Palibelo",
+  "kelurahan" : "Panda",
+  "kodepos" : "84173"
+}, {
+  "kecamatan" : "Belo",
+  "kelurahan" : "Ngali",
+  "kodepos" : "84173"
+}, {
+  "kecamatan" : "Palibelo",
+  "kelurahan" : "Ntonggu",
+  "kodepos" : "84173"
+}, {
+  "kecamatan" : "Belo",
+  "kelurahan" : "Lido",
+  "kodepos" : "84173"
+}, {
+  "kecamatan" : "Belo",
+  "kelurahan" : "Ncera",
+  "kodepos" : "84173"
+}, {
+  "kecamatan" : "Palibelo",
+  "kelurahan" : "Nata",
+  "kodepos" : "84173"
+}, {
+  "kecamatan" : "Palibelo",
+  "kelurahan" : "Doie",
+  "kodepos" : "84173"
+}, {
+  "kecamatan" : "Palibelo",
+  "kelurahan" : "Dore",
+  "kodepos" : "84173"
+}, {
+  "kecamatan" : "Belo",
+  "kelurahan" : "Cenggu",
+  "kodepos" : "84173"
+}, {
+  "kecamatan" : "Palibelo",
+  "kelurahan" : "Belo",
+  "kodepos" : "84173"
+}, {
+  "kecamatan" : "Monta",
+  "kelurahan" : "Tolouwi",
+  "kodepos" : "84172"
+}, {
+  "kecamatan" : "Monta",
+  "kelurahan" : "Tangga Baru",
+  "kodepos" : "84172"
+}, {
+  "kecamatan" : "Monta",
+  "kelurahan" : "Willamaci",
+  "kodepos" : "84172"
+}, {
+  "kecamatan" : "Monta",
+  "kelurahan" : "Tolotangga",
+  "kodepos" : "84172"
+}, {
+  "kecamatan" : "Monta",
+  "kelurahan" : "Simpasai",
+  "kodepos" : "84172"
+}, {
+  "kecamatan" : "Monta",
+  "kelurahan" : "Sondo",
+  "kodepos" : "84172"
+}, {
+  "kecamatan" : "Monta",
+  "kelurahan" : "Tangga",
+  "kodepos" : "84172"
+}, {
+  "kecamatan" : "Monta",
+  "kelurahan" : "Sekuru",
+  "kodepos" : "84172"
+}, {
+  "kecamatan" : "Monta",
+  "kelurahan" : "Sie",
+  "kodepos" : "84172"
+}, {
+  "kecamatan" : "Parado",
+  "kelurahan" : "Paradowane",
+  "kodepos" : "84172"
+}, {
+  "kecamatan" : "Monta",
+  "kelurahan" : "Pela",
+  "kodepos" : "84172"
+}, {
+  "kecamatan" : "Parado",
+  "kelurahan" : "Paradorato",
+  "kodepos" : "84172"
+}, {
+  "kecamatan" : "Monta",
+  "kelurahan" : "Monta",
+  "kodepos" : "84172"
+}, {
+  "kecamatan" : "Parado",
+  "kelurahan" : "Kuta",
+  "kodepos" : "84172"
+}, {
+  "kecamatan" : "Parado",
+  "kelurahan" : "Lere",
+  "kodepos" : "84172"
+}, {
+  "kecamatan" : "Parado",
+  "kelurahan" : "Kanca",
+  "kodepos" : "84172"
+}, {
+  "kecamatan" : "Woha",
+  "kelurahan" : "Waduwani",
+  "kodepos" : "84171"
+}, {
+  "kecamatan" : "Monta",
+  "kelurahan" : "Baralau",
+  "kodepos" : "84172"
+}, {
+  "kecamatan" : "Woha",
+  "kelurahan" : "Tenga",
+  "kodepos" : "84171"
+}, {
+  "kecamatan" : "Woha",
+  "kelurahan" : "Tente",
+  "kodepos" : "84171"
+}, {
+  "kecamatan" : "Woha",
+  "kelurahan" : "Samili",
+  "kodepos" : "84171"
+}, {
+  "kecamatan" : "Woha",
+  "kelurahan" : "Talabiu",
+  "kodepos" : "84171"
+}, {
+  "kecamatan" : "Woha",
+  "kelurahan" : "Rabakodo",
+  "kodepos" : "84171"
+}, {
+  "kecamatan" : "Woha",
+  "kelurahan" : "Risa",
+  "kodepos" : "84171"
+}, {
+  "kecamatan" : "Woha",
+  "kelurahan" : "Pandai",
+  "kodepos" : "84171"
+}, {
+  "kecamatan" : "Woha",
+  "kelurahan" : "Penapali",
+  "kodepos" : "84171"
+}, {
+  "kecamatan" : "Woha",
+  "kelurahan" : "Naru",
+  "kodepos" : "84171"
+}, {
+  "kecamatan" : "Woha",
+  "kelurahan" : "Nisa",
+  "kodepos" : "84171"
+}, {
+  "kecamatan" : "Woha",
+  "kelurahan" : "Kalampa",
+  "kodepos" : "84171"
+}, {
+  "kecamatan" : "Woha",
+  "kelurahan" : "Keli",
+  "kodepos" : "84171"
+}, {
+  "kecamatan" : "Woha",
+  "kelurahan" : "Donggobolo",
+  "kodepos" : "84171"
+}, {
+  "kecamatan" : "Woha",
+  "kelurahan" : "Dadibou",
+  "kodepos" : "84171"
+}, {
+  "kecamatan" : "Soromandi",
+  "kelurahan" : "Sai",
+  "kodepos" : "84162"
+}, {
+  "kecamatan" : "Soromandi",
+  "kelurahan" : "Sampungu",
+  "kodepos" : "84162"
+}, {
+  "kecamatan" : "Soromandi",
+  "kelurahan" : "Wadukopa",
+  "kodepos" : "84162"
+}, {
+  "kecamatan" : "Soromandi",
+  "kelurahan" : "Punti",
+  "kodepos" : "84162"
+}, {
+  "kecamatan" : "Donggo",
+  "kelurahan" : "Rora",
+  "kodepos" : "84162"
+}, {
+  "kecamatan" : "Donggo",
+  "kelurahan" : "Mpili",
+  "kodepos" : "84162"
+}, {
+  "kecamatan" : "Donggo",
+  "kelurahan" : "O&#8217;o",
+  "kodepos" : "84162"
+}, {
+  "kecamatan" : "Donggo",
+  "kelurahan" : "Palama",
+  "kodepos" : "84162"
+}, {
+  "kecamatan" : "Soromandi",
+  "kelurahan" : "Kananta",
+  "kodepos" : "84162"
+}, {
+  "kecamatan" : "Donggo",
+  "kelurahan" : "Kala",
+  "kodepos" : "84162"
+}, {
+  "kecamatan" : "Donggo",
+  "kelurahan" : "Mbawa",
+  "kodepos" : "84162"
+}, {
+  "kecamatan" : "Donggo",
+  "kelurahan" : "Bumi Pajo",
+  "kodepos" : "84162"
+}, {
+  "kecamatan" : "Donggo",
+  "kelurahan" : "Doridungga",
+  "kodepos" : "84162"
+}, {
+  "kecamatan" : "Soromandi",
+  "kelurahan" : "Bajo",
+  "kodepos" : "84162"
+}, {
+  "kecamatan" : "Bolo",
+  "kelurahan" : "Tumpu",
+  "kodepos" : "84161"
+}, {
+  "kecamatan" : "Bolo",
+  "kelurahan" : "Timu",
+  "kodepos" : "84161"
+}, {
+  "kecamatan" : "Bolo",
+  "kelurahan" : "Sanolo",
+  "kodepos" : "84161"
+}, {
+  "kecamatan" : "Bolo",
+  "kelurahan" : "Sondosia",
+  "kodepos" : "84161"
+}, {
+  "kecamatan" : "Bolo",
+  "kelurahan" : "Tambe",
+  "kodepos" : "84161"
+}, {
+  "kecamatan" : "Bolo",
+  "kelurahan" : "Rato",
+  "kodepos" : "84161"
+}, {
+  "kecamatan" : "Bolo",
+  "kelurahan" : "Rada",
+  "kodepos" : "84161"
+}, {
+  "kecamatan" : "Bolo",
+  "kelurahan" : "Rasabou",
+  "kodepos" : "84161"
+}, {
+  "kecamatan" : "Bolo",
+  "kelurahan" : "Leu",
+  "kodepos" : "84161"
+}, {
+  "kecamatan" : "Bolo",
+  "kelurahan" : "Nggembe",
+  "kodepos" : "84161"
+}, {
+  "kecamatan" : "Bolo",
+  "kelurahan" : "Bontokape",
+  "kodepos" : "84161"
+}, {
+  "kecamatan" : "Bolo",
+  "kelurahan" : "Kananga",
+  "kodepos" : "84161"
+}, {
+  "kecamatan" : "Ambalawi",
+  "kelurahan" : "Tolowata",
+  "kodepos" : "84153"
+}, {
+  "kecamatan" : "Ambalawi",
+  "kelurahan" : "Rite",
+  "kodepos" : "84153"
+}, {
+  "kecamatan" : "Ambalawi",
+  "kelurahan" : "Talapiti",
+  "kodepos" : "84153"
+}, {
+  "kecamatan" : "Ambalawi",
+  "kelurahan" : "Mawu",
+  "kodepos" : "84153"
+}, {
+  "kecamatan" : "Ambalawi",
+  "kelurahan" : "Nipa",
+  "kodepos" : "84153"
+}, {
+  "kecamatan" : "Wera",
+  "kelurahan" : "Wora",
+  "kodepos" : "84152"
+}, {
+  "kecamatan" : "Ambalawi",
+  "kelurahan" : "Kole",
+  "kodepos" : "84153"
+}, {
+  "kecamatan" : "Wera",
+  "kelurahan" : "Tadewa",
+  "kodepos" : "84152"
+}, {
+  "kecamatan" : "Wera",
+  "kelurahan" : "Tawali",
+  "kodepos" : "84152"
+}, {
+  "kecamatan" : "Wera",
+  "kelurahan" : "Pai",
+  "kodepos" : "84152"
+}, {
+  "kecamatan" : "Wera",
+  "kelurahan" : "Sangiang",
+  "kodepos" : "84152"
+}, {
+  "kecamatan" : "Wera",
+  "kelurahan" : "Nunggi",
+  "kodepos" : "84152"
+}, {
+  "kecamatan" : "Wera",
+  "kelurahan" : "Oitui",
+  "kodepos" : "84152"
+}, {
+  "kecamatan" : "Wera",
+  "kelurahan" : "Hidirasa (Hadirasa)",
+  "kodepos" : "84152"
+}, {
+  "kecamatan" : "Wera",
+  "kelurahan" : "Nanga Wera",
+  "kodepos" : "84152"
+}, {
+  "kecamatan" : "Wera",
+  "kelurahan" : "Ntoke",
+  "kodepos" : "84152"
+}, {
+  "kecamatan" : "Wera",
+  "kelurahan" : "Bala",
+  "kodepos" : "84152"
+}, {
+  "kecamatan" : "Mpunda",
+  "kelurahan" : "Sambinae",
+  "kodepos" : "84119"
+}, {
+  "kecamatan" : "Mpunda",
+  "kelurahan" : "Santi",
+  "kodepos" : "84119"
+}, {
+  "kecamatan" : "Raba",
+  "kelurahan" : "Rite",
+  "kodepos" : "84119"
+}, {
+  "kecamatan" : "Raba",
+  "kelurahan" : "Rontu",
+  "kodepos" : "84119"
+}, {
+  "kecamatan" : "Mpunda",
+  "kelurahan" : "Panggi",
+  "kodepos" : "84119"
+}, {
+  "kecamatan" : "Raba",
+  "kelurahan" : "Penanae",
+  "kodepos" : "84119"
+}, {
+  "kecamatan" : "Rasanae Barat",
+  "kelurahan" : "Pane",
+  "kodepos" : "84119"
+}, {
+  "kecamatan" : "Rasanae Timur",
+  "kelurahan" : "Oi Fo&#8217;o",
+  "kodepos" : "84119"
+}, {
+  "kecamatan" : "Raba",
+  "kelurahan" : "Nitu",
+  "kodepos" : "84119"
+}, {
+  "kecamatan" : "Raba",
+  "kelurahan" : "Ntobo",
+  "kodepos" : "84119"
+}, {
+  "kecamatan" : "Rasanae Timur",
+  "kelurahan" : "Nungga",
+  "kodepos" : "84119"
+}, {
+  "kecamatan" : "Asakota",
+  "kelurahan" : "Melayu",
+  "kodepos" : "84119"
+}, {
+  "kecamatan" : "Mpunda",
+  "kelurahan" : "Matakando",
+  "kodepos" : "84119"
+}, {
+  "kecamatan" : "Mpunda",
+  "kelurahan" : "Mande",
+  "kodepos" : "84119"
+}, {
+  "kecamatan" : "Mpunda",
+  "kelurahan" : "Manggemaci",
+  "kodepos" : "84119"
+}, {
+  "kecamatan" : "Mpunda",
+  "kelurahan" : "Lewirato",
+  "kodepos" : "84119"
+}, {
+  "kecamatan" : "Rasanae Timur",
+  "kelurahan" : "Lampe",
+  "kodepos" : "84119"
+}, {
+  "kecamatan" : "Rasanae Timur",
+  "kelurahan" : "Lelamase",
+  "kodepos" : "84119"
+}, {
+  "kecamatan" : "Asakota",
+  "kelurahan" : "Kolo",
+  "kodepos" : "84119"
+}, {
+  "kecamatan" : "Rasanae Timur",
+  "kelurahan" : "Kodo",
+  "kodepos" : "84119"
+}, {
+  "kecamatan" : "Asakota",
+  "kelurahan" : "Jatiwangi",
+  "kodepos" : "84119"
+}, {
+  "kecamatan" : "Raba",
+  "kelurahan" : "Kendo",
+  "kodepos" : "84119"
+}, {
+  "kecamatan" : "Asakota",
+  "kelurahan" : "Jatibaru",
+  "kodepos" : "84119"
+}, {
+  "kecamatan" : "Rasanae Timur",
+  "kelurahan" : "Dodu",
+  "kodepos" : "84119"
+}, {
+  "kecamatan" : "Rasanae Barat",
+  "kelurahan" : "Dara (Dora)",
+  "kodepos" : "84119"
+}, {
+  "kecamatan" : "Rasanae Barat",
+  "kelurahan" : "Sarae",
+  "kodepos" : "84117"
+}, {
+  "kecamatan" : "Rasanae Barat",
+  "kelurahan" : "Tanjung",
+  "kodepos" : "84118"
+}, {
+  "kecamatan" : "Rasanae Barat",
+  "kelurahan" : "Nae",
+  "kodepos" : "84116"
+}, {
+  "kecamatan" : "Mpunda",
+  "kelurahan" : "Penatoi",
+  "kodepos" : "84115"
+}, {
+  "kecamatan" : "Rasanae Timur",
+  "kelurahan" : "Kumbe",
+  "kodepos" : "84114"
+}, {
+  "kecamatan" : "Raba",
+  "kelurahan" : "Penaraga",
+  "kodepos" : "84115"
+}, {
+  "kecamatan" : "Raba",
+  "kelurahan" : "Rabangodu Utara",
+  "kodepos" : "84113"
+}, {
+  "kecamatan" : "Raba",
+  "kelurahan" : "Rabadompu Timur",
+  "kodepos" : "84113"
+}, {
+  "kecamatan" : "Raba",
+  "kelurahan" : "Rabangodu Selatan",
+  "kodepos" : "84113"
+}, {
+  "kecamatan" : "Raba",
+  "kelurahan" : "Rabadompu Barat",
+  "kodepos" : "84113"
+}, {
+  "kecamatan" : "Madapangga",
+  "kelurahan" : "Woro",
+  "kodepos" : "84111"
+}, {
+  "kecamatan" : "Mpunda",
+  "kelurahan" : "Sadia",
+  "kodepos" : "84112"
+}, {
+  "kecamatan" : "Madapangga",
+  "kelurahan" : "Tonda",
+  "kodepos" : "84111"
+}, {
+  "kecamatan" : "Rasanae Barat",
+  "kelurahan" : "Paruga",
+  "kodepos" : "84111"
+}, {
+  "kecamatan" : "Madapangga",
+  "kelurahan" : "Rade",
+  "kodepos" : "84111"
+}, {
+  "kecamatan" : "Madapangga",
+  "kelurahan" : "Mpuri",
+  "kodepos" : "84111"
+}, {
+  "kecamatan" : "Madapangga",
+  "kelurahan" : "Ndano",
+  "kodepos" : "84111"
+}, {
+  "kecamatan" : "Mpunda",
+  "kelurahan" : "Monggonao",
+  "kodepos" : "84111"
+}, {
+  "kecamatan" : "Madapangga",
+  "kelurahan" : "Mandawau",
+  "kodepos" : "84111"
+}, {
+  "kecamatan" : "Madapangga",
+  "kelurahan" : "Monggo",
+  "kodepos" : "84111"
+}, {
+  "kecamatan" : "Madapangga",
+  "kelurahan" : "Dena",
+  "kodepos" : "84111"
+}, {
+  "kecamatan" : "Madapangga",
+  "kelurahan" : "Bolo",
+  "kodepos" : "84111"
+}, {
+  "kecamatan" : "Madapangga",
+  "kelurahan" : "Campa",
+  "kodepos" : "84111"
+} ]

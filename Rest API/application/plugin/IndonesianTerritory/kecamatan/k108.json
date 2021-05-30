@@ -1,0 +1,993 @@
+[ {
+  "kecamatan" : "Gringsing",
+  "kelurahan" : "Yosorejo",
+  "kodepos" : "51281"
+}, {
+  "kecamatan" : "Banyuputih",
+  "kelurahan" : "Timbang",
+  "kodepos" : "51281"
+}, {
+  "kecamatan" : "Gringsing",
+  "kelurahan" : "Sidorejo",
+  "kodepos" : "51281"
+}, {
+  "kecamatan" : "Gringsing",
+  "kelurahan" : "Surodadi",
+  "kodepos" : "51281"
+}, {
+  "kecamatan" : "Gringsing",
+  "kelurahan" : "Sawangan",
+  "kodepos" : "51281"
+}, {
+  "kecamatan" : "Gringsing",
+  "kelurahan" : "Sentul",
+  "kodepos" : "51281"
+}, {
+  "kecamatan" : "Gringsing",
+  "kelurahan" : "Plelen",
+  "kodepos" : "51281"
+}, {
+  "kecamatan" : "Banyuputih",
+  "kelurahan" : "Penundan",
+  "kodepos" : "51281"
+}, {
+  "kecamatan" : "Gringsing",
+  "kelurahan" : "Lebo",
+  "kodepos" : "51281"
+}, {
+  "kecamatan" : "Gringsing",
+  "kelurahan" : "Mentosari",
+  "kodepos" : "51281"
+}, {
+  "kecamatan" : "Gringsing",
+  "kelurahan" : "Krengseng",
+  "kodepos" : "51281"
+}, {
+  "kecamatan" : "Gringsing",
+  "kelurahan" : "Kutosari",
+  "kodepos" : "51281"
+}, {
+  "kecamatan" : "Gringsing",
+  "kelurahan" : "Ketanggan",
+  "kodepos" : "51281"
+}, {
+  "kecamatan" : "Gringsing",
+  "kelurahan" : "Gringsing",
+  "kodepos" : "51281"
+}, {
+  "kecamatan" : "Gringsing",
+  "kelurahan" : "Kebondalem",
+  "kodepos" : "51281"
+}, {
+  "kecamatan" : "Banyuputih",
+  "kelurahan" : "Banaran",
+  "kodepos" : "51281"
+}, {
+  "kecamatan" : "Banyuputih",
+  "kelurahan" : "Bulu",
+  "kodepos" : "51281"
+}, {
+  "kecamatan" : "Bawang",
+  "kelurahan" : "Wono Sari",
+  "kodepos" : "51274"
+}, {
+  "kecamatan" : "Bawang",
+  "kelurahan" : "Soka",
+  "kodepos" : "51274"
+}, {
+  "kecamatan" : "Bawang",
+  "kelurahan" : "Surjo",
+  "kodepos" : "51274"
+}, {
+  "kecamatan" : "Bawang",
+  "kelurahan" : "Sangubanyu",
+  "kodepos" : "51274"
+}, {
+  "kecamatan" : "Bawang",
+  "kelurahan" : "Sibebek",
+  "kodepos" : "51274"
+}, {
+  "kecamatan" : "Bawang",
+  "kelurahan" : "Sidoharjo",
+  "kodepos" : "51274"
+}, {
+  "kecamatan" : "Bawang",
+  "kelurahan" : "Pranten",
+  "kodepos" : "51274"
+}, {
+  "kecamatan" : "Bawang",
+  "kelurahan" : "Purbo",
+  "kodepos" : "51274"
+}, {
+  "kecamatan" : "Bawang",
+  "kelurahan" : "Pangempon",
+  "kodepos" : "51274"
+}, {
+  "kecamatan" : "Bawang",
+  "kelurahan" : "Pasusukan",
+  "kodepos" : "51274"
+}, {
+  "kecamatan" : "Bawang",
+  "kelurahan" : "Kalirejo",
+  "kodepos" : "51274"
+}, {
+  "kecamatan" : "Bawang",
+  "kelurahan" : "Kebaturan",
+  "kodepos" : "51274"
+}, {
+  "kecamatan" : "Bawang",
+  "kelurahan" : "Jlamprang",
+  "kodepos" : "51274"
+}, {
+  "kecamatan" : "Bawang",
+  "kelurahan" : "Jambangan",
+  "kodepos" : "51274"
+}, {
+  "kecamatan" : "Bawang",
+  "kelurahan" : "Deles",
+  "kodepos" : "51274"
+}, {
+  "kecamatan" : "Bawang",
+  "kelurahan" : "Getas",
+  "kodepos" : "51274"
+}, {
+  "kecamatan" : "Bawang",
+  "kelurahan" : "Gunungsari",
+  "kodepos" : "51274"
+}, {
+  "kecamatan" : "Bawang",
+  "kelurahan" : "Candigugur",
+  "kodepos" : "51274"
+}, {
+  "kecamatan" : "Bawang",
+  "kelurahan" : "Candirejo",
+  "kodepos" : "51274"
+}, {
+  "kecamatan" : "Reban",
+  "kelurahan" : "Wonosobo",
+  "kodepos" : "51273"
+}, {
+  "kecamatan" : "Bawang",
+  "kelurahan" : "Bawang",
+  "kodepos" : "51274"
+}, {
+  "kecamatan" : "Reban",
+  "kelurahan" : "Tambakboyo",
+  "kodepos" : "51273"
+}, {
+  "kecamatan" : "Reban",
+  "kelurahan" : "Wonorojo",
+  "kodepos" : "51273"
+}, {
+  "kecamatan" : "Reban",
+  "kelurahan" : "Semampir",
+  "kodepos" : "51273"
+}, {
+  "kecamatan" : "Reban",
+  "kelurahan" : "Sojomerto",
+  "kodepos" : "51273"
+}, {
+  "kecamatan" : "Reban",
+  "kelurahan" : "Sukomangli",
+  "kodepos" : "51273"
+}, {
+  "kecamatan" : "Reban",
+  "kelurahan" : "Polodoro",
+  "kodepos" : "51273"
+}, {
+  "kecamatan" : "Reban",
+  "kelurahan" : "Reban",
+  "kodepos" : "51273"
+}, {
+  "kecamatan" : "Reban",
+  "kelurahan" : "Ngroto",
+  "kodepos" : "51273"
+}, {
+  "kecamatan" : "Reban",
+  "kelurahan" : "Pacet",
+  "kodepos" : "51273"
+}, {
+  "kecamatan" : "Reban",
+  "kelurahan" : "Padomasan",
+  "kodepos" : "51273"
+}, {
+  "kecamatan" : "Reban",
+  "kelurahan" : "Kumesu (Kemesu)",
+  "kodepos" : "51273"
+}, {
+  "kecamatan" : "Reban",
+  "kelurahan" : "Mojotengah",
+  "kodepos" : "51273"
+}, {
+  "kecamatan" : "Reban",
+  "kelurahan" : "Ngadirejo",
+  "kodepos" : "51273"
+}, {
+  "kecamatan" : "Reban",
+  "kelurahan" : "Kepundung",
+  "kodepos" : "51273"
+}, {
+  "kecamatan" : "Reban",
+  "kelurahan" : "Karanganyar",
+  "kodepos" : "51273"
+}, {
+  "kecamatan" : "Reban",
+  "kelurahan" : "Cablikan",
+  "kodepos" : "51273"
+}, {
+  "kecamatan" : "Reban",
+  "kelurahan" : "Kalisari",
+  "kodepos" : "51273"
+}, {
+  "kecamatan" : "Reban",
+  "kelurahan" : "Adinuso",
+  "kodepos" : "51273"
+}, {
+  "kecamatan" : "Tersono",
+  "kelurahan" : "Wanar",
+  "kodepos" : "51272"
+}, {
+  "kecamatan" : "Reban",
+  "kelurahan" : "Adinuso",
+  "kodepos" : "51273"
+}, {
+  "kecamatan" : "Tersono",
+  "kelurahan" : "Tedunan",
+  "kodepos" : "51272"
+}, {
+  "kecamatan" : "Tersono",
+  "kelurahan" : "Tegalombo",
+  "kodepos" : "51272"
+}, {
+  "kecamatan" : "Tersono",
+  "kelurahan" : "Sidalang",
+  "kodepos" : "51272"
+}, {
+  "kecamatan" : "Tersono",
+  "kelurahan" : "Sumurbanger",
+  "kodepos" : "51272"
+}, {
+  "kecamatan" : "Tersono",
+  "kelurahan" : "Tanjungsari",
+  "kodepos" : "51272"
+}, {
+  "kecamatan" : "Tersono",
+  "kelurahan" : "Rejosari Timur",
+  "kodepos" : "51272"
+}, {
+  "kecamatan" : "Tersono",
+  "kelurahan" : "Satriyan",
+  "kodepos" : "51272"
+}, {
+  "kecamatan" : "Tersono",
+  "kelurahan" : "Sendang",
+  "kodepos" : "51272"
+}, {
+  "kecamatan" : "Tersono",
+  "kelurahan" : "Pujut",
+  "kodepos" : "51272"
+}, {
+  "kecamatan" : "Tersono",
+  "kelurahan" : "Rejosari Barat",
+  "kodepos" : "51272"
+}, {
+  "kecamatan" : "Tersono",
+  "kelurahan" : "Margosono",
+  "kodepos" : "51272"
+}, {
+  "kecamatan" : "Tersono",
+  "kelurahan" : "Plosowangi",
+  "kodepos" : "51272"
+}, {
+  "kecamatan" : "Tersono",
+  "kelurahan" : "Kranggan",
+  "kodepos" : "51272"
+}, {
+  "kecamatan" : "Tersono",
+  "kelurahan" : "Lobang",
+  "kodepos" : "51272"
+}, {
+  "kecamatan" : "Tersono",
+  "kelurahan" : "Madugowongjati",
+  "kodepos" : "51272"
+}, {
+  "kecamatan" : "Tersono",
+  "kelurahan" : "Harjowinangun Timur",
+  "kodepos" : "51272"
+}, {
+  "kecamatan" : "Tersono",
+  "kelurahan" : "Kebumen",
+  "kodepos" : "51272"
+}, {
+  "kecamatan" : "Tersono",
+  "kelurahan" : "Harjowinangun Barat",
+  "kodepos" : "51272"
+}, {
+  "kecamatan" : "Tersono",
+  "kelurahan" : "Gondo",
+  "kodepos" : "51272"
+}, {
+  "kecamatan" : "Tersono",
+  "kelurahan" : "Harjowinangun Barat",
+  "kodepos" : "51272"
+}, {
+  "kecamatan" : "Tersono",
+  "kelurahan" : "Banteng",
+  "kodepos" : "51272"
+}, {
+  "kecamatan" : "Limpung",
+  "kelurahan" : "Sidomulyo",
+  "kodepos" : "51271"
+}, {
+  "kecamatan" : "Limpung",
+  "kelurahan" : "Sukorejo",
+  "kodepos" : "51271"
+}, {
+  "kecamatan" : "Limpung",
+  "kelurahan" : "Tembok",
+  "kodepos" : "51271"
+}, {
+  "kecamatan" : "Limpung",
+  "kelurahan" : "Sempu",
+  "kodepos" : "51271"
+}, {
+  "kecamatan" : "Banyuputih",
+  "kelurahan" : "Sembung",
+  "kodepos" : "51271"
+}, {
+  "kecamatan" : "Limpung",
+  "kelurahan" : "Rowosari",
+  "kodepos" : "51271"
+}, {
+  "kecamatan" : "Limpung",
+  "kelurahan" : "Plumbon",
+  "kodepos" : "51271"
+}, {
+  "kecamatan" : "Limpung",
+  "kelurahan" : "Pungangan",
+  "kodepos" : "51271"
+}, {
+  "kecamatan" : "Banyuputih",
+  "kelurahan" : "Luwung",
+  "kodepos" : "51271"
+}, {
+  "kecamatan" : "Limpung",
+  "kelurahan" : "Ngaliyan",
+  "kodepos" : "51271"
+}, {
+  "kecamatan" : "Banyuputih",
+  "kelurahan" : "Kedawung",
+  "kodepos" : "51271"
+}, {
+  "kecamatan" : "Limpung",
+  "kelurahan" : "Kepuh",
+  "kodepos" : "51271"
+}, {
+  "kecamatan" : "Limpung",
+  "kelurahan" : "Limpung",
+  "kodepos" : "51271"
+}, {
+  "kecamatan" : "Banyuputih",
+  "kelurahan" : "Kalibalik",
+  "kodepos" : "51271"
+}, {
+  "kecamatan" : "Limpung",
+  "kelurahan" : "Kalangsono",
+  "kodepos" : "51271"
+}, {
+  "kecamatan" : "Limpung",
+  "kelurahan" : "Kalisalak",
+  "kodepos" : "51271"
+}, {
+  "kecamatan" : "Banyuputih",
+  "kelurahan" : "Dlimas",
+  "kodepos" : "51271"
+}, {
+  "kecamatan" : "Limpung",
+  "kelurahan" : "Dlisen",
+  "kodepos" : "51271"
+}, {
+  "kecamatan" : "Limpung",
+  "kelurahan" : "Donorejo",
+  "kodepos" : "51271"
+}, {
+  "kecamatan" : "Limpung",
+  "kelurahan" : "Babadan",
+  "kodepos" : "51271"
+}, {
+  "kecamatan" : "Banyuputih",
+  "kelurahan" : "Banyuputih",
+  "kodepos" : "51271"
+}, {
+  "kecamatan" : "Limpung",
+  "kelurahan" : "Amongrogo",
+  "kodepos" : "51271"
+}, {
+  "kecamatan" : "Subah",
+  "kelurahan" : "Subah",
+  "kodepos" : "51262"
+}, {
+  "kecamatan" : "Subah",
+  "kelurahan" : "Tenggulangharjo",
+  "kodepos" : "51262"
+}, {
+  "kecamatan" : "Subah",
+  "kelurahan" : "Sengon",
+  "kodepos" : "51262"
+}, {
+  "kecamatan" : "Subah",
+  "kelurahan" : "Siberuk",
+  "kodepos" : "51262"
+}, {
+  "kecamatan" : "Pecalungan",
+  "kelurahan" : "Siguci",
+  "kodepos" : "51262"
+}, {
+  "kecamatan" : "Pecalungan",
+  "kelurahan" : "Pretek",
+  "kodepos" : "51262"
+}, {
+  "kecamatan" : "Pecalungan",
+  "kelurahan" : "Randu",
+  "kodepos" : "51262"
+}, {
+  "kecamatan" : "Pecalungan",
+  "kelurahan" : "Selokarto",
+  "kodepos" : "51262"
+}, {
+  "kecamatan" : "Subah",
+  "kelurahan" : "Menjangan",
+  "kodepos" : "51262"
+}, {
+  "kecamatan" : "Pecalungan",
+  "kelurahan" : "Pecalungan",
+  "kodepos" : "51262"
+}, {
+  "kecamatan" : "Subah",
+  "kelurahan" : "Kuripan",
+  "kodepos" : "51262"
+}, {
+  "kecamatan" : "Subah",
+  "kelurahan" : "Mangunharjo",
+  "kodepos" : "51262"
+}, {
+  "kecamatan" : "Pecalungan",
+  "kelurahan" : "Keniten",
+  "kodepos" : "51262"
+}, {
+  "kecamatan" : "Subah",
+  "kelurahan" : "Kemiri Timur",
+  "kodepos" : "51262"
+}, {
+  "kecamatan" : "Subah",
+  "kelurahan" : "Kumejing",
+  "kodepos" : "51262"
+}, {
+  "kecamatan" : "Subah",
+  "kelurahan" : "Kebumen",
+  "kodepos" : "51262"
+}, {
+  "kecamatan" : "Subah",
+  "kelurahan" : "Kemiri Barat",
+  "kodepos" : "51262"
+}, {
+  "kecamatan" : "Subah",
+  "kelurahan" : "Keborangan",
+  "kodepos" : "51262"
+}, {
+  "kecamatan" : "Subah",
+  "kelurahan" : "Karangtengah",
+  "kodepos" : "51262"
+}, {
+  "kecamatan" : "Subah",
+  "kelurahan" : "Jrakahpayung",
+  "kodepos" : "51262"
+}, {
+  "kecamatan" : "Subah",
+  "kelurahan" : "Kalimanggis",
+  "kodepos" : "51262"
+}, {
+  "kecamatan" : "Subah",
+  "kelurahan" : "Jatisari",
+  "kodepos" : "51262"
+}, {
+  "kecamatan" : "Subah",
+  "kelurahan" : "Jolosekti",
+  "kodepos" : "51262"
+}, {
+  "kecamatan" : "Pecalungan",
+  "kelurahan" : "Gumawang",
+  "kodepos" : "51262"
+}, {
+  "kecamatan" : "Subah",
+  "kelurahan" : "Gondang",
+  "kodepos" : "51262"
+}, {
+  "kecamatan" : "Pecalungan",
+  "kelurahan" : "Gombong",
+  "kodepos" : "51262"
+}, {
+  "kecamatan" : "Pecalungan",
+  "kelurahan" : "Gemuh",
+  "kodepos" : "51262"
+}, {
+  "kecamatan" : "Subah",
+  "kelurahan" : "Cluwuk",
+  "kodepos" : "51262"
+}, {
+  "kecamatan" : "Subah",
+  "kelurahan" : "Durenombo",
+  "kodepos" : "51262"
+}, {
+  "kecamatan" : "Subah",
+  "kelurahan" : "Clapar",
+  "kodepos" : "51262"
+}, {
+  "kecamatan" : "Pecalungan",
+  "kelurahan" : "Bandung",
+  "kodepos" : "51262"
+}, {
+  "kecamatan" : "Subah",
+  "kelurahan" : "Adinuso",
+  "kodepos" : "51262"
+}, {
+  "kecamatan" : "Tulis",
+  "kelurahan" : "Wringingintung",
+  "kodepos" : "51261"
+}, {
+  "kecamatan" : "Kandeman",
+  "kelurahan" : "Ujungnegoro",
+  "kodepos" : "51261"
+}, {
+  "kecamatan" : "Kandeman",
+  "kelurahan" : "Wonokerso",
+  "kodepos" : "51261"
+}, {
+  "kecamatan" : "Tulis",
+  "kelurahan" : "Tulis",
+  "kodepos" : "51261"
+}, {
+  "kecamatan" : "Kandeman",
+  "kelurahan" : "Tragung",
+  "kodepos" : "51261"
+}, {
+  "kecamatan" : "Kandeman",
+  "kelurahan" : "Tegalsari",
+  "kodepos" : "51261"
+}, {
+  "kecamatan" : "Tulis",
+  "kelurahan" : "Simbangdesa",
+  "kodepos" : "51261"
+}, {
+  "kecamatan" : "Tulis",
+  "kelurahan" : "Simbangjati",
+  "kodepos" : "51261"
+}, {
+  "kecamatan" : "Tulis",
+  "kelurahan" : "Sembojo",
+  "kodepos" : "51261"
+}, {
+  "kecamatan" : "Tulis",
+  "kelurahan" : "Posong",
+  "kodepos" : "51261"
+}, {
+  "kecamatan" : "Tulis",
+  "kelurahan" : "Ponowareng",
+  "kodepos" : "51261"
+}, {
+  "kecamatan" : "Kandeman",
+  "kelurahan" : "Lawangaji",
+  "kodepos" : "51261"
+}, {
+  "kecamatan" : "Tulis",
+  "kelurahan" : "Kedungsegog",
+  "kodepos" : "51261"
+}, {
+  "kecamatan" : "Tulis",
+  "kelurahan" : "Kenconorejo",
+  "kodepos" : "51261"
+}, {
+  "kecamatan" : "Kandeman",
+  "kelurahan" : "Kandeman",
+  "kodepos" : "51261"
+}, {
+  "kecamatan" : "Kandeman",
+  "kelurahan" : "Karanganom",
+  "kodepos" : "51261"
+}, {
+  "kecamatan" : "Kandeman",
+  "kelurahan" : "Karanggeneng",
+  "kodepos" : "51261"
+}, {
+  "kecamatan" : "Tulis",
+  "kelurahan" : "Kaliboyo",
+  "kodepos" : "51261"
+}, {
+  "kecamatan" : "Kandeman",
+  "kelurahan" : "Juragan",
+  "kodepos" : "51261"
+}, {
+  "kecamatan" : "Kandeman",
+  "kelurahan" : "Cempereng",
+  "kodepos" : "51261"
+}, {
+  "kecamatan" : "Kandeman",
+  "kelurahan" : "Depok",
+  "kodepos" : "51261"
+}, {
+  "kecamatan" : "Kandeman",
+  "kelurahan" : "Botolambat",
+  "kodepos" : "51261"
+}, {
+  "kecamatan" : "Tulis",
+  "kelurahan" : "Beji",
+  "kodepos" : "51261"
+}, {
+  "kecamatan" : "Kandeman",
+  "kelurahan" : "Bakalan",
+  "kodepos" : "51261"
+}, {
+  "kecamatan" : "Blado",
+  "kelurahan" : "Wonorojo",
+  "kodepos" : "51255"
+}, {
+  "kecamatan" : "Blado",
+  "kelurahan" : "Selopajang Timur",
+  "kodepos" : "51255"
+}, {
+  "kecamatan" : "Blado",
+  "kelurahan" : "Wonobodro",
+  "kodepos" : "51255"
+}, {
+  "kecamatan" : "Blado",
+  "kelurahan" : "Pesantren",
+  "kodepos" : "51255"
+}, {
+  "kecamatan" : "Blado",
+  "kelurahan" : "Selopajang Barat",
+  "kodepos" : "51255"
+}, {
+  "kecamatan" : "Blado",
+  "kelurahan" : "Keputon",
+  "kodepos" : "51255"
+}, {
+  "kecamatan" : "Blado",
+  "kelurahan" : "Keteleng",
+  "kodepos" : "51255"
+}, {
+  "kecamatan" : "Blado",
+  "kelurahan" : "Kambangan (Kembangan)",
+  "kodepos" : "51255"
+}, {
+  "kecamatan" : "Blado",
+  "kelurahan" : "Kembanglangit",
+  "kodepos" : "51255"
+}, {
+  "kecamatan" : "Blado",
+  "kelurahan" : "Kalisari",
+  "kodepos" : "51255"
+}, {
+  "kecamatan" : "Blado",
+  "kelurahan" : "Kalitengah",
+  "kodepos" : "51255"
+}, {
+  "kecamatan" : "Blado",
+  "kelurahan" : "Gondang",
+  "kodepos" : "51255"
+}, {
+  "kecamatan" : "Blado",
+  "kelurahan" : "Kalipancur",
+  "kodepos" : "51255"
+}, {
+  "kecamatan" : "Blado",
+  "kelurahan" : "Gerlang",
+  "kodepos" : "51255"
+}, {
+  "kecamatan" : "Blado",
+  "kelurahan" : "Blado",
+  "kodepos" : "51255"
+}, {
+  "kecamatan" : "Blado",
+  "kelurahan" : "Cokro",
+  "kodepos" : "51255"
+}, {
+  "kecamatan" : "Blado",
+  "kelurahan" : "Bismo",
+  "kodepos" : "51255"
+}, {
+  "kecamatan" : "Blado",
+  "kelurahan" : "Bawang",
+  "kodepos" : "51255"
+}, {
+  "kecamatan" : "Blado",
+  "kelurahan" : "Besani",
+  "kodepos" : "51255"
+}, {
+  "kecamatan" : "Bandar",
+  "kelurahan" : "Wonosegoro",
+  "kodepos" : "51254"
+}, {
+  "kecamatan" : "Bandar",
+  "kelurahan" : "Wonokerto",
+  "kodepos" : "51254"
+}, {
+  "kecamatan" : "Bandar",
+  "kelurahan" : "Wonomerto",
+  "kodepos" : "51254"
+}, {
+  "kecamatan" : "Bandar",
+  "kelurahan" : "Wonodadi",
+  "kodepos" : "51254"
+}, {
+  "kecamatan" : "Bandar",
+  "kelurahan" : "Toso",
+  "kodepos" : "51254"
+}, {
+  "kecamatan" : "Bandar",
+  "kelurahan" : "Tumbrep",
+  "kodepos" : "51254"
+}, {
+  "kecamatan" : "Bandar",
+  "kelurahan" : "Tombo",
+  "kodepos" : "51254"
+}, {
+  "kecamatan" : "Bandar",
+  "kelurahan" : "Simpar",
+  "kodepos" : "51254"
+}, {
+  "kecamatan" : "Bandar",
+  "kelurahan" : "Tambahrejo",
+  "kodepos" : "51254"
+}, {
+  "kecamatan" : "Bandar",
+  "kelurahan" : "Pesalakan",
+  "kodepos" : "51254"
+}, {
+  "kecamatan" : "Bandar",
+  "kelurahan" : "Pucanggading",
+  "kodepos" : "51254"
+}, {
+  "kecamatan" : "Bandar",
+  "kelurahan" : "Sidayu",
+  "kodepos" : "51254"
+}, {
+  "kecamatan" : "Bandar",
+  "kelurahan" : "Manggis",
+  "kodepos" : "51254"
+}, {
+  "kecamatan" : "Bandar",
+  "kelurahan" : "Candi",
+  "kodepos" : "51254"
+}, {
+  "kecamatan" : "Bandar",
+  "kelurahan" : "Kluwih",
+  "kodepos" : "51254"
+}, {
+  "kecamatan" : "Bandar",
+  "kelurahan" : "Batiombo",
+  "kodepos" : "51254"
+}, {
+  "kecamatan" : "Bandar",
+  "kelurahan" : "Binangun",
+  "kodepos" : "51254"
+}, {
+  "kecamatan" : "Wonotunggal",
+  "kelurahan" : "Wonotunggal",
+  "kodepos" : "51253"
+}, {
+  "kecamatan" : "Bandar",
+  "kelurahan" : "Bandar",
+  "kodepos" : "51254"
+}, {
+  "kecamatan" : "Wonotunggal",
+  "kelurahan" : "Wates",
+  "kodepos" : "51253"
+}, {
+  "kecamatan" : "Wonotunggal",
+  "kelurahan" : "Sodong",
+  "kodepos" : "51253"
+}, {
+  "kecamatan" : "Wonotunggal",
+  "kelurahan" : "Siwatu",
+  "kodepos" : "51253"
+}, {
+  "kecamatan" : "Wonotunggal",
+  "kelurahan" : "Sigayam",
+  "kodepos" : "51253"
+}, {
+  "kecamatan" : "Wonotunggal",
+  "kelurahan" : "Silurah",
+  "kodepos" : "51253"
+}, {
+  "kecamatan" : "Wonotunggal",
+  "kelurahan" : "Sendang",
+  "kodepos" : "51253"
+}, {
+  "kecamatan" : "Wonotunggal",
+  "kelurahan" : "Kreyo",
+  "kodepos" : "51253"
+}, {
+  "kecamatan" : "Wonotunggal",
+  "kelurahan" : "Penangkan",
+  "kodepos" : "51253"
+}, {
+  "kecamatan" : "Wonotunggal",
+  "kelurahan" : "Kemligi",
+  "kodepos" : "51253"
+}, {
+  "kecamatan" : "Wonotunggal",
+  "kelurahan" : "Gringgingsari",
+  "kodepos" : "51253"
+}, {
+  "kecamatan" : "Wonotunggal",
+  "kelurahan" : "Kedungmalang",
+  "kodepos" : "51253"
+}, {
+  "kecamatan" : "Wonotunggal",
+  "kelurahan" : "Brokoh",
+  "kodepos" : "51253"
+}, {
+  "kecamatan" : "Wonotunggal",
+  "kelurahan" : "Dringo",
+  "kodepos" : "51253"
+}, {
+  "kecamatan" : "Warungasem",
+  "kelurahan" : "Warungasem",
+  "kodepos" : "51252"
+}, {
+  "kecamatan" : "Wonotunggal",
+  "kelurahan" : "Brayo",
+  "kodepos" : "51253"
+}, {
+  "kecamatan" : "Warungasem",
+  "kelurahan" : "Terban",
+  "kodepos" : "51252"
+}, {
+  "kecamatan" : "Warungasem",
+  "kelurahan" : "Sijono",
+  "kodepos" : "51252"
+}, {
+  "kecamatan" : "Warungasem",
+  "kelurahan" : "Sidorejo",
+  "kodepos" : "51252"
+}, {
+  "kecamatan" : "Warungasem",
+  "kelurahan" : "Sariglagah",
+  "kodepos" : "51252"
+}, {
+  "kecamatan" : "Warungasem",
+  "kelurahan" : "Sawahjoho",
+  "kodepos" : "51252"
+}, {
+  "kecamatan" : "Warungasem",
+  "kelurahan" : "Pesaren",
+  "kodepos" : "51252"
+}, {
+  "kecamatan" : "Warungasem",
+  "kelurahan" : "Pandansari",
+  "kodepos" : "51252"
+}, {
+  "kecamatan" : "Warungasem",
+  "kelurahan" : "Pejambon",
+  "kodepos" : "51252"
+}, {
+  "kecamatan" : "Warungasem",
+  "kelurahan" : "Masin",
+  "kodepos" : "51252"
+}, {
+  "kecamatan" : "Warungasem",
+  "kelurahan" : "Menguneng",
+  "kodepos" : "51252"
+}, {
+  "kecamatan" : "Warungasem",
+  "kelurahan" : "Lebo",
+  "kodepos" : "51252"
+}, {
+  "kecamatan" : "Warungasem",
+  "kelurahan" : "Gapuro",
+  "kodepos" : "51252"
+}, {
+  "kecamatan" : "Warungasem",
+  "kelurahan" : "Kalibeluk",
+  "kodepos" : "51252"
+}, {
+  "kecamatan" : "Warungasem",
+  "kelurahan" : "Kaliwareng",
+  "kodepos" : "51252"
+}, {
+  "kecamatan" : "Warungasem",
+  "kelurahan" : "Cepagan",
+  "kodepos" : "51252"
+}, {
+  "kecamatan" : "Warungasem",
+  "kelurahan" : "Banjiran",
+  "kodepos" : "51252"
+}, {
+  "kecamatan" : "Warungasem",
+  "kelurahan" : "Candiareng",
+  "kodepos" : "51252"
+}, {
+  "kecamatan" : "Batang",
+  "kelurahan" : "Pasekaran",
+  "kodepos" : "51216"
+}, {
+  "kecamatan" : "Batang",
+  "kelurahan" : "Rowobelang",
+  "kodepos" : "51216"
+}, {
+  "kecamatan" : "Batang",
+  "kelurahan" : "Watesalit",
+  "kodepos" : "51216"
+}, {
+  "kecamatan" : "Batang",
+  "kelurahan" : "Klidang Lor",
+  "kodepos" : "51216"
+}, {
+  "kecamatan" : "Batang",
+  "kelurahan" : "Klidang Wetan",
+  "kodepos" : "51216"
+}, {
+  "kecamatan" : "Batang",
+  "kelurahan" : "Karangasem Utara",
+  "kodepos" : "51216"
+}, {
+  "kecamatan" : "Batang",
+  "kelurahan" : "Kecepak",
+  "kodepos" : "51216"
+}, {
+  "kecamatan" : "Batang",
+  "kelurahan" : "Karanganyar",
+  "kodepos" : "51216"
+}, {
+  "kecamatan" : "Batang",
+  "kelurahan" : "Karangasem Selatan",
+  "kodepos" : "51216"
+}, {
+  "kecamatan" : "Batang",
+  "kelurahan" : "Kalisalak",
+  "kodepos" : "51216"
+}, {
+  "kecamatan" : "Batang",
+  "kelurahan" : "Kalipucang Wetan",
+  "kodepos" : "51216"
+}, {
+  "kecamatan" : "Batang",
+  "kelurahan" : "Denasri Wetan",
+  "kodepos" : "51216"
+}, {
+  "kecamatan" : "Batang",
+  "kelurahan" : "Kalipucang Kulon",
+  "kodepos" : "51216"
+}, {
+  "kecamatan" : "Batang",
+  "kelurahan" : "Denasri Kulon",
+  "kodepos" : "51216"
+}, {
+  "kecamatan" : "Batang",
+  "kelurahan" : "Cepokokuning",
+  "kodepos" : "51216"
+}, {
+  "kecamatan" : "Batang",
+  "kelurahan" : "Kauman",
+  "kodepos" : "51215"
+}, {
+  "kecamatan" : "Batang",
+  "kelurahan" : "Sambong",
+  "kodepos" : "51212"
+}, {
+  "kecamatan" : "Batang",
+  "kelurahan" : "Kasepuhan",
+  "kodepos" : "51214"
+}, {
+  "kecamatan" : "Batang",
+  "kelurahan" : "Proyonanggan Utara",
+  "kodepos" : "51211"
+}, {
+  "kecamatan" : "Batang",
+  "kelurahan" : "Proyonanggan Selatan",
+  "kodepos" : "51211"
+}, {
+  "kecamatan" : "Batang",
+  "kelurahan" : "Proyonanggan Tengah",
+  "kodepos" : "51211"
+} ]

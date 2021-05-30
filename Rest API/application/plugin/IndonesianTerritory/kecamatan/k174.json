@@ -1,0 +1,709 @@
+[ {
+  "kecamatan" : "Teluk Sampit",
+  "kelurahan" : "Ujung Pandaran",
+  "kodepos" : "74363"
+}, {
+  "kecamatan" : "Mentaya Hilir Selatan",
+  "kelurahan" : "Samuda Kota",
+  "kodepos" : "74363"
+}, {
+  "kecamatan" : "Mentaya Hilir Selatan",
+  "kelurahan" : "Sei/Sungai Ijum Raya",
+  "kodepos" : "74363"
+}, {
+  "kecamatan" : "Mentaya Hilir Selatan",
+  "kelurahan" : "Sabamban",
+  "kodepos" : "74363"
+}, {
+  "kecamatan" : "Mentaya Hilir Selatan",
+  "kelurahan" : "Samuda Besar",
+  "kodepos" : "74363"
+}, {
+  "kecamatan" : "Mentaya Hilir Selatan",
+  "kelurahan" : "Samuda Kecil",
+  "kodepos" : "74363"
+}, {
+  "kecamatan" : "Teluk Sampit",
+  "kelurahan" : "Regei Lestari",
+  "kodepos" : "74363"
+}, {
+  "kecamatan" : "Teluk Sampit",
+  "kelurahan" : "Parebok",
+  "kodepos" : "74363"
+}, {
+  "kecamatan" : "Mentaya Hilir Selatan",
+  "kelurahan" : "Jaya Kelapa",
+  "kodepos" : "74363"
+}, {
+  "kecamatan" : "Teluk Sampit",
+  "kelurahan" : "Kuin Permai",
+  "kodepos" : "74363"
+}, {
+  "kecamatan" : "Teluk Sampit",
+  "kelurahan" : "Lampuyang",
+  "kodepos" : "74363"
+}, {
+  "kecamatan" : "Mentaya Hilir Selatan",
+  "kelurahan" : "Basirih Hulu",
+  "kodepos" : "74363"
+}, {
+  "kecamatan" : "Mentaya Hilir Selatan",
+  "kelurahan" : "Handil Sohor",
+  "kodepos" : "74363"
+}, {
+  "kecamatan" : "Mentaya Hilir Selatan",
+  "kelurahan" : "Jaya Karet",
+  "kodepos" : "74363"
+}, {
+  "kecamatan" : "Mentaya Hilir Selatan",
+  "kelurahan" : "Basirih Hilir",
+  "kodepos" : "74363"
+}, {
+  "kecamatan" : "Pulau Hanaut",
+  "kelurahan" : "Serambut",
+  "kodepos" : "74362"
+}, {
+  "kecamatan" : "Teluk Sampit",
+  "kelurahan" : "Basawang",
+  "kodepos" : "74363"
+}, {
+  "kecamatan" : "Pulau Hanaut",
+  "kelurahan" : "Rawa Sari",
+  "kodepos" : "74362"
+}, {
+  "kecamatan" : "Pulau Hanaut",
+  "kelurahan" : "Satiruk",
+  "kodepos" : "74362"
+}, {
+  "kecamatan" : "Pulau Hanaut",
+  "kelurahan" : "Bapinang Hulu",
+  "kodepos" : "74362"
+}, {
+  "kecamatan" : "Pulau Hanaut",
+  "kelurahan" : "Hanaut",
+  "kodepos" : "74362"
+}, {
+  "kecamatan" : "Pulau Hanaut",
+  "kelurahan" : "Makarti Jaya",
+  "kodepos" : "74362"
+}, {
+  "kecamatan" : "Pulau Hanaut",
+  "kelurahan" : "Bapinang Hilir",
+  "kodepos" : "74362"
+}, {
+  "kecamatan" : "Pulau Hanaut",
+  "kelurahan" : "Bapinang Hilir Laut",
+  "kodepos" : "74362"
+}, {
+  "kecamatan" : "Pulau Hanaut",
+  "kelurahan" : "Babriah",
+  "kodepos" : "74362"
+}, {
+  "kecamatan" : "Pulau Hanaut",
+  "kelurahan" : "Babaung",
+  "kodepos" : "74362"
+}, {
+  "kecamatan" : "Mentaya Hilir Utara",
+  "kelurahan" : "Pondok Damar",
+  "kodepos" : "74361"
+}, {
+  "kecamatan" : "Mentaya Hilir Utara",
+  "kelurahan" : "Sumber Makmur",
+  "kodepos" : "74361"
+}, {
+  "kecamatan" : "Mentaya Hilir Utara",
+  "kelurahan" : "Bagendang Tengah",
+  "kodepos" : "74361"
+}, {
+  "kecamatan" : "Mentaya Hilir Utara",
+  "kelurahan" : "Natai Baru",
+  "kodepos" : "74361"
+}, {
+  "kecamatan" : "Mentaya Hilir Utara",
+  "kelurahan" : "Bagendang Hulu",
+  "kodepos" : "74361"
+}, {
+  "kecamatan" : "Mentaya Hilir Utara",
+  "kelurahan" : "Bagendang Permai",
+  "kodepos" : "74361"
+}, {
+  "kecamatan" : "Bukit Santuei",
+  "kelurahan" : "Tumbang Torung/Turung",
+  "kodepos" : "74356"
+}, {
+  "kecamatan" : "Mentaya Hilir Utara",
+  "kelurahan" : "Bagendang Hilir",
+  "kodepos" : "74361"
+}, {
+  "kecamatan" : "Bukit Santuei",
+  "kelurahan" : "Tumbang Tawan",
+  "kodepos" : "74356"
+}, {
+  "kecamatan" : "Bukit Santuei",
+  "kelurahan" : "Tumbang Tilap",
+  "kodepos" : "74356"
+}, {
+  "kecamatan" : "Mentaya Hulu",
+  "kelurahan" : "Tumbang Sapiri",
+  "kodepos" : "74356"
+}, {
+  "kecamatan" : "Bukit Santuei",
+  "kelurahan" : "Tumbang Sapia",
+  "kodepos" : "74356"
+}, {
+  "kecamatan" : "Bukit Santuei",
+  "kelurahan" : "Tumbang Penyahuan",
+  "kodepos" : "74356"
+}, {
+  "kecamatan" : "Bukit Santuei",
+  "kelurahan" : "Tumbang Saluang",
+  "kodepos" : "74356"
+}, {
+  "kecamatan" : "Bukit Santuei",
+  "kelurahan" : "Tumbang Kania",
+  "kodepos" : "74356"
+}, {
+  "kecamatan" : "Bukit Santuei",
+  "kelurahan" : "Tumbang Payang",
+  "kodepos" : "74356"
+}, {
+  "kecamatan" : "Bukit Santuei",
+  "kelurahan" : "Tumbang Batu",
+  "kodepos" : "74356"
+}, {
+  "kecamatan" : "Bukit Santuei",
+  "kelurahan" : "Tumbang Getas",
+  "kodepos" : "74356"
+}, {
+  "kecamatan" : "Bukit Santuei",
+  "kelurahan" : "Tumbang Kamining/Kaminting",
+  "kodepos" : "74356"
+}, {
+  "kecamatan" : "Bukit Santuei",
+  "kelurahan" : "Tewei Hara",
+  "kodepos" : "74356"
+}, {
+  "kecamatan" : "Mentaya Hulu",
+  "kelurahan" : "Tanjung Jariangau",
+  "kodepos" : "74356"
+}, {
+  "kecamatan" : "Telaga Antang",
+  "kelurahan" : "Tanjung Harapan",
+  "kodepos" : "74356"
+}, {
+  "kecamatan" : "Mentaya Hulu",
+  "kelurahan" : "Tanjung Batur",
+  "kodepos" : "74356"
+}, {
+  "kecamatan" : "Mentaya Hulu",
+  "kelurahan" : "Tangar",
+  "kodepos" : "74356"
+}, {
+  "kecamatan" : "Mentaya Hulu",
+  "kelurahan" : "Tangka Robah",
+  "kodepos" : "74356"
+}, {
+  "kecamatan" : "Bukit Santuei",
+  "kelurahan" : "Tanah Haluan",
+  "kodepos" : "74356"
+}, {
+  "kecamatan" : "Mentaya Hulu",
+  "kelurahan" : "Sationg",
+  "kodepos" : "74356"
+}, {
+  "kecamatan" : "Mentaya Hulu",
+  "kelurahan" : "Penda Durian",
+  "kodepos" : "74356"
+}, {
+  "kecamatan" : "Mentaya Hulu",
+  "kelurahan" : "Santilik",
+  "kodepos" : "74356"
+}, {
+  "kecamatan" : "Bukit Santuei",
+  "kelurahan" : "Lunuk Bagantung",
+  "kodepos" : "74356"
+}, {
+  "kecamatan" : "Mentaya Hulu",
+  "kelurahan" : "Pahirangan",
+  "kodepos" : "74356"
+}, {
+  "kecamatan" : "Mentaya Hulu",
+  "kelurahan" : "Pemantang",
+  "kodepos" : "74356"
+}, {
+  "kecamatan" : "Mentaya Hulu",
+  "kelurahan" : "Kuala Kuayan",
+  "kodepos" : "74356"
+}, {
+  "kecamatan" : "Telaga Antang",
+  "kelurahan" : "Buana Mustika",
+  "kodepos" : "74356"
+}, {
+  "kecamatan" : "Mentaya Hulu",
+  "kelurahan" : "Kapuk",
+  "kodepos" : "74356"
+}, {
+  "kecamatan" : "Mentaya Hulu",
+  "kelurahan" : "Kawan Batu",
+  "kodepos" : "74356"
+}, {
+  "kecamatan" : "Mentaya Hulu",
+  "kelurahan" : "Baampah",
+  "kodepos" : "74356"
+}, {
+  "kecamatan" : "Mentaya Hulu",
+  "kelurahan" : "Bawan",
+  "kodepos" : "74356"
+}, {
+  "kecamatan" : "Tualan Hulu",
+  "kelurahan" : "Wonosari",
+  "kodepos" : "74355"
+}, {
+  "kecamatan" : "Tualan Hulu",
+  "kelurahan" : "Tumbang Mujam",
+  "kodepos" : "74355"
+}, {
+  "kecamatan" : "Parenggean",
+  "kelurahan" : "Tehang",
+  "kodepos" : "74355"
+}, {
+  "kecamatan" : "Parenggean",
+  "kelurahan" : "Sumber Makmur",
+  "kodepos" : "74355"
+}, {
+  "kecamatan" : "Tualan Hulu",
+  "kelurahan" : "Tanjung Jorong",
+  "kodepos" : "74355"
+}, {
+  "kecamatan" : "Parenggean",
+  "kelurahan" : "Sari Harapan",
+  "kodepos" : "74355"
+}, {
+  "kecamatan" : "Tualan Hulu",
+  "kelurahan" : "Sebungsu",
+  "kodepos" : "74355"
+}, {
+  "kecamatan" : "Tualan Hulu",
+  "kelurahan" : "Merah",
+  "kodepos" : "74355"
+}, {
+  "kecamatan" : "Parenggean",
+  "kelurahan" : "Parenggean",
+  "kodepos" : "74355"
+}, {
+  "kecamatan" : "Tualan Hulu",
+  "kelurahan" : "Mekar Sari",
+  "kodepos" : "74355"
+}, {
+  "kecamatan" : "Parenggean",
+  "kelurahan" : "Mekar Jaya",
+  "kodepos" : "74355"
+}, {
+  "kecamatan" : "Tualan Hulu",
+  "kelurahan" : "Luwuk Sampun",
+  "kodepos" : "74355"
+}, {
+  "kecamatan" : "Parenggean",
+  "kelurahan" : "Karang Tunggal",
+  "kodepos" : "74355"
+}, {
+  "kecamatan" : "Parenggean",
+  "kelurahan" : "Kabuau",
+  "kodepos" : "74355"
+}, {
+  "kecamatan" : "Parenggean",
+  "kelurahan" : "Karang Sari",
+  "kodepos" : "74355"
+}, {
+  "kecamatan" : "Tualan Hulu",
+  "kelurahan" : "Damar Makmur",
+  "kodepos" : "74355"
+}, {
+  "kecamatan" : "Tualan Hulu",
+  "kelurahan" : "Jati Waringin",
+  "kodepos" : "74355"
+}, {
+  "kecamatan" : "Tualan Hulu",
+  "kelurahan" : "Bukit Makmur",
+  "kodepos" : "74355"
+}, {
+  "kecamatan" : "Tualan Hulu",
+  "kelurahan" : "Cempaka Putih",
+  "kodepos" : "74355"
+}, {
+  "kecamatan" : "Parenggean",
+  "kelurahan" : "Bukit Harapan",
+  "kodepos" : "74355"
+}, {
+  "kecamatan" : "Parenggean",
+  "kelurahan" : "Baringin Tunggal Jaya",
+  "kodepos" : "74355"
+}, {
+  "kecamatan" : "Parenggean",
+  "kelurahan" : "Barunang Miri",
+  "kodepos" : "74355"
+}, {
+  "kecamatan" : "Parenggean",
+  "kelurahan" : "Bajarau",
+  "kodepos" : "74355"
+}, {
+  "kecamatan" : "Parenggean",
+  "kelurahan" : "Bandar Agung",
+  "kodepos" : "74355"
+}, {
+  "kecamatan" : "Cempaga Hulu",
+  "kelurahan" : "Tumbang Koling/Kuling",
+  "kodepos" : "74354"
+}, {
+  "kecamatan" : "Cempaga Hulu",
+  "kelurahan" : "Sudan",
+  "kodepos" : "74354"
+}, {
+  "kecamatan" : "Cempaga Hulu",
+  "kelurahan" : "Sungai Ubar Mandiri",
+  "kodepos" : "74354"
+}, {
+  "kecamatan" : "Cempaga",
+  "kelurahan" : "Sei/Sungai Paring",
+  "kodepos" : "74354"
+}, {
+  "kecamatan" : "Cempaga Hulu",
+  "kelurahan" : "Selucing",
+  "kodepos" : "74354"
+}, {
+  "kecamatan" : "Cempaga",
+  "kelurahan" : "Rubung Buyung",
+  "kodepos" : "74354"
+}, {
+  "kecamatan" : "Cempaga Hulu",
+  "kelurahan" : "Pundu",
+  "kodepos" : "74354"
+}, {
+  "kecamatan" : "Cempaga",
+  "kelurahan" : "Patai",
+  "kodepos" : "74354"
+}, {
+  "kecamatan" : "Cempaga Hulu",
+  "kelurahan" : "Pelantaran",
+  "kodepos" : "74354"
+}, {
+  "kecamatan" : "Cempaga Hulu",
+  "kelurahan" : "Pantai Harapan",
+  "kodepos" : "74354"
+}, {
+  "kecamatan" : "Cempaga Hulu",
+  "kelurahan" : "Parit",
+  "kodepos" : "74354"
+}, {
+  "kecamatan" : "Cempaga",
+  "kelurahan" : "Lubuk Ranggan",
+  "kodepos" : "74354"
+}, {
+  "kecamatan" : "Cempaga",
+  "kelurahan" : "Luwuk Bunter (Lubuk Bunter)",
+  "kodepos" : "74354"
+}, {
+  "kecamatan" : "Cempaga Hulu",
+  "kelurahan" : "Keruing",
+  "kodepos" : "74354"
+}, {
+  "kecamatan" : "Cempaga",
+  "kelurahan" : "Jemaras",
+  "kodepos" : "74354"
+}, {
+  "kecamatan" : "Cempaga",
+  "kelurahan" : "Cempaka Mulia Barat",
+  "kodepos" : "74354"
+}, {
+  "kecamatan" : "Cempaga",
+  "kelurahan" : "Cempaka Mulia Timur",
+  "kodepos" : "74354"
+}, {
+  "kecamatan" : "Cempaga Hulu",
+  "kelurahan" : "Bukit Raya",
+  "kodepos" : "74354"
+}, {
+  "kecamatan" : "Telawang",
+  "kelurahan" : "Tanah Putih",
+  "kodepos" : "74353"
+}, {
+  "kecamatan" : "Cempaga Hulu",
+  "kelurahan" : "Bukit Batu",
+  "kodepos" : "74354"
+}, {
+  "kecamatan" : "Kota Besi",
+  "kelurahan" : "Soren",
+  "kodepos" : "74353"
+}, {
+  "kecamatan" : "Telawang",
+  "kelurahan" : "Sumber Makmur",
+  "kodepos" : "74353"
+}, {
+  "kecamatan" : "Kota Besi",
+  "kelurahan" : "Simpur",
+  "kodepos" : "74353"
+}, {
+  "kecamatan" : "Telawang",
+  "kelurahan" : "Sebabi",
+  "kodepos" : "74353"
+}, {
+  "kecamatan" : "Kota Besi",
+  "kelurahan" : "Rasau Tumbuh",
+  "kodepos" : "74353"
+}, {
+  "kecamatan" : "Telawang",
+  "kelurahan" : "Peryang",
+  "kodepos" : "74353"
+}, {
+  "kecamatan" : "Kota Besi",
+  "kelurahan" : "Pamalian",
+  "kodepos" : "74353"
+}, {
+  "kecamatan" : "Kota Besi",
+  "kelurahan" : "Kota Besi Hulu",
+  "kodepos" : "74353"
+}, {
+  "kecamatan" : "Kota Besi",
+  "kelurahan" : "Palangan",
+  "kodepos" : "74353"
+}, {
+  "kecamatan" : "Telawang",
+  "kelurahan" : "Kenyala",
+  "kodepos" : "74353"
+}, {
+  "kecamatan" : "Kota Besi",
+  "kelurahan" : "Kandan",
+  "kodepos" : "74353"
+}, {
+  "kecamatan" : "Kota Besi",
+  "kelurahan" : "Kota Besi Hilir",
+  "kodepos" : "74353"
+}, {
+  "kecamatan" : "Kota Besi",
+  "kelurahan" : "Camba",
+  "kodepos" : "74353"
+}, {
+  "kecamatan" : "Kota Besi",
+  "kelurahan" : "Hanjalipan",
+  "kodepos" : "74353"
+}, {
+  "kecamatan" : "Telawang",
+  "kelurahan" : "Biru Maju",
+  "kodepos" : "74353"
+}, {
+  "kecamatan" : "Kota Besi",
+  "kelurahan" : "Bajarum",
+  "kodepos" : "74353"
+}, {
+  "kecamatan" : "Antang Kalang",
+  "kelurahan" : "Tumbang Sepayang",
+  "kodepos" : "74352"
+}, {
+  "kecamatan" : "Antang Kalang",
+  "kelurahan" : "Waringin Agung",
+  "kodepos" : "74352"
+}, {
+  "kecamatan" : "Telaga Antang",
+  "kelurahan" : "Tumbang Sangai",
+  "kodepos" : "74352"
+}, {
+  "kecamatan" : "Antang Kalang",
+  "kelurahan" : "Tumbang Ramei / Ramai",
+  "kodepos" : "74352"
+}, {
+  "kecamatan" : "Telaga Antang",
+  "kelurahan" : "Tumbang Puan",
+  "kodepos" : "74352"
+}, {
+  "kecamatan" : "Antang Kalang",
+  "kelurahan" : "Tumbang Manya",
+  "kodepos" : "74352"
+}, {
+  "kecamatan" : "Antang Kalang",
+  "kelurahan" : "Tumbang Ngahan",
+  "kodepos" : "74352"
+}, {
+  "kecamatan" : "Antang Kalang",
+  "kelurahan" : "Tumbang Kalang",
+  "kodepos" : "74352"
+}, {
+  "kecamatan" : "Telaga Antang",
+  "kelurahan" : "Tumbang Mangkup",
+  "kodepos" : "74352"
+}, {
+  "kecamatan" : "Telaga Antang",
+  "kelurahan" : "Tumbang Boloi",
+  "kodepos" : "74352"
+}, {
+  "kecamatan" : "Antang Kalang",
+  "kelurahan" : "Tumbang Gagu",
+  "kodepos" : "74352"
+}, {
+  "kecamatan" : "Antang Kalang",
+  "kelurahan" : "Tumbang Hejan",
+  "kodepos" : "74352"
+}, {
+  "kecamatan" : "Antang Kalang",
+  "kelurahan" : "Tumbang Bajanei",
+  "kodepos" : "74352"
+}, {
+  "kecamatan" : "Telaga Antang",
+  "kelurahan" : "Tukang Langit",
+  "kodepos" : "74352"
+}, {
+  "kecamatan" : "Antang Kalang",
+  "kelurahan" : "Sei/Sungai Puring",
+  "kodepos" : "74352"
+}, {
+  "kecamatan" : "Telaga Antang",
+  "kelurahan" : "Tri Buana",
+  "kodepos" : "74352"
+}, {
+  "kecamatan" : "Antang Kalang",
+  "kelurahan" : "Sei/Sungai Hanya",
+  "kodepos" : "74352"
+}, {
+  "kecamatan" : "Telaga Antang",
+  "kelurahan" : "Rantau Tampang",
+  "kodepos" : "74352"
+}, {
+  "kecamatan" : "Telaga Antang",
+  "kelurahan" : "Rantau Sawang",
+  "kodepos" : "74352"
+}, {
+  "kecamatan" : "Telaga Antang",
+  "kelurahan" : "Rantau Suang",
+  "kodepos" : "74352"
+}, {
+  "kecamatan" : "Telaga Antang",
+  "kelurahan" : "Rantau Katang",
+  "kodepos" : "74352"
+}, {
+  "kecamatan" : "Antang Kalang",
+  "kelurahan" : "Mulya Agung",
+  "kodepos" : "74352"
+}, {
+  "kecamatan" : "Antang Kalang",
+  "kelurahan" : "Gunung Makmur",
+  "kodepos" : "74352"
+}, {
+  "kecamatan" : "Telaga Antang",
+  "kelurahan" : "Luwuk Kuwan",
+  "kodepos" : "74352"
+}, {
+  "kecamatan" : "Antang Kalang",
+  "kelurahan" : "Kuluk Telawang",
+  "kodepos" : "74352"
+}, {
+  "kecamatan" : "Antang Kalang",
+  "kelurahan" : "Buntut Nusa",
+  "kodepos" : "74352"
+}, {
+  "kecamatan" : "Telaga Antang",
+  "kelurahan" : "Bukit Indah",
+  "kodepos" : "74352"
+}, {
+  "kecamatan" : "Antang Kalang",
+  "kelurahan" : "Bhakti Karya",
+  "kodepos" : "74352"
+}, {
+  "kecamatan" : "Telaga Antang",
+  "kelurahan" : "Beringin Agung",
+  "kodepos" : "74352"
+}, {
+  "kecamatan" : "Telaga Antang",
+  "kelurahan" : "Agung Muya",
+  "kodepos" : "74352"
+}, {
+  "kecamatan" : "Telaga Antang",
+  "kelurahan" : "Batu Agung",
+  "kodepos" : "74352"
+}, {
+  "kecamatan" : "Mentawa Baru (Ketapang)",
+  "kelurahan" : "Telaga Baru",
+  "kodepos" : "74326"
+}, {
+  "kecamatan" : "Mentawa Baru (Ketapang)",
+  "kelurahan" : "Pelangsian",
+  "kodepos" : "74326"
+}, {
+  "kecamatan" : "Mentawa Baru (Ketapang)",
+  "kelurahan" : "Bengkuang Makmur",
+  "kodepos" : "74326"
+}, {
+  "kecamatan" : "Mentawa Baru (Ketapang)",
+  "kelurahan" : "Eka Bahurui",
+  "kodepos" : "74326"
+}, {
+  "kecamatan" : "Mentawa Baru (Ketapang)",
+  "kelurahan" : "Bapanggang Raya",
+  "kodepos" : "74326"
+}, {
+  "kecamatan" : "Mentawa Baru (Ketapang)",
+  "kelurahan" : "Bapeang",
+  "kodepos" : "74326"
+}, {
+  "kecamatan" : "Seranau",
+  "kelurahan" : "Mentaya Seberang",
+  "kodepos" : "74324"
+}, {
+  "kecamatan" : "Mentawa Baru (Ketapang)",
+  "kelurahan" : "Ketapang",
+  "kodepos" : "74325"
+}, {
+  "kecamatan" : "Mentawa Baru (Ketapang)",
+  "kelurahan" : "Pasir Putih",
+  "kodepos" : "74322"
+}, {
+  "kecamatan" : "Mentawa Baru (Ketapang)",
+  "kelurahan" : "Mentawa Baru Hilir",
+  "kodepos" : "74323"
+}, {
+  "kecamatan" : "Mentawa Baru (Ketapang)",
+  "kelurahan" : "Mentawa Baru Hulu",
+  "kodepos" : "74322"
+}, {
+  "kecamatan" : "Mentawa Baru (Ketapang)",
+  "kelurahan" : "Sawahan (Mentawa Baru Hulu Utara)",
+  "kodepos" : "74321"
+}, {
+  "kecamatan" : "Baamang",
+  "kelurahan" : "Tinduk",
+  "kodepos" : "74316"
+}, {
+  "kecamatan" : "Seranau",
+  "kelurahan" : "Terantang Hilir",
+  "kodepos" : "74315"
+}, {
+  "kecamatan" : "Seranau",
+  "kelurahan" : "Terantang",
+  "kodepos" : "74314"
+}, {
+  "kecamatan" : "Seranau",
+  "kelurahan" : "Batuah",
+  "kodepos" : "74315"
+}, {
+  "kecamatan" : "Seranau",
+  "kelurahan" : "Ganepo",
+  "kodepos" : "74314"
+}, {
+  "kecamatan" : "Baamang",
+  "kelurahan" : "Tanah Mas",
+  "kodepos" : "74312"
+}, {
+  "kecamatan" : "Baamang",
+  "kelurahan" : "Baamang Hulu",
+  "kodepos" : "74313"
+}, {
+  "kecamatan" : "Baamang",
+  "kelurahan" : "Baamang Barat",
+  "kodepos" : "74312"
+}, {
+  "kecamatan" : "Baamang",
+  "kelurahan" : "Baamang Tengah",
+  "kodepos" : "74312"
+}, {
+  "kecamatan" : "Baamang",
+  "kelurahan" : "Baamang Hilir",
+  "kodepos" : "74311"
+} ]

@@ -1,0 +1,981 @@
+[ {
+  "kecamatan" : "Kampar Kiri Hulu",
+  "kelurahan" : "Terusan",
+  "kodepos" : "28471"
+}, {
+  "kecamatan" : "Kampar Kiri Tengah",
+  "kelurahan" : "Utama Karya",
+  "kodepos" : "28471"
+}, {
+  "kecamatan" : "Kampar Kiri",
+  "kelurahan" : "Teluk Paman",
+  "kodepos" : "28471"
+}, {
+  "kecamatan" : "Kampar Kiri",
+  "kelurahan" : "Teluk Paman Timur",
+  "kodepos" : "28471"
+}, {
+  "kecamatan" : "Kampar Kiri Hulu",
+  "kelurahan" : "Tanjung Permai",
+  "kodepos" : "28471"
+}, {
+  "kecamatan" : "Kampar Kiri",
+  "kelurahan" : "Tanjung Harapan",
+  "kodepos" : "28471"
+}, {
+  "kecamatan" : "Kampar Kiri",
+  "kelurahan" : "Tanjung Mas",
+  "kodepos" : "28471"
+}, {
+  "kecamatan" : "Kampar Kiri Hulu",
+  "kelurahan" : "Tanjung Karang",
+  "kodepos" : "28471"
+}, {
+  "kecamatan" : "Kampar Kiri Hulu",
+  "kelurahan" : "Tanjung Belit",
+  "kodepos" : "28471"
+}, {
+  "kecamatan" : "Kampar Kiri Hulu",
+  "kelurahan" : "Tanjung Belit Selatan",
+  "kodepos" : "28471"
+}, {
+  "kecamatan" : "Kampar Kiri Hulu",
+  "kelurahan" : "Tanjung Beringin",
+  "kodepos" : "28471"
+}, {
+  "kecamatan" : "Kampar Kiri",
+  "kelurahan" : "Sungai Sarik",
+  "kodepos" : "28471"
+}, {
+  "kecamatan" : "Kampar Kiri Hilir",
+  "kelurahan" : "Sungai Simpang Dua",
+  "kodepos" : "28471"
+}, {
+  "kecamatan" : "Kampar Kiri",
+  "kelurahan" : "Sungai Rambai",
+  "kodepos" : "28471"
+}, {
+  "kecamatan" : "Kampar Kiri Hulu",
+  "kelurahan" : "Sungai Santi",
+  "kodepos" : "28471"
+}, {
+  "kecamatan" : "Kampar Kiri",
+  "kelurahan" : "Sungai Raja",
+  "kodepos" : "28471"
+}, {
+  "kecamatan" : "Kampar Kiri Hilir",
+  "kelurahan" : "Sungai Petai",
+  "kodepos" : "28471"
+}, {
+  "kecamatan" : "Kampar Kiri",
+  "kelurahan" : "Sungai Paku",
+  "kodepos" : "28471"
+}, {
+  "kecamatan" : "Kampar Kiri Hilir",
+  "kelurahan" : "Sungai Pagar",
+  "kodepos" : "28471"
+}, {
+  "kecamatan" : "Kampar Kiri",
+  "kelurahan" : "Sungai Liti",
+  "kodepos" : "28471"
+}, {
+  "kecamatan" : "Kampar Kiri",
+  "kelurahan" : "Sungai Geringging",
+  "kodepos" : "28471"
+}, {
+  "kecamatan" : "Kampar Kiri",
+  "kelurahan" : "Sungai Harapan",
+  "kodepos" : "28471"
+}, {
+  "kecamatan" : "Gunung Sahilan",
+  "kelurahan" : "Sungai Lipai",
+  "kodepos" : "28471"
+}, {
+  "kecamatan" : "Kampar Kiri Hilir",
+  "kelurahan" : "Sungai Bunga/Bungo",
+  "kodepos" : "28471"
+}, {
+  "kecamatan" : "Gunung Sahilan",
+  "kelurahan" : "Suka Makmur",
+  "kodepos" : "28471"
+}, {
+  "kecamatan" : "Kampar Kiri Tengah",
+  "kelurahan" : "Simalinyang",
+  "kodepos" : "28471"
+}, {
+  "kecamatan" : "Gunung Sahilan",
+  "kelurahan" : "Subarak",
+  "kodepos" : "28471"
+}, {
+  "kecamatan" : "Kampar Kiri Tengah",
+  "kelurahan" : "Simalinyang",
+  "kodepos" : "28471"
+}, {
+  "kecamatan" : "Gunung Sahilan",
+  "kelurahan" : "Sahilan Darussalam",
+  "kodepos" : "28471"
+}, {
+  "kecamatan" : "Kampar Kiri Hilir",
+  "kelurahan" : "Rantau Kasih",
+  "kodepos" : "28471"
+}, {
+  "kecamatan" : "Kampar Kiri Hulu",
+  "kelurahan" : "Pangkalan Serai",
+  "kodepos" : "28471"
+}, {
+  "kecamatan" : "Kampar Kiri Tengah",
+  "kelurahan" : "Penghidupan",
+  "kodepos" : "28471"
+}, {
+  "kecamatan" : "Kampar Kiri Hulu",
+  "kelurahan" : "Pangkalan Kapas",
+  "kodepos" : "28471"
+}, {
+  "kecamatan" : "Kampar Kiri",
+  "kelurahan" : "Muara Selaya",
+  "kodepos" : "28471"
+}, {
+  "kecamatan" : "Kampar Kiri",
+  "kelurahan" : "Padang Sawah",
+  "kodepos" : "28471"
+}, {
+  "kecamatan" : "Kampar Kiri Hulu",
+  "kelurahan" : "Muarobio",
+  "kodepos" : "28471"
+}, {
+  "kecamatan" : "Kampar Kiri Hilir",
+  "kelurahan" : "Mentulik",
+  "kodepos" : "28471"
+}, {
+  "kecamatan" : "Gunung Sahilan",
+  "kelurahan" : "Makmur Sejahtera",
+  "kodepos" : "28471"
+}, {
+  "kecamatan" : "Kampar Kiri Tengah",
+  "kelurahan" : "Mayang Pongkai",
+  "kodepos" : "28471"
+}, {
+  "kecamatan" : "Kampar Kiri Tengah",
+  "kelurahan" : "Mekar Jaya",
+  "kodepos" : "28471"
+}, {
+  "kecamatan" : "Kampar Kiri Tengah",
+  "kelurahan" : "Lubuk Sakai",
+  "kodepos" : "28471"
+}, {
+  "kecamatan" : "Kampar Kiri Hulu",
+  "kelurahan" : "Ludai",
+  "kodepos" : "28471"
+}, {
+  "kecamatan" : "Kampar Kiri",
+  "kelurahan" : "Lipat Kain Utara",
+  "kodepos" : "28471"
+}, {
+  "kecamatan" : "Kampar Kiri Hulu",
+  "kelurahan" : "Lubuk Bingau",
+  "kodepos" : "28471"
+}, {
+  "kecamatan" : "Kampar Kiri",
+  "kelurahan" : "Lipat Kain",
+  "kodepos" : "28471"
+}, {
+  "kecamatan" : "Kampar Kiri",
+  "kelurahan" : "Lipat Kain Selatan",
+  "kodepos" : "28471"
+}, {
+  "kecamatan" : "Kampar Kiri",
+  "kelurahan" : "Kuntu",
+  "kodepos" : "28471"
+}, {
+  "kecamatan" : "Kampar Kiri",
+  "kelurahan" : "Kuntu Darussalam",
+  "kodepos" : "28471"
+}, {
+  "kecamatan" : "Kampar Kiri Tengah",
+  "kelurahan" : "Koto Damai",
+  "kodepos" : "28471"
+}, {
+  "kecamatan" : "Kampar Kiri Hulu",
+  "kelurahan" : "Kebun Tinggi",
+  "kodepos" : "28471"
+}, {
+  "kecamatan" : "Kampar Kiri Hulu",
+  "kelurahan" : "Kota Lama",
+  "kodepos" : "28471"
+}, {
+  "kecamatan" : "Kampar Kiri Tengah",
+  "kelurahan" : "Karya Bakti/Bhakti",
+  "kodepos" : "28471"
+}, {
+  "kecamatan" : "Gunung Sahilan",
+  "kelurahan" : "Kebun Durian",
+  "kodepos" : "28471"
+}, {
+  "kecamatan" : "Kampar Kiri",
+  "kelurahan" : "IV Koto Setingkai",
+  "kodepos" : "28471"
+}, {
+  "kecamatan" : "Kampar Kiri Tengah",
+  "kelurahan" : "Hidup Baru",
+  "kodepos" : "28471"
+}, {
+  "kecamatan" : "Gunung Sahilan",
+  "kelurahan" : "Gunung Sahilan",
+  "kodepos" : "28471"
+}, {
+  "kecamatan" : "Gunung Sahilan",
+  "kelurahan" : "Gunung Sari",
+  "kodepos" : "28471"
+}, {
+  "kecamatan" : "Kampar Kiri Hulu",
+  "kelurahan" : "Gema",
+  "kodepos" : "28471"
+}, {
+  "kecamatan" : "Gunung Sahilan",
+  "kelurahan" : "Gunung Mulya",
+  "kodepos" : "28471"
+}, {
+  "kecamatan" : "Kampar Kiri Hulu",
+  "kelurahan" : "Gajah Bertalut",
+  "kodepos" : "28471"
+}, {
+  "kecamatan" : "Kampar Kiri Hulu",
+  "kelurahan" : "Dua Sepakat",
+  "kodepos" : "28471"
+}, {
+  "kecamatan" : "Kampar Kiri Hilir",
+  "kelurahan" : "Gading Permai",
+  "kodepos" : "28471"
+}, {
+  "kecamatan" : "Kampar Kiri",
+  "kelurahan" : "Domo",
+  "kodepos" : "28471"
+}, {
+  "kecamatan" : "Kampar Kiri Hulu",
+  "kelurahan" : "Danau Sontul",
+  "kodepos" : "28471"
+}, {
+  "kecamatan" : "Kampar Kiri Hulu",
+  "kelurahan" : "Deras Tajak",
+  "kodepos" : "28471"
+}, {
+  "kecamatan" : "Kampar Kiri Hulu",
+  "kelurahan" : "Bukit Betung",
+  "kodepos" : "28471"
+}, {
+  "kecamatan" : "Kampar Kiri Tengah",
+  "kelurahan" : "Bukit Sakai",
+  "kodepos" : "28471"
+}, {
+  "kecamatan" : "Kampar Kiri Tengah",
+  "kelurahan" : "Bina Baru",
+  "kodepos" : "28471"
+}, {
+  "kecamatan" : "Kampar Kiri Hulu",
+  "kelurahan" : "Batu Sasak",
+  "kodepos" : "28471"
+}, {
+  "kecamatan" : "Kampar Kiri Hilir",
+  "kelurahan" : "Bangun Sari",
+  "kodepos" : "28471"
+}, {
+  "kecamatan" : "Kampar Kiri Hulu",
+  "kelurahan" : "Batu Sanggan",
+  "kodepos" : "28471"
+}, {
+  "kecamatan" : "Kampar Kiri Hulu",
+  "kelurahan" : "Aur Kuning",
+  "kodepos" : "28471"
+}, {
+  "kecamatan" : "Tapung",
+  "kelurahan" : "Tri Manunggal",
+  "kodepos" : "28464"
+}, {
+  "kecamatan" : "Tapung Hilir",
+  "kelurahan" : "Tebing Lestari",
+  "kodepos" : "28464"
+}, {
+  "kecamatan" : "Tapung Hilir",
+  "kelurahan" : "Tapung Lestari",
+  "kodepos" : "28464"
+}, {
+  "kecamatan" : "Tapung",
+  "kelurahan" : "Tanjung Sawit",
+  "kodepos" : "28464"
+}, {
+  "kecamatan" : "Tapung Hilir",
+  "kelurahan" : "Tapung Makmur",
+  "kodepos" : "28464"
+}, {
+  "kecamatan" : "Tapung Hilir",
+  "kelurahan" : "Tandan Sari",
+  "kodepos" : "28464"
+}, {
+  "kecamatan" : "Tapung Hilir",
+  "kelurahan" : "Tanah Tinggi",
+  "kodepos" : "28464"
+}, {
+  "kecamatan" : "Tapung",
+  "kelurahan" : "Sumber Makmur",
+  "kodepos" : "28464"
+}, {
+  "kecamatan" : "Tapung Hulu",
+  "kelurahan" : "Sumber Sari",
+  "kodepos" : "28464"
+}, {
+  "kecamatan" : "Tapung Hulu",
+  "kelurahan" : "Talang Danto",
+  "kodepos" : "28464"
+}, {
+  "kecamatan" : "Tapung Hulu",
+  "kelurahan" : "Sinama Nenek",
+  "kodepos" : "28464"
+}, {
+  "kecamatan" : "Tapung Hulu",
+  "kelurahan" : "Sukaramai",
+  "kodepos" : "28464"
+}, {
+  "kecamatan" : "Tapung Hilir",
+  "kelurahan" : "Suka Maju",
+  "kodepos" : "28464"
+}, {
+  "kecamatan" : "Tapung",
+  "kelurahan" : "Sibuak",
+  "kodepos" : "28464"
+}, {
+  "kecamatan" : "Tapung",
+  "kelurahan" : "Sibuak",
+  "kodepos" : "28464"
+}, {
+  "kecamatan" : "Tapung",
+  "kelurahan" : "Sei/Sungai Agung",
+  "kodepos" : "28464"
+}, {
+  "kecamatan" : "Tapung",
+  "kelurahan" : "Sei/Sungai Lembu Makmur",
+  "kodepos" : "28464"
+}, {
+  "kecamatan" : "Tapung",
+  "kelurahan" : "Sei/Sungai Putih",
+  "kodepos" : "28464"
+}, {
+  "kecamatan" : "Tapung Hulu",
+  "kelurahan" : "Rimba Beringin",
+  "kodepos" : "28464"
+}, {
+  "kecamatan" : "Tapung",
+  "kelurahan" : "Sari Galuh",
+  "kodepos" : "28464"
+}, {
+  "kecamatan" : "Tapung",
+  "kelurahan" : "Pelambaian",
+  "kodepos" : "28464"
+}, {
+  "kecamatan" : "Tapung",
+  "kelurahan" : "Petapahan",
+  "kodepos" : "28464"
+}, {
+  "kecamatan" : "Tapung",
+  "kelurahan" : "Petapahan Jaya",
+  "kodepos" : "28464"
+}, {
+  "kecamatan" : "Tapung",
+  "kelurahan" : "Pagaruyung",
+  "kodepos" : "28464"
+}, {
+  "kecamatan" : "Tapung",
+  "kelurahan" : "Pancuran Gading",
+  "kodepos" : "28464"
+}, {
+  "kecamatan" : "Tapung",
+  "kelurahan" : "Pantai Cermin",
+  "kodepos" : "28464"
+}, {
+  "kecamatan" : "Tapung Hulu",
+  "kelurahan" : "Kusau Makmur",
+  "kodepos" : "28464"
+}, {
+  "kecamatan" : "Tapung",
+  "kelurahan" : "Muara Mahat Baru",
+  "kodepos" : "28464"
+}, {
+  "kecamatan" : "Tapung",
+  "kelurahan" : "Mukti Sari",
+  "kodepos" : "28464"
+}, {
+  "kecamatan" : "Tapung Hilir",
+  "kelurahan" : "Kota/Koto Bangun",
+  "kodepos" : "28464"
+}, {
+  "kecamatan" : "Tapung Hilir",
+  "kelurahan" : "Koto Aman",
+  "kodepos" : "28464"
+}, {
+  "kecamatan" : "Tapung Hilir",
+  "kelurahan" : "Kota Baru",
+  "kodepos" : "28464"
+}, {
+  "kecamatan" : "Tapung Hilir",
+  "kelurahan" : "Kota Garo",
+  "kodepos" : "28464"
+}, {
+  "kecamatan" : "Tapung",
+  "kelurahan" : "Kinantan/Kenantan",
+  "kodepos" : "28464"
+}, {
+  "kecamatan" : "Tapung",
+  "kelurahan" : "Kijang Rejo",
+  "kodepos" : "28464"
+}, {
+  "kecamatan" : "Tapung Hilir",
+  "kelurahan" : "Kijang Makmur",
+  "kodepos" : "28464"
+}, {
+  "kecamatan" : "Tapung",
+  "kelurahan" : "Karya Indah",
+  "kodepos" : "28464"
+}, {
+  "kecamatan" : "Tapung Hulu",
+  "kelurahan" : "Kasikan",
+  "kodepos" : "28464"
+}, {
+  "kecamatan" : "Tapung Hilir",
+  "kelurahan" : "Kijang Jaya",
+  "kodepos" : "28464"
+}, {
+  "kecamatan" : "Tapung",
+  "kelurahan" : "Indra Sakti",
+  "kodepos" : "28464"
+}, {
+  "kecamatan" : "Tapung",
+  "kelurahan" : "Indrapuri",
+  "kodepos" : "28464"
+}, {
+  "kecamatan" : "Tapung Hilir",
+  "kelurahan" : "Gerbang Sari",
+  "kodepos" : "28464"
+}, {
+  "kecamatan" : "Tapung",
+  "kelurahan" : "Gading Sari",
+  "kodepos" : "28464"
+}, {
+  "kecamatan" : "Tapung Hilir",
+  "kelurahan" : "Cinta Damai",
+  "kodepos" : "28464"
+}, {
+  "kecamatan" : "Tapung Hulu",
+  "kelurahan" : "Danau Lancang",
+  "kodepos" : "28464"
+}, {
+  "kecamatan" : "Tapung Hulu",
+  "kelurahan" : "Bukit Kemuning",
+  "kodepos" : "28464"
+}, {
+  "kecamatan" : "Tapung",
+  "kelurahan" : "Batu Gajah",
+  "kodepos" : "28464"
+}, {
+  "kecamatan" : "Tapung",
+  "kelurahan" : "Bencah Kelubi",
+  "kodepos" : "28464"
+}, {
+  "kecamatan" : "Tapung Hilir",
+  "kelurahan" : "Beringin Lestari",
+  "kodepos" : "28464"
+}, {
+  "kecamatan" : "Tapung",
+  "kelurahan" : "Air Terbit",
+  "kodepos" : "28464"
+}, {
+  "kecamatan" : "Bangkinang Seberang",
+  "kelurahan" : "Suka Mulya",
+  "kodepos" : "28463"
+}, {
+  "kecamatan" : "Kuok (Bangkinang Barat)",
+  "kelurahan" : "Pulautarap",
+  "kodepos" : "28463"
+}, {
+  "kecamatan" : "Kuok (Bangkinang Barat)",
+  "kelurahan" : "Silam",
+  "kodepos" : "28463"
+}, {
+  "kecamatan" : "Bangkinang Seberang",
+  "kelurahan" : "Pulau Lawas",
+  "kodepos" : "28463"
+}, {
+  "kecamatan" : "Bangkinang Seberang",
+  "kelurahan" : "Pasir Sialang",
+  "kodepos" : "28463"
+}, {
+  "kecamatan" : "Bangkinang Seberang",
+  "kelurahan" : "Pulau",
+  "kodepos" : "28463"
+}, {
+  "kecamatan" : "Kuok (Bangkinang Barat)",
+  "kelurahan" : "Pulau Jambu",
+  "kodepos" : "28463"
+}, {
+  "kecamatan" : "Bangkinang Seberang",
+  "kelurahan" : "Muara Uwai",
+  "kodepos" : "28463"
+}, {
+  "kecamatan" : "Kuok (Bangkinang Barat)",
+  "kelurahan" : "Lereng",
+  "kodepos" : "28463"
+}, {
+  "kecamatan" : "Kuok (Bangkinang Barat)",
+  "kelurahan" : "Merangin",
+  "kodepos" : "28463"
+}, {
+  "kecamatan" : "Kuok (Bangkinang Barat)",
+  "kelurahan" : "Empat Balai",
+  "kodepos" : "28463"
+}, {
+  "kecamatan" : "Kuok (Bangkinang Barat)",
+  "kelurahan" : "Kuok",
+  "kodepos" : "28463"
+}, {
+  "kecamatan" : "Bangkinang Seberang",
+  "kelurahan" : "Laboi Jaya",
+  "kodepos" : "28463"
+}, {
+  "kecamatan" : "Kuok (Bangkinang Barat)",
+  "kelurahan" : "Bukit Melintang",
+  "kodepos" : "28463"
+}, {
+  "kecamatan" : "Bangkinang Seberang",
+  "kelurahan" : "Bukit Payung",
+  "kodepos" : "28463"
+}, {
+  "kecamatan" : "Bangkinang Seberang",
+  "kelurahan" : "Bukit Sembilan",
+  "kodepos" : "28463"
+}, {
+  "kecamatan" : "Kuok (Bangkinang Barat)",
+  "kelurahan" : "Batulangka Kecil",
+  "kodepos" : "28463"
+}, {
+  "kecamatan" : "Bangkinang Seberang",
+  "kelurahan" : "Binuang",
+  "kodepos" : "28463"
+}, {
+  "kecamatan" : "Tambang",
+  "kelurahan" : "Teluk Kenidai",
+  "kodepos" : "28462"
+}, {
+  "kecamatan" : "Tambang",
+  "kelurahan" : "Terantang",
+  "kodepos" : "28462"
+}, {
+  "kecamatan" : "Tambang",
+  "kelurahan" : "Tambang",
+  "kodepos" : "28462"
+}, {
+  "kecamatan" : "Tambang",
+  "kelurahan" : "Tarai Bangun",
+  "kodepos" : "28462"
+}, {
+  "kecamatan" : "Perhentian Raja",
+  "kelurahan" : "Sialang Kubang",
+  "kodepos" : "28462"
+}, {
+  "kecamatan" : "Tambang",
+  "kelurahan" : "Sei/Sungai Pinang",
+  "kodepos" : "28462"
+}, {
+  "kecamatan" : "Tambang",
+  "kelurahan" : "Pulau Permai",
+  "kodepos" : "28462"
+}, {
+  "kecamatan" : "Tambang",
+  "kelurahan" : "Rimba/Rimbo Panjang",
+  "kodepos" : "28462"
+}, {
+  "kecamatan" : "Tambang",
+  "kelurahan" : "Palung Raya",
+  "kodepos" : "28462"
+}, {
+  "kecamatan" : "Tambang",
+  "kelurahan" : "Parit Baru",
+  "kodepos" : "28462"
+}, {
+  "kecamatan" : "Perhentian Raja",
+  "kelurahan" : "Pantai Raja",
+  "kodepos" : "28462"
+}, {
+  "kecamatan" : "Perhentian Raja",
+  "kelurahan" : "Lubuk Sakat",
+  "kodepos" : "28462"
+}, {
+  "kecamatan" : "Tambang",
+  "kelurahan" : "Padang Luas",
+  "kodepos" : "28462"
+}, {
+  "kecamatan" : "Tambang",
+  "kelurahan" : "Kualu Nenas",
+  "kodepos" : "28462"
+}, {
+  "kecamatan" : "Tambang",
+  "kelurahan" : "Kuapan",
+  "kodepos" : "28462"
+}, {
+  "kecamatan" : "Perhentian Raja",
+  "kelurahan" : "Kampung Pinang",
+  "kodepos" : "28462"
+}, {
+  "kecamatan" : "Tambang",
+  "kelurahan" : "Kemang Indah",
+  "kodepos" : "28462"
+}, {
+  "kecamatan" : "Tambang",
+  "kelurahan" : "Kualu",
+  "kodepos" : "28462"
+}, {
+  "kecamatan" : "Perhentian Raja",
+  "kelurahan" : "Hangtuah",
+  "kodepos" : "28462"
+}, {
+  "kecamatan" : "Tambang",
+  "kelurahan" : "Gobah",
+  "kodepos" : "28462"
+}, {
+  "kecamatan" : "Tambang",
+  "kelurahan" : "Aursati",
+  "kodepos" : "28462"
+}, {
+  "kecamatan" : "Tambang",
+  "kelurahan" : "Balam Jaya",
+  "kodepos" : "28462"
+}, {
+  "kecamatan" : "Kampar",
+  "kelurahan" : "Tanjung Berulak",
+  "kodepos" : "28461"
+}, {
+  "kecamatan" : "Kampar",
+  "kelurahan" : "Tanjung Rambutan",
+  "kodepos" : "28461"
+}, {
+  "kecamatan" : "Kampar Timur",
+  "kelurahan" : "Tanjung Bungo",
+  "kodepos" : "28461"
+}, {
+  "kecamatan" : "Kampar",
+  "kelurahan" : "Simpang Kubu",
+  "kodepos" : "28461"
+}, {
+  "kecamatan" : "Kampar",
+  "kelurahan" : "Simpang Kubu",
+  "kodepos" : "28461"
+}, {
+  "kecamatan" : "Kampar Utara",
+  "kelurahan" : "Sei/Sungai Tonang",
+  "kodepos" : "28461"
+}, {
+  "kecamatan" : "Kampar Utara",
+  "kelurahan" : "Sendayan",
+  "kodepos" : "28461"
+}, {
+  "kecamatan" : "Kampar Timur",
+  "kelurahan" : "Sei/Sungai Putih",
+  "kodepos" : "28461"
+}, {
+  "kecamatan" : "Kampar Utara",
+  "kelurahan" : "Sei/Sungai Jalau",
+  "kodepos" : "28461"
+}, {
+  "kecamatan" : "Kampar Timur",
+  "kelurahan" : "Sawah Baru",
+  "kodepos" : "28461"
+}, {
+  "kecamatan" : "Kampar Utara",
+  "kelurahan" : "Sawah",
+  "kodepos" : "28461"
+}, {
+  "kecamatan" : "Kampar",
+  "kelurahan" : "Ranah Singkuang",
+  "kodepos" : "28461"
+}, {
+  "kecamatan" : "Kampar",
+  "kelurahan" : "Rumbio",
+  "kodepos" : "28461"
+}, {
+  "kecamatan" : "Kampar",
+  "kelurahan" : "Ranah",
+  "kodepos" : "28461"
+}, {
+  "kecamatan" : "Kampar",
+  "kelurahan" : "Ranah Baru",
+  "kodepos" : "28461"
+}, {
+  "kecamatan" : "Kampar Timur",
+  "kelurahan" : "Pulau Rambai",
+  "kodepos" : "28461"
+}, {
+  "kecamatan" : "Kampar",
+  "kelurahan" : "Pulau Sarak",
+  "kodepos" : "28461"
+}, {
+  "kecamatan" : "Kampar",
+  "kelurahan" : "Pulau Tinggi",
+  "kodepos" : "28461"
+}, {
+  "kecamatan" : "Kampar",
+  "kelurahan" : "Penyasawan",
+  "kodepos" : "28461"
+}, {
+  "kecamatan" : "Kampar",
+  "kelurahan" : "Pulau Jambu",
+  "kodepos" : "28461"
+}, {
+  "kecamatan" : "Kampar Timur",
+  "kelurahan" : "Pulau Birandang",
+  "kodepos" : "28461"
+}, {
+  "kecamatan" : "Kampar",
+  "kelurahan" : "Padang Mutung",
+  "kodepos" : "28461"
+}, {
+  "kecamatan" : "Kampar Utara",
+  "kelurahan" : "Muara Jalai",
+  "kodepos" : "28461"
+}, {
+  "kecamatan" : "Kampar Utara",
+  "kelurahan" : "Naga Beralih",
+  "kodepos" : "28461"
+}, {
+  "kecamatan" : "Kampar Utara",
+  "kelurahan" : "Naga Beralih",
+  "kodepos" : "28461"
+}, {
+  "kecamatan" : "Kampar",
+  "kelurahan" : "Koto Tibun",
+  "kodepos" : "28461"
+}, {
+  "kecamatan" : "Kampar",
+  "kelurahan" : "Limau Manis",
+  "kodepos" : "28461"
+}, {
+  "kecamatan" : "Kampar Timur",
+  "kelurahan" : "Koto Perambahan",
+  "kodepos" : "28461"
+}, {
+  "kecamatan" : "Kampar Utara",
+  "kelurahan" : "Kampung Panjang (Air Tiris)",
+  "kodepos" : "28461"
+}, {
+  "kecamatan" : "Kampar Utara",
+  "kelurahan" : "Kayu Aro",
+  "kodepos" : "28461"
+}, {
+  "kecamatan" : "Kampar Timur",
+  "kelurahan" : "Kampar",
+  "kodepos" : "28461"
+}, {
+  "kecamatan" : "Kampar",
+  "kelurahan" : "Bukit Ranah",
+  "kodepos" : "28461"
+}, {
+  "kecamatan" : "Kampar Timur",
+  "kelurahan" : "Deli Makmur",
+  "kodepos" : "28461"
+}, {
+  "kecamatan" : "Kampar",
+  "kelurahan" : "Air Tiris",
+  "kodepos" : "28461"
+}, {
+  "kecamatan" : "Kampar",
+  "kelurahan" : "Batu Belah",
+  "kodepos" : "28461"
+}, {
+  "kecamatan" : "Rumbio Jaya",
+  "kelurahan" : "Simpang Petai",
+  "kodepos" : "28458"
+}, {
+  "kecamatan" : "Rumbio Jaya",
+  "kelurahan" : "Tambusai",
+  "kodepos" : "28458"
+}, {
+  "kecamatan" : "Rumbio Jaya",
+  "kelurahan" : "Teratak",
+  "kodepos" : "28458"
+}, {
+  "kecamatan" : "Rumbio Jaya",
+  "kelurahan" : "Bukit Kratai",
+  "kodepos" : "28458"
+}, {
+  "kecamatan" : "Rumbio Jaya",
+  "kelurahan" : "Pulau Payung",
+  "kodepos" : "28458"
+}, {
+  "kecamatan" : "Rumbio Jaya",
+  "kelurahan" : "Alam Panjang",
+  "kodepos" : "28458"
+}, {
+  "kecamatan" : "Rumbio Jaya",
+  "kelurahan" : "Batang Batindih",
+  "kodepos" : "28458"
+}, {
+  "kecamatan" : "XIII Koto Kampar",
+  "kelurahan" : "Tanjung Alai",
+  "kodepos" : "28453"
+}, {
+  "kecamatan" : "Koto Kampar Hulu",
+  "kelurahan" : "Tanjung",
+  "kodepos" : "28453"
+}, {
+  "kecamatan" : "Koto Kampar Hulu",
+  "kelurahan" : "Siberuang",
+  "kodepos" : "28453"
+}, {
+  "kecamatan" : "Koto Kampar Hulu",
+  "kelurahan" : "Tabing",
+  "kodepos" : "28453"
+}, {
+  "kecamatan" : "XIII Koto Kampar",
+  "kelurahan" : "Pongkai Istiqomah",
+  "kodepos" : "28453"
+}, {
+  "kecamatan" : "XIII Koto Kampar",
+  "kelurahan" : "Pulau Gadang",
+  "kodepos" : "28453"
+}, {
+  "kecamatan" : "XIII Koto Kampar",
+  "kelurahan" : "Ranah Sungkai",
+  "kodepos" : "28453"
+}, {
+  "kecamatan" : "XIII Koto Kampar",
+  "kelurahan" : "Muara Takus",
+  "kodepos" : "28453"
+}, {
+  "kecamatan" : "Koto Kampar Hulu",
+  "kelurahan" : "Pongkai",
+  "kodepos" : "28453"
+}, {
+  "kecamatan" : "XIII Koto Kampar",
+  "kelurahan" : "Koto Tuo",
+  "kodepos" : "28453"
+}, {
+  "kecamatan" : "XIII Koto Kampar",
+  "kelurahan" : "Koto Tuo Barat",
+  "kodepos" : "28453"
+}, {
+  "kecamatan" : "XIII Koto Kampar",
+  "kelurahan" : "Lubuk Agung",
+  "kodepos" : "28453"
+}, {
+  "kecamatan" : "XIII Koto Kampar",
+  "kelurahan" : "Koto Mesjid",
+  "kodepos" : "28453"
+}, {
+  "kecamatan" : "XIII Koto Kampar",
+  "kelurahan" : "Gunung Bungsu",
+  "kodepos" : "28453"
+}, {
+  "kecamatan" : "Koto Kampar Hulu",
+  "kelurahan" : "Gunung Malelo",
+  "kodepos" : "28453"
+}, {
+  "kecamatan" : "XIII Koto Kampar",
+  "kelurahan" : "Batu Bersurat",
+  "kodepos" : "28453"
+}, {
+  "kecamatan" : "XIII Koto Kampar",
+  "kelurahan" : "Binamang",
+  "kodepos" : "28453"
+}, {
+  "kecamatan" : "XIII Koto Kampar",
+  "kelurahan" : "Balung",
+  "kodepos" : "28453"
+}, {
+  "kecamatan" : "Koto Kampar Hulu",
+  "kelurahan" : "Bandur Picak",
+  "kodepos" : "28453"
+}, {
+  "kecamatan" : "Siak Hulu",
+  "kelurahan" : "Tanjung Balam",
+  "kodepos" : "28452"
+}, {
+  "kecamatan" : "Siak Hulu",
+  "kelurahan" : "Teratak Buluh",
+  "kodepos" : "28452"
+}, {
+  "kecamatan" : "Siak Hulu",
+  "kelurahan" : "Tanah Merah",
+  "kodepos" : "28452"
+}, {
+  "kecamatan" : "Siak Hulu",
+  "kelurahan" : "Pangkalan Baru",
+  "kodepos" : "28452"
+}, {
+  "kecamatan" : "Siak Hulu",
+  "kelurahan" : "Pangkalan Serik",
+  "kodepos" : "28452"
+}, {
+  "kecamatan" : "Siak Hulu",
+  "kelurahan" : "Pandau Jaya",
+  "kodepos" : "28452"
+}, {
+  "kecamatan" : "Siak Hulu",
+  "kelurahan" : "Kubang Jaya",
+  "kodepos" : "28452"
+}, {
+  "kecamatan" : "Siak Hulu",
+  "kelurahan" : "Lubuk Siam",
+  "kodepos" : "28452"
+}, {
+  "kecamatan" : "Siak Hulu",
+  "kelurahan" : "Kepau Jaya",
+  "kodepos" : "28452"
+}, {
+  "kecamatan" : "Siak Hulu",
+  "kelurahan" : "Desa Baru",
+  "kodepos" : "28452"
+}, {
+  "kecamatan" : "Siak Hulu",
+  "kelurahan" : "Buluh Nipis",
+  "kodepos" : "28452"
+}, {
+  "kecamatan" : "Siak Hulu",
+  "kelurahan" : "Buluh Cina",
+  "kodepos" : "28452"
+}, {
+  "kecamatan" : "Salo",
+  "kelurahan" : "Sipungguk/Sepungguk",
+  "kodepos" : "28451"
+}, {
+  "kecamatan" : "Salo",
+  "kelurahan" : "Siabu",
+  "kodepos" : "28451"
+}, {
+  "kecamatan" : "Salo",
+  "kelurahan" : "Salo Timur",
+  "kodepos" : "28451"
+}, {
+  "kecamatan" : "Salo",
+  "kelurahan" : "Ganting Damai",
+  "kodepos" : "28451"
+}, {
+  "kecamatan" : "Salo",
+  "kelurahan" : "Salo",
+  "kodepos" : "28451"
+}, {
+  "kecamatan" : "Salo",
+  "kelurahan" : "Ganting",
+  "kodepos" : "28451"
+}, {
+  "kecamatan" : "Bangkinang",
+  "kelurahan" : "Langgini",
+  "kodepos" : "28412"
+}, {
+  "kecamatan" : "Bangkinang",
+  "kelurahan" : "Ridan Permai",
+  "kodepos" : "28411"
+}, {
+  "kecamatan" : "Bangkinang",
+  "kelurahan" : "Kumantan",
+  "kodepos" : "28411"
+}, {
+  "kecamatan" : "Bangkinang",
+  "kelurahan" : "Bangkinang (Bangkinang Kota)",
+  "kodepos" : "28411"
+} ]
