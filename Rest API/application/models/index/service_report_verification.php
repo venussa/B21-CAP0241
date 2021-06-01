@@ -11,7 +11,7 @@
 			if ($this->validate_token() == false)
 			{
 				$build["response"] = false;
-				$build["message"] = "Token Expired";
+				$build["message"] = "Token Expired.";
 				echo json_encode($build);
 				exit;
 			}
