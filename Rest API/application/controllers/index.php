@@ -17,12 +17,24 @@
                     $token = token();
                     $query = $this->db_select("data_token", ["token" => $token]);
 
-                    if ($query->status == 1)
+                    if ($query->total_data > 0)
                     {
-                        if (time() > $query->end_date)
+                        if ($query->status == 1)
                         {
-                            $this->db_update("data_token", ["status" => 0, "where-token" => $token]);
+                            if (time() > $query->end_date)
+                            {
+                                $this->db_update("data_token", ["status" => 0, "where-token" => $token]);
 
+                                $json["response"] = false;
+                                $json["message"] = "Token Expired.";
+
+                                echo json_encode($json);
+                                exit;
+                            }
+                        }
+
+                        if ($query->status == 0)
+                        {
                             $json["response"] = false;
                             $json["message"] = "Token Expired.";
 
@@ -30,8 +42,7 @@
                             exit;
                         }
                     }
-
-                    if ($query->status == 0)
+                    else
                     {
                         $json["response"] = false;
                         $json["message"] = "Token Expired.";
@@ -48,7 +59,7 @@
             header_content_type("json");
 
             $json["response"] = false;
-            $json["message"] = "Access Danied";
+            $json["message"] = "Token Expired.";
 
             echo json_encode($json);
         }
