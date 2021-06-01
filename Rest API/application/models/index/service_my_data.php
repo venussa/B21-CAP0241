@@ -1,6 +1,6 @@
 <?php
 	
-	class service_user_list extends load 
+	class service_my_data extends load 
 	{
 		public function __construct()
 		{
@@ -16,18 +16,9 @@
 			}
 
 			$token = token();
-			$keyword = clean_xss_string($this->get("q"));
-			$page = (int) $this->get("page");
-			$limit = (int) $this->get("limit");
 
-			$page = ($page < 1) ? 1 : $page;
-			$limit = ($limit < 1) ? 1 : $limit;
-
-			$query = $this->db_select("data_user?page=$page&limit=$limit",[
-				"%id" => $keyword,
-				"%fullname" => $keyword,
-				"%email" => $keyword,
-			]);
+			$query = $this->db_select("data_token", ["token" => $token]);
+			$query = $this->db_select("data_user",["email" => $query->email]);
 
 			$build["response"] = true;
 			$build["message"] = "Data berhasil di dapatkan";
@@ -38,13 +29,17 @@
 				{
 					if (is_numeric($key))
 					{
-						unset($value->password);
+						foreach ($value as $key1 => $value1)
+						{
+							$build["data"][$key1] = $value1;
+						}
+
+						unset($build["data"]["password"]);
 						$log_time = $this->db_select("data_token", ["token" => $token]);
-						$value->login_time = date("Y-m-d H:i:s", $log_time->login_time);
-						$value->id = (int) $value->id;
-						$value->photo = HomeUrl()."/".$value->photo;
-						$value->register_time = date("Y-m-d H:i:s", $value->register_time);
-						$build["data"][] = $value;
+						$build["data"]["login_time"] = date("Y-m-d H:i:s", $log_time->login_time);
+						$build["data"]["id"] = (int) $build["data"]["id"];
+						$build["data"]["photo"] = HomeUrl()."/".$build["data"]["photo"];
+						$build["data"]["register_time"] = date("Y-m-d H:i:s", $build["data"]["register_time"]);
 					}
 				}
 			}
@@ -68,14 +63,6 @@
 				"start_date<" => time(),
 				"end_date>" => time(), 
 			]);
-
-			if ($query->total_data == 0)
-			{
-				return false;
-			}
-
-			$query = $this->db_select("data_user", ["email" => $query->email, "role" => "admin"]);
-
 
 			if ($query->total_data == 0)
 			{
