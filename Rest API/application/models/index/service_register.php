@@ -7,23 +7,73 @@
 			header_content_type("json");
 
 			$build["response"] = false;
-			$build["code"] = 0;
 			$build["message"] = "Mohon lengkapi data dengan benar";
+
+			$param_allow = ["fullname", "email", "phone", "province", "city", "password", "repassword"];
 
 			if (is_array($this->post()))
 			{
+
+				// filtering data kosong
 				foreach ($this->post() as $key => $val)
 				{
+
+					if (!in_array($key, $param_allow))
+					{
+						$build["response"] = false;
+						$build["message"] = "Invalid paramater.";
+						echo json_encode($build);
+						exit;
+					}
+
 					$post[$key] = trim(clean_xss_string($val));
 
 					if (empty($post[$key]))
 					{
 						$build["response"] = false;
-						$build["code"] = 0;
 						$build["message"] = "Mohon lengkapi data dengan benar";
 						echo json_encode($build);
 						exit;
 					}
+				}
+
+				// validasi email
+				$email = explode("@", $post["email"]);
+
+				if (!isset($email[1]))
+				{
+					$build["response"] = false;
+					$build["message"] = "Format email tidak sesuai.";
+					echo json_encode($build);
+					exit;
+				}
+
+				$email = explode(".", $email[1]);
+
+				if (!isset($email[1]))
+				{
+					$build["response"] = false;
+					$build["message"] = "Format email tidak sesuai.";
+					echo json_encode($build);
+					exit;
+				}
+
+				// validasi password
+				if (strlen($post["password"]) < 6)
+				{
+					$build["response"] = false;
+					$build["message"] = "Password minimal harus 6 karakter.";
+					echo json_encode($build);
+					exit;
+				}
+
+				// validasi nomor handphone
+				if (strlen($post["phone"]) < 11 or strlen($post["phone"]) > 13  or !is_numeric($post["phone"]))
+				{
+					$build["response"] = false;
+					$build["message"] = "Nomor telephone tidak valid.";
+					echo json_encode($build);
+					exit;
 				}
 
 				$query = $this->db_select("data_user", ["email" => $post["email"]]);
@@ -36,7 +86,6 @@
 					if ($password !== $repassword)
 					{
 						$build["response"] = false;
-						$build["code"] = 2;
 						$build["message"] = "Password tidak cocok";
 					}
 					else
@@ -50,14 +99,12 @@
 						$this->db_insert("data_user", $post);
 
 						$build["response"] = true;
-						$build["code"] = 3;
 						$build["message"] = "Pendaftaran Berhasil";
 					}
 				} 
 				else
 				{
 					$build["response"] = false;
-					$build["code"] = 1;
 					$build["message"] = "Email sudah terdaftar";
 				}
 			}

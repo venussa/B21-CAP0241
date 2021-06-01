@@ -1,6 +1,6 @@
 <?php
 	
-	class service_log_process extends load 
+	class service_log_report extends load 
 	{
 		public function __construct()
 		{
@@ -23,9 +23,12 @@
             $page = ($page < 1) ? 1 : $page;
             $limit = ($limit < 1) ? 1 : $limit;
 
-			$query = $this->db_select("data_process?page=$page&limit=$limit",[
+			$query = $this->db_select("data_report?page=$page&limit=$limit",[
+				"%fullname" => $keyword,
 				"%email" => $keyword,
 				"%scan_type" => $keyword,
+				"%address" => $keyword,
+				"%buildtype" => $keyword,
 				"%damage_lvl" => $keyword,
 				"%process_token" => $keyword
 			]);
@@ -42,7 +45,9 @@
                     	$value->date_time = date("Y-m-d H:i:s", $value->timestamp);
                     	unset($value->timestamp);
                     	$value->id = (int) $value->id;
-                    	$value->image = HomeUrl()."/".$value->image;
+                    	$value->image = HomeUrl()."/".$value->urlimage;
+                    	$value->status = (int) $value->status;
+                    	unset($value->urlimage);
                         $build["data"][] = $value;
                     }
                 }

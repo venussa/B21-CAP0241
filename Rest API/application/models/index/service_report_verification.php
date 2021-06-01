@@ -7,6 +7,15 @@
 
 			header_content_type("json");
 
+			// validate token
+			if ($this->validate_token() == false)
+			{
+				$build["response"] = false;
+				$build["message"] = "Token Expired";
+				echo json_encode($build);
+				exit;
+			}
+
 			if (empty($this->post("status")))
 			{
 				$build["response"] = false;
@@ -17,11 +26,11 @@
 			{
 
 				$status = (int) clean_xss_string($this->post("status"));
-				$id = clean_xss_string($this->post("id"));
+				$process_token = process_token();
 
-				$this->db_update("data_process", [
+				$this->db_update("data_report", [
 					"status" => $status,
-					"where-id" => $id,
+					"where-process_token" => $process_token,
 				]);
 
 				$build["response"] = true;
@@ -29,5 +38,32 @@
 			}
 
 			echo json_encode($build);
+		}
+
+		protected function validate_token()
+		{
+			$token = token();
+
+			$query = $this->db_select("data_token", [
+				"token" => $token,
+				"status" => 1,
+				"start_date<" => time(),
+				"end_date>" => time(), 
+			]);
+
+			if ($query->total_data == 0)
+			{
+				return false;
+			}
+
+			$query = $this->db_select("data_user", ["email" => $query->email, "role" => "admin"]);
+
+
+			if ($query->total_data == 0)
+			{
+				return false;
+			}
+
+			return true;
 		}
 	}
