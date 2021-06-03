@@ -10,11 +10,11 @@
 
             if (!in_array(splice(1), $ignore))
             {
-                if (token() !== false)
+                if (token($this->get("token")) !== false)
                 {
                     header_content_type("json");
 
-                    $token = token();
+                    $token = token($this->get("token"));
                     $query = $this->db_select("data_token", ["token" => $token]);
 
                     if ($query->total_data > 0)

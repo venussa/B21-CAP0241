@@ -21,7 +21,7 @@
 				exit;
 			}
 
-			$token = token();
+			$token = token($this->get("token"));
 			$query = $this->db_select("data_token", ["token" => $token]);
 
 			if (is_array($this->post()))
@@ -156,7 +156,7 @@
 
 		protected function validate_token()
 		{
-			$token = token();
+			$token = token($this->get("token"));
 
 			$query = $this->db_select("data_token", [
 				"token" => $token,

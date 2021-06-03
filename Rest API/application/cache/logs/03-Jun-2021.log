@@ -1,0 +1,8 @@
+########################[02:35:26]##########################------------------------------------------------------------Error Msgs : Uncaught Error: Call to undefined function tokentoken() in E:\data\data_website\htdocs\bangkit\application\models\index\service_my_data.php:18
+Stack trace:
+#0 E:\data\data_website\htdocs\bangkit\system\core\core_controller.php(221): service_my_data->__construct()
+#1 E:\data\data_website\htdocs\bangkit\application\register\config.php(1): controller->declarate_space()
+#2 E:\data\data_website\htdocs\bangkit\application\config\autoload.php(200): require_once('E:\\data\\data_we...')
+#3 E:\data\data_website\htdocs\bangkit\index.php(67): require_once('E:\\data\\data_we...')
+#4 {main}
+  thrown------------------------------------------------------------Error Type : 1------------------------------------------------------------Error File : E:\data\data_website\htdocs\bangkit\application\models\index\service_my_data.php------------------------------------------------------------Error Line : 18------------------------------------------------------------Error Date : 03-Jun-2021------------------------------------------------------------Error Time : 02:35:26------------------------------------------------------------

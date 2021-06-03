@@ -12,7 +12,7 @@
 			$query = $this->db_select("data_user", ["email" => $email]);
 
 			$build["response"] = false;
-			$build["message"] = "Username atau password belum terisi.";
+			$build["message"] = "Email atau password belum terisi.";
 
 			if (!empty($email) and !empty($pass))
 			{
@@ -59,13 +59,13 @@
 					else
 					{
 						$build["response"] = false;
-						$build["message"] = "Username atau password salah.";
+						$build["message"] = "Email atau password salah.";
 					}
 				}
 				else
 				{
 					$build["response"] = false;
-					$build["message"] = "Username atau password salah.";
+					$build["message"] = "Email atau password salah.";
 				}
 			}
 
