@@ -19,12 +19,12 @@
 *** for contributors-URL, forks-URL, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
+
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-<!-- PROJECT LOGO -->
 <br />
   <h2 align="center">Bangkit Capstone Project 2021: Civil Infrastructure Damage Detection Using Object Detection for Reporting System Application</h2>
 
@@ -36,7 +36,6 @@
 <!--    <br />
     <a href="###">App Demo</a>
 -->
-    ·
     <a href="https://github.com/venussa/Bangkit-Project-Team/issues">Report Bug</a>
     ·
     <a href="https://github.com/venussa/Bangkit-Project-Team/issues">Request Feature</a>
@@ -83,8 +82,8 @@
 * [Google Cloud Platform Services](https://cloud.google.com/gcp)
 * [Kotlin Programming Language](https://kotlinlang.org/)
 * [Python Programming Language](https://docs.python.org/3/)
-* [TensorFlow] (https://www.tensorflow.org/overview)
-* [CNN ALgorithm] 
+* [TensorFlow](https://www.tensorflow.org/overview)
+* CNN ALgorithm 
 
 
 <!-- GETTING STARTED -->
