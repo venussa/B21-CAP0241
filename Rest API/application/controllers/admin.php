@@ -32,6 +32,32 @@
 
 		public function report()
 		{
+			$this->is_admin();
 			$this->view("admin/report");
+		}
+
+		public function log_prediction()
+		{
+			$this->is_admin();
+			$this->view("admin/log_prediction");
+		}
+
+		public function users()
+		{
+			$this->is_admin();
+			$this->view("admin/users");
+		}
+
+		protected function is_admin()
+		{
+			if (isset($_SESSION["token"]))
+			{
+				$query = json_decode(Curl(HomeUrl()."/service_my_data?token=".$_SESSION["token"]));
+
+				if ($query->data->role !== "admin")
+				{
+					header("location:".HomeUrl()."/admin/login");	
+				}
+			}
 		}
 	}

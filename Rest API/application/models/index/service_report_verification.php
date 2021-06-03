@@ -36,6 +36,7 @@
 
 				$build["response"] = true;
 				$build["message"] = "Data berhasil di simpan";
+				$build["datetime"] = date("Y-m-d H:i:s", time());
 			}
 
 			echo json_encode($build);

@@ -20,10 +20,10 @@
 						</div>
 						<form method="POST" action="{homeURL}/service_login">
 							<label>Email</label>
-							<input type="type" name="email" class="form-control">
+							<input type="email" name="email" class="form-control">
 							<p></p>
 							<label>Password</label>
-							<input type="type" name="password" class="form-control">
+							<input type="password" name="password" class="form-control">
 							<p id="message" style="color: #ff0000;margin-top: 20px;border-top: 2px #ddd dashed;padding-top:5px;"></p>
 							<button class="btn btn-primary" style="width: 100%">Login</button>
 						</form>
@@ -38,23 +38,29 @@
 	<script>
 		$(document).ready(function(){
 			$("form").submit(function(){
+				var obejct = $(this);
 				$.ajax({
 					type: $(this).attr("method"),
 					url: $(this).attr("action"),
 					data: $(this).serialize(),
+					beforeSend: function()
+					{
+						$("button").html("Please Wait ...");
+					},
 					success: function(event)
 					{
 						var json = event;
 
 						if (json.response == true)
 						{
-							$.get("{homeURL}/admin/token?access_token="+json.access_token, function(){
+							$.get("{homeURL}/admin/token?access_token="+json.access_token+"&role="+json.role, function(){
 								setTimeout(function(){window.location = "{homeURL}/admin/report"}, 1000);
 							});
 						}
 						else
 						{
 							$("#message").html("*"+json.message);
+							$("button").html("Login");
 						}
 					}
 				});

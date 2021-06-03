@@ -27,6 +27,7 @@
 				"%id" => $keyword,
 				"%fullname" => $keyword,
 				"%email" => $keyword,
+				"!role" => "admin",
 			]);
 
 			$build["response"] = true;

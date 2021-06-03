@@ -22,32 +22,23 @@
     		padding: 10px;
     		color:#666;
     		font-size: 17px;
+    		text-decoration: none;
+    	}
+    	.navmenu a:hover{
+    		font-weight: 600;
+    		color: #434343;
     	}
     </style>
 </head>
 <body style="background: #f5f5f5">
-	<div class="panel panel-default navbar navbar-fixed-top">
-		<div class="panel-body">
-			<div class="container" style="position: relative;">
-				<img src="{sourceURL}/assets/images/logo/logo.png" style="width: 150px">
-
-				<div class="navmenu">
-					<a href="{homeURL}/admin/report">Laporan Kerusakan</a>
-					<a href="{homeURL}/admin/log_prediction">Catatan Prediksi</a>
-					<a href="{homeURL}/admin/users">Daftar Pengguna</a>
-					<a href="{homeURL}/admin/about">Tentang Saya</a>
-					<a href="{homeURL}/admin/logout">Keluar</a>
-				</div>
-			</div>
-		</div>
-	</div>
+	<?php $this->view("admin/navbar")?>
 	<div class="container">
 		<div class="row">
 			<div class="col-md-12">
 				<div class="panel panel-default" style="margin-top: 100px;">
 					<div class="panel-body">
 						<div style="border-bottom: 2px #ddd dashed;padding-bottom: 20px;margin-bottom: 20px;">
-							<h2>Daftar Laporan Kerusakan</h2>
+							<h2>Laporan Kerusakan</h2>
 							<p>Ini adalah halaman yang menampilkan daftar laporan kerusakan yang mana setiap laporan kerusakan akan di verifikasi untuk di tindak lanjuti kebenarannya.</p>
 						</div>
 						<table id="example" class="table table-striped table-bordered" style="width:100%">
@@ -65,7 +56,7 @@
 							<tbody>
 
 							<?php
-								$data = Curl(HomeUrl()."/service_log_report?page=&limit=12&token=".$_SESSION["token"]);
+								$data = Curl(HomeUrl()."/service_log_report?page=1&limit=200&token=".$_SESSION["token"]);
 								$data = json_decode($data);
 								foreach($data->data as $key => $value)
 								{ 
@@ -78,8 +69,8 @@
 									<td><?php echo $value->id?></td>
 									<td>
 										<p>
-											<strong><?php echo $value->fullname?></strong> 
-											(<a href="mailto:<?php echo $value->email?>"><?php echo $value->email?></a>)
+											<strong><?php echo $value->fullname?></strong> <br>
+											<a href="mailto:<?php echo $value->email?>"><?php echo $value->email?></a>
 										</p>
 									</td>
 									<td>
@@ -100,18 +91,18 @@
 										<p>
 										   <?php 
 											   	if ($value->status == 1)
-											   	{
-											   		$pict = "on.png"; 
-											   		$disabled = "false";
-											   	}
+											   	{ ?>
+											   		<img src="{sourceURL}/assets/images/background/on.png"style="width: 80px; cursor: not-allowed;">
+											   	<?php }
 											   	else 
-											   	{
-											   		$pict = "off.png"; 
-											   		$disabled = "true";
-											   	}
+											   	{ ?>
+											   		<img data-id="<?php echo $value->id?>" src="{sourceURL}/assets/images/background/off.png" onclick="return verif_now(this)" process_token="<?php echo $value->process_token?>" style="cursor: pointer;width: 80px">
+											   	<?php }
 										   	?>
-										   <img src="{sourceURL}/assets/images/background/<?php echo $pict?>" onclick="return verif_now(this)" process_token="<?php echo $value->process_token?>" disabled="<?php echo $disabled?>" style="cursor: pointer;width: 80px">
 										</p>
+										<p style="font-size: 12px;"><i class="date-<?php echo $value->id?>">
+											<?php if($value->verified_timestamp !== "-") echo $value->verified_timestamp ?>
+											</i></p>
 									</td>
 								</tr>
 
@@ -138,6 +129,13 @@
 					},
 					success: function(event)
 					{
+						var json = event;
+						var id = $(object).attr("data-id");
+						$(object).removeAttr("onclick");
+						$(object).css({
+							"cursor" : "not-allowed"
+						});
+						$(".date-"+id).html(json.datetime);
 						$(object).attr("src", "{sourceURL}/assets/images/background/on.png");
 					}
 				});
