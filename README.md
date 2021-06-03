@@ -83,7 +83,7 @@
 * [Kotlin Programming Language](https://kotlinlang.org/)
 * [Python Programming Language](https://docs.python.org/3/)
 * [TensorFlow](https://www.tensorflow.org/overview)
-* CNN ALgorithm 
+* CNN Algorithm 
 
 
 <!-- GETTING STARTED -->
