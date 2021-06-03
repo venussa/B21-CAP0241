@@ -15,16 +15,18 @@
 				exit;
 			}
 
-			$token = token();
+			$token = token($this->get("token"));
 
 			$query = $this->db_select("data_token", ["token" => $token]);
 			$query = $this->db_select("data_user",["email" => $query->email]);
-
-			$build["response"] = true;
-			$build["message"] = "Data berhasil di dapatkan";
+			$email = $query->email;
 			
 			if ($query->total_data > 0)
 			{
+
+				$build["response"] = true;
+				$build["message"] = "Data berhasil di dapatkan";
+
 				foreach ($query as $key => $value)
 				{
 					if (is_numeric($key))
@@ -42,6 +44,30 @@
 						$build["data"]["register_time"] = date("Y-m-d H:i:s", $build["data"]["register_time"]);
 					}
 				}
+
+				$report = $this->db_select("data_report", [
+					"email" => $email
+				]);
+
+				$build["data"]["log_report"] = false;
+
+				if ($report->total_data > 0)
+	            {
+	                foreach ($report as $key => $value)
+	                {
+	                    if (is_numeric($key))
+	                    {
+	                    	$value->datetime = date("Y-m-d H:i:s", $value->timestamp);
+	                    	unset($value->timestamp);
+	                    	$value->id = (int) $value->id;
+	                    	$value->image = HomeUrl()."/".$value->urlimage;
+	                    	$value->status = (int) $value->status;
+	                    	$value->verified_timestamp = ($value->verified_timestamp == 0) ? "-" : date("Y-m-d H:i:s", $value->verified_timestamp);
+	                    	unset($value->urlimage);
+	                        $build["data"]["log_report"][] = $value;
+	                    }
+	                }
+	            }
 			}
 			else
 			{
@@ -55,7 +81,7 @@
 
 		protected function validate_token()
 		{
-			$token = token();
+			$token = token($this->get("token"));
 
 			$query = $this->db_select("data_token", [
 				"token" => $token,

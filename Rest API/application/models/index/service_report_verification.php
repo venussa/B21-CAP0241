@@ -26,10 +26,11 @@
 			{
 
 				$status = (int) clean_xss_string($this->post("status"));
-				$process_token = process_token();
+				$process_token = process_token($this->get("process_token"));
 
 				$this->db_update("data_report", [
 					"status" => $status,
+					"verified_timestamp" => time(),
 					"where-process_token" => $process_token,
 				]);
 
@@ -42,7 +43,7 @@
 
 		protected function validate_token()
 		{
-			$token = token();
+			$token = token($this->get("token"));
 
 			$query = $this->db_select("data_token", [
 				"token" => $token,

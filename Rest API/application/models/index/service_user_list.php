@@ -15,7 +15,7 @@
 				exit;
 			}
 
-			$token = token();
+			$token = token($this->get("token"));
 			$keyword = clean_xss_string($this->get("q"));
 			$page = (int) $this->get("page");
 			$limit = (int) $this->get("limit");
@@ -60,7 +60,7 @@
 
 		protected function validate_token()
 		{
-			$token = token();
+			$token = token($this->get("token"));
 
 			$query = $this->db_select("data_token", [
 				"token" => $token,

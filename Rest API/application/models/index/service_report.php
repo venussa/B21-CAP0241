@@ -42,7 +42,7 @@
 					}
 				}
 
-				$query = $this->db_select("data_process", ["process_token" => process_token()]);
+				$query = $this->db_select("data_process", ["process_token" => process_token($this->get("process_token"))]);
 				
 				if ($query->total_data == 0)
 				{
@@ -83,7 +83,7 @@
 
 		protected function validate_token()
 		{
-			$token = token();
+			$token = token($this->get("token"));
 
 			$query = $this->db_select("data_token", [
 				"token" => $token,

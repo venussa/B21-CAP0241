@@ -1,0 +1,41 @@
+########################[01:46:01]##########################------------------------------------------------------------Error Msgs : Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES) in E:\data\data_website\htdocs\bangkit\system\core\core_database.php:115
+Stack trace:
+#0 E:\data\data_website\htdocs\bangkit\system\core\core_database.php(115): PDO->__construct('mysql:host=loca...', 'root', 'gadfrey56')
+#1 E:\data\data_website\htdocs\bangkit\system\core\core_database.php(49): system\core\DBQuery->PDOconnect('bangunan')
+#2 E:\data\data_website\htdocs\bangkit\system\core\core_database_select.php(264): system\core\database->query('SELECT * FROM d...')
+#3 E:\data\data_website\htdocs\bangkit\system\core\core_database_select.php(130): system\core\database_select->main_query()
+#4 E:\data\data_website\htdocs\bangkit\system\core\core_loadinstance.php(282): system\core\database_select->catch_error()
+#5 E:\data\data_website\htdocs\bangkit\application\models\index\service_my_data.php(63): load->db_select('data_token', Array)
+#6 E:\data\data_website\htdocs\bangkit\application\models\index\service------------------------------------------------------------Error Type : 1------------------------------------------------------------Error File : E:\data\data_website\htdocs\bangkit\system\core\core_database.php------------------------------------------------------------Error Line : 115------------------------------------------------------------Error Date : 02-Jun-2021------------------------------------------------------------Error Time : 01:46:01------------------------------------------------------------########################[02:12:51]##########################------------------------------------------------------------Error Msgs : Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES) in E:\data\data_website\htdocs\bangkit\system\core\core_database.php:115
+Stack trace:
+#0 E:\data\data_website\htdocs\bangkit\system\core\core_database.php(115): PDO->__construct('mysql:host=loca...', 'root', 'gadfrey56')
+#1 E:\data\data_website\htdocs\bangkit\system\core\core_database.php(49): system\core\DBQuery->PDOconnect('bangunan')
+#2 E:\data\data_website\htdocs\bangkit\system\core\core_database_select.php(264): system\core\database->query('SELECT * FROM d...')
+#3 E:\data\data_website\htdocs\bangkit\system\core\core_database_select.php(130): system\core\database_select->main_query()
+#4 E:\data\data_website\htdocs\bangkit\system\core\core_loadinstance.php(282): system\core\database_select->catch_error()
+#5 E:\data\data_website\htdocs\bangkit\application\controllers\index.php(9): load->db_select('data_token', Array)
+#6 E:\data\data_website\htdocs\bangkit\system\core\core_controller.php(198): index-------------------------------------------------------------Error Type : 1------------------------------------------------------------Error File : E:\data\data_website\htdocs\bangkit\system\core\core_database.php------------------------------------------------------------Error Line : 115------------------------------------------------------------Error Date : 02-Jun-2021------------------------------------------------------------Error Time : 02:12:51------------------------------------------------------------########################[02:13:40]##########################------------------------------------------------------------Error Msgs : Undefined variable: db------------------------------------------------------------Error Type : 8------------------------------------------------------------Error File : E:\data\data_website\htdocs\bangkit\system\core\core_loadinstance.php------------------------------------------------------------Error Line : 270------------------------------------------------------------Error Date : 02-Jun-2021------------------------------------------------------------Error Time : 02:13:40------------------------------------------------------------########################[02:13:40]##########################------------------------------------------------------------Error Msgs : Uncaught Error: Call to a member function query() on null in E:\data\data_website\htdocs\bangkit\system\core\core_loadinstance.php:270
+Stack trace:
+#0 E:\data\data_website\htdocs\bangkit\application\controllers\index.php(15): load->db_query('data_token', Array)
+#1 E:\data\data_website\htdocs\bangkit\system\core\core_controller.php(198): index->__construct()
+#2 E:\data\data_website\htdocs\bangkit\application\register\config.php(1): controller->declarate_space()
+#3 E:\data\data_website\htdocs\bangkit\application\config\autoload.php(200): require_once('E:\\data\\data_we...')
+#4 E:\data\data_website\htdocs\bangkit\index.php(67): require_once('E:\\data\\data_we...')
+#5 {main}
+  thrown------------------------------------------------------------Error Type : 1------------------------------------------------------------Error File : E:\data\data_website\htdocs\bangkit\system\core\core_loadinstance.php------------------------------------------------------------Error Line : 270------------------------------------------------------------Error Date : 02-Jun-2021------------------------------------------------------------Error Time : 02:13:40------------------------------------------------------------########################[11:53:18]##########################------------------------------------------------------------Error Msgs : Uncaught ArgumentCountError: Too few arguments to function token(), 0 passed in E:\data\data_website\htdocs\bangkit\application\controllers\index.php on line 13 and exactly 1 expected in E:\data\data_website\htdocs\bangkit\application\helpers\header.php:3
+Stack trace:
+#0 E:\data\data_website\htdocs\bangkit\application\controllers\index.php(13): token()
+#1 E:\data\data_website\htdocs\bangkit\system\core\core_controller.php(198): index->__construct()
+#2 E:\data\data_website\htdocs\bangkit\application\register\config.php(1): controller->declarate_space()
+#3 E:\data\data_website\htdocs\bangkit\application\config\autoload.php(200): require_once('E:\\data\\data_we...')
+#4 E:\data\data_website\htdocs\bangkit\index.php(67): require_once('E:\\data\\data_we...')
+#5 {main}
+  thrown------------------------------------------------------------Error Type : 1------------------------------------------------------------Error File : E:\data\data_website\htdocs\bangkit\application\helpers\header.php------------------------------------------------------------Error Line : 3------------------------------------------------------------Error Date : 02-Jun-2021------------------------------------------------------------Error Time : 11:53:18------------------------------------------------------------########################[11:56:31]##########################------------------------------------------------------------Error Msgs : Uncaught ArgumentCountError: Too few arguments to function token(), 0 passed in E:\data\data_website\htdocs\bangkit\application\controllers\index.php on line 13 and exactly 1 expected in E:\data\data_website\htdocs\bangkit\application\helpers\header.php:3
+Stack trace:
+#0 E:\data\data_website\htdocs\bangkit\application\controllers\index.php(13): token()
+#1 E:\data\data_website\htdocs\bangkit\system\core\core_controller.php(198): index->__construct()
+#2 E:\data\data_website\htdocs\bangkit\application\register\config.php(1): controller->declarate_space()
+#3 E:\data\data_website\htdocs\bangkit\application\config\autoload.php(200): require_once('E:\\data\\data_we...')
+#4 E:\data\data_website\htdocs\bangkit\index.php(67): require_once('E:\\data\\data_we...')
+#5 {main}
+  thrown------------------------------------------------------------Error Type : 1------------------------------------------------------------Error File : E:\data\data_website\htdocs\bangkit\application\helpers\header.php------------------------------------------------------------Error Line : 3------------------------------------------------------------Error Date : 02-Jun-2021------------------------------------------------------------Error Time : 11:56:31------------------------------------------------------------

@@ -42,11 +42,12 @@
                 {
                     if (is_numeric($key))
                     {
-                    	$value->date_time = date("Y-m-d H:i:s", $value->timestamp);
+                    	$value->datetime = date("Y-m-d H:i:s", $value->timestamp);
                     	unset($value->timestamp);
                     	$value->id = (int) $value->id;
                     	$value->image = HomeUrl()."/".$value->urlimage;
                     	$value->status = (int) $value->status;
+                    	$value->verified_timestamp = ($value->verified_timestamp == 0) ? "-" : date("Y-m-d H:i:s", $value->verified_timestamp);
                     	unset($value->urlimage);
                         $build["data"][] = $value;
                     }
@@ -64,7 +65,7 @@
 
 		protected function validate_token()
 		{
-			$token = token();
+			$token = token($this->get("token"));
 
 			$query = $this->db_select("data_token", [
 				"token" => $token,
