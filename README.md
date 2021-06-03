@@ -19,11 +19,11 @@
 *** for contributors-URL, forks-URL, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
+![Logo BangunanKu](https://github.com/venussa/Bangkit-Project-Team/blob/main/Rest%20API/sources/assets/images/logo/logo.png)
 
 <br />
   <h2 align="center">Bangkit Capstone Project 2021: Civil Infrastructure Damage Detection Using Object Detection for Reporting System Application</h2>
