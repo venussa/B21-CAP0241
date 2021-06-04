@@ -53,6 +53,7 @@
 			{
 				$build["response"] = false;
 				$build["message"] = "Data tidak ditemukan";
+				$build["data"] = [];
 			}
 
 			echo json_encode($build);

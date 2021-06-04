@@ -54,8 +54,9 @@
 			{
 				$query = json_decode(Curl(HomeUrl()."/service_my_data?token=".$_SESSION["token"]));
 
-				if ($query->data->role !== "admin")
+				if ($query->data->role !== "admin" or $query->response == false)
 				{
+					session_destroy();
 					header("location:".HomeUrl()."/admin/login");	
 				}
 			}

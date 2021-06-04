@@ -44,8 +44,8 @@
 						<table id="example" class="table table-striped table-bordered" style="width:100%">
 							<thead>
 								<tr>
-									<th style="width: 10px;">R-ID</th>
-									<th>Report Detail</th>
+									<th style="width: 25px;">R-ID</th>
+									<th>Name</th>
 									<th style="width: 250px;">Location Info</th>
 									<th style="width: 250px;">Prediction Report</th>
 									<th style="width: 200px;">Status 
@@ -84,7 +84,22 @@
 									<td>
 										<p><strong>Jenis Prediksi :</strong> <?php echo $value->scan_type?></p>
 										<p><strong>Jenis Bangunan :</strong> <?php echo $value->buildtype?></p>
-										<p><strong>Tingkat Kerusakan :</strong> <?php echo $value->damage_lvl?></p>
+										<p><strong>Tingkat Kerusakan :</strong>
+											<?php 
+												if ($value->damage_lvl === "Tidak Rusak")
+												{ ?>
+													<span class="label label-success"><?php echo $value->damage_lvl?></span>
+												<?php }
+												else if ($value->damage_lvl === "Rusak Sedang")
+												{ ?>
+													<span class="label label-warning"><?php echo $value->damage_lvl?></span>
+												<?php }
+												else
+												{ ?>
+													<span class="label label-danger"><?php echo $value->damage_lvl?></span>
+												<?php }
+											?>
+										</p>
 										<p><strong>Tanggal Lapor :</strong> <?php echo $value->datetime?></p>
 									</td>
 									<td>
