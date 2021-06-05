@@ -49,7 +49,7 @@
 					"email" => $email
 				]);
 
-				$build["data"]["log_report"] = false;
+				$build["data"]["log_report"] = [];
 
 				if ($report->total_data > 0)
 	            {

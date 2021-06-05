@@ -44,11 +44,11 @@
 						<table id="example" class="table table-striped table-bordered" style="width:100%">
 							<thead>
 								<tr>
-									<th style="width: 10px;">U-ID</th>
-									<td>Name</td>
-									<td>Contact</td>
-									<td>Address</td>
-									<td>Activity</td>
+									<th style="width: 25px;">U-ID</th>
+									<th>Name</th>
+									<th>Contact</th>
+									<th>Address</th>
+									<th>Activity</th>
 								</tr>
 							</thead>
 							<tbody>

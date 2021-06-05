@@ -44,11 +44,11 @@
 						<table id="example" class="table table-striped table-bordered" style="width:100%">
 							<thead>
 								<tr>
-									<th style="width: 10px;">P-ID</th>
-									<td>Email</td>
-									<td style="width: 250px;">Scan Type</td>
-									<td>Damage Level</td>
-									<td>Date</td>
+									<th style="width: 25px;">P-ID</th>
+									<th>Proccess Token</th>
+									<th style="width: 200px;">Scan Type</td>
+									<th style="width: 200px;">Damage Level</th>
+									<th>Date</th>
 								</tr>
 							</thead>
 							<tbody>
@@ -62,11 +62,24 @@
 
 								<tr>
 									<td><?php echo $value->id?></td>
-									<td>
-										<a href="mailto:<?php echo $value->email?>"><?php echo $value->email?></a>
-									</td>
+									<td><?php echo $value->process_token ?></td>
 									<td><?php echo $value->scan_type?> [<a href="<?php echo $value->image?>" style="text-decoration: none;" target="_blank">Lihat gambar</a>]</td>
-									<td><?php echo $value->damage_lvl?></td>
+									<td>
+										<?php 
+											if ($value->damage_lvl === "Tidak Rusak")
+											{ ?>
+												<span class="label label-success"><?php echo $value->damage_lvl?></span>
+											<?php }
+											else if ($value->damage_lvl === "Rusak Sedang")
+											{ ?>
+												<span class="label label-warning"><?php echo $value->damage_lvl?></span>
+											<?php }
+											else
+											{ ?>
+												<span class="label label-danger"><?php echo $value->damage_lvl?></span>
+											<?php }
+										?>
+									</td>
 									<td><?php echo $value->date_time?></td>
 								</tr>
 
