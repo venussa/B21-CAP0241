@@ -53,8 +53,9 @@
 
 						if (json.response == true)
 						{
-							$.get("{homeURL}/admin/token?access_token="+json.access_token+"&role="+json.role, function(){
-								setTimeout(function(){window.location = "{homeURL}/admin/report"}, 1000);
+							$("button").html("Success, redirecting ...");
+							$.get("{homeURL}/admin/token?access_token="+json.access_token, function(){
+								setTimeout(function(){ window.location.reload() }, 2000);
 							});
 						}
 						else
