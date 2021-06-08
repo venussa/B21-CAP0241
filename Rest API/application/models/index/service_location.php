@@ -33,7 +33,7 @@
 	 				$build["data"][$index]["province_id"] = "p".($index + 1);
 	 				$build["data"][$index]["province_name"] = $value;
 
-	 				foreach(kabupaten() as $ke1y1 => $value1)
+	 				foreach(kabupaten($key) as $ke1y1 => $value1)
 	 				{
 	 					$build["data"][$index]["city"][] = $value1;
 	 				}

@@ -32,7 +32,7 @@ class dbconfig{
 
 			"hostname" => "localhost",
 			"username" => "root",
-			"password" => "gadfrey56",
+			"password" => "",
 			"database" => "bangunan"
 
 		)));

@@ -9,16 +9,19 @@ from werkzeug.datastructures import FileStorage
 from datetime import datetime
 
 
-mydb = mysql.connector.connect(host="localhost", user="root", password="gadfrey56", database="bangunan")
+mydb = mysql.connector.connect(host="localhost", user="root", password="", database="bangunan")
 
 # extract file name to multi segment
 # seg 1 : get original name
 # seg 2 : get original extention
 def extract_file_name(filename):
-	extract = FileStorage(filename)
-	splitnm = extract.split('.')
-	results = splitnm[len(splitnm)-1]
-	return results
+	if (len(str(filename))) > 0 :
+		extract = FileStorage(filename)
+		splitnm = extract.split('.')
+		results = splitnm[len(splitnm)-1]
+		return results
+	else:
+		return False;
 
 # filter allowed extention
 # allowed extention ['jpg', 'jpeg', 'png']
@@ -37,22 +40,24 @@ app = Flask(__name__)
 def scan_building():
 	timestamp = int(time.time()) + (3600 * 7)
 	# if request.method == 'POST':
-	postfile = request.files['file']
+	if 'file' in request.files:
+		postfile = request.files['file']
+	else:
+		result_set = {
+			'response' : False,
+			'message' : 'Invalid Action',
+		}
+		return Response(json.dumps(result_set), mimetype='application/json')
 	#fullname = str(request.form['fullname'])
 	token = str(request.headers["token"])
 	#geocordinate = str(request.form['geocordinate'])
 	#buildtype = str(request.form['buildtype'])
 	#address = str(request.form['address'])
-
 	mycursor = mydb.cursor(buffered=True)
 	sql = "SELECT email FROM data_token WHERE token=%s and start_date < %s and end_date > %s and status = '1'"
 	mycursor.execute(sql, (token, timestamp, timestamp))
 	row = mycursor.rowcount
 	email = mycursor.fetchone()
-	email = email[0]
-
-	abs_token = email+'-'+str(timestamp)
-	process_token = hashlib.md5(abs_token.encode()).hexdigest()
 
 	if row == False:
 		result_set = {
@@ -60,11 +65,22 @@ def scan_building():
 			'message' : 'Token Expired.',
 		}
 		return Response(json.dumps(result_set), mimetype='application/json')
-	
+
+	email = email[0]
+
+	abs_token = email+'-'+str(timestamp)
+	process_token = hashlib.md5(abs_token.encode()).hexdigest()
 
 	datereport = str(datetime.fromtimestamp(timestamp))
 
 	extention = extract_file_name(postfile.filename)
+
+	if extention == False:
+		result_set = {
+			'response' : False,
+			'message' : 'Please upload pictures.',
+		}
+		return Response(json.dumps(result_set), mimetype='application/json')
 
 	check_ext = filter_extention(extention)
 
@@ -124,7 +140,15 @@ def scan_building():
 def scan_road():
 	timestamp = int(time.time()) + (3600 * 7)
 	# if request.method == 'POST':
-	postfile = request.files['file']
+	if 'file' in request.files:
+		postfile = request.files['file']
+	else:
+		result_set = {
+			'response' : False,
+			'message' : 'Invalid Action',
+		}
+		return Response(json.dumps(result_set), mimetype='application/json')
+
 	#fullname = str(request.form['fullname'])
 	token = str(request.headers["token"])
 	#geocordinate = str(request.form['geocordinate'])
@@ -136,10 +160,6 @@ def scan_road():
 	mycursor.execute(sql, (token, timestamp, timestamp))
 	row = mycursor.rowcount
 	email = mycursor.fetchone()
-	email = email[0]
-
-	abs_token = email+'-'+str(timestamp)
-	process_token = hashlib.md5(abs_token.encode()).hexdigest()
 
 	if row == False:
 		result_set = {
@@ -148,9 +168,21 @@ def scan_road():
 		}
 		return Response(json.dumps(result_set), mimetype='application/json')
 
+	email = email[0]
+
+	abs_token = email+'-'+str(timestamp)
+	process_token = hashlib.md5(abs_token.encode()).hexdigest()
+
 	datereport = str(datetime.fromtimestamp(timestamp))
 
 	extention = extract_file_name(postfile.filename)
+
+	if extention == False:
+		result_set = {
+			'response' : False,
+			'message' : 'Please upload pictures.',
+		}
+		return Response(json.dumps(result_set), mimetype='application/json')
 
 	check_ext = filter_extention(extention)
 
