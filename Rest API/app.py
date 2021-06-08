@@ -59,7 +59,7 @@ def scan_building():
 	row = mycursor.rowcount
 	email = mycursor.fetchone()
 
-	if row == False:
+	if row < 1:
 		result_set = {
 			'response' : False,
 			'message' : 'Token Expired.',
@@ -161,7 +161,7 @@ def scan_road():
 	row = mycursor.rowcount
 	email = mycursor.fetchone()
 
-	if row == False:
+	if row < 1:
 		result_set = {
 			'response' : False,
 			'message' : 'Token Expired.',
