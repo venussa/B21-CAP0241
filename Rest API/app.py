@@ -1,4 +1,4 @@
-import time, json
+import time, json, os
 import prediction as pred
 import mysql.connector
 import hashlib
@@ -8,6 +8,8 @@ from werkzeug.utils import secure_filename
 from werkzeug.datastructures import FileStorage
 from datetime import datetime
 
+os.environ['TZ'] = "Asia/Jakarta"
+time.tzset()
 
 mydb = mysql.connector.connect(host="localhost", user="root", password="", database="bangunan")
 
@@ -38,7 +40,7 @@ app = Flask(__name__)
 # scan building
 @app.route('/service_scan_building', methods = ['POST'])
 def scan_building():
-	timestamp = int(time.time()) + (3600 * 7)
+	timestamp = int(time.time())
 	# if request.method == 'POST':
 	if 'file' in request.files:
 		postfile = request.files['file']
@@ -138,7 +140,7 @@ def scan_building():
 # upload service route path
 @app.route('/service_scan_road', methods = ['POST'])
 def scan_road():
-	timestamp = int(time.time()) + (3600 * 7)
+	timestamp = int(time.time())
 	# if request.method == 'POST':
 	if 'file' in request.files:
 		postfile = request.files['file']
