@@ -141,7 +141,7 @@ Contributions make the open source community such an amazing place to learn, ins
 * Rizky Damayanti Ritonga - [rizkydamayantirtg@gmail.com](https://mail.google.com/mail/u/0/#inbox?compose=new)
 * Yudha Romadhon - [steavenroger@gmail.com](https://mail.google.com/mail/u/0/#inbox?compose=new)
 
-Project Link: [https://github.com/venussa/Bangkit-Project-Team](https://github.com/venussa/Bangkit-Project-Team)
+Project Link: [https://github.com/venussa/Bangkit-Project-Team](https://github.com/venussa/B21-CAP0241)
 
 
 <!-- ACKNOWLEDGEMENTS -->
