@@ -7,4 +7,9 @@
     <color name="orange_700">#FFc17b00</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="app_blue">#FF1077BC</color>
+    <color name="profile_light_blue">#FFDFEDF6</color>
+    <color name="inactive_nav">#99FFFFFF</color>
+    <color name="status_green">#FF319E0B</color>
+    <color name="manage_profile_icon">#FF25B2B7</color>
 </resources>

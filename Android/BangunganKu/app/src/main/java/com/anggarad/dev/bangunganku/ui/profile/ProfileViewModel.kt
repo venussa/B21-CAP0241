@@ -18,6 +18,6 @@ class ProfileViewModel(
         get() = _dataUser
 
     fun getUser() = viewModelScope.launch {
-        _dataUser.value = repository.getUser()
+        _dataUser.value = repository.getUserData()
     }
 }

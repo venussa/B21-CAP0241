@@ -16,6 +16,8 @@ class HomeActivity : AppCompatActivity() {
         binding = ActivityHomeBinding.inflate(layoutInflater)
         setContentView(binding.root)
 
+        setSupportActionBar(findViewById(R.id.my_toolbar))
+
 
         val bottomNavigationView = binding.navView
         val navController = findNavController(R.id.navHostFragmentHome)

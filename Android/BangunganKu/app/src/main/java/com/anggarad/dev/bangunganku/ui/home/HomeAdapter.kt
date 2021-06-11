@@ -1,15 +1,16 @@
 package com.anggarad.dev.bangunganku.ui.home
 
-import android.content.Intent
 import android.view.LayoutInflater
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
 import com.anggarad.dev.bangunganku.data.source.local.entity.CardMenuEntity
-import com.anggarad.dev.bangunganku.data.source.remote.response.UserResponse
 import com.anggarad.dev.bangunganku.databinding.ItemsServicesBinding
-import com.anggarad.dev.bangunganku.ui.service.building.ServiceReportActivity
+import com.anggarad.dev.bangunganku.ui.adapter.DataCallback
+import com.bumptech.glide.Glide
+import com.bumptech.glide.request.RequestOptions
 
-class HomeAdapter : RecyclerView.Adapter<HomeAdapter.MenuViewHolder>() {
+class HomeAdapter(private val callback: DataCallback) :
+    RecyclerView.Adapter<HomeAdapter.MenuViewHolder>() {
 
     private val listMenu = ArrayList<CardMenuEntity>()
 
@@ -22,12 +23,14 @@ class HomeAdapter : RecyclerView.Adapter<HomeAdapter.MenuViewHolder>() {
     inner class MenuViewHolder(private val binding: ItemsServicesBinding) :
         RecyclerView.ViewHolder(binding.root) {
         fun bind(menu: CardMenuEntity) {
-            val user: UserResponse
             binding.tvServiceTitle.text = menu.serviceTitle
             binding.tvDescriptionService.text = menu.description
+            Glide.with(itemView.context)
+                .load(menu.logo)
+                .apply(RequestOptions().override(110, 110))
+                .into(binding.imageView)
             itemView.setOnClickListener {
-                val intent = Intent(itemView.context, ServiceReportActivity::class.java)
-                itemView.context.startActivity(intent)
+                callback.onMenuClick(menu)
             }
         }
     }

@@ -7,7 +7,9 @@ import android.view.LayoutInflater
 import android.view.ViewGroup
 import android.widget.Toast
 import androidx.core.widget.addTextChangedListener
+import androidx.fragment.app.FragmentTransaction
 import androidx.lifecycle.lifecycleScope
+import com.anggarad.dev.bangunganku.R
 import com.anggarad.dev.bangunganku.data.network.ApiService
 import com.anggarad.dev.bangunganku.data.network.Resource
 import com.anggarad.dev.bangunganku.data.repository.AuthRepository
@@ -21,6 +23,7 @@ import com.anggarad.dev.bangunganku.ui.visible
 import kotlinx.coroutines.launch
 
 class LoginFragment : BaseFragment<AuthViewModel, FragmentLoginBinding, AuthRepository>() {
+    private lateinit var transaction: FragmentTransaction
 
     override fun onActivityCreated(savedInstanceState: Bundle?) {
         super.onActivityCreated(savedInstanceState)
@@ -33,10 +36,15 @@ class LoginFragment : BaseFragment<AuthViewModel, FragmentLoginBinding, AuthRepo
             when (it) {
                 is Resource.Success -> {
                     if (!it.value.response) {
-                        Toast.makeText(requireContext(), "Login Failed", Toast.LENGTH_SHORT).show()
+                        Toast.makeText(requireContext(),
+                            "Check Your Username or Password",
+                            Toast.LENGTH_SHORT).show()
                     } else {
                         lifecycleScope.launch {
-                            viewModel.saveCredentials(it.value.accessToken!!)
+                            viewModel.saveCredentials(
+                                it.value.accessToken!!,
+                                it.value.data.fullname!!
+                            )
                             Toast.makeText(
                                 requireContext(),
                                 "Welcome ${it.value.data.fullname}",
@@ -60,6 +68,21 @@ class LoginFragment : BaseFragment<AuthViewModel, FragmentLoginBinding, AuthRepo
             val email = binding.editTextTextEmailAddress.text.toString().trim()
             val password = binding.editTextTextPassword.text.toString().trim()
             viewModel.login(email, password)
+
+        }
+
+        binding.tvForgetPassword.setOnClickListener {
+            Toast.makeText(requireContext(), "Under Development", Toast.LENGTH_SHORT).show()
+        }
+
+        binding.tvClickableRegister.setOnClickListener {
+            transaction = requireActivity().supportFragmentManager.beginTransaction()
+            val registerFragment = RegisterFragment()
+            transaction.replace(R.id.fragment, registerFragment)
+            transaction.setTransition(FragmentTransaction.TRANSIT_FRAGMENT_OPEN)
+            transaction.addToBackStack(null)
+            transaction.setReorderingAllowed(true)
+            transaction.commit()
 
         }
     }

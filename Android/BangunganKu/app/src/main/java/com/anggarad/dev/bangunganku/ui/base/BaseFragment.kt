@@ -37,6 +37,10 @@ abstract class BaseFragment<VM : ViewModel, Binding : ViewBinding, Repos : BaseR
 
         lifecycleScope.launch { userPref.accessToken.first() }
 
+        lifecycleScope.launch { userPref.getUserName }
+
+        lifecycleScope.launch { userPref.getProcessKey }
+
         return binding.root
 
     }
