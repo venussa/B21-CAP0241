@@ -22,6 +22,12 @@
 					session_destroy();
 					header("location:".HomeUrl()."/admin/login");
 				}
+
+				if ($query->data->role !== "admin")
+                { 
+                        session_destroy();
+                        header("location:".HomeUrl()."/admin/login");
+                }
 			}
 		}
 
