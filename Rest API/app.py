@@ -237,4 +237,4 @@ def scan_road():
 		return Response(json.dumps(result_set), mimetype='application/json')
 
 if __name__ == '__main__':
-   app.run(host = '0.0.0.0' , debug = True)
+   app.run(host = '0.0.0.0' , debug = False)
