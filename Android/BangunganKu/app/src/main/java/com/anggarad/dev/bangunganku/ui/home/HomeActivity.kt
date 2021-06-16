@@ -4,6 +4,7 @@ import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
 import androidx.navigation.findNavController
 import androidx.navigation.ui.setupWithNavController
+import androidx.swiperefreshlayout.widget.SwipeRefreshLayout
 import com.anggarad.dev.bangunganku.R
 import com.anggarad.dev.bangunganku.databinding.ActivityHomeBinding
 
@@ -23,6 +24,7 @@ class HomeActivity : AppCompatActivity() {
         val navController = findNavController(R.id.navHostFragmentHome)
 
         bottomNavigationView.setupWithNavController(navController)
+
 
     }
 }

@@ -2,6 +2,7 @@
 <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/icon"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@color/white"
@@ -16,7 +17,7 @@
         android:layout_marginTop="6dp"
         android:text="@string/report_date"
         android:textColor="@color/black"
-        android:textSize="12sp"
+        android:textSize="14sp"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/tv_report_id" />
 
@@ -25,11 +26,11 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginStart="36dp"
-        android:layout_marginTop="8dp"
+        android:layout_marginTop="12dp"
         android:fontFamily="sans-serif-medium"
         android:text="Fill up the data"
         android:textColor="@color/app_blue"
-        android:textSize="18sp"
+        android:textSize="24sp"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
@@ -71,7 +72,7 @@
             android:layout_gravity="center|fill"
             android:layout_marginTop="24dp"
             android:contentDescription="@string/building_images"
-            android:src="@drawable/ic_baseline_photo_24" />
+            android:src="@drawable/ic_baseline_add_box_24" />
 
         <TextView
             android:id="@+id/damage_type"
@@ -115,5 +116,22 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/buttonReset"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="12dp"
+        android:background="@drawable/background_button"
+        android:minHeight="40dip"
+        android:text="Reset"
+        android:textColor="@color/white"
+        app:icon="@drawable/ic_baseline_refresh"
+        app:iconPadding="10dp"
+        app:iconSize="18dp"
+        app:iconTint="@color/white"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/photo_layout" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>

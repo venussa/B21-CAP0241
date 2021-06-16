@@ -12,18 +12,19 @@
         <!-- Status bar color. -->
         <item name="android:statusBarColor" tools:targetApi="21">?attr/colorPrimaryVariant</item>
         <!-- Customize your theme here. -->
-        <item name="actionBarTheme">@color/white</item>
+        <item name="android:actionBarTheme">@color/app_blue</item>
+        <item name="actionBarTheme">@color/app_blue</item>
         <item name="actionBarItemBackground">@color/app_blue</item>
     </style>
 
-    <style name="MyActionBar" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
-        <item name="android:background">@color/white</item>
-        <item name="android:titleTextStyle">@style/AppTheme.ActionBar.TitleTextStyle</item>
-    </style>
+<!--    <style name="MyActionBar" parent="Theme.MaterialComponents.DayNight.DarkActionBar">-->
+<!--        <item name="android:background">@color/white</item>-->
+<!--        <item name="android:titleTextStyle">@style/AppTheme.ActionBar.TitleTextStyle</item>-->
+<!--    </style>-->
 
-    <style name="AppTheme.ActionBar.TitleTextStyle" parent="@android:style/TextAppearance.StatusBar.Title">
-        <item name="android:textColor">@color/app_blue</item>
-    </style>
+<!--    <style name="AppTheme.ActionBar.TitleTextStyle" parent="@android:style/TextAppearance.StatusBar.Title">-->
+<!--        <item name="android:textColor">@color/app_blue</item>-->
+<!--    </style>-->
 
     <style name="Theme.BangunganKu.NoActionBar" parent="Theme.MaterialComponents.Light.NoActionBar">
         <!-- Primary brand color. -->

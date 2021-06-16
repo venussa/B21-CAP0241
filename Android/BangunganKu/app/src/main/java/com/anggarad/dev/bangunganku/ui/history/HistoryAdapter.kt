@@ -1,5 +1,7 @@
 package com.anggarad.dev.bangunganku.ui.history
 
+import android.annotation.SuppressLint
+import android.content.res.ColorStateList
 import android.view.LayoutInflater
 import android.view.ViewGroup
 import android.widget.LinearLayout
@@ -21,15 +23,17 @@ class HistoryAdapter : RecyclerView.Adapter<HistoryAdapter.HistoryViewHolder>() 
 
     class HistoryViewHolder(private val binding: ItemsHistoryBinding) :
         RecyclerView.ViewHolder(binding.root) {
+        @SuppressLint("UseCompatLoadingForDrawables")
         fun bind(item: HistoryResponse) {
             binding.damageLevel.text = item.damageLvl
             binding.dateReport.text = item.datetime
             binding.scanType.text = item.buildtype
-            if (item.status == 0) {
-                binding.statusReport.text = "On Progress"
-            } else {
+            if (item.status == 1) {
                 binding.statusReport.text = "Processed"
-                binding.statusReport.setBackgroundResource(R.color.status_green)
+                binding.statusReport.setBackgroundResource(R.drawable.background_status_proccessed)
+            } else {
+                binding.statusReport.text = "On Progress"
+
             }
             binding.reportId.text = "Laporan #${item.id}"
 

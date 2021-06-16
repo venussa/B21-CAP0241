@@ -21,6 +21,7 @@
         app:logo="@drawable/logo_login"
         app:popupTheme="@style/ThemeOverlay.AppCompat.Light" />
 
+
     <View
         android:id="@+id/appbar_line"
         android:layout_width="match_parent"
@@ -58,6 +59,5 @@
         app:layout_constraintTop_toBottomOf="@+id/my_toolbar"
         app:layout_constraintVertical_bias="0.0"
         app:navGraph="@navigation/mobile_navigation" />
-
 
 </androidx.constraintlayout.widget.ConstraintLayout>

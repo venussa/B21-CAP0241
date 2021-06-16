@@ -7,7 +7,6 @@ import android.net.Uri
 import android.os.Bundle
 import android.os.Environment
 import android.provider.MediaStore
-import android.view.View
 import android.widget.Toast
 import androidx.activity.result.contract.ActivityResultContracts.StartActivityForResult
 import androidx.appcompat.app.AppCompatActivity
@@ -39,6 +38,7 @@ import java.io.FileOutputStream
 import java.util.*
 
 
+@Suppress("DEPRECATION")
 class ServiceReportActivity : AppCompatActivity(), UploadRequestBody.UploadCallback {
 
     private lateinit var binding: ActivityServiceReportBinding
@@ -55,7 +55,7 @@ class ServiceReportActivity : AppCompatActivity(), UploadRequestBody.UploadCallb
         const val TYPE_BUILDING = "type_building"
         const val EXTRA_LOCATION = "extra_location"
         const val FILE_NAME = "photo.jpg"
-
+        private const val REQUEST_CODE_IMAGE_PICKER = 100
     }
 
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -79,20 +79,14 @@ class ServiceReportActivity : AppCompatActivity(), UploadRequestBody.UploadCallb
 
         binding.damageType.visible(false)
 
+        binding.buttonReset.visible(false)
+        binding.buttonReset.setOnClickListener {
+            val intent = intent
+            finish()
+            startActivity(intent)
+        }
 
         transaction = this.supportFragmentManager.beginTransaction()
-//        val reportFragment = ReportFragment()
-//        val blankFragment = BlankFragment()
-//        reportFragment.arguments = bundle
-
-//        transaction.add(R.id.report_container, blankFragment)
-//
-//        binding.button2.setOnClickListener {
-//            transaction.replace(R.id.report_container, reportFragment)
-//            transaction.setTransition(FragmentTransaction.TRANSIT_FRAGMENT_OPEN)
-//            transaction.commit()
-//        }
-
 
         if (type.equals("menu2", ignoreCase = true)) {
             supportActionBar?.title = "Report Damaged Road"
@@ -110,10 +104,14 @@ class ServiceReportActivity : AppCompatActivity(), UploadRequestBody.UploadCallb
                         .into(binding.servicePhoto)
 
 
-
                 }
 
             }
+
+            binding.servicePhoto.setOnClickListener {
+                openImageChooser()
+            }
+            
 
             binding.btnTakePicture.setOnClickListener {
 
@@ -144,8 +142,13 @@ class ServiceReportActivity : AppCompatActivity(), UploadRequestBody.UploadCallb
                             .overrideOf(190, 190)
                             .transform(CenterCrop(), RoundedCorners(20)))
                         .into(binding.servicePhoto)
+                    binding.btnTakePicture.enable(false)
                 }
 
+            }
+
+            binding.servicePhoto.setOnClickListener {
+                openImageChooser()
             }
 
             binding.btnTakePicture.setOnClickListener {
@@ -162,6 +165,37 @@ class ServiceReportActivity : AppCompatActivity(), UploadRequestBody.UploadCallb
         }
 
 
+    }
+
+    override fun onActivityResult(requestCode: Int, resultCode: Int, data: Intent?) {
+        super.onActivityResult(requestCode, resultCode, data)
+        if(resultCode == Activity.RESULT_OK){
+            when(requestCode){
+                REQUEST_CODE_IMAGE_PICKER -> {
+                    imageToProcess = data?.data
+
+                    val parcelFileDescriptor =
+                        contentResolver.openFileDescriptor(imageToProcess!!, "r", null) ?: return
+                    val file = File(cacheDir, contentResolver.getFileName(imageToProcess!!))
+                    val inputStream = FileInputStream(parcelFileDescriptor.fileDescriptor)
+                    val outputStream = FileOutputStream(file)
+                    inputStream.copyTo(outputStream)
+
+                    val body = UploadRequestBody(file, "image", this)
+                    predictFunction(viewModel.scanBuilding(file.name, body))
+                    Glide.with(binding.root)
+                        .load(imageToProcess)
+                        .apply(RequestOptions
+                            .overrideOf(190, 190)
+                            .transform(CenterCrop(), RoundedCorners(20)))
+                        .into(binding.servicePhoto)
+
+                    binding.buttonReset.visible(true)
+                    binding.btnTakePicture.enable(false)
+                    binding.servicePhoto.isClickable = false
+                }
+            }
+        }
     }
 
     private fun getRepository(): ReportRepository {
@@ -196,7 +230,8 @@ class ServiceReportActivity : AppCompatActivity(), UploadRequestBody.UploadCallb
                         binding.tvReportDate.text = it.value.dateTime
                         val newProcessToken = it.value.processToken
 
-                        binding.btnTakePicture.enable(false)
+
+
 
                         val bundle = Bundle()
                         bundle.putParcelable("location", location)
@@ -215,7 +250,6 @@ class ServiceReportActivity : AppCompatActivity(), UploadRequestBody.UploadCallb
                 is Resource.Failure -> {
                     if (it.isNetworkError) {
                         binding.root.snackbar("Network Error")
-                        //Toast.makeText(this, "Network Error", Toast.LENGTH_SHORT).show()
                     } else if (it.errorCode == 500) {
                         binding.root.snackbarDismiss("Server Error")
                     } else {
@@ -229,20 +263,13 @@ class ServiceReportActivity : AppCompatActivity(), UploadRequestBody.UploadCallb
         return viewModelFunc
     }
 
-    private fun uploadImage() {
-        if (imageToProcess == null) {
-            binding.root.snackbarDismiss("Please Upload an Image First")
-            return
+    private fun openImageChooser() {
+        Intent(Intent.ACTION_PICK).also {
+            it.type = "image/*"
+            val mimetypes = arrayOf("image/jpeg", "image/png")
+            intent.putExtra(Intent.EXTRA_MIME_TYPES, mimetypes)
+            startActivityForResult(it, REQUEST_CODE_IMAGE_PICKER)
         }
-
-        val parcelFileDescriptor =
-            contentResolver.openFileDescriptor(imageToProcess!!, "r", null) ?: return
-        val file = File(cacheDir, contentResolver.getFileName(imageToProcess!!))
-        val inputStream = FileInputStream(parcelFileDescriptor.fileDescriptor)
-        val outputStream = FileOutputStream(file)
-        inputStream.copyTo(outputStream)
-
-        val body = UploadRequestBody(file, "image", this)
     }
 
     override fun onProgressUpdate(percentage: Int) {

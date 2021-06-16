@@ -23,6 +23,7 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="30dp"
         android:layout_marginTop="5dp"
+        android:capitalize="sentences"
         android:fontFamily="@font/lato"
         android:text="Building"
         android:textColor="@color/black"
@@ -72,11 +73,11 @@
 
     <TextView
         android:id="@+id/status_report"
-        android:layout_width="wrap_content"
+        android:layout_width="93dp"
         android:layout_height="wrap_content"
         android:layout_marginTop="44dp"
         android:layout_marginEnd="30dp"
-        android:background="@color/app_blue"
+        android:background="@drawable/background_status"
         android:fontFamily="@font/lato"
         android:paddingLeft="15dp"
         android:paddingTop="5dp"

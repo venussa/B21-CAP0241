@@ -14,6 +14,8 @@ import android.view.ViewGroup
 import android.widget.Toast
 import androidx.core.content.ContextCompat
 import androidx.fragment.app.Fragment
+import androidx.fragment.app.FragmentManager
+import androidx.lifecycle.LiveData
 import androidx.lifecycle.ViewModelProvider
 import androidx.recyclerview.widget.LinearLayoutManager
 import com.anggarad.dev.bangunganku.data.source.local.entity.CardMenuEntity
@@ -49,6 +51,8 @@ class HomeFragment : Fragment(), DataCallback {
     override fun onActivityCreated(savedInstanceState: Bundle?) {
         super.onActivityCreated(savedInstanceState)
 
+
+
         if (activity != null) {
             val viewModel = ViewModelProvider(
                 this,
@@ -69,7 +73,9 @@ class HomeFragment : Fragment(), DataCallback {
         fusedLocationProviderClient =
             LocationServices.getFusedLocationProviderClient(activity?.applicationContext)
         setUpLocationPermission()
+
     }
+
 
 
     @Suppress("DEPRECATION")
@@ -98,6 +104,7 @@ class HomeFragment : Fragment(), DataCallback {
             if (location != null) {
                 lastLocation = location
                 setLocation(lastLocation)
+
             }
         }
     }
