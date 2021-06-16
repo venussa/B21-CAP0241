@@ -45,7 +45,13 @@
 					}
 				}
 
-				$report = $this->db_select("data_report", [
+				$page = (int) $this->get("page");
+				$limit = (int) $this->get("limit");
+
+				$page = ($page < 1) ? 1 : $page;
+				$limit = ($limit < 1) ? 20 : $limit;
+
+				$report = $this->db_select("data_report?page=$page&limit=$limit", [
 					"email" => $email
 				]);
 
