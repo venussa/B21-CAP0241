@@ -9,6 +9,7 @@
     <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
     <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
 
     <application
         android:allowBackup="true"
@@ -18,9 +19,20 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.BangunganKu"
         android:usesCleartextTraffic="true">
+
+        <provider
+            android:name="androidx.core.content.FileProvider"
+            android:authorities="com.anggarad.dev.fileprovider"
+            android:exported="false"
+            android:grantUriPermissions="true">
+            <meta-data
+                android:name="android.support.FILE_PROVIDER_PATHS"
+                android:resource="@xml/fileprovider" />
+        </provider>
         <activity
+            android:screenOrientation="portrait"
             android:name=".ui.auth.AuthActivity"
-            android:theme="@style/Theme.MaterialComponents.DayNight.NoActionBar" />
+            android:theme="@style/Theme.BangunganKu.NoActionBar" />
         <!--
              The API key for Google Maps-based APIs is defined as a string resource.
              (See the file "res/values/google_maps_api.xml").
@@ -31,17 +43,30 @@
         -->
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="@string/google_maps_key" /> <!-- <activity -->
+            android:value="@string/google_maps_key" />
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" /> <!-- <activity -->
         <!-- android:name=".MapsActivity" -->
         <!-- android:label="@string/title_activity_maps"></activity> -->
-        <activity android:name=".ui.service.building.ServiceReportActivity" />
         <activity
+            android:screenOrientation="portrait"
+            android:name=".ui.service.building.ServiceReportActivity"
+            android:parentActivityName=".ui.home.HomeActivity"/>
+        <activity
+            android:screenOrientation="portrait"
             android:name=".ui.home.HomeActivity"
-            android:label="@string/title_home" />
+            android:label="@string/title_home"
+            android:theme="@style/Theme.BangunganKu.NoActionBar" />
+
+        <activity
+            android:screenOrientation="portrait"
+            android:name=".MainActivity"
+            android:theme="@style/Theme.BangunganKu.NoActionBar" />
         <!--        <activity android:name=".MapsActivity" />-->
         <activity
-            android:name=".MainActivity"
-            android:theme="@style/Theme.BangunganKu">
+            android:name=".ui.SplashScreen"
+            android:theme="@style/Theme.BangunganKu.NoActionBar">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

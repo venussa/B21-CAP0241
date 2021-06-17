@@ -19,7 +19,5 @@ class MainActivity : AppCompatActivity() {
             val activity = if (it == null) AuthActivity::class.java else HomeActivity::class.java
             startNewActivity(activity)
         })
-
-//        startActivity(Intent(this, AuthActivity::class.java))
     }
 }

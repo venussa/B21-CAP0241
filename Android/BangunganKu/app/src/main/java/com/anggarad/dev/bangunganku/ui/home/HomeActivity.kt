@@ -4,6 +4,7 @@ import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
 import androidx.navigation.findNavController
 import androidx.navigation.ui.setupWithNavController
+import androidx.swiperefreshlayout.widget.SwipeRefreshLayout
 import com.anggarad.dev.bangunganku.R
 import com.anggarad.dev.bangunganku.databinding.ActivityHomeBinding
 
@@ -16,11 +17,14 @@ class HomeActivity : AppCompatActivity() {
         binding = ActivityHomeBinding.inflate(layoutInflater)
         setContentView(binding.root)
 
+        setSupportActionBar(findViewById(R.id.my_toolbar))
+
 
         val bottomNavigationView = binding.navView
         val navController = findNavController(R.id.navHostFragmentHome)
 
         bottomNavigationView.setupWithNavController(navController)
+
 
     }
 }

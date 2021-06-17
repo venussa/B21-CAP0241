@@ -2,71 +2,12 @@
 <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/icon"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="@color/white"
     tools:context=".ui.service.building.ServiceReportActivity">
 
-
-    <TextView
-        android:id="@+id/tv_bulding_type_content"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginStart="35dp"
-        android:layout_marginTop="8dp"
-        android:fontFamily="sans-serif-medium"
-        android:text="@string/building_type_text"
-        android:textColor="?attr/colorOnPrimary"
-        android:textSize="16sp"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/tv_building_type" />
-
-    <TextView
-        android:id="@+id/tv_building_type"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginStart="35dp"
-        android:layout_marginTop="24dp"
-        android:text="@string/building_type_text"
-        android:textSize="12sp"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/tv_address_report" />
-
-    <TextView
-        android:id="@+id/tv_address_report"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginStart="35dp"
-        android:layout_marginTop="8dp"
-        android:fontFamily="sans-serif-medium"
-        android:text="@string/address_title"
-        android:textColor="?attr/colorOnPrimary"
-        android:textSize="16sp"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/tv_address_title" />
-
-    <TextView
-        android:id="@+id/tv_address_title"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginStart="35dp"
-        android:layout_marginTop="24dp"
-        android:text="@string/address_title"
-        android:textSize="12sp"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/tv_name_report" />
-
-    <TextView
-        android:id="@+id/tv_report_id"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginStart="36dp"
-        android:layout_marginTop="8dp"
-        android:fontFamily="sans-serif-medium"
-        android:text="@string/report_id"
-        android:textColor="@color/orange_700"
-        android:textSize="18sp"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
 
     <TextView
         android:id="@+id/tv_report_date"
@@ -75,103 +16,122 @@
         android:layout_marginStart="35dp"
         android:layout_marginTop="6dp"
         android:text="@string/report_date"
-        android:textSize="12sp"
+        android:textColor="@color/black"
+        android:textSize="14sp"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/tv_report_id" />
+
+    <TextView
+        android:id="@+id/tv_report_id"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="36dp"
+        android:layout_marginTop="12dp"
+        android:fontFamily="sans-serif-medium"
+        android:text="Fill up the data"
+        android:textColor="@color/app_blue"
+        android:textSize="24sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/btnTakePicture"
+        android:layout_width="198dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom|end"
+        android:layout_marginTop="12dp"
+        android:background="@drawable/background_button"
+        android:minWidth="40dip"
+        android:minHeight="40dip"
+        android:text="@string/take_picture"
+        android:textAlignment="gravity"
+        android:textAllCaps="false"
+        android:textColor="@color/white"
+        app:icon="@drawable/ic_baseline_camera_alt_24"
+        app:iconGravity="textStart"
+        app:iconPadding="10dp"
+        app:iconSize="18dp"
+        app:iconTint="@color/white"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/photo_layout" />
 
     <FrameLayout
         android:id="@+id/photo_layout"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/tv_report_date">
 
         <ImageView
-            android:id="@+id/building_photo"
-            android:layout_width="164dp"
-            android:layout_height="161dp"
+            android:id="@+id/service_photo"
+            android:layout_width="198dp"
+            android:layout_height="198dp"
+            android:layout_gravity="center|fill"
             android:layout_marginTop="24dp"
             android:contentDescription="@string/building_images"
-            tools:srcCompat="@tools:sample/avatars" />
+            android:src="@drawable/ic_baseline_add_box_24" />
 
-        <Button
+        <TextView
+            android:id="@+id/damage_type"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_gravity="bottom|end"
-            android:background="@android:color/transparent"
-            android:minWidth="40dip"
-            android:minHeight="40dip"
-            android:textAlignment="gravity"
-            app:icon="@drawable/ic_baseline_camera_alt_24"
-            app:iconGravity="start"
-            app:iconPadding="2dp"
-            app:iconSize="30dp"
-            app:iconTint="#FF9800" />
+            android:layout_gravity="bottom|center"
+            android:layout_marginBottom="5dp"
+            android:background="@drawable/background_text_damage"
+            android:fontFamily="@font/lato_bold"
+            android:padding="5dp"
+            android:text="@string/damage_type"
+            android:textAlignment="center"
+            android:textColor="@color/black" />
 
     </FrameLayout>
 
-    <TextView
-        android:id="@+id/damage_type"
+    <FrameLayout
+        android:id="@+id/report_container"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_marginTop="8dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/btnTakePicture">
+
+
+        <androidx.fragment.app.FragmentContainerView
+            android:id="@+id/report_section"
+            android:name="androidx.navigation.fragment.NavHostFragment"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            app:defaultNavHost="true" />
+    </FrameLayout>
+
+    <ProgressBar
+        android:id="@+id/progressBar"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginTop="28dp"
-        android:background="@drawable/background_text_damage"
-        android:padding="5dp"
-        android:text="@string/damage_type"
-        android:textAlignment="center"
-        android:textColor="?attr/colorOnSecondary"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/buttonReset"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="12dp"
+        android:background="@drawable/background_button"
+        android:minHeight="40dip"
+        android:text="Reset"
+        android:textColor="@color/white"
+        app:icon="@drawable/ic_baseline_refresh"
+        app:iconPadding="10dp"
+        app:iconSize="18dp"
+        app:iconTint="@color/white"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/photo_layout" />
-
-    <TextView
-        android:id="@+id/tv_name_report_title"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginStart="35dp"
-        android:layout_marginTop="24dp"
-        android:text="@string/reporter_title"
-        android:textSize="12sp"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/damage_type" />
-
-    <TextView
-        android:id="@+id/tv_name_report"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginStart="35dp"
-        android:layout_marginTop="8dp"
-        android:fontFamily="sans-serif-medium"
-        android:text="@string/reporter_name_default"
-        android:textColor="?attr/colorOnPrimary"
-        android:textSize="16sp"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/tv_name_report_title" />
-
-    <Button
-        android:id="@+id/button"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginStart="50dp"
-        android:layout_marginTop="32dp"
-        android:backgroundTint="@android:color/holo_red_light"
-        android:text="Button"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/tv_bulding_type_content"
-        tools:text="Kembali" />
-
-    <Button
-        android:id="@+id/button2"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginTop="32dp"
-        android:layout_marginEnd="50dp"
-        android:backgroundTint="@android:color/holo_green_dark"
-        android:text="Button"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/tv_bulding_type_content"
-        app:rippleColor="@color/orange_700"
-        tools:text="Submit" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>

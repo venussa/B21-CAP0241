@@ -29,10 +29,12 @@
             android:layout_marginStart="16dp"
             android:layout_marginTop="26dp"
             android:text="@string/location"
+            android:textColor="@color/app_blue"
             android:textSize="18sp"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toEndOf="@+id/icon_loc"
             app:layout_constraintTop_toTopOf="parent" />
+
 
         <androidx.recyclerview.widget.RecyclerView
             android:id="@+id/rv_menu"

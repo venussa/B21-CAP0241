@@ -9,10 +9,12 @@ import retrofit2.converter.gson.GsonConverterFactory
 class RemoteDataSource {
     companion object {
         private const val BASE_URL = "http://34.101.207.154/"
+        private const val BASE_URL_SCAN = "http://34.101.207.154:5000/"
     }
         fun <Api> getApiService(
             api: Class<Api>,
-            accessToken: String? = null
+            accessToken: String? = null,
+            processToken: String? = null,
         ): Api {
             val loggingInterceptor =
                 HttpLoggingInterceptor().setLevel(HttpLoggingInterceptor.Level.BODY)
@@ -20,7 +22,10 @@ class RemoteDataSource {
                 .addInterceptor { chain ->
                     chain.proceed(chain.request().newBuilder().also {
                         it.addHeader("token", "$accessToken")
-                    }.build())
+                        it.addHeader("process_token", "$processToken")
+                    }
+
+                        .build())
                 }
                 .also {
                     if (BuildConfig.DEBUG) {
@@ -36,4 +41,31 @@ class RemoteDataSource {
                 .build()
             return retrofit.create(api)
         }
+
+    fun <Api> getApiScan(
+        api: Class<Api>,
+        accessToken: String? = null,
+    ): Api {
+        val loggingInterceptor =
+            HttpLoggingInterceptor().setLevel(HttpLoggingInterceptor.Level.BODY)
+        val client = OkHttpClient.Builder()
+            .addInterceptor { chain ->
+                chain.proceed(chain.request().newBuilder().also {
+                    it.addHeader("token", "$accessToken")
+                }.build())
+            }
+            .also {
+                if (BuildConfig.DEBUG) {
+                    it.addInterceptor(loggingInterceptor)
+                }
+            }
+
+            .build()
+        val retrofit = Retrofit.Builder()
+            .baseUrl(BASE_URL_SCAN)
+            .addConverterFactory(GsonConverterFactory.create())
+            .client(client)
+            .build()
+        return retrofit.create(api)
     }
+}

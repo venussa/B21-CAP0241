@@ -4,57 +4,106 @@ import android.os.Bundle
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
-import androidx.fragment.app.Fragment
+import android.widget.Toast
+import androidx.core.widget.addTextChangedListener
+import androidx.fragment.app.FragmentTransaction
 import com.anggarad.dev.bangunganku.R
+import com.anggarad.dev.bangunganku.data.network.ApiService
+import com.anggarad.dev.bangunganku.data.network.Resource
+import com.anggarad.dev.bangunganku.data.repository.AuthRepository
+import com.anggarad.dev.bangunganku.databinding.FragmentRegisterBinding
+import com.anggarad.dev.bangunganku.ui.base.BaseFragment
+import com.anggarad.dev.bangunganku.ui.enable
+import com.anggarad.dev.bangunganku.ui.handleApiError
 
-// TODO: Rename parameter arguments, choose names that match
-// the fragment initialization parameters, e.g. ARG_ITEM_NUMBER
-private const val ARG_PARAM1 = "param1"
-private const val ARG_PARAM2 = "param2"
 
-/**
- * A simple [Fragment] subclass.
- * Use the [RegisterFragment.newInstance] factory method to
- * create an instance of this fragment.
- */
-class RegisterFragment : Fragment() {
-    // TODO: Rename and change types of parameters
-    private var param1: String? = null
-    private var param2: String? = null
+@Suppress("DEPRECATION")
+class RegisterFragment : BaseFragment<AuthViewModel, FragmentRegisterBinding, AuthRepository>() {
+    private lateinit var transaction: FragmentTransaction
 
-    override fun onCreate(savedInstanceState: Bundle?) {
-        super.onCreate(savedInstanceState)
-        arguments?.let {
-            param1 = it.getString(ARG_PARAM1)
-            param2 = it.getString(ARG_PARAM2)
+    override fun onActivityCreated(savedInstanceState: Bundle?) {
+        super.onActivityCreated(savedInstanceState)
+
+        transaction = requireActivity().supportFragmentManager.beginTransaction()
+        val loginFragment = LoginFragment()
+
+        binding.registerButton.enable(false)
+
+
+
+        viewModel.registerResponse.observe(viewLifecycleOwner, {
+            when (it) {
+                is Resource.Success -> {
+                    if (!it.value.response) {
+                        Toast.makeText(requireContext(),
+                            "Please fill all the Data",
+                            Toast.LENGTH_SHORT).show()
+                    } else {
+                        Toast.makeText(requireContext(), "Registration Success", Toast.LENGTH_SHORT)
+                            .show()
+                        transaction.apply {
+                            replace(R.id.fragment, loginFragment)
+                            setTransition(FragmentTransaction.TRANSIT_FRAGMENT_CLOSE)
+                            commit()
+                        }
+                    }
+                }
+                is Resource.Failure -> handleApiError(it)
+            }
+        })
+
+
+
+        binding.editRegistrationConfirmPass.addTextChangedListener {
+            val phone = binding.editRegistrationPhone.text.toString().trim()
+            val email = binding.editRegistrationEmail.text.toString().trim()
+            val password = binding.editRegistrationPass.text.toString().trim()
+            val fullname = binding.editRegistrationFullName.text.toString().trim()
+            val province = binding.provinceData.text.toString().trim()
+            val cityData = binding.cityData.text.toString().trim()
+            binding.registerButton.enable(
+                phone.isNotEmpty() &&
+                        email.isNotEmpty() &&
+                        password.isNotEmpty() &&
+                        fullname.isNotEmpty() &&
+                        province.isNotEmpty() &&
+                        cityData.isNotEmpty() &&
+                        it.toString().isNotEmpty())
+        }
+
+        binding.registerButton.setOnClickListener {
+            val phone = binding.editRegistrationPhone.text.toString().trim()
+            val email = binding.editRegistrationEmail.text.toString().trim()
+            val password = binding.editRegistrationPass.text.toString().trim()
+            val confirmPass = binding.editRegistrationConfirmPass.text.toString().trim()
+            val province = binding.provinceData.text.toString().trim()
+            val cityData = binding.cityData.text.toString().trim()
+            val fullname = binding.editRegistrationFullName.text.toString().trim()
+            viewModel.register(email,
+                fullname,
+                phone,
+                province,
+                cityData,
+                password,
+                confirmPass)
         }
     }
 
-    override fun onCreateView(
-        inflater: LayoutInflater, container: ViewGroup?,
-        savedInstanceState: Bundle?
-    ): View? {
-        // Inflate the layout for this fragment
-        return inflater.inflate(R.layout.fragment_register, container, false)
+
+    override fun getViewModel(): Class<AuthViewModel> {
+        return AuthViewModel::class.java
     }
 
-    companion object {
-        /**
-         * Use this factory method to create a new instance of
-         * this fragment using the provided parameters.
-         *
-         * @param param1 Parameter 1.
-         * @param param2 Parameter 2.
-         * @return A new instance of fragment RegisterFragment.
-         */
-        // TODO: Rename and change types and number of parameters
-        @JvmStatic
-        fun newInstance(param1: String, param2: String) =
-            RegisterFragment().apply {
-                arguments = Bundle().apply {
-                    putString(ARG_PARAM1, param1)
-                    putString(ARG_PARAM2, param2)
-                }
-            }
+    override fun getFragmentBinding(
+        inflater: LayoutInflater,
+        container: ViewGroup?,
+    ): FragmentRegisterBinding {
+        return FragmentRegisterBinding.inflate(inflater, container, false)
     }
+
+    override fun getFragmentRepos(): AuthRepository {
+        return AuthRepository(remoteDataSource.getApiService(ApiService::class.java),
+            userPref)
+    }
+
 }

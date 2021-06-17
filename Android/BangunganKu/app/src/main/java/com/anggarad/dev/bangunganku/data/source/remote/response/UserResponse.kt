@@ -1,8 +1,6 @@
 package com.anggarad.dev.bangunganku.data.source.remote.response
 
-import android.os.Parcelable
 import com.google.gson.annotations.SerializedName
-import kotlinx.parcelize.Parcelize
 
 data class UserResponse(
 
@@ -43,5 +41,47 @@ data class DataUser(
 	val email: String,
 
 	@field:SerializedName("log_report")
-	val logReport: ReportResponse? = null,
+	val logReport: List<HistoryResponse>,
+)
+
+data class HistoryResponse(
+
+	@field:SerializedName("image")
+	val image: String,
+
+	@field:SerializedName("address")
+	val address: String,
+
+	@field:SerializedName("buildtype")
+	val buildtype: String,
+
+	@field:SerializedName("damage_lvl")
+	val damageLvl: String,
+
+	@field:SerializedName("scan_type")
+	val scanType: String,
+
+	@field:SerializedName("process_token")
+	val processToken: String,
+
+	@field:SerializedName("datetime")
+	val datetime: String,
+
+	@field:SerializedName("geocordinate")
+	val geocordinate: String,
+
+	@field:SerializedName("verified_timestamp")
+	val verifiedTimestamp: String,
+
+	@field:SerializedName("id")
+	val id: Int,
+
+	@field:SerializedName("fullname")
+	val fullname: String,
+
+	@field:SerializedName("email")
+	val email: String,
+
+	@field:SerializedName("status")
+	val status: Int,
 )

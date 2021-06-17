@@ -6,15 +6,8 @@ import retrofit2.http.GET
 interface UserApi {
 
     @GET("service_my_data")
-    suspend fun getUser(): UserResponse
+    suspend fun getUserData(): UserResponse
 
-//    @POST("service_report")
-//    suspend fun postReport(
-//        fullname: String,
-//        address: String,
-//        coordinate: LatLng,
-//        damageLvl: String,
-//        buildingType: String,
-//        photo: String
-//    ): ReportResponse
+    @GET("service_my_data")
+    suspend fun getUserHistory(): UserResponse
 }
